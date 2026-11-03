@@ -1,0 +1,279 @@
+Parroquia Inmaculada Concepción, Baranoa, Atlántico, Colombia #!#BARR-001
+Parroquia San Luis Bertrán, Barranquilla, Atlántico, Colombia #!#BARR-068
+Parroquia San Miguel Arcángel, Cartagena, Bolívar, Colombia #!#CART-071
+Parroquia Asunción de María, Norte de Santander, Colombia #!#CUC-001
+Parroquia Ave María, Norte de Santander, Colombia #!#CUC-002
+Basílica Menor de Nuestra Señora del Rosario de Chiquinquirá, Norte de Santander, Colombia #!#CUC-003
+Parroquia Cristo Camino, Norte de Santander, Colombia #!#CUC-004
+Parroquia Cristo Evangelizador, Norte de Santander, Colombia #!#CUC-005
+Parroquia Cristo Maestro, Norte de Santander, Colombia #!#CUC-006
+Parroquia Cristo Resucitado, Norte de Santander, Colombia #!#CUC-007
+Parroquia Cristo Rey, Norte de Santander, Colombia #!#CUC-008
+Parroquia Cristo Sacerdote, Norte de Santander, Colombia #!#CUC-009
+Parroquia Cuasi-parroquia San Emigdio, Norte de Santander, Colombia #!#CUC-010
+Parroquia Divino Niño (Villa del Rosario), Villa del Rosario, Norte de Santander, Colombia #!#CUC-011
+Parroquia Divino Niño Jesús (Tasajero), Tasajero, Norte de Santander, Colombia #!#CUC-012
+Parroquia Espíritu Santo, Norte de Santander, Colombia #!#CUC-013
+Parroquia Inmaculada Concepción, Norte de Santander, Colombia #!#CUC-014
+Parroquia Inmaculado Corazón de María, Norte de Santander, Colombia #!#CUC-015
+Parroquia Jesucristo Buen Pastor, Norte de Santander, Colombia #!#CUC-016
+Parroquia Jesús Buen Pastor, Norte de Santander, Colombia #!#CUC-017
+Parroquia Jesús Cautivo, Norte de Santander, Colombia #!#CUC-018
+Parroquia Jesús de Nazareth, Norte de Santander, Colombia #!#CUC-019
+Parroquia Jesús Misericordioso, Norte de Santander, Colombia #!#CUC-020
+Parroquia La Presentación del Señor, Norte de Santander, Colombia #!#CUC-021
+Parroquia María Auxiliadora, Norte de Santander, Colombia #!#CUC-022
+Parroquia María Reina de Todos los Santos, Norte de Santander, Colombia #!#CUC-023
+Parroquia Natividad de Nuestra Señora, Norte de Santander, Colombia #!#CUC-024
+Parroquia Nuestra Señora de Belén, Norte de Santander, Colombia #!#CUC-025
+Parroquia Nuestra Señora de Chiquinquirá (El Zulia), El Zulia, Norte de Santander, Colombia #!#CUC-026
+Parroquia Nuestra Señora de Fátima (Los Patios), Los Patios, Norte de Santander, Colombia #!#CUC-027
+Parroquia Nuestra Señora de Fátima (Villa del Rosario), Villa del Rosario, Norte de Santander, Colombia #!#CUC-028
+Parroquia Nuestra Señora de Guadalupe, Norte de Santander, Colombia #!#CUC-029
+Parroquia Nuestra Señora de la Anunciación, Norte de Santander, Colombia #!#CUC-030
+Parroquia Nuestra Señora de la Candelaria, Norte de Santander, Colombia #!#CUC-031
+Parroquia Nuestra Señora de la Esperanza, Norte de Santander, Colombia #!#CUC-032
+Parroquia Nuestra Señora de la Paz, Norte de Santander, Colombia #!#CUC-033
+Parroquia Nuestra Señora de las Angustias, Norte de Santander, Colombia #!#CUC-034
+Parroquia Nuestra Señora de las Gracias de Torcoroma, Norte de Santander, Colombia #!#CUC-035
+Parroquia Nuestra Señora de las Misericordias, Norte de Santander, Colombia #!#CUC-036
+Parroquia Nuestra Señora de las Victorias (Sardinata), Sardinata, Norte de Santander, Colombia #!#CUC-037
+Parroquia Nuestra Señora de los Dolores, Norte de Santander, Colombia #!#CUC-038
+Parroquia Nuestra Señora de Lourdes (Cúcuta), Cúcuta, Norte de Santander, Colombia #!#CUC-039
+Parroquia Nuestra Señora de Lourdes (Lourdes), Lourdes, Norte de Santander, Colombia #!#CUC-040
+Parroquia Nuestra Señora del Carmen, Norte de Santander, Colombia #!#CUC-041
+Parroquia Nuestra Señora del Carmen (Bucarasica), Bucarasica, Norte de Santander, Colombia #!#CUC-042
+Parroquia Nuestra Señora del Carmen (Salazar de las Palmas), Salazar de las Palmas, Norte de Santander, Colombia #!#CUC-043
+Parroquia Nuestra Señora del Perpetuo Socorro, Norte de Santander, Colombia #!#CUC-044
+Parroquia Nuestra Señora del Rosario, Norte de Santander, Colombia #!#CUC-045
+Parroquia Nuestra Señora del Rosario de Monguí, Norte de Santander, Colombia #!#CUC-046
+Parroquia Sagrada Eucaristía, Norte de Santander, Colombia #!#CUC-047
+Parroquia Sagrada Familia, Norte de Santander, Colombia #!#CUC-048
+Parroquia Sagrado Corazón de Jesús, Norte de Santander, Colombia #!#CUC-049
+Parroquia San Agustín, Norte de Santander, Colombia #!#CUC-050
+Parroquia San Alberto Hurtado, Norte de Santander, Colombia #!#CUC-051
+Parroquia San Andrés Apóstol, Norte de Santander, Colombia #!#CUC-052
+Parroquia San Antonio de Padua (Cúcuta), Cúcuta, Norte de Santander, Colombia #!#CUC-053
+Parroquia San Antonio de Padua (El Zulia), El Zulia, Norte de Santander, Colombia #!#CUC-054
+Parroquia San Antonio María Claret, Norte de Santander, Colombia #!#CUC-055
+Parroquia San Bartolomé, Norte de Santander, Colombia #!#CUC-056
+Parroquia San Benito de Nursia, Norte de Santander, Colombia #!#CUC-057
+Parroquia San Cayetano, Norte de Santander, Colombia #!#CUC-058
+Parroquia San Ezequiel Moreno, Norte de Santander, Colombia #!#CUC-059
+Parroquia San Francisco de Asís, Norte de Santander, Colombia #!#CUC-060
+Parroquia San Francisco Javier, Norte de Santander, Colombia #!#CUC-061
+Parroquia San Gabriel Arcángel, Norte de Santander, Colombia #!#CUC-062
+Parroquia San Ignacio de Loyola, Norte de Santander, Colombia #!#CUC-063
+Parroquia San Isidro Labrador, Norte de Santander, Colombia #!#CUC-064
+Parroquia San José - Catedral, Norte de Santander, Colombia #!#CUC-065
+Parroquia San José Obrero, Norte de Santander, Colombia #!#CUC-066
+Parroquia San Juan Bautista, Norte de Santander, Colombia #!#CUC-067
+Parroquia San Juan Bosco, Norte de Santander, Colombia #!#CUC-068
+Parroquia San Juan de la Cruz, Norte de Santander, Colombia #!#CUC-069
+Parroquia San Juan Evangelista, Norte de Santander, Colombia #!#CUC-070
+Parroquia San Juan María Vianney, Norte de Santander, Colombia #!#CUC-071
+Parroquia San Judas Tadeo (El Escobal), El Escobal, Norte de Santander, Colombia #!#CUC-072
+Parroquia San Judas Tadeo (Villa del Rosario), Villa del Rosario, Norte de Santander, Colombia #!#CUC-073
+Parroquia San Lucas Evangelista, Norte de Santander, Colombia #!#CUC-074
+Parroquia San Martín de Porres, Norte de Santander, Colombia #!#CUC-075
+Parroquia San Martín de Sardinata, Sardinata, Norte de Santander, Colombia #!#CUC-076
+Parroquia San Martín de Tours, Norte de Santander, Colombia #!#CUC-077
+Parroquia San Mateo Evangelista, Norte de Santander, Colombia #!#CUC-078
+Parroquia San Miguel Arcángel, Norte de Santander, Colombia #!#CUC-079
+Parroquia San Pablo, Norte de Santander, Colombia #!#CUC-080
+Parroquia San Pedro Apóstol, Norte de Santander, Colombia #!#CUC-081
+Parroquia San Pedro Apóstol (Villa Caro), Villa Caro, Norte de Santander, Colombia #!#CUC-082
+Parroquia San Pedro Claver, Norte de Santander, Colombia #!#CUC-083
+Parroquia San Pío X, Norte de Santander, Colombia #!#CUC-084
+Parroquia San Rafael Arcángel, Norte de Santander, Colombia #!#CUC-085
+Parroquia San Rafael Arcángel (Gramalote), Gramalote, Norte de Santander, Colombia #!#CUC-086
+Parroquia San Vicente de Paúl, Norte de Santander, Colombia #!#CUC-087
+Parroquia Santa Ana, Norte de Santander, Colombia #!#CUC-088
+Parroquia Santa Clara de Asís, Norte de Santander, Colombia #!#CUC-089
+Parroquia Santa Laura Montoya, Norte de Santander, Colombia #!#CUC-090
+Parroquia Santa Lucía, Norte de Santander, Colombia #!#CUC-091
+Parroquia Santa Margarita de Youville, Norte de Santander, Colombia #!#CUC-092
+Parroquia Santa María Madre de Dios, Norte de Santander, Colombia #!#CUC-093
+Parroquia Santa María Mazarello, Norte de Santander, Colombia #!#CUC-094
+Parroquia Santa María Rosa Mística, Norte de Santander, Colombia #!#CUC-095
+Parroquia Santa Marta, Norte de Santander, Colombia #!#CUC-096
+Parroquia Santa Mónica, Norte de Santander, Colombia #!#CUC-097
+Parroquia Santa Rita de Casia, Norte de Santander, Colombia #!#CUC-098
+Parroquia Santa Rosa de Lima, Norte de Santander, Colombia #!#CUC-099
+Parroquia Santa Teresa de Calcuta, Norte de Santander, Colombia #!#CUC-100
+Parroquia Santa Teresita del Niño Jesús, Norte de Santander, Colombia #!#CUC-101
+Parroquia Santiago Apóstol, Norte de Santander, Colombia #!#CUC-102
+Parroquia Santísima Trinidad, Norte de Santander, Colombia #!#CUC-103
+Parroquia Santísimo Redentor, Norte de Santander, Colombia #!#CUC-104
+Parroquia Santo Domingo Savio, Norte de Santander, Colombia #!#CUC-105
+Parroquia Santo Tomás Apóstol, Norte de Santander, Colombia #!#CUC-106
+Parroquia Santos Apóstoles, Norte de Santander, Colombia #!#CUC-107
+Parroquia Señor de los Milagros, Norte de Santander, Colombia #!#CUC-108
+Parroquia Todos los Santos, Norte de Santander, Colombia #!#CUC-109
+Parroquia Visitación de Nuestra Señora, Norte de Santander, Colombia #!#CUC-110
+Parroquia San Juan Pablo II, Bogotá D.C., Bogotá D.C., Colombia #!#FON-042
+Parroquia Santa Laura Montoya, Bogotá D.C., Bogotá D.C., Colombia #!#FON-056
+Parroquia Santísima Trinidad de Manizales, Manizales, Caldas, Colombia #!#MAN-092
+Catedral San Alfonso María de Ligorio, Sibundoy, Putumayo, Colombia #!#MOCO-001
+Parroquia Co-Catedral de San Miguel Arcángel, Mocoa, Putumayo, Colombia #!#MOCO-002
+Parroquia San José, Albán, Nariño, Colombia #!#PAS-001
+Parroquia Nuestra Señora de Belén, Belén, Nariño, Colombia #!#PAS-002
+Parroquia San Miguel Arcángel, Berruecos, Nariño, Colombia #!#PAS-003
+Parroquia San Antonio de Padua, Briceño, Nariño, Colombia #!#PAS-004
+Parroquia Inmaculada Concepción, Buesaco, Nariño, Colombia #!#PAS-005
+Parroquia Cristo Redentor, Buesaquillo, Nariño, Colombia #!#PAS-006
+Parroquia San Pedro Apóstol, Cartago, Nariño, Colombia #!#PAS-007
+Parroquia Nuestra Señora de Guadalupe, Catambuco, Nariño, Colombia #!#PAS-008
+Parroquia Nuestra Señora de Fátima, Chachagüí, Nariño, Colombia #!#PAS-009
+Parroquia Nuestra Señora del Tránsito, Consacá, Nariño, Colombia #!#PAS-010
+Parroquia Nuestra Señora del Carmen, La Cruz, Nariño, Colombia #!#PAS-011
+Parroquia Nuestra Señora del Carmen, El Carmen, Nariño, Colombia #!#PAS-012
+Parroquia María Madre del Buen Pastor, El Encano, Nariño, Colombia #!#PAS-013
+Parroquia Nuestra Señora del Rosario, El Peñol, Nariño, Colombia #!#PAS-014
+Parroquia Divino Salvador, El Remolino, Nariño, Colombia #!#PAS-015
+Parroquia Nuestra Señora del Rosario, El Rosario, Nariño, Colombia #!#PAS-016
+Parroquia Nuestra Señora de las Mercedes, El Tablón de Gómez, Nariño, Colombia #!#PAS-017
+Parroquia Jesús Nazareno, El Tambo, Nariño, Colombia #!#PAS-018
+Parroquia San Bartolomé, La Florida, Nariño, Colombia #!#PAS-019
+Parroquia Inmaculada Concepción, Funes, Nariño, Colombia #!#PAS-020
+Parroquia Nuestra Señora de las Mercedes, Génova, Nariño, Colombia #!#PAS-021
+Parroquia San Pedro Apóstol, Genoy, Nariño, Colombia #!#PAS-022
+Parroquia Sagrado Corazón de Jesús, Ingenio, Nariño, Colombia #!#PAS-023
+Parroquia San Pedro Apóstol, La Laguna, Nariño, Colombia #!#PAS-024
+Parroquia San José, Las Mesas, Nariño, Colombia #!#PAS-025
+Parroquia Sagrado Corazón de Jesús, Leiva, Nariño, Colombia #!#PAS-026
+Parroquia Nuestra Señora Perpetuo Socorro, Madrigal, Nariño, Colombia #!#PAS-027
+Parroquia San José, Matituy, Nariño, Colombia #!#PAS-028
+Parroquia San Francisco de Asís, Nariño, Nariño, Colombia #!#PAS-029
+Parroquia Dios Padre Misericordioso, Panorámico, Nariño, Colombia #!#PAS-030
+Parroquia Sagrado Corazón y San Francisco de Asís, Pasto, Nariño, Colombia #!#PAS-031
+Parroquia Corpus Christi, Pasto, Nariño, Colombia #!#PAS-032
+Parroquia Cristo Maestro, Pasto, Nariño, Colombia #!#PAS-033
+Parroquia Divina Misericordia, Pasto, Nariño, Colombia #!#PAS-034
+Parroquia Espíritu Santo, Pasto, Nariño, Colombia #!#PAS-035
+Parroquia Inmaculada Concepción, Pasto, Nariño, Colombia #!#PAS-036
+Parroquia Jesús Nazareno, Pasto, Nariño, Colombia #!#PAS-037
+Parroquia María Auxiliadora, Pasto, Nariño, Colombia #!#PAS-038
+Parroquia María Madre del Redentor, Pasto, Nariño, Colombia #!#PAS-039
+Parroquia Niño Jesús de Praga, Pasto, Nariño, Colombia #!#PAS-040
+Parroquia Nuestra Señora de Fátima, Pasto, Nariño, Colombia #!#PAS-041
+Parroquia Nuestra Señora de la Merced, Pasto, Nariño, Colombia #!#PAS-042
+Parroquia Nuestra Señora de la Paz, Pasto, Nariño, Colombia #!#PAS-043
+Parroquia Nuestra Señora de las Lajas, Pasto, Nariño, Colombia #!#PAS-044
+Parroquia Nuestra Señora del Carmen, Pasto, Nariño, Colombia #!#PAS-045
+Parroquia Nuestra Señora del Pilar, Pasto, Nariño, Colombia #!#PAS-046
+Parroquia Nuestra Señora del Rosario, Pasto, Nariño, Colombia #!#PAS-047
+Parroquia Resurrección del Señor, Pasto, Nariño, Colombia #!#PAS-048
+Parroquia Sagrada Família, Pasto, Nariño, Colombia #!#PAS-049
+Parroquia Sagrado Corazón de Jesús, Pasto, Nariño, Colombia #!#PAS-050
+Parroquia San Agustín, Pasto, Nariño, Colombia #!#PAS-051
+Parroquia San Andrés, Pasto, Nariño, Colombia #!#PAS-052
+Parroquia San Ezequiel, Pasto, Nariño, Colombia #!#PAS-053
+Parroquia San Felipe Neri, Pasto, Nariño, Colombia #!#PAS-054
+Parroquia San Francisco Javier, Pasto, Nariño, Colombia #!#PAS-055
+Parroquia San José Obrero, Pasto, Nariño, Colombia #!#PAS-056
+Parroquia San Juan Bautista, Pasto, Nariño, Colombia #!#PAS-057
+Parroquia San Juan Bosco, Pasto, Nariño, Colombia #!#PAS-058
+Parroquia Santa Mónica, Pasto, Nariño, Colombia #!#PAS-059
+Parroquia San Sebastián, Pasto, Nariño, Colombia #!#PAS-060
+Parroquia Santiago Apóstol, Pasto, Nariño, Colombia #!#PAS-061
+Parroquia Inmaculada Concepción, Policarpa, Nariño, Colombia #!#PAS-062
+Parroquia Santa Rosa de Lima, Rosal del Monte, Nariño, Colombia #!#PAS-063
+Parroquia Santa Bárbara, Santa Bárbara, Nariño, Colombia #!#PAS-064
+Parroquia San Bernardo, San Bernardo, Nariño, Colombia #!#PAS-065
+Parroquia San Lorenzo Mártir, San Lorenzo, Nariño, Colombia #!#PAS-066
+Parroquia Santa María, Santa María, Nariño, Colombia #!#PAS-067
+Parroquia San Pablo Apóstol, San Pablo, Nariño, Colombia #!#PAS-068
+Parroquia Nuestra Señora del Rosario, Sandoná, Nariño, Colombia #!#PAS-069
+Parroquia San Juan Bautista, Taminango, Nariño, Colombia #!#PAS-070
+Parroquia San Rafael Arcángel, Tangua, Nariño, Colombia #!#PAS-071
+Parroquia Nuestra Señora del Rosario, La Unión, Nariño, Colombia #!#PAS-072
+Parroquia Santísima Trinidad, La Unión, Nariño, Colombia #!#PAS-073
+Parroquia San Juan Bautista, Villanueva, Nariño, Colombia #!#PAS-074
+Parroquia Santa María Magdalena, Yacuanquer, Nariño, Colombia #!#PAS-075
+Parroquia Nuestra Señora de Lourdes, Soacha, Cundinamarca, Colombia #!#SOAC-013
+Parroquia San Ezequiel Moreno, Bogotá D.C., Bogotá D.C., Colombia #!#SOAC-031
+Parroquia San Vicente Ferrer, Agua Clara, Norte de Santander, Colombia #!#TIBU-001
+Parroquia San José, Astilleros, Norte de Santander, Colombia #!#TIBU-002
+Parroquia Nuestra Señora de Guadalupe, Banco de Arena, Norte de Santander, Colombia #!#TIBU-003
+Parroquia María Auxiliadora, Buena Esperanza, Norte de Santander, Colombia #!#TIBU-004
+Parroquia Santa María la Virgen, Campo Dos, Norte de Santander, Colombia #!#TIBU-005
+Parroquia Nuestra Señora de la Asunción, El Tarra, Norte de Santander, Colombia #!#TIBU-006
+Parroquia San Marcos, evangelista, Filogringo, Norte de Santander, Colombia #!#TIBU-007
+Parroquia La Santísima Trinidad, La Gabarra, Norte de Santander, Colombia #!#TIBU-008
+Parroquia Nuestra Señora de las Mercedes, Las Mercedes, Norte de Santander, Colombia #!#TIBU-009
+Parroquia San Martín de Porres, Luis Vero, Norte de Santander, Colombia #!#TIBU-010
+Parroquia Nuestra Señora de Fátima, Pacelli, Norte de Santander, Colombia #!#TIBU-011
+Parroquia Señor de los Milagros, Puerto Lleras, Norte de Santander, Colombia #!#TIBU-012
+Parroquia Nuestra Señora del Carmen, Puerto Santander, Norte de Santander, Colombia #!#TIBU-013
+Parroquia San Faustino, San Faustino de los Ríos, Norte de Santander, Colombia #!#TIBU-014
+Parroquia San Isidro, labrador, San Martín de Loba, Norte de Santander, Colombia #!#TIBU-015
+Parroquia San Luis Bertrán, Tibú, Norte de Santander, Colombia #!#TIBU-016
+Parroquia María Inmaculada, Tibú, Norte de Santander, Colombia #!#TIBU-017
+Parroquia Nuestra Señora de las Gracias de Torcoroma, Tibú, Norte de Santander, Colombia #!#TIBU-018
+Parroquia Nuestra Señora de la Candelaria de los Venados, Valledupar, Cesar, Colombia #!#VAL-043
+Parroquia Santa Cruz, Abriaquí, Antioquia, Colombia #!#SFAN-001
+Parroquia Santa Teresa de Jesús, Betulia (Altamira), Antioquia, Colombia #!#SFAN-002
+Parroquia San Francisco de Asís, Anzá, Antioquia, Colombia #!#SFAN-003
+Parroquia San Antonio de Padua, Buriticá, Antioquia, Colombia #!#SFAN-004
+Parroquia Santa Ana, Ebéjico (El Brasil), Antioquia, Colombia #!#SFAN-005
+Parroquia Nuestra Señora de las Mercedes, Caicedo, Antioquia, Colombia #!#SFAN-006
+Parroquia San Carlos Borromeo, Cañasgordas, Antioquia, Colombia #!#SFAN-007
+Parroquia Nuestra Señora de Fátima, Cañasgordas, Antioquia, Colombia #!#SFAN-008
+Parroquia San Francisco de Asís, Liborina (Carmen de la Venta), Antioquia, Colombia #!#SFAN-009
+Catedral Inmaculada Concepción, Santa Fe de Antioquia, Antioquia, Colombia #!#SFAN-010
+Parroquia San Francisco de Asís, Cañasgordas (Cestillal), Antioquia, Colombia #!#SFAN-011
+Parroquia San Roque, Sopetrán (Córdoba), Antioquia, Colombia #!#SFAN-012
+Parroquia Nuestra Señora de las Mercedes, Dabeiba, Antioquia, Colombia #!#SFAN-013
+Parroquia Nuestra Señora de Guadalupe, Dabeiba, Antioquia, Colombia #!#SFAN-014
+Parroquia San José, Ebéjico, Antioquia, Colombia #!#SFAN-015
+Parroquia Santa María del Oro, Sabanalarga (El Oro), Antioquia, Colombia #!#SFAN-016
+Parroquia Nuestra Señora del Carmen, Frontino, Antioquia, Colombia #!#SFAN-017
+Parroquia San Isidro Labrador, Giraldo, Antioquia, Colombia #!#SFAN-018
+Parroquia Sagrado Corazón de Jesús, Santa Fe de Antioquia (Guasabra), Antioquia, Colombia #!#SFAN-019
+Parroquia Nuestra Señora del Carmen, Anzá (Güintar), Antioquia, Colombia #!#SFAN-020
+Parroquia Inmaculada Concepción, Sopetrán (Horizontes), Antioquia, Colombia #!#SFAN-021
+Parroquia Nuestra Señora de los Dolores, Cañasgordas (Juntas de Uramita), Antioquia, Colombia #!#SFAN-022
+Parroquia Santa Laura Montoya, Frontino (La Blanquita), Antioquia, Colombia #!#SFAN-023
+Parroquia Nuestra Señora de la Anunciación, Urrao (La Encarnación), Antioquia, Colombia #!#SFAN-024
+Parroquia María Auxiliadora, Liborina (La Honda), Antioquia, Colombia #!#SFAN-025
+Parroquia Nuestra Señora de las Mercedes, El Playón (La Merced), Antioquia, Colombia #!#SFAN-026
+Parroquia San Lorenzo, Liborina, Antioquia, Colombia #!#SFAN-027
+Parroquia San Miguel Arcángel, Olaya (Llanadas), Antioquia, Colombia #!#SFAN-028
+Parroquia Cristo Resucitado, San Jerónimo (Llano de Aguirre), Antioquia, Colombia #!#SFAN-029
+Parroquia Nuestra Señora de la Asunción, Frontino (Manguruma), Antioquia, Colombia #!#SFAN-030
+Parroquia Nuestra Señora del Perpetuo Socorro, Frontino (Nutibara), Antioquia, Colombia #!#SFAN-031
+Parroquia Nuestra Señora de las Nieves, Olaya, Antioquia, Colombia #!#SFAN-032
+Parroquia San Sebastián, Medellín (Palmitas), Antioquia, Colombia #!#SFAN-033
+Parroquia Santo Domingo de Guzmán, Peque, Antioquia, Colombia #!#SFAN-034
+Parroquia San Pedro Apóstol, Sabanalarga, Antioquia, Colombia #!#SFAN-035
+Parroquia San Juan Eudes, Urrao (Jaiperá), Antioquia, Colombia #!#SFAN-036
+Parroquia Nuestra Señora de la Candelaria, San Jerónimo, Antioquia, Colombia #!#SFAN-037
+Parroquia San Diego, Liborina (San Diego), Antioquia, Colombia #!#SFAN-038
+Parroquia San Martín de Porres, Santa Fe de Antioquia, Antioquia, Colombia #!#SFAN-039
+Parroquia Santa Bárbara, Santa Fe de Antioquia, Antioquia, Colombia #!#SFAN-040
+Parroquia San Pascual, Cañasgordas (San Pascual), Antioquia, Colombia #!#SFAN-041
+Parroquia Nuestra Señora de Chiquinquirá, Ebéjico (Sevilla), Antioquia, Colombia #!#SFAN-042
+Parroquia Nuestra Señora de la Asunción, Sopetrán, Antioquia, Colombia #!#SFAN-043
+Parroquia San Antonio de Padua, Olaya (Sucre), Antioquia, Colombia #!#SFAN-044
+Parroquia Nuestra Señora del Monte Carmelo, Buriticá (Tabacal), Antioquia, Colombia #!#SFAN-045
+Parroquia San José, Vereda Tonusco Arriba, Antioquia, Colombia #!#SFAN-046
+Parroquia San José, Dabeiba (Urama), Antioquia, Colombia #!#SFAN-047
+Parroquia Santa Ana, Uramita, Antioquia, Colombia #!#SFAN-048
+Parroquia San José, Urrao, Antioquia, Colombia #!#SFAN-049
+Parroquia Capellanía Señor de la Divina Misericordia, Sabanalarga (El Junco), Antioquia, Colombia #!#SFAN-050
+Catedral San José, San José del Guaviare, Guaviare, Colombia #!#SJG-001
+Parroquia Cristo Rey, Calamar, Guaviare, Colombia #!#SJG-002
+Parroquia San Francisco de Asís, Cerritos, Guaviare, Colombia #!#SJG-003
+Parroquia Nuestra Señora del Rosario, El Retorno, Guaviare, Colombia #!#SJG-004
+Parroquia San Isidro Labrador, El Unilla, Guaviare, Colombia #!#SJG-005
+Parroquia Nuestra Señora del Carmen, La Libertad, Guaviare, Colombia #!#SJG-006
+Parroquia Nuestra Señora del Carmen, Miraflores, Guaviare, Colombia #!#SJG-007
+Parroquia Divino Niño, San José del Guaviare, Guaviare, Colombia #!#SJG-008
+Parroquia Inmaculada Concepción, San José del Guaviare, Guaviare, Colombia #!#SJG-009
+Parroquia María Auxiliadora, San José del Guaviare, Guaviare, Colombia #!#SJG-010
+Parroquia Nuestra Señora de la Paz, San José del Guaviare, Guaviare, Colombia #!#SJG-011
+Parroquia Sagrada Familia, San José del Guaviare, Guaviare, Colombia #!#SJG-012
+Parroquia Señor de los Milagros, Trocha Ganadera, Guaviare, Colombia #!#SJG-013
+Parroquia Los Sagrados Corazones de Jesús y María, Santa Marta, Magdalena, Colombia #!#SMA-025
+Catedral Nuestra Señora de las Mercedes, San Vicente del Caguán, Caquetá, Colombia #!#ZVIC-001
