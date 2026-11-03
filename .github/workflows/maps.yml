@@ -18,10 +18,10 @@ jobs:
             gosom/google-maps-scraper -input /queries.txt -results /out/results.csv \
             -depth 1 -lang es -c 4 -exit-on-inactivity 3m
           echo "Filas obtenidas: $(($(wc -l < out/results.csv) - 1))"
-      - name: Cifrar resultados (no quedan legibles en el repositorio público)
-        env:
-          CLAVE: ${{ secrets.CLAVE_RESULTADOS }}
-        run: gpg --batch --yes --pinentry-mode loopback --passphrase "$CLAVE" -c -o resultados.csv.gpg out/results.csv
+      - name: Cifrar resultados con la clave pública (solo César puede descifrarlos)
+        run: |
+          gpg --batch --import clave_publica.asc
+          gpg --batch --yes --trust-model always -r 5D751E7574C429C98E111A11F3C4E9F5A9A151C8 -e -o resultados.csv.gpg out/results.csv
       - uses: actions/upload-artifact@v4
         with:
           name: resultados
