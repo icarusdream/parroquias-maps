@@ -8,6 +8,8 @@ on:
       minutos:
         description: "Tiempo máximo de búsqueda en minutos"
         default: "15"
+permissions:
+  contents: write
 jobs:
   maps:
     runs-on: ubuntu-latest
@@ -26,8 +28,11 @@ jobs:
         run: |
           gpg --batch --import clave_publica.asc
           gpg --batch --yes --trust-model always -r 5D751E7574C429C98E111A11F3C4E9F5A9A151C8 -e -o resultados.csv.gpg out/results.csv
-      - uses: actions/upload-artifact@v4
-        with:
-          name: resultados
-          path: resultados.csv.gpg
-          retention-days: 7
+      - name: Guardar resultado cifrado en el repositorio
+        run: |
+          mkdir -p resultados
+          NOMBRE="resultados/$(date -u +%Y%m%d-%H%M)-$(basename '${{ inputs.consultas }}' .txt).csv.gpg"
+          mv resultados.csv.gpg "$NOMBRE"
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add resultados && git commit -m "Resultado cifrado $NOMBRE" && git push
