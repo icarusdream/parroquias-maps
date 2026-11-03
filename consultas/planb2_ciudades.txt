@@ -1,0 +1,28 @@
+parroquia católica, Apartadó, Antioquia, Colombia #!#apar1~05045
+iglesia católica, Apartadó, Antioquia, Colombia #!#apar1~05045
+parroquia católica, Turbo, Antioquia, Colombia #!#apar1~05837
+iglesia católica, Turbo, Antioquia, Colombia #!#apar1~05837
+parroquia católica, Florencia, Caquetá, Colombia #!#flor1~18001
+iglesia católica, Florencia, Caquetá, Colombia #!#flor1~18001
+parroquia católica, Istmina, Chocó, Colombia #!#istm0~27361
+iglesia católica, Istmina, Chocó, Colombia #!#istm0~27361
+parroquia católica, Quibdó, Chocó, Colombia #!#quib0~27001
+iglesia católica, Quibdó, Chocó, Colombia #!#quib0~27001
+parroquia católica, Santa Rosa de Osos, Antioquia, Colombia #!#zros4~05686
+iglesia católica, Santa Rosa de Osos, Antioquia, Colombia #!#zros4~05686
+parroquia católica, Yarumal, Antioquia, Colombia #!#zros4~05887
+iglesia católica, Yarumal, Antioquia, Colombia #!#zros4~05887
+parroquia católica, Inírida, Guainía, Colombia #!#inir0~94001
+iglesia católica, Inírida, Guainía, Colombia #!#inir0~94001
+parroquia católica, Puerto Carreño, Vichada, Colombia #!#inir0~99001
+iglesia católica, Puerto Carreño, Vichada, Colombia #!#inir0~99001
+parroquia católica, Leticia, Amazonas, Colombia #!#leti0~91001
+iglesia católica, Leticia, Amazonas, Colombia #!#leti0~91001
+parroquia católica, Mitú, Vaupés, Colombia #!#mitu0~97001
+iglesia católica, Mitú, Vaupés, Colombia #!#mitu0~97001
+parroquia católica, Puerto Carreño, Vichada, Colombia #!#puer7~99001
+iglesia católica, Puerto Carreño, Vichada, Colombia #!#puer7~99001
+parroquia católica, Paz de Ariporo, Casanare, Colombia #!#trin1~85250
+iglesia católica, Paz de Ariporo, Casanare, Colombia #!#trin1~85250
+parroquia católica, San Andrés, Archipiélago de San Andrés, Providencia y Santa Catalina, Colombia #!#zand3~88001
+iglesia católica, San Andrés, Archipiélago de San Andrés, Providencia y Santa Catalina, Colombia #!#zand3~88001
