@@ -5,6 +5,9 @@ on:
       consultas:
         description: "Archivo de consultas (una por línea, con #!#ID)"
         default: "consultas/prueba_bogota_20.txt"
+      minutos:
+        description: "Tiempo máximo de búsqueda en minutos"
+        default: "15"
 jobs:
   maps:
     runs-on: ubuntu-latest
@@ -14,9 +17,10 @@ jobs:
       - name: Buscar en Google Maps
         run: |
           mkdir -p out
-          docker run -v "$PWD/${{ inputs.consultas }}:/queries.txt:ro" -v "$PWD/out:/out" \
+          timeout --signal=INT --kill-after=60 "${{ inputs.minutos }}m" docker run --rm -v "$PWD/${{ inputs.consultas }}:/queries.txt:ro" -v "$PWD/out:/out" \
             gosom/google-maps-scraper -input /queries.txt -results /out/results.csv \
-            -depth 1 -lang es -c 4 -exit-on-inactivity 3m
+            -depth 1 -lang es -c 4 -exit-on-inactivity 2m || echo "Búsqueda detenida por tiempo o cierre del contenedor"
+          test -s out/results.csv || { echo "Sin resultados"; exit 1; }
           echo "Filas obtenidas: $(($(wc -l < out/results.csv) - 1))"
       - name: Cifrar resultados con la clave pública (solo César puede descifrarlos)
         run: |
