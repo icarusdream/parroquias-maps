@@ -1,0 +1,62 @@
+parroquia católica, Medellín, Antioquia, Colombia #!#mede0~05001
+iglesia católica, Medellín, Antioquia, Colombia #!#mede0~05001
+parroquia católica, Bello, Antioquia, Colombia #!#mede0~05088
+iglesia católica, Bello, Antioquia, Colombia #!#mede0~05088
+parroquia católica, Envigado, Antioquia, Colombia #!#mede0~05266
+iglesia católica, Envigado, Antioquia, Colombia #!#mede0~05266
+parroquia católica, Girardota, Antioquia, Colombia #!#gira1~05308
+iglesia católica, Girardota, Antioquia, Colombia #!#gira1~05308
+parroquia católica, Itagüí, Antioquia, Colombia #!#mede0~05360
+iglesia católica, Itagüí, Antioquia, Colombia #!#mede0~05360
+parroquia católica, Rionegro, Antioquia, Colombia #!#sons1~05615
+iglesia católica, Rionegro, Antioquia, Colombia #!#sons1~05615
+parroquia católica, Magangué, Bolívar, Colombia #!#maga0~13430
+iglesia católica, Magangué, Bolívar, Colombia #!#maga0~13430
+parroquia católica, Tunja, Boyacá, Colombia #!#tunj0~15001
+iglesia católica, Tunja, Boyacá, Colombia #!#tunj0~15001
+parroquia católica, Popayán, Cauca, Colombia #!#popa0~19001
+iglesia católica, Popayán, Cauca, Colombia #!#popa0~19001
+parroquia católica, Garzón, Huila, Colombia #!#garz0~41298
+iglesia católica, Garzón, Huila, Colombia #!#garz0~41298
+parroquia católica, Villavicencio, Meta, Colombia #!#vill3~50001
+iglesia católica, Villavicencio, Meta, Colombia #!#vill3~50001
+parroquia católica, Ipiales, Nariño, Colombia #!#ipia0~52356
+iglesia católica, Ipiales, Nariño, Colombia #!#ipia0~52356
+parroquia católica, Ocaña, Norte de Santander, Colombia #!#ocan0~54498
+iglesia católica, Ocaña, Norte de Santander, Colombia #!#ocan0~54498
+parroquia católica, Pamplona, Norte de Santander, Colombia #!#npam0~54518
+iglesia católica, Pamplona, Norte de Santander, Colombia #!#npam0~54518
+parroquia católica, Armenia, Quindío, Colombia #!#arme0~63001
+iglesia católica, Armenia, Quindío, Colombia #!#arme0~63001
+parroquia católica, Pereira, Risaralda, Colombia #!#pere0~66001
+iglesia católica, Pereira, Risaralda, Colombia #!#pere0~66001
+parroquia católica, Dosquebradas, Risaralda, Colombia #!#pere0~66170
+iglesia católica, Dosquebradas, Risaralda, Colombia #!#pere0~66170
+parroquia católica, Bucaramanga, Santander, Colombia #!#buca0~68001
+iglesia católica, Bucaramanga, Santander, Colombia #!#buca0~68001
+parroquia católica, Floridablanca, Santander, Colombia #!#buca0~68276
+iglesia católica, Floridablanca, Santander, Colombia #!#buca0~68276
+parroquia católica, Girón, Santander, Colombia #!#buca0~68307
+iglesia católica, Girón, Santander, Colombia #!#buca0~68307
+parroquia católica, Piedecuesta, Santander, Colombia #!#buca0~68547
+iglesia católica, Piedecuesta, Santander, Colombia #!#buca0~68547
+parroquia católica, Rionegro, Santander, Colombia #!#buca0~68615
+iglesia católica, Rionegro, Santander, Colombia #!#buca0~68615
+parroquia católica, Sincelejo, Sucre, Colombia #!#sinc0~70001
+iglesia católica, Sincelejo, Sucre, Colombia #!#sinc0~70001
+parroquia católica, Ibagué, Tolima, Colombia #!#ibag0~73001
+iglesia católica, Ibagué, Tolima, Colombia #!#ibag0~73001
+parroquia católica, Cali, Valle del Cauca, Colombia #!#cali0~76001
+iglesia católica, Cali, Valle del Cauca, Colombia #!#cali0~76001
+parroquia católica, Buenaventura, Valle del Cauca, Colombia #!#buen1~76109
+iglesia católica, Buenaventura, Valle del Cauca, Colombia #!#buen1~76109
+parroquia católica, Cartago, Valle del Cauca, Colombia #!#cart2~76147
+iglesia católica, Cartago, Valle del Cauca, Colombia #!#cart2~76147
+parroquia católica, Jamundí, Valle del Cauca, Colombia #!#cali0~76364
+iglesia católica, Jamundí, Valle del Cauca, Colombia #!#cali0~76364
+parroquia católica, Palmira, Valle del Cauca, Colombia #!#palm6~76520
+iglesia católica, Palmira, Valle del Cauca, Colombia #!#palm6~76520
+parroquia católica, Tuluá, Valle del Cauca, Colombia #!#buga0~76834
+iglesia católica, Tuluá, Valle del Cauca, Colombia #!#buga0~76834
+parroquia católica, Yumbo, Valle del Cauca, Colombia #!#cali0~76892
+iglesia católica, Yumbo, Valle del Cauca, Colombia #!#cali0~76892

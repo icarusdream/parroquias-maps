@@ -8,6 +8,9 @@ on:
       minutos:
         description: "Tiempo máximo de búsqueda en minutos"
         default: "15"
+      profundidad:
+        description: "Profundidad de desplazamiento en cada búsqueda (1 = solo primeros resultados)"
+        default: "1"
 permissions:
   contents: write
 jobs:
@@ -21,7 +24,7 @@ jobs:
           mkdir -p out
           timeout --signal=INT --kill-after=60 "${{ inputs.minutos }}m" docker run --rm -v "$PWD/${{ inputs.consultas }}:/queries.txt:ro" -v "$PWD/out:/out" \
             gosom/google-maps-scraper -input /queries.txt -results /out/results.csv \
-            -depth 1 -lang es -c 4 -exit-on-inactivity 2m || echo "Búsqueda detenida por tiempo o cierre del contenedor"
+            -depth "${{ inputs.profundidad }}" -lang es -c 4 -exit-on-inactivity 2m || echo "Búsqueda detenida por tiempo o cierre del contenedor"
           test -s out/results.csv || { echo "Sin resultados"; exit 1; }
           echo "Filas obtenidas: $(($(wc -l < out/results.csv) - 1))"
       - name: Cifrar resultados con la clave pública (solo César puede descifrarlos)
