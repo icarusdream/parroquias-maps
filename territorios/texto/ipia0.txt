@@ -1,1 +1,242 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Ipiales
+|tipo                    = diócesis
+|latín                   = Ipialen(sis)
+|escudo                  = Escudo de la Diócesis de Ipiales.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Veinte de julio 468.JPG
+|pie imagen              = Catedral de San Pedro Mártir
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|23|9|1964}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Cunctis in orbe''
+|sufragánea              = [[arquidiócesis de Popayán]]
+|patrón                  = [[Nuestra Señora de Las Lajas]]
+|catedral                = [[Catedral de San Pedro Mártir (Ipiales)|de San Pedro Mártir]]<ref>{{Cita web |url=http://www.diocesisdeipiales.org/parroquias/photo65.htm |editorial=Diócesis de Ipiales |idioma=español |fechaacceso=24 de octubre de 2008 |título=Santuario nuestra señora de la lajas|urlarchivo=https://web.archive.org/web/20080805234157/http://www.diocesisdeipiales.org/parroquias/photo65.htm |fechaarchivo=5 de agosto de 2008 }}</ref>
+|sede                    = [[Ipiales]]
+|región tipo             = Departamento
+|región                  = [[Nariño (Colombia)|Nariño]]
+|país                    = {{COL}}
+|curia                   = Casa Episcopal, Carrera 6 N. 7-01, Ipiales
+|concatedral             = 
+|ordinario               = [[José Saúl Grisales Grisales]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|parroquias              = 47
+|población total         = 521&nbsp;730
+|población año           = 2021
+|fieles                  = 596&nbsp;630
+|porcentaje fieles       = 90.2
+|sacerdotes              = 112
+|área                    = 11&nbsp;089 km²
+|mapa                    = Mapa Diocesis de Ipiales.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://web.archive.org/web/20190219015619/http://www.diocesisdeipiales.co/index.php www.diocesisdeipiales.co]
+}}
+
+La '''diócesis de Ipiales''' ({{lang-la|Dioecesis Ipialensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Popayán]]. Desde el 3 de febrero de 2018 su [[obispo]] es [[José Saúl Grisales Grisales]].<ref name="obispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bgrigri.html|título=Bishop José Saúl Grisales Grisales |fechaacceso=5 de febrero de 2018  |idioma=inglés |editorial=Catholic-Hierarchy}}</ref>
+
+== Territorio y organización ==
+[[Archivo:Santuario de Las Lajas, Ipiales, Colombia, 2015-07-21, DD 21-23 HDR.jpg|thumb|miniatura|derecha|Santuario de Nuestra Señora del Rosario de Las Lajas, en Ipiales]]
+
+La diócesis tiene 11&nbsp;089 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 27 municipios del [[Nariño (Colombia)|departamento de Nariño]]: [[Aldana]], [[Ancuya]], [[Cuaspud]], [[Contadero (Colombia)|Contadero]], [[Córdoba (Nariño)|Córdoba]], [[Cumbal (Nariño)|Cumbal]], [[Cumbitara]], [[Guachucal]], [[Guaitarilla]], [[Gualmatán]], [[Iles]], [[Imués]], [[Ipiales]] (excepto el corregimiento de El Empalme que pertenece a la [[diócesis de Mocoa-Sibundoy]]), [[La Llanada]], [[Linares (Colombia)|Linares]], [[Los Andes (Nariño)|Los Andes]], [[Mallama]], [[Ospina]], [[Potosí (Colombia)|Potosí]], [[Providencia (Nariño)|Providencia]], [[Puerres]], [[Pupiales]], [[Ricaurte (Nariño)|Ricaurte]], [[Samaniego (Nariño)|Samaniego]], [[Santacruz]], [[Sapuyes]] y [[Túquerres]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/ipiales_diocesis_700.gif |título=Mapa de la Diócesis de Ipiales |fechaacceso=24 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20140407084034/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/ipiales_diocesis_700.gif |fechaarchivo=7 de abril de 2014 }}</ref> 
+
+Limita al norte y este con la [[diócesis de Pasto]], al noroeste con la [[diócesis de Tumaco]], al sureste con la [[diócesis de Mocoa-Sibundoy]] en el [[departamento del Putumayo]], al suroeste con la [[Arquidiócesis de Quito|provincia eclesiástica Quito]], y la [[arquidiócesis de Quito]] a la cual pertenece la [[diócesis de Tulcán]], y el sur con el [[vicariato apostólico de San Miguel de Sucumbíos]], en la República del [[Ecuador]].<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Ipiales]], en donde se halla la [[Catedral de San Pedro Mártir (Ipiales)|Catedral de San Pedro Mártir]] y el [[Santuario de Las Lajas|santuario de Nuestra Señora del Rosario de Las Lajas]] (a 7 km de la ciudad).
+
+En 2021 en la diócesis existían 47 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicarías: Nuestra Señora de las Lajas, Espíritu Santo, San José, San Juan María Vianney y San Juan Bautista.
+
+{|class="wikitable"  style="font-size:90%;width:98.5%;line-height:130%"
+|-style="background: #DDDDDD;" align=center
+| '''Vicaría''' || '''Parroquias''' || '''Ubicación''' 
+|-
+|! rowspan="8" |'''1 Nuestra Señora de las Lajas'''<br> || 1 San Pedro Mártir - La Catedral || Ipiales 
+|-
+| 2 Medalla Milagrosa || Ipiales 
+|-
+| 3 Nuestro Señor de Los Milagros || B. Centenario - Ipiales  
+|-
+| 4 Nuestra Señora de Las Lajas || Corregimiento Las Lajas - Ipiales  
+|-
+| 5 Nuestra Señora de Los Dolores || B. San Felipe - Ipiales  
+|-
+| 6 Nuestra Señora de Las Mercedes || B. Puenes - Ipiales  
+|-
+| 7 Niño Jesús || B. El Manzano - Ipiales 
+|-
+| 8 Cristo Rey || B. Balcones de la Frontera - Ipiales 
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="12" |'''2 Espíritu Santo'''<br> || 1 San Pedro Apóstol || Túquerres
+|-
+| 2 San Pío X || Túquerres 
+|-
+| 3 San Pedro Apóstol || Corregimiento Yascual - Túquerres
+|-
+| 4 San Nicolás de Torentino || Guaitarilla
+|-
+| 5 San Miguel Arcángel || Ospina
+|-
+| 6 Santiago Apóstol || Piedrancha - Mallama
+|-
+| 7 San Joaquín y Santa Ana || Corregimiento Santa Ana - Imués
+|-
+| 8 San Juan Bautista || Sapuyes
+|-
+| 9 Señor de Las Misericordias || Corregimiento Santander - Túquerres
+|-
+| 10 Santiago Apóstol || Imués
+|-
+| 11 San Pablo Apóstol || Ricaurte
+|-
+| 12 Jesús del Gran Poder || Corregimiento El Pedregal - Imués
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="10" |'''3 San José'''<br> || 1 San Juan Bautista || Pupiales
+|-
+| 2 San Juan Bautista || Iles
+|-
+| 3 Nuestra Señora del Rosario || Gualmatán
+|-
+| 4 Inmaculada Concepción || Contadero
+|-
+| 5 San Bartolomé || Córdoba
+|-
+| 6 San José Obrero || Corregimiento José María Hernández - Pupiales
+|-
+| 7 San José || Corregimiento La Victoria - Ipiales
+|-
+| 8 San Pedro Apóstol || Potosí
+|-
+| 9 Nuestra Señora de La Natividad || Puerres
+|-
+| 10 San Juan Bautista || Corregimiento San Juan - Ipiales
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="6" |'''4 San Juan María Vianney'''<br> || 1 San Pedro Apóstol || Cumbal
+|-
+| 2 San Juan Bautista || Guachucal
+|-
+| 3 Nuestra Señora del Pilar || Aldana
+|-
+| 4 Inmaculada Concepción || Carlosama - Cuaspud
+|-
+| 5 San Diego || Corregimiento Muellamués - Guachucal
+|-
+| 6 Medalla Milagros || Corregimiento Chiles - Cumbal
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="9" |'''5 San Juan Bautista'''<br> || 1 San Nicolás de Bari || Samaniego
+|-
+| 2 San Pedro Apóstol || Ancuya
+|-
+| 3 Nuestra Señora de La Visitación || Corregimiento Tabiles - Linares
+|-
+| 4 San Juan Bautista || Guachavés - Santacruz
+|-
+| 5 San Pedro Apóstol || Cumbitara
+|-
+| 6 San Juan Bosco || La Llanada
+|-
+| 7 Nuestra Señora del Rosario || Linares
+|-
+| 8 Santísima Trinidad || Providencia
+|-
+| 9 San Juan Bautista || Sotomayor - Los Andes
+|}
+
+== Historia ==
+La diócesis fue erigida el 23 de septiembre de 1964 mediante la [[bula]] ''Cunctis in orbe'' del [[papa]] [[Pablo VI]], obteniendo el territorio de la [[diócesis de Pasto]] y de los vicariatos apostólicos de [[Diócesis de Tumaco|Tumaco]] y [[Diócesis de Mocoa-Sibundoy|Sibundoy]] (hoy ambos diócesis).<ref>(en latín) [https://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19640923_ipialensis_lt.html Bula ''Cunctis in orbe''], AAS 57 (1965), pp. 435-437.</ref> Contaba con 38 parroquias.
+
+El 31 de diciembre de 1964 se nombró como primer obispo a Miguel Ángel Arce Vivas, quien tomó posesión canónica el 28 de enero de 1965. En su corto periodo de gobierno, solicitó que [[Nuestra Señora de Las Lajas]] fuera la [[Santo patrón|patrona]] de esta nueva circunscripción. El 26 de abril de 1965, con la [[carta apostólica]] ''Tutela caelestis'', el papa Pablo VI proclamó a la Santísima Virgen María, conocida con el título de Nuestra Señora del Rosario de las Lajas, como patrona principal de la diócesis.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-58-1966-ocr.pdf Carta apostólica ''Tutela caelestis''], AAS 58 (1966), pp. 45-46.</ref>
+
+El 10 de abril de 1965 Arce Vivas fue nombrado arzobispo de Popayán. Para sucederle fue preconizado el 24 de julio de 1965 como obispo Alonso Arteaga Yépez hasta ese momento obispo auxiliar de Popayán. Tomó posesión de la diócesis el 8 de septiembre de 1965 y se enfocó en la tarea de organizar la circunscripción. Veinte años estuvo al frente de la misma hasta el 25 de octubre de 1985, siendo el obispado de mayor duración, cuando fue nombrado obispo de la [[diócesis de El Espinal]].
+
+En esa misma fecha se nombró como tercer obispo de Ipiales a Ramón Mantilla Duarte, quien tomó posesión el 17 de enero de 1986. Su administración fue muy corta, pues el 16 de enero de 1987 la [[Santa Sede]] aceptó su renuncia al gobierno pastoral debido a sus quebrantos de salud, fue el primer "obispo emérito de Ipiales",<ref name="obispo emérito">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bmadu.html|título=Ramón Mantilla Duarte 1er Obispo Emerito de Ipiales |fechaacceso=11 de febrero de 2018  |idioma=inglés}}</ref> luego falleció el 16 de marzo de 2009.
+
+El papa [[Juan Pablo II]] nombró en esa misma fecha, como cuarto obispo a Gustavo Martínez Frías, hasta ese entonces vicario general de la [[diócesis de Socorro-San Gil]]. Gobernó hasta el 18 de marzo de 1999 cuando fue nombrado arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]], entre sus logros se destaca el iniciar la tarea de la ''Nueva Evangelización'', de la cual el papa designó como prioridad: ''una Vigorosa llamada para que asumamos con responsabilidad la misión de difundir la luz de Cristo''.<ref name=evangelización>{{Cita web |url=https://books.google.com.co/books/about/La_nueva_evangelizaci%C3%B3n.html?id=4xDQjwEACAAJ&redir_esc=y |título=La nueva evangelización: Viaje apostólico a Uruguay, Bolivia, Perú y Paraguay (7-19 de Mayo de 1988)|fechaacceso=11 de febrero de 2018  |idioma=español}}</ref> Su obispado es el tercero más largo de la diócesis, estando 12 años al frente de la labor pastoral.
+
+Para suceder a Martínez Frías, fue nombrado como quinto obispo Arturo de Jesús Correa Toro, primer obispo del {{siglo|XXI||s}} y el 2do. obispado más largo desde el período 1965-1985 de Arteaga Yépez, fue encargado de consolidar pastoralmente a la diócesis, como también el del [[Jubileo]] del nuevo milenio (2000), así como el del Jubileo de la diócesis en sus 50 años (2014), se resalta el mayor logro de su labor que es culminar la llamada ''Nueva Evangelización''.<ref name="exaltan">{{Cita web |url=https://diariodelsur.com.co/noticias/nacional/|título=exaltan-trabajo-pastoral-del-obispo-arturo-correa-139333 |fechaacceso=26 de mayo de 2015  |idioma=español}}</ref> Fue nombrado obispo de Ipiales el 29 de enero de 2000, ordenado el 20 de marzo de 2000, hasta que dimitió,<ref name="renuncia">{{Cita web|url= http://diariodelsur.com.co/noticias/local/|título= renuncia-obispo-arturo-correa-presento-su-renuncia-204331|fechaacceso= 29 de abril de 2016|idioma= español|fechaarchivo= 5 de mayo de 2016|urlarchivo= https://web.archive.org/web/20160505053636/http://diariodelsur.com.co/noticias/local/|deadurl= yes}}</ref> por razones de salud y protocolarias ante el papa [[Francisco (papa)|Francisco]], el 29 de abril de 2016, cargo en el que permaneció en el año 2017, estando más de 18 años hasta su retiro oficial como obispo emérito de Ipiales, quien luego falleció el 26 de mayo de 2021 a la edad de 80 años.<ref name="covid-19">{{Cita web|url=https://www.aciprensa.com/noticias/fallece-por-covid-19-obispo-en-colombia-43004|título=Fallece por COVID-19 obispo en Colombia|fechaacceso=31 de mayo de 2021|idioma=español}}</ref>
+
+Como sucesor de Correa Toro, el papa Francisco nombró a José Saúl Grisales Grisales del clero de la [[diócesis de Sonsón-Rionegro]], quien se desempeñó en el cargo de vicario general,<ref name="Obispo">{{Cita web |url=https://es.zenit.org/articles/colombia-mons-jose-saul-grisales-grisales-nuevo-obispo-de-ipiales/|título= Monseñor-José-Saúl-Grisales-Grisales-nuevo-obispo-de-ipiales|fechaacceso=5 de febrero de 2018 |idioma=español}}</ref> como el sexto obispo de Ipiales desde el 3 de febrero de 2018, recibiendo el ordenamiento episcopal el 17 de marzo de 2018, por el [[nuncio apostólico]] Ettore Balestrero, en representación del papa, el 14 de abril de 2018 recibió por el arzobispo de Popayán Iván Antonio Marín López en acto de posesión, el pastoreado al que llegó a esta diócesis.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 596&nbsp;630 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 270&nbsp;000 || 270&nbsp;200 || 99.9 || 55 || 47 || 8 || 4909 ||  || 7 || 90 || 37
+|- align="right"
+| 1970 || 320&nbsp;000 || ? || ? || 59 || 49 || 10 || 5423 ||  || 12 || 100 || 37
+|- align="right"
+| 1976 || 399&nbsp;800 || 400&nbsp;000 || 100.0 || 61 || 52 || 9 || 6554 ||  || 14 || 70 || 39
+|- align="right"
+| 1980 || 412&nbsp;000 || 424&nbsp;000 || 97.2 || 56 || 47 || 9 || 7357 ||  || 13 || 70 || 41
+|- align="right"
+| 1987 || 403&nbsp;750 || 425&nbsp;000 || 95.0 || 56 || 46 || 10 || 7209 ||  || 21 || 125 || 41
+|- align="right"
+| 1994 || 342&nbsp;000 || 360&nbsp;000 || 95.0 || 62 || 52 || 10 || 5516 ||  || 16 || 120 || 41
+|- align="right"
+| 1995 || 342&nbsp;000 || 360&nbsp;000 || 95.0 || 63 || 53 || 10 || 5428 ||  || 16 || 120 || 41
+|- align="right"
+| 2001 || 449&nbsp;604 || 495&nbsp;000 || 90.8 || 78 || 66 || 12 || 5764 || 1 || 15 || 108 || 43
+|- align="right"
+| 2002 || 449&nbsp;604 || 495&nbsp;000 || 90.8 || 67 || 61 || 6 || 6710 || 1 || 9 || 108 || 43
+|- align="right"
+| 2003 || 449&nbsp;604 || 495&nbsp;000 || 90.8 || 76 || 71 || 5 || 5915 || 1 || 8 || 108 || 43
+|- align="right"
+| 2004 || 481&nbsp;394 || 530&nbsp;000 || 90.8 || 73 || 63 || 10 || 6594 || 1 || 16 || 135 || 42
+|- align="right"
+| 2006 || 497&nbsp;000 || 546&nbsp;000 || 91.0 || 89 || 78 || 11 || 5584 || 1 || 19 || 120 || 43
+|- align="right"
+| 2013 || 542&nbsp;000 || 600&nbsp;000 || 90.3 || 106 || 98 || 8 || 5113 ||  || 16 || 70 || 43
+|- align="right"
+| 2016 || 560&nbsp;288 || 620&nbsp;969 || 90.2 || 95 || 87 || 8 || 5897 || 2 || 16 || 70 || 45
+|- align="right"
+| 2019 || 579&nbsp;240 || 642&nbsp;000 || 90.2 || 114 || 106 || 8 || 5081 || 1 || 16 || 70 || 47
+|- align="right"
+| 2021 || 596&nbsp;630 || 661&nbsp;230 || 90.2 || 112 || 103 || 9 || 5327 || 1 || 17 || 71 || 47
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dipia.html |título=''Diocese of Ipiales''|fechaacceso=21 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=17 de agosto de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+[[Archivo:Monseñor Arturo de Jesús Correa Toro.jpg|thumb|miniatura|derecha|Arturo de Jesús Correa Toro, fue obispo de Ipiales]]
+
+* [[Miguel Ángel Arce Vivas]] † (31 de octubre de '''1964'''-7 de abril de '''1965''' nombrado arzobispo de [[Arquidiócesis de Popayán|Popayán]])
+* [[Alonso Arteaga Yepes]] † (24 de julio de '''1965'''-25 de octubre de '''1985''' nombrado obispo de [[Diócesis de Espinal|Espinal]])
+* [[Ramón Mantilla Duarte]], [[Congregación del Santísimo Redentor|C.SS.R.]] † (25 de octubre de '''1985'''-16 de enero de '''1987''' renunció)
+* [[Gustavo Martínez Frías]] † (16 de enero de '''1987'''-18 de marzo de '''1999''' nombrado arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]])
+* [[Arturo de Jesús Correa Toro]] † (29 de enero de '''2000'''-3 de febrero de '''2018''' retirado)
+* [[José Saúl Grisales Grisales]], desde el 3 de febrero de '''2018'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/ipia0.htm Ficha de la diócesis] en [https://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-ipiales Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Ipiales]]
+[[Categoría:Ipiales]]
+[[Categoría:Religión en Nariño]]
+[[Categoría:Provincia eclesiástica de Popayán|Ipiales]]
+[[Categoría:Diócesis creadas por Pablo VI|Ipiales]]

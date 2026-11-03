@@ -1,1 +1,150 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Quibdó
+|tipo                    = diócesis
+|latín                   = Quibduana
+|escudo                  = Escudo de la Diócesis de Quibdó.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral de quibdó.JPG
+|pie imagen              = Catedral de San Francisco de Asís
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|14|11|1952}}
+|erección tipo           = vicariato apostólico
+|bulaPontificia          = ''Cum Usu Quotidiano''
+|elevación diócesis      = {{fecha|30|4|1990}}
+|sufragánea              = [[arquidiócesis de Santa Fe de Antioquia]]
+|patrón                  = 
+|catedral                = [[Catedral de San Francisco de Asís (Quibdó)|de San Francisco de Asís]]<ref>{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/quib0.htm |título=Diocese of Quibdó |fechaacceso=29 de octubre de 2012  |idioma=inglés |editorial=Giga Catholic }}</ref>
+|sede                    = [[Quibdó]]
+|región tipo             = Departamento
+|región                  = [[Chocó]]
+|país                    = {{COL}}
+|curia                   = Curia Episcopal, Carrera 1 N. 26-91, Quibdó
+|concatedral             = 
+|ordinario               = [[Wiston Mosquera Moreno]]
+|auxiliar                = 
+|emérito                 = 
+|vicario                 = 
+|administrador diocesano = 
+|parroquias              = 23
+|población total         = 282&nbsp;000
+|población año           = 2022
+|fieles                  = 229&nbsp;500
+|porcentaje fieles       = 81.4
+|sacerdotes              = 47
+|área                    = 15&nbsp;679 km²
+|mapa                    = Mapa Diocesis de Quibdo.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = https://www.diocesisquibdo.org/
+}}
+
+La '''diócesis de Quibdó''' ({{lang-la|Dioecesis Quibduana}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Santa Fe de Antioquia]]. Desde el 5 de julio de 2024 su [[obispo]] es [[Wiston Mosquera Moreno]].
+
+== Territorio y organización ==
+La diócesis tiene 15&nbsp;679 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 10 municipios de:<ref name="mapa">{{Cita web |url=http://www.cec.org.co/?apc=ba1;002;;-&x=7131 |título=Diócesis de Quibdó |fechaacceso=15 de noviembre de 2008  |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>  
+* el [[Chocó|departamento del Chocó]]: [[Atrato (Chocó)|Atrato]], [[Bagadó]], [[Bojayá]], [[Carmen de Atrato]], [[Lloró]], [[Medio Atrato]], [[Quibdó]] y [[Río Quito]];
+* el [[Antioquia|departamento de Antioquia]]: [[Murindó]] y [[Vigía del Fuerte]].
+
+Su territorio limita al norte con la [[diócesis de Apartadó]], al noreste con la arquidiócesis de Santa Fe de Antioquia, al sureste con la [[diócesis de Jericó]], y al sur y oeste con la [[diócesis de Istmina-Tadó]].<ref name="mapa" /> La población de la diócesis es en su mayoría, [[afrodescendiente]] (80%), [[mestizo|mestiza]] (14%) e [[indígena]] (6%).<ref>{{Cita web |url=http://www.choco.org/index.php?func=display&module=htmlpages&pid=1 |título=Diocesis de Quibdó |idioma=español |fechaacceso=15 de noviembre de 2008  |editorial=Choco.org }}</ref>
+
+La sede de la diócesis se encuentra en la ciudad de [[Quibdó]], en donde se halla la [[Catedral de San Francisco de Asís (Quibdó)|Catedral de San Francisco de Asís]].
+
+En 2022 en la diócesis existían 23 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+=== Antecedentes ===
+En el territorio de lo que hoy es el departamento de Chocó desembarcaron los fundadores de [[Santa María la Antigua del Darién|Santa María la Antigua]], primera diócesis en [[Provincia de Tierra Firme|Tierra Firme]], fundada por los españoles, la misma debió ser abandonada por diversos motivos, entre ellos la condición climática y las luchas constantes con los indígenas; este territorio, sin embargo, fue [[Cristianización|cristianizado]] por [[Compañía de Jesús|jesuitas]], [[carmelitas]], [[Orden de Predicadores|dominicos]] y [[Orden de los Hermanos Menores Capuchinos|capuchinos]] en siglos posteriores. Así, en abril de 1908 se creó la [[prefectura apostólica del Chocó]], que cubría todo el departamento, la administración de dicha prefectura fue entregada a los [[Misioneros Hijos del Inmaculado Corazón de María|claretianos]]. El primer prefecto apostólico, Juan Gil, llegó en 1909
+
+=== Vicariato apostólico ===
+El vicariato apostólico de Quibdó fue erigido el 14 de noviembre de 1952 mediante la [[bula]] ''Cum usu cotidiano'' del [[papa]] [[Pío XII]], derivando el territorio de la diócesis de Antioquia (hoy arquidiócesis de Santa Fe de Antioquia) y de la [[prefectura apostólica del Chocó]], que fue suprimida.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Cum usu cotidiano''], AAS 45 (1953), p.&nbsp;217.</ref>
+
+El 8 de abril de 1954 mediante el decreto ''Apostolica sedes'' amplió su territorio con el municipio de Carmen de Atrato que pertenecía a la [[diócesis de Jericó]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf Decreto ''Apostolica sedes''], AAS 46 (1954), pp. 228-229.</ref>
+
+El 18 de junio de 1988 cedió una porción de su territorio para la erección de la [[diócesis de Apartadó]] mediante la bula ''Quo aptius'' del papa [[Juan Pablo II]].<ref>(en latín) [https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880628_apartadoensis.html Bula ''Quo aptius''], AAS 80 (1988), pp.&nbsp;1735-1736.</ref>
+
+=== Diócesis ===
+El 30 de abril de 1990 el vicariato apostólico fue elevado al rango de diócesis mediante la bula ''Plus triginta septem'' del papa Juan Pablo II.<ref>(en latín) [https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19900430_quibduana.html Bula ''Plus triginta septem''], AAS 82 (1990), pp.&nbsp;933-934.</ref> El vicario apostólico Castaño Rubio renunció en 2001, y fue trasladado a la [[arquidiócesis de Medellín]] como [[obispo auxiliar]]. En enero de 2001, Alonso Llano Ruiz, hasta entonces obispo de [[Diócesis de Istmina-Tadó|Istmina-Tadó]], fue nombrado administrador diocesano.
+
+El 25 de julio de 2001, la [[Santa Sede]] nombró a [[Fidel León Cadavid Marín]] como obispo y gobernó la diócesis hasta el 2 de febrero de 2011 cuando fue nombrado obispo de Sonsón-Rionegro.<ref name='CH'></ref>  
+
+El 22 de noviembre de 2003 mediante el decreto ''Quo aptius'' amplió aún más su territorio con los municipios de Murindó y Vigía del Fuerte pertenecientes a la arquidiócesis de Santa Fe de Antioquia.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/2004/maggio%202004.pdf Decreto ''Quo aptius''], AAS 96 (2004), pp. 316-317.</ref>
+
+Cadavid Marín fue sucedido en 2013 por [[Juan Carlos Barreto Barreto]], que gobernó la diócesis hasta el 25 de abril de 2022, cuando fue nombrado obispo de Soacha.
+
+El 5 de julio de 2024 el papa [[Francisco (papa)|Francisco]] nombró a [[Winston Mosquera Moreno]] como obispo de Quibdó, convirtiéndolo en el primer [[afrocolombiano]] en alcanzar el episcopado.<ref>{{Cita web|url=https://www.elpais.com.co/colombia/el-papa-francisco-nombro-al-primer-obispo-afrocolombiano-de-colombia-para-la-diocesis-de-quibdo-choco-0536.html|título=El papa Francisco nombró al primer obispo afrocolombiano de Colombia para la Diócesis de Quibdó, Chocó|fechaacceso=2024-07-05|apellido=País|nombre=El|fecha=2024-07-05|sitioweb=Noticias de Cali, Valle y Colombia - Periodico: Diario El País|idioma=español}}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 229&nbsp;500 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 80&nbsp;000 || 81&nbsp;000 || 98.8 || 24 || 3 || 21 || 3333 ||  || 23 || 61 || 10
+|- align="right"
+| 1970 || ? || 95&nbsp;000 || ? || 48 || 26 || 22 || ? ||  || 24 || 60 || 
+|- align="right"
+| 1976 || 114&nbsp;000 || 115&nbsp;000 || 99.1 || 24 || 2 || 22 || 4750 ||  || 25 || 55 || 13
+|- align="right"
+| 1980 || 143&nbsp;000 || 145&nbsp;000 || 98.6 || 25 || 7 || 18 || 5720 ||  || 19 || 55 || 15
+|- align="right"
+| 1987 || 83&nbsp;180 || 98&nbsp;565 || 84.4 || 29 || 20 || 9 || 2868 ||  || 9 || 49 || 11
+|- align="right"
+| 1999 || 238&nbsp;000 || 250&nbsp;000 || 95.2 || 40 || 30 || 10 || 5950 ||  || 12 || 43 || 28
+|- align="right"
+| 2000 || 235&nbsp;000 || 244&nbsp;000 || 96.3 || 41 || 27 || 14 || 5731 ||  || 16 || 41 || 28
+|- align="right"
+| 2001 || 254&nbsp;000 || 264&nbsp;000 || 96.2 || 34 || 26 || 8 || 7470 ||  || 10 || 32 || 28
+|- align="right"
+| 2002 || 260&nbsp;000 || 270&nbsp;000 || 96.3 || 39 || 30 || 9 || 6666 ||  || 10 || 33 || 18
+|- align="right"
+| 2003 || 269&nbsp;000 || 279&nbsp;000 || 96.4 || 40 || 27 || 13 || 6725 ||  || 16 || 35 || 19
+|- align="right"
+| 2004 || 215&nbsp;470 || 227&nbsp;000 || 94.9 || 42 || 30 || 12 || 5130 ||  || 12 || 40 || 19
+|- align="right"
+| 2010 || 185&nbsp;220 || 197&nbsp;390 || 93.8 || 49 || 38 || 11 || 3780 ||  || 14 || 49 || 22
+|- align="right"
+| 2014 || 188&nbsp;500 || 200&nbsp;908 || 93.8 || 51 || 41 || 10 || 3696 ||  || 13 || 41 || 22
+|- align="right"
+| 2017 || 195&nbsp;835 || 209&nbsp;245 || 93.6 || 45 || 37 || 8 || 4351 ||  || 9 || 32 || 22
+|- align="right"
+| 2020 || 222&nbsp;420 || 273&nbsp;470 || 81.3 || 43 || 38 || 5 || 5172 ||  || 10 || 26 || 23
+|- align="right"
+| 2022 || 229&nbsp;500 || 282&nbsp;000 || 81.4 || 47 || 42 || 5 || 4882 ||  || 10 || 26 || 23
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dquib.html |título=''Diocese of Quibdó''|fechaacceso=1 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=6 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Vicarios apostólicos de Quibdó === 
+* [[Pedro Grau y Arola]], [[Misioneros Hijos del Inmaculado Corazón de María|C.M.F.]] † (24 de marzo de '''1953'''-6 de junio de '''1983''' retirado)
+* [[Jorge Iván Castaño Rubio]] † , C.M.F. (6 de junio de '''1983'''-30 de abril de '''1990''' nombrado obispo diocesano)
+
+=== Obispos de Quibdó ===
+* [[Jorge Iván Castaño Rubio]] † , C.M.F. (30 de abril de '''1990'''-16 de febrero de '''2001''' nombrado obispo auxiliar de [[Arquidiócesis de Medellín|Medellín]])
+* [[Fidel León Cadavid Marin]] (25 de julio de '''2001'''-2 de febrero de '''2011''' nombrado obispo de [[Diócesis de Sonsón-Rionegro|Sonsón-Rionegro]])
+* [[Juan Carlos Barreto Barreto]] (30 de enero de '''2013'''-25 de abril de '''2022''' nombrado obispo de [[Diócesis de Soacha|Soacha]])
+** ''Sede vacante (2022-2024)''<ref group='nota'>Desde el 29 de junio de 2022 al 5 de octubre de 2024, día de la toma de posesión de Wiston Mosquera Moreno, fue administrador apostólico Mario de Jesús Álvarez Gómez, obispo de [[Diócesis de Istmina-Tadó|Istmina-Tadó]].</ref>
+* [[Wiston Mosquera Moreno]], desde el 5 de julio de '''2024'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/quib0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-quibd%C3%B2 Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+* [https://web.archive.org/web/20130417092300/http://www.diocesisquibdo.org/ Sitio oficial de la diócesis de Quibdó]
+* [https://web.archive.org/web/20081015220822/http://www.choco.org/index.php Sitio oficial de la Pastoral Social de la diócesis de Quibdó]
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Quibdo]]
+[[Categoría:Religión en Quibdó]]
+[[Categoría:Provincia eclesiástica de Santa Fe de Antioquia|Quibdo]]
+[[Categoría:Diócesis creadas por Pío XII|Quibdo]]

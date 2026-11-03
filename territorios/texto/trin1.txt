@@ -1,1 +1,108 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Vicariato apostólico de Trinidad
+|tipo                    = vicariato
+|latín                   = Triniten(sis)
+|escudo                  = Escudo del Vicariato de Trinidad.svg
+|pie escudo              = Escudo del vicariato apostólico
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|29|10|1999}}
+|erección tipo           = vicariato apostólico
+|breve de erección       = 
+|sufragánea              = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+|patrón                  =
+|catedral                = [[Catedral de la Inmaculada Concepción de la Virgen María (Trinidad)|de la Inmaculada Concepción de la Virgen María]]<ref name="cat">{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/trin1.htm |título=Apostolic Vicariate of Trinidad |fechaacceso=29 de octubre de 2012  |idioma=inglés |editorial=Giga-Catholic}}</ref>
+|sede                    = [[Trinidad (Casanare)|Trinidad]]
+|región tipo             = Departamento
+|región                  = [[Casanare]]
+|país                    = {{COL}}
+|curia                   = Calle 5 N. 3-54, Barrio Centro, Trinidad
+|concatedral             =
+|ordinario               = [[Héctor Javier Pizarro Acevedo]], [[Orden de Agustinos Recoletos|O.A.R.]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 6
+|población total         = 53&nbsp;571
+|población año           = 2022
+|fieles                  = 45&nbsp;000
+|porcentaje fieles       = 84.0
+|sacerdotes              = 12
+|área                    = 27&nbsp;075 km²
+|mapa                    = Mapa Vicariato Apostolico de Trinidad.svg
+|pie mapa                = Localización y extensión del vicariato apostólico
+|sitio web               =
+}}
+
+El '''vicariato apostólico de Trinidad''' ({{lang-la|Vicariatus Apostolicus Trinitensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Tunja|Tunja]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3licos-de-trinidad Sitio web] de la CEC</ref> Desde el 23 de octubre de 2000 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[Héctor Javier Pizarro Acevedo]], de la [[Orden de Agustinos Recoletos]].<ref group="nota">[[Obispo titular]] de [[Diócesis de Ceramus|Ceramus]].</ref><ref name="obispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bpiza.html |título=Bishop Héctor Javier Pizarro Acevedo, O.A.R.|fechaacceso=20 de marzo de 2011  |idioma=inglés |editorial=Catholic-Hierarchy}}</ref>  
+
+== Territorio y organización ==
+El vicariato apostólico tiene 27&nbsp;075 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en parte del [[Casanare|departamento de Casanare]], comprendiendo los municipios de: Trinidad, [[San Luis de Palenque]], [[Orocué]] y [[Maní (Casanare)|Maní]], las zonas orientales de [[Hato Corozal]], [[Paz de Ariporo]] y la zona sur del municipio de [[Tauramena]].
+
+Su territorio limita al norte con la [[diócesis de Arauca]], al este con el [[vicariato apostólico de Puerto Carreño]], al sur con el [[vicariato apostólico de Puerto Gaitán]] y la [[arquidiócesis de Villavicencio]], y al oeste con la [[diócesis de Yopal]].<ref name="lim">{{Cita web|url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/trinidad_vicariato_700.gif|título=Mapa del Vicariato Apostólico de Tierradentro|fechaacceso=20 de marzo de 2011|idioma=español|editorial=[[Conferencia Episcopal de Colombia]]|urlarchivo=https://web.archive.org/web/20111116225759/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/trinidad_vicariato_700.gif|fechaarchivo=16 de noviembre de 2011}}</ref>
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[Trinidad (Casanare)|Trinidad]], en donde se halla la [[Catedral de la Inmaculada Concepción de la Virgen María (Trinidad)|Catedral San Ezequiel Moreno, aún en construcción.]]
+
+En 2022 en el vicariato apostólico existían 6 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+El vicariato apostólico fue erigido el 29 de octubre de 1999, tras la división del [[vicariato apostólico de Casanare]] (erigido el 17 de junio de 1893), que fue simultáneamente abolido. La [[diócesis de Yopal]] también se originó a partir de la división del vicariato apostólico de Casanare. El vicariato apostólico está agregado a la provincia eclesiástica de [[Arquidiócesis de Tunja|Tunja]].
+
+En ese mismo momento se encomienda la misión a los Agustinos Recoletos y se nombra como primer vicario apostólico al padre [[Ezequiel Moreno]] (hoy Santo).
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 45&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1999 || 50&nbsp;000 || 70&nbsp;000 || 71.4 || 39 || 27 || 12 || 1282 || 2 || 15 || 60 || 5
+|- align="right"
+| 2000 || 61&nbsp;450 || 67&nbsp;692 || 90.8 || 26 || 18 || 8 || 2363 ||  || 12 || 15 || 5
+|- align="right"
+| 2001 || 61&nbsp;450 || 67&nbsp;692 || 90.8 || 27 || 19 || 8 || 2275 ||  || 12 || 15 || 5
+|- align="right"
+| 2002 || 66&nbsp;500 || 70&nbsp;000 || 95.0 || 26 || 19 || 7 || 2557 ||  || 12 || 18 || 5
+|- align="right"
+| 2003 || 66&nbsp;500 || 70&nbsp;000 || 95.0 || 26 || 19 || 7 || 2557 ||  || 16 || 14 || 5
+|- align="right"
+| 2004 || 63&nbsp;000 || 66&nbsp;500 || 94.7 || 26 || 19 || 7 || 2423 ||  || 16 || 18 || 5
+|- align="right"
+| 2010 || 37&nbsp;757 || 42&nbsp;294 || 89.3 || 42 || 31 || 11 || 898 ||  || 15 || 11 || 5
+|- align="right"
+| 2014 || 39&nbsp;822 || 45&nbsp;590 || 87.3 || 15 || 7 || 8 || 2654 ||  || 11 || 8 || 6
+|- align="right"
+| 2017 || 41&nbsp;390 || 47&nbsp;030 || 88.0 || 13 || 6 || 7 || 3183 ||  || 8 || 8 || 6
+|- align="right"
+| 2020 || 42&nbsp;000 || 49&nbsp;130 || 85.5 || 15 || 7 || 8 || 2800 ||  || 9 || 6 || 8
+|- align="right"
+| 2022 || 45&nbsp;000 || 53&nbsp;571 || 84.0 || 12 || 4 || 8 || 3750 ||  || 10 || 6 || 6
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dtric.html |título=''Vicariate Apostolic of Trinidad'' |fechaacceso=21 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+:* [[Olavio López Duque]], [[Orden de Agustinos Recoletos|O.A.R.]] † (29 de octubre de '''1999'''-23 de octubre de '''2000''' cesado) (administrador apostólico)<ref>[http://www.vatican.va/archive/aas/documents/AAS-91-1999-ocr.pdf AAS 91 (1999)], p. 1197</ref>
+* [[Héctor Javier Pizarro Acevedo]], O.A.R., desde el 23 de octubre de '''2000'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/trin1.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3licos-de-trinidad Ficha del vicariato apostólico] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|Trinidad]]
+[[Categoría:Diócesis creadas por Juan Pablo II|Trinidad]]

@@ -1,1 +1,131 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Chiquinquirá
+|tipo                    = diócesis
+|latín                   = Chiquinquiren(sis)
+|escudo                  = Escudo de la Diócesis de Chiquinquirá.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|26|4|1977}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Qui Divino Consilio''
+|sufragánea              = [[arquidiócesis de Tunja]]
+|patrón                  = [[Virgen del Rosario]]
+|catedral                = [[Catedral del Sagrado Corazón de Jesús (Chiquinquirá)|del Sagrado Corazón de Jesús]]<ref>{{cita web |url=http://www.diocesisdechiquinquira.org/parroquias.shtml?apc=b---2--&x=277 |título=Catedral del Sagrado Corazón de Jesús (Chiquinquirá - Boyacá) |obra=Parroquias |editorial=Diócesis de Chiquinquirá |idioma=español |fechaacceso=8 de enero de 2010 }}</ref>
+|sede                    = [[Chiquinquirá]]
+|región tipo             = Departamento
+|región                  = [[Boyacá]]
+|país                    = {{COL}}
+|curia                   = Curia Episcopal, Calle 16 N. 10-50, Chiquinquirá
+|concatedral             = 
+|ordinario  =[[Ramón Alberto Rolón Güepsa]]
+|emérito               = [[Luis Felipe Sánchez Aponte]]
+|auxiliar                =
+|vicario                 =
+|administrador diocesano =
+|parroquias              = 41
+|población total         = 243&nbsp;650
+|población año           = 2023
+|fieles                  = 236&nbsp;120
+|porcentaje fieles       = 96.9
+|sacerdotes              = 116
+|área                    = 4019 km²
+|mapa                    = Mapa Diocesis de Chiquinquira.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdechiquinquira.org/ www.diocesisdechiquinquira.org]
+}}
+
+La '''diócesis de Chiquinquirá''' ({{lang-la|Dioecesis Chiquinquirensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Tunja]]. Desde el 6 de junio de 2025 su [[obispo]] es [[Ramón Alberto Rolón Güepsa]].
+
+== Territorio y organización ==
+[[Archivo:Basilica Chiquinquira 01.jpg|thumb|miniatura|derecha|Basílica de Nuestra Señora del Rosario, en Chiquinquirá]]
+
+La diócesis tiene 4019 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 27 municipios del [[Boyacá|departamento de Boyacá]]: [[Arcabuco]], [[Briceño (Boyacá)|Briceño]], [[Buenavista (Boyacá)|Buenavista]], [[Caldas (Boyacá)|Caldas]], Chiquinquirá, [[Chitaraque]], [[Coper]], [[Gachantivá]], [[La Victoria (Boyacá)|La Victoria]], [[Maripí]], [[Moniquirá]], [[Muzo]], [[Otanche]], [[Pauna]], [[Quípama]], [[Ráquira]], [[Saboyá]], [[Sáchica]], [[San José de Pare]], [[San Miguel de Sema]], [[San Pablo de Borbur]], [[Santa Sofía (Boyacá)|Santa Sofía]], [[Sutamarchán]], [[Tinjacá]], [[Togüí]], [[Tununguá]] y [[Villa de Leyva]].<ref>{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/chiquinquira_diocesis_700.gif |título=Mapa de la Diócesis de Chiquinquirá |idioma=español |fechaacceso=8 de enero de 2010 |formato=GIF |editorial=Conferencia Episcopal de Colombia |urlarchivo=https://web.archive.org/web/20111121142226/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/chiquinquira_diocesis_700.gif |fechaarchivo=21 de noviembre de 2011 }}</ref>
+
+[[Archivo:Basilica-moniquira.jpg|thumb|miniatura|derecha|Basílica de Nuestra Señora del Rosario, en Moniquirá]]
+
+El territorio limita con las diócesis de [[Diócesis de Vélez|Vélez]], [[Diócesis de Socorro y San Gil|Socorro-San Gil]], [[Diócesis de Zipaquirá|Zipaquirá]], [[Diócesis de La Dorada-Guaduas|La Dorada-Guaduas]] y con la arquidiócesis de Tunja.<ref>{{cita web |url=http://www.diocesisdechiquinquira.org/quienessomos.shtml?apc=m---1--&s=a&m=a&x=2015 |título=Plan Pastoral |idioma=español |fechaacceso=11 de enero de 2010 |editorial=Diócesis de Chiquinquirá }}</ref>
+
+La sede de la diócesis se encuentra en la ciudad de [[Chiquinquirá]], en donde se halla la [[Catedral del Sagrado Corazón de Jesús (Chiquinquirá)|Catedral del Sagrado Corazón de Jesús]] y el más importante santuario mariano de Colombia: la [[Basílica de Nuestra Señora del Rosario (Chiquinquirá)|basílica de Nuestra Señora del Rosario]], dirigido por la [[Orden de Predicadores]] y uno de los principales sitios de peregrinación del país. En [[Moniquirá]] se halla la [[Basílica de Nuestra Señora del Rosario (Moniquirá)|basílica de Nuestra Señora del Rosario]].
+
+En 2023 en la diócesis existían 41 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicarías foráneas: San Andrés, San Bartolomé, San Mateo, San Lucas y San Pablo.
+
+== Historia ==
+La diócesis fue erigida el 26 de abril de 1977 mediante la [[bula]] ''Qui Divino Consilio'' del [[papa]] [[Pablo VI]], obteniendo el territorio de la arquidiócesis de Tunja.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-69-1977-ocr.pdf Bula ''Qui divino consilio''], AAS 69 (1977), p.&nbsp;435.</ref> Como primer obispo fue nombrado Alberto Giraldo Jaramillo, quien tomó posesión de la diócesis el 14 de junio de 1977.
+
+El 8 de abril de 1978, con la [[carta apostólica]] ''Quales quantumsque'', el papa Pablo VI confirmó a la Santísima Virgen María, Madre de Dios, con el título de Nuestra Señora del Rosario, como [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-70-1978-ocr.pdf Carta apostólica ''Quales quantosque''], AAS 70 (1978), pp. 323-324.</ref>
+
+El 26 de julio de 1983 Giraldo es nombrado obispo de Cúcuta y Augusto Trujillo Arango, arzobispo de Tunja quedó encargado de la diócesis en calidad de [[administrador apostólico]].
+
+El 1 de septiembre de 1984 tomó posesión canónica como segundo obispo Álvaro Raúl Jarro Tobos. A él le correspondió organizar la visita del papa [[Juan Pablo II]] al Santuario Mariano Nacional de Nuestra Señora del Rosario, con ocasión de la conmemoración de los 400 años de renovación del lienzo de la Virgen del Rosario en julio de 1986.
+
+Álvaro Raúl fue nombrado obispo de castrense de Colombia el 24 de junio de 1997. Asumió como administrador apostólico Oscar Urbina Ortega el 19 de agosto del mismo año, y hasta el 15 de marzo de 1998, fecha en la cual tomó posesión canónica el tercer obispo de la diócesis Héctor Gutiérrez Pabón, quien dirigió la diócesis hasta 6 de agosto de 2003 cuando fue nombrado obispo de Engativá.
+
+El 5 de mayo de 2004 se posesionó Luis Felipe Sánchez Aponte, quien estuvo pastoreando la diócesis hasta el 6 de junio de 2025.
+
+
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2024 la diócesis tenía a fines de 2023 un total de 236&nbsp;120 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1980 || 240&nbsp;000 || 242&nbsp;400 || 99.0 || 59 || 37 || 22 || 4067 ||  || 30 || 114 || 30
+|- align="right"
+| 1990 || 276&nbsp;000 || 285&nbsp;000 || 96.8 || 68 || 48 || 20 || 4058 || 1 || 25 || 130 || 32
+|- align="right"
+| 1999 || 315&nbsp;000 || 330&nbsp;000 || 95.5 || 80 || 63 || 17 || 3937 ||  || 25 || 119 || 36
+|- align="right"
+| 2000 || 319&nbsp;000 || 335&nbsp;000 || 95.2 || 81 || 60 || 21 || 3938 ||  || 27 || 119 || 36
+|- align="right"
+| 2001 || 309&nbsp;000 || 310&nbsp;000 || 99.7 || 79 || 55 || 24 || 3911 ||  || 52 || 118 || 37
+|- align="right"
+| 2002 || 309&nbsp;000 || 310&nbsp;000 || 99.7 || 83 || 56 || 27 || 3722 ||  || 63 || 117 || 38
+|- align="right"
+| 2003 || 345&nbsp;000 || 350&nbsp;000 || 98.6 || 81 || 54 || 27 || 4259 ||  || 43 || 121 || 38
+|- align="right"
+| 2004 || 355&nbsp;000 || 380&nbsp;000 || 93.4 || 82 || 58 || 24 || 4329 || 1 || 63 || 110 || 39
+|- align="right"
+| 2006 || 367&nbsp;000 || 392&nbsp;000 || 93.6 || 80 || 58 || 22 || 4587 || 1 || 66 || 119 || 39
+|- align="right"
+| 2013 || 235&nbsp;400 || 254&nbsp;700 || 92.4 || 93 || 58 || 35 || 2531 ||  || 68 || 104 || 40
+|- align="right"
+| 2016 || 205&nbsp;000 || 243&nbsp;250 || 84.3 || 87 || 60 || 27 || 2356 ||  || 70 || 97 || 40
+|- align="right"
+| 2019 || 230&nbsp;500 || 242&nbsp;500 || 95.1 || 87 || 60 || 27 || 2649 || 7 || 57 || 100 || 40
+|- align="right"
+| 2021 || 234&nbsp;370 || 245&nbsp;000 || 95.7 || 88 || 60 || 28 || 2663 ||  || 54 || 93 || 41
+|- align="right"
+| 2023 || 236&nbsp;120 || 243&nbsp;650 || 96.9 || 116 || 82 || 34 || 2035 || 14 || 72 || 125 || 41
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dchqq.html |título=''Diocese of Chiquinquirá''|fechaacceso=5 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=3 de diciembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2024 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Alberto Giraldo Jaramillo]], [[Compañía de Sacerdotes de San Sulpicio|P.S.S.]] † (26 de abril de '''1977'''-26 de julio de '''1983''' nombrado obispo de [[Diócesis de Cúcuta|Cúcuta]])
+* [[Álvaro Raúl Jarro Tobos]] † (19 de junio de '''1984'''-24 de junio de '''1997''' nombrado ordinario militar de [[Obispado castrense de Colombia|Colombia]])
+* [[Héctor Luis Gutiérrez Pabón]] † (2 de febrero de '''1998'''-6 de agosto de '''2003''' nombrado obispo de [[Diócesis de Engativá|Engativá]])
+* [[Luis Felipe Sánchez Aponte]] (11 de febrero de '''2004''' - 6 de junio de '''2025''' retirado)
+* [[Ramón Alberto Rolón Güepsa]], desde el 6 de junio de '''2025'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/chiq0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-chiquinquir%C3%A1 Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Chiquinquirá]]
+[[Categoría:Diócesis de Colombia|Chiquinquira]]
+[[Categoría:Religión en Boyacá]]
+[[Categoría:Provincia eclesiástica de Tunja|Chiquinquira]]
+[[Categoría:Diócesis creadas por Pablo VI|Chiquinquira]]

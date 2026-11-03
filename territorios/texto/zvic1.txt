@@ -1,1 +1,148 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+| nombre = Diócesis de San Vicente del Caguán
+| tipo = diócesis
+| latín = Sancti Vincentii de Caguan
+| escudo = Escudo de la Diócesis de San Vicente del Caguán.svg
+| pie escudo = Escudo de la diócesis
+| imagen = 
+| pie imagen = 
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|9|12|1985}}
+| erección tipo = vicariato apostólico de San Vicente-Puerto Leguízamo
+| decreto de erección = ''Cum propter''
+| elevación diócesis = {{fecha|30|5|2019}}
+| sufragánea = [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]]
+| patrón = 
+| catedral = Nuestra Señora de las Mercedes<ref name="cat">{{Cita web |url=http://www.google.com.co/url?sa=t&source=web&cd=5&ved=0CDMQFjAE&url=http%3A%2F%2Fwww.icdtcaqueta.gov.co%2Fweb%2Fnormatividad%2Fleyes%2Fdoc_download%2F90-patrimonio-material-san-vicente-del-caguan.html&ei=p2iATY7yD-ux0QGLqbmDCQ&usg=AFQjCNELlOY1dMhzx89OtfDSo1foSTFWsg |título=Departamento del Caquetá. Formato Único de Bienes Turísticos |fechaacceso=16 de marzo de 2011 |idioma=español |editorial=Instituto Departamental de Cultura, Deporte y Turismo del Caquetá }}</ref>
+| sede = [[San Vicente del Caguán]]
+| región tipo = Departamento
+| región = [[Caquetá]]
+| país = {{COL}}
+| curia = Curia Episcopal, Carrera 5 N. 5-29, San Vicente del Caguán
+| concatedral = 
+| ordinario = William Prieto Daza
+| auxiliar = 
+| emérito = 
+| vicario = 
+| administrador apostólico = 
+| parroquias = 14
+| población total = 120&nbsp;000
+| población año = 2022
+| fieles = 98&nbsp;300
+| porcentaje fieles = 81.9
+| sacerdotes = 23
+| área = 37&nbsp;000 km²
+| mapa = Mapa Diócesis de San Vicente del Caguán.svg
+| pie mapa = Localización y extensión de la diócesis
+| sitio web = 
+}}
+
+La '''diócesis de San Vicente del Caguán''' ({{lang-la|Dioecesis Sancti Vincentii de Caguan}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]]. Desde el 5 de julio de 2024 su [[obispo]] es William Prieto Daza.
+
+== Territorio y organización ==
+La diócesis tiene 37&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 3 municipios del [[Caquetá|departamento de Caquetá]]: [[Cartagena del Chaira]], [[Puerto Rico (Caquetá)|Puerto Rico]] y [[San Vicente del Caguán]] y parte del municipio [[Meta (Colombia)|metense]] de [[La Macarena (Meta)|La Macarena]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/san_vicente_pto_leguizamo_vicariato_700.gif |título=Mapa del Vicariato Apostólico de San Vicente-Puerto Leguízamo |fechaacceso=15 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |fechaarchivo=21 de noviembre de 2011 |urlarchivo=https://web.archive.org/web/20111121143604/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/san_vicente_pto_leguizamo_vicariato_700.gif |deadurl=yes }}</ref> La diócesis incluye al centro poblado [[San Juan del Losada]] y un área en disputa entre los departamentos de [[Meta (Colombia)|Meta]] (municipio de [[La Macarena (Meta)|La Macarena]]) y Caquetá (municipio de San Vicente del Caguán).<ref>[https://www.eltiempo.com/colombia/otras-ciudades/san-juan-losada-el-pueblo-donde-los-habitantes-pueden-elegir-en-que-departamento-votar-337038 El pueblo donde los habitantes pueden elegir en qué departamento votar]</ref>
+
+Su territorio limita al norte con la [[diócesis de Neiva]] y la [[Diócesis de Granada (Colombia)|diócesis de Granada]], al oeste con la [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]], al sur con el [[vicariato apostólico de Puerto Leguízamo-Solano]], y al este con la [[diócesis de San José del Guaviare]].<ref name="mapa"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[San Vicente del Caguán]], en donde se halla la Catedral de Nuestra Señora de las Mercedes.
+
+En 2022 en la diócesis existían 14 [[Parroquia (religión)|parroquias]]:
+* Divino Niño, en La Aguililla (Puerto Rico);
+* Nuestra Señora de la Consolata, en San Vicente del Caguán;
+* Espíritu Santo, en San Vicente del Caguán;
+* La Inmaculada, en Guacamayas (San Vicente del Caguán);
+* La Inmaculada Concepción, en Tres Esquinas del Caguán (San Vicente del Caguán);
+* Nuestra Señora de las Mercedes, en San Vicente del Caguán;
+* Nuestra Señora de Lourdes, en Guayabal (San Vicente del Caguán);
+* Nuestra Señora del Rosario, en Rionegro (Puerto Rico);
+* San Francisco de Asís, en Campo Hermoso (San Vicente del Caguán);
+* San Isidro Labrador, en [[Remolino del Caguán]] (Cartagena del Chairá);
+* San Juan Bautista, en [[San Juan del Losada]] (La Macarena);
+* San Pedro Claver, Cartagena del Chairá;
+* La Sagrada Familia, Cartagena del Chairá;
+* Señor de los Milagros, en Santa Fe del Caguán (Cartagena del Chairá).<ref name="par">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba-;005;;9408-9408&m=b&c=9408 |título=Vicariatos Apostólicos de San Vicente - Puerto Leguízamo. Parroquias |fechaacceso=15 de marzo de 2011 |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+== Historia ==
+=== Antecedentes ===
+Desde los inicios del {{siglo|XX||s}} San Vicente del Caguán fue parte del inmenso territorio de la Amazonía colombiana confiado en 1896 al cuidado pastoral de los misioneros [[Orden de los Hermanos Menores Capuchinos|capuchinos]], el cual comprendía los actuales departamentos del [[Caquetá]], [[Putumayo (Colombia)|Putumayo]] y [[Amazonas (Colombia)|Amazonas]]. En esta zona en 1951 fue erigido el vicariato apostólico de Florencia (hoy arquidiócesis), abarcando como jurisdicción todo el Caquetá y la zona de [[Puerto Leguízamo]] en el Putumayo. La nueva circunscripción fue encomendada a los [[misioneros de la Consolata]].
+
+=== Vicariato apostólico y diócesis ===
+El vicariato apostólico de San Vicente-Puerto Leguízamo fue erigido el 9 de diciembre de 1985 mediante el decreto ''Cum propter'' de la [[Congregación para la Evangelización de los Pueblos]], obteniendo el territorio del vicariato apostólico de Florencia,<ref>(en latín) [[Congregación para la Evangelización de los Pueblos]], [https://www.vatican.va/archive/aas/documents/AAS-78-1986-ocr.pdf Decreto ''Cum propter''], AAS 78 (1986), p. 1171</ref> que el mismo día el [[papa]] [[Juan Pablo II]] elevó a diócesis. 
+
+En 1986 fue nombrado y tomó posesión como primer vicario apostólico Luis Augusto Castro Quiroga, quien estuvo al frente del vicariato apostólico por más de 11 años. Dio vida e impulsó la nueva circunscripción acompañado por un importante equipo eclesial conformado por los misioneros y misioneras de la Consolata, religiosos y religiosas de diversas comunidades, sacerdotes diocesanos y un número significativo de laicos voluntarios. Durante el gobierno de Castro Quiroga se fortaleció la tarea evangelizadora, organizó las estructuras tanto de formación y capacitación como de funcionamiento y administración, creando nuevas parroquias y abriendo obras como el Seminario Menor Juan Pablo II, la Ciudadela Juvenil Amazónica Don Bosco y el Instituto para la Educación Rural Francisco de Asís.
+
+En 1998 Castro Quiroga fue trasladado a la [[arquidiócesis de Tunja]] y en febrero de 1999 llegó Francisco Javier Múnera Correa.<ref name="vic">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9408 |título=Vicariatos Apostólicos de San Vicente - Puerto Leguízamo |fechaacceso=15 de marzo de 2011 |editorial=[[Conferencia Episcopal de Colombia]] |fechaarchivo=28 de diciembre de 2010 |urlarchivo=https://web.archive.org/web/20101228000940/http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9408 |deadurl=yes }}</ref>
+
+El 21 de febrero de 2013 cedió una porción de su territorio para la erección del vicariato apostólico de Puerto Leguízamo-Solano y tomó el nombre de vicariato apostólico de San Vicente mediante la [[bula]] ''Caritas Domini'' del papa [[Benedicto XVI]].<ref>(en latín) [https://www.vatican.va/content/benedict-xvi/la/apost_constitutions/documents/hf_ben-xvi_apc_20130221_portus-leguizamensis-solanensis.html Bula ''Caritas Domini''], AAS 105 (2013), pp.&nbsp;251-252.</ref> El 26 de noviembre siguiente recibió el nombre de vicariato apostólico de San Vicente del Caguán.<ref>{{Cita web|url=http://www.pccs.it/Documenti/Annuario_PDF/20131216_22.pdf|título=Aggiornamenti dell'Annuario Pontificio|fecha=16 de diciembre de 2013|página=4|urlarchivo=https://web.archive.org/web/20140506115306/http://www.pccs.it/Documenti/Annuario_PDF/20131216_22.pdf|urlmuerta=sí|idioma=italiano|fechaarchivo=.}}</ref><ref>{{Cita web|url=http://www.pccs.it/Documenti/Annuario_PDF/20140101_23.pdf|título=Rettifica dell'aggiornamento|fecha=1 de enero de 2014|página=3|urlarchivo=https://web.archive.org/web/20140506130827/http://www.pccs.it/Documenti/Annuario_PDF/20140101_23.pdf|urlmuerta=sí|fechaarchivo=.}}</ref>
+
+El 30 de mayo de 2019, mediante la bula ''Quidquid prius'' del papa [[Francisco (papa)|Francisco]], el vicariato apostólico fue elevado a diócesis, sufragánea de la [[arquidiócesis de Ibagué]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/2019/acta-giugno2019.pdf Bula ''Quidquid prius''], AAS 111 (2019), pp. 833-834.</ref><ref>{{cita web|título=Boletín Público de la Santa Sede|url=http://press.vatican.va/content/salastampa/es/bollettino/pubblico/2019/05/30/rem.html|idioma=Español|fechaacceso=31 de mayo de 2019}}</ref> El 13 de julio del mismo año la diócesis pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Florencia.
+
+El 5 de julio de 2024 el papa Francisco designó como nuevo obispo a William Prieto Daza, que ejercía como párroco en la iglesia Inmaculada Concepción en el municipio de [[Restrepo (Meta)|Restrepo]] (Meta).<ref>{{Cita publicación|url=http://dx.doi.org/10.1109/cec.2002.1004556|título=CEC'02 author index|fecha=2002|publicación=Proceedings of the 2002 Congress on Evolutionary Computation CEC 02 (Cat No 02TH8600) CEC-02|editorial=IEEE|fechaacceso=2024-07-05|doi=10.1109/cec.2002.1004556}}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 98&nbsp;300 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12  |Vicariato apostólico de San Vicente-Puerto Leguízamo
+|- align="right"
+| 1990 || 207&nbsp;000 || 212&nbsp;000 || 97.6 || 18 || 1 || 17 || 11&nbsp;500 ||  || 22 || 12 || 11
+|- align="right"
+| 1999 || 130&nbsp;000 || 150&nbsp;000 || 86.7 || 30 || 9 || 21 || 4333 ||  || 25 || 17 || 15
+|- align="right"
+| 2000 || 130&nbsp;000 || 150&nbsp;000 || 86.7 || 31 || 8 || 23 || 4193 ||  || 28 || 17 || 15
+|- align="right"
+| 2001 || 130&nbsp;000 || 150&nbsp;000 || 86.7 || 33 || 10 || 23 || 3939 ||  || 30 || 19 || 15
+|- align="right"
+| 2002 || 120&nbsp;000 || 150&nbsp;000 || 80.0 || 33 || 8 || 25 || 3636 ||  || 32 || 20 || 32
+|- align="right"
+| 2003 || 120&nbsp;000 || 150&nbsp;000 || 80.0 || 27 || 4 || 23 || 4444 ||  || 36 || 22 || 16
+|- align="right"
+| 2004 || 120&nbsp;000 || 150&nbsp;000 || 80.0 || 32 || 7 || 25 || 3750 ||  || 35 || 22 || 18
+|- align="right"
+| 2008 || 129&nbsp;100 || 159&nbsp;300 || 81.0 || 26 || 4 || 22 || 4965 ||  || 25 || 21 || 18
+|- align="center"
+!colspan=12  |Vicariato apostólico de San Vicente
+|- align="right"
+| 2013 || 84&nbsp;000 || 96&nbsp;000 || 87.5 || 8 || 16 || 24 || 3500 ||  ||  || 16 || 12
+|- align="right"
+| 2014 || 90&nbsp;000 || 110&nbsp;000 || 81.8 || 18 || 7 || 11 || 5000 ||  || 14 || 17 || 14
+|- align="right"
+| 2017 || 93&nbsp;000 || 113&nbsp;530 || 81.9 || 20 || 8 || 12 || 4650 ||  || 16 || 15 || 14
+|- align="center"
+!colspan=12  |Diócesis de San Vicente del Caguán
+|- align="right"
+| 2020 || 96&nbsp;000 || 117&nbsp;250 || 81.9 || 22 || 15 || 7 || 4364 ||  || 11 || 15 || 14
+|- align="right"
+| 2022 || 98&nbsp;300 || 120&nbsp;000 || 81.9 || 23 || 16 || 7 || 4273 ||  || 11 || 15 || 14
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dsvic.html |título=''Diocese of San Vicente del Caguán''|fechaacceso=13 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=3 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Luis Augusto Castro Quiroga]], [[Misioneros de la Consolata|I.M.C.]] † (17 de octubre de '''1986'''-2 de febrero de '''1998''' nombrado arzobispo de [[Arquidiócesis de Tunja|Tunja]])
+* [[Francisco Javier Múnera Correa]], I.M.C. (28 de noviembre de '''1998'''-25 de marzo de '''2021''' nombrado arzobispo de [[Arquidiócesis de Cartagena de Indias|Cartagena]])
+** ''Sede vacante (2021-2024)''<ref group='nota'>Durante la vacancia de la sede fue administrador apostólico [[Omar de Jesús Mejía Giraldo]], arzobispo metropolitano de [[Arquidiócesis de Florencia (Colombia)|Florencia]].</ref>
+* William Prieto Daza, desde el 5 de julio de '''2024'''
+
+== Véase también ==
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/zvic1.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/san-vicente-del-cagu%C3%A1n Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Provincia eclesiástica de Florencia (Colombia)|San Vicente del Caguan]]
+[[Categoría:Religión en San Vicente del Caguán]]
+[[Categoría:Diócesis de Colombia|San Vicente del Caguan]]
+[[Categoría:Diócesis creadas por Juan Pablo II|San Vicente del Caguan]]
+[[Categoría:Diócesis creadas en el siglo XX|San Vicente del Caguan]]

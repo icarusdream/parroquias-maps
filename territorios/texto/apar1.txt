@@ -1,1 +1,171 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Apartadó
+|tipo                    = diócesis
+|latín                   = Apartadoën(sis)
+|escudo                  = Escudo de la Diócesis de Apartadó.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|18|6|1988}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Quo aptius''
+|sufragánea              = [[arquidiócesis de Santa Fe de Antioquia]]
+|patrón                  =
+|catedral                = [[Catedral de Nuestra Señora del Carmen (Apartadó)|de Nuestra Señora del Carmen]]
+|sede                    = [[Apartadó]]
+|región tipo             = Departamento
+|región                  = [[Antioquia]]
+|país                    = {{COL}}
+|curia                   = Curia Episcopal, Calle 100 N. 94-109, barrio La Chinita, Apartadó
+|concatedral             = 
+|ordinario               = [[Carlos Alberto Correa Martínez]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador diocesano =
+|parroquias              = 43
+|población total         = 668&nbsp;700
+|población año           = 2022
+|fieles                  = 497&nbsp;568
+|porcentaje fieles       = 74.4
+|sacerdotes              = 58
+|área                    = 26&nbsp;000 km²
+|mapa                    = Mapa Diocesis Apartado.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdeapartado.org/ www.diocesisdeapartado.org]
+}}
+
+La '''diócesis de Apartadó''' ({{lang-la|Dioecesis Apartadoënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Santa Fe de Antioquia]]. Desde el 19 de marzo de 2024 su [[obispo]] es [[Carlos Alberto Correa Martínez]].
+
+== Territorio y organización ==
+La diócesis tiene 26&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en los departamentos de:<ref>{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/apartado_diocesis_700.gif |título=Diócesis de Apartadó |fechaacceso=2 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111105161402/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/apartado_diocesis_700.gif |fechaarchivo=5 de noviembre de 2011 }}</ref>
+* [[Antioquia]], comprendiendo los municipios de: [[Apartadó]], [[Arboletes]], [[Carepa]], [[Chigorodó]], [[Mutatá]], [[Necoclí]], [[San Juan de Urabá]], [[San Pedro de Urabá]] y [[Turbo (Antioquia)|Turbo]]; 
+* [[Chocó]], comprendiendo los municipios de: [[Acandí]], [[El Carmen del Darién|Carmen del Darién]], [[Belén de Bajirá|Nuevo Belén de Bajirá]] (creado en 2022 con área disputada por Antioquia), [[Riosucio (Chocó)|Riosucio]] y [[Unguía]].
+
+Limita al norte con el [[mar Caribe]], al nordeste con la [[diócesis de Montería]], al este con la [[diócesis de Montelíbano]], al sureste con la arquidiócesis de Santa Fe de Antioquia, al sur con la [[diócesis de Quibdó]], al suroeste con la [[diócesis de Istmina-Tadó]], y al noroeste con la [[diócesis de Chitré]] y la [[diócesis de Colón-Kuna Yala]] (ambas en [[Panamá]]).
+
+La sede de la diócesis se encuentra en la ciudad de [[Apartadó]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Apartadó)|Catedral de Nuestra Señora del Carmen]].
+
+En 2022 en la diócesis existían 43 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicarías foráneas:
+; Vicaría de San Sebastián
+Tiene en su jurisdicción las parroquias de los municipios de Carepa, Chigorodó y Mutatá, todos ubicados en el departamento de Antioquia:
+* Nuestra Señora del Carmen, Mutatá;
+* Divina Providencia, vereda Jurado, Chigorodó;
+* Nuestra Señora de Belén, Nuevo Belén de Bajirá;
+* San Sebastián, Chigorodó;
+* Divino Niño, barrio 10 de Enero, Chigorodó;
+* María Auxiliadora, barrio Brisas del Río, Chigorodó;
+* San Pedro Claver, barrio El Bosque, Chigorodó;
+* San Isidro Labrador, barrio Pueblo Nuevo, Carepa;
+* San Martín de Porres, barrio Gaitán, Carepa;
+* Nuestra Señora de Guadalupe, Carepa;
+* La Anunciación, corregimiento Zungo Embarcadero, Carepa.
+; Vicaría de la Divina Eucaristía
+Tiene bajo su jurisdicción las parroquias del municipio de Apartadó, del departamento de Antioquia:
+* Sagrado Corazón de Jesús, corregimiento El Reposo;
+* San Francisco de Asís, barrio Pueblo Nuevo;
+* Divina Eucaristía;
+* Inmaculada Concepción, barrio Vélez;
+* Nuestra Señora la Antigua-catedral;
+* San Fernando Rey, barrio San Fernando;
+* San José Obrero, barrio Antonio Roldan;
+* Divino Ecce Homo, barrio Obrero Bloque 3;
+; Vicaría Nuestra Señora del Carmen
+Tiene bajo su jurisdicción las parroquias del municipio de Turbo, del departamento de Antioquia:
+* San José, corregimiento Nueva Colonia;
+* María Auxiliadora, corregimiento Nueva Antioquia;
+* Santa Cruz, corregimiento Currulao;
+* Santísima Trinidad, corregimiento El Tres;
+* Divino Niño;
+* Nuestra Señora del Carmen, barrio Centro;
+* Divino Ecce Homo, barrio La Playa;
+* Santísima Trinidad, barrio Brisas del Mar.
+; Vicaría de Santa María de la Antigua
+Tiene bajo su jurisdicción las parroquias en los municipios Acandí, Unguia, Riosucio y El Carmen del Darién, todos ubicados en el departamento del Chocó:
+* San Pedro Apóstol, Gilgal, Unguia;
+* San Isidro Labrador, Balboa, Unguia;
+* Sagrada Familia, Unguía;
+* Nuestra Señora del Carmen, Riosucio;
+* Nuestra Señora del Carmen, Acandí;
+* Nuestra Señora del Carmen, Capurganá, Acandí;
+* Niña María, El Carmen del Darién.
+; Vicaría San Juan de la Cruz
+Tiene en su jurisdicción las parroquias de los municipios de Arboletes, Necocli, San Juan de Uraba y San Pedro de Uraba, todos ubicados en el departamento de Antioquia:
+* Espíritu Santo, corregimiento El Totumo, Necoclí;
+* Nuestra Señora del Carmen, Necoclí;
+* San Juan de la Cruz, San Juan de Urabá;
+* Inmaculada Concepción, Arboletes;
+* San Pedro Apóstol, San Pedro de Urabá;
+* Nuestra Señora de la Candelaria, corregimiento Candelaria, Arboletes.
+
+== Historia ==
+La diócesis fue erigida el 18 de junio de 1988 mediante la [[bula]] ''Quo aptius'' del [[papa]] [[Juan Pablo II]], derivando el territorio del vicariato apostólico de Quibdó (hoy [[diócesis de Quibdó]]) y de la diócesis de Antioquia, que al mismo tiempo fue elevada al rango de arquidiócesis metropolitana, asumiendo el nombre de arquidiócesis de Santa Fe de Antioquia.<ref>(en latín) [https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880628_apartadoensis.html Bula ''Quo aptius''], AAS 80 (1988), pp.&nbsp;1735-1736.</ref> [[Isaías Duarte Cancino]] fue nombrado como su primer obispo, el cual tomó posesión el 19 de agosto siguiente. 
+
+El 18 de marzo de 1997 [[Tulio Duque Gutiérrez]] fue nombrado obispo y tomó posesión canónica el 19 de abril siguiente; no obstante, fue nombrado obispo de la [[diócesis de Pereira]] en 2001, siendo reemplazado por [[Héctor Salah Zuleta]] como administrador apostólico. En 2002 [[Germán García Isaza]] fue nombrado obispo, tomando posesión el 27 de abril. Murió el 11 de octubre de 2006 y fue sucedido por [[Luis Adriano Piedrahíta Sandovao]].
+
+En 1990 se estableció el [[seminario]] menor, y al año siguiente también el mayor, dedicado a santa María la Antigua.
+
+En 1992 se inauguró el santuario de Santa María la Antigua, con motivo del quinto centenario de la [[evangelización]] de [[América]].
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 497&nbsp;568 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1990 || 326&nbsp;000 || 356&nbsp;000 || 91.6 || 31 || 24 || 7 || 10&nbsp;516 || 1 || 8 || 58 || 21
+|- align="right"
+| 1999 || 360&nbsp;000 || 400&nbsp;000 || 90.0 || 47 || 41 || 6 || 7659 ||  || 12 || 94 || 30
+|- align="right"
+| 2000 || 360&nbsp;000 || 400&nbsp;000 || 90.0 || 48 || 42 || 6 || 7500 ||  || 12 || 95 || 31
+|- align="right"
+| 2001 || 400&nbsp;000 || 500&nbsp;000 || 80.0 || 57 || 52 || 5 || 7017 ||  || 11 || 95 || 32
+|- align="right"
+| 2002 || 400&nbsp;000 || 500&nbsp;000 || 80.0 || 66 || 60 || 6 || 6060 ||  || 11 || 90 || 32
+|- align="right"
+| 2003 || 350&nbsp;000 || 500&nbsp;000 || 70.0 || 66 || 62 || 4 || 5303 ||  || 10 || 95 || 37
+|- align="right"
+| 2004 || 350&nbsp;000 || 500&nbsp;000 || 70.0 || 68 || 64 || 4 || 5147 ||  || 10 || 95 || 37
+|- align="right"
+| 2006 || 362&nbsp;000 || 516&nbsp;000 || 70.2 || 62 || 55 || 7 || 5838 ||  || 14 || 94 || 38 
+|- align="right"
+| 2012 || 393&nbsp;000 || 558&nbsp;000 || 70.4 || 55 || 50 || 5 || 7145 || || 10 || 116 || 42
+|- align="right"
+| 2015 || 407&nbsp;600 || 577&nbsp;000 || 70.6 || 63 || 58 || 5 || 6469 || || 8 || 35 || 42
+|- align="right"
+| 2018 || 495&nbsp;000 || 656&nbsp;520 || 75.4 || 55 || 52 || 3 || 9000 || || 5 || 95 || 43
+|- align="right"
+| 2020 || 497&nbsp;100 || 667&nbsp;540 || 74.5 || 55 || 52 || 3 || 9038 ||  || 5 || 95 || 43
+|- align="right"
+| 2022 || 497&nbsp;568 || 668&nbsp;700 || 74.4 || 58 || 55 || 3 || 8578 ||  || 5 || 87 || 43
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dapac.html |título=''Diocese of Apartadó''|fechaacceso=1 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=30 de junio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Isaías Duarte Cancino]] † (18 de junio de '''1988'''-19 de agosto de '''1995''' nombrado arzobispo de [[Arquidiócesis de Cali|Cali]])
+* [[Tulio Duque Gutiérrez]], [[Sociedad del Divino Salvador|S.D.S.]] (18 de marzo de '''1997'''-25 de julio de '''2001''' nombrado obispo de [[Diócesis de Pereira|Pereira]])
+* [[Germán García Isaza]], [[Congregación de la Misión|C.M.]] † (1 de marzo de '''2002'''-11 de octubre de '''2006''' falleció)
+* [[Luis Adriano Piedrahita Sandoval]] † (3 de julio de '''2007'''-5 de agosto de '''2014''' nombrado obispo de [[Diócesis de Santa Marta|Santa Marta]])
+* [[Hugo Alberto Torres Marín]] (29 de septiembre de '''2015'''-25 de enero de '''2023''' nombrado arzobispo de [[Arquidiócesis de Santa Fe de Antioquia|Santa Fe de Antioquia]])<ref group='nota'>Fue administrador apostólico desde el 9 de octubre de 2014.</ref>
+* [[Carlos Alberto Correa Martínez]], desde el 19 de marzo de '''2024'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/apar1.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-apartad%C3%B3 Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Apartadó| ]]

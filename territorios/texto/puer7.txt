@@ -1,1 +1,114 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Vicariato apostólico de Puerto Carreño
+|tipo                    = vicariato
+|latín                   = Portus Carrenien(sis)
+|escudo                  = Escudo del Vicariato de Puerto Carreño.svg
+|pie escudo              = Escudo del vicariato apostólico
+|imagen                  = Iglesia de Puerto Carreño - panoramio.jpg
+|pie imagen              = Catedral de Nuestra Señora del Carmen
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|22|12|1999}}
+|erección tipo           = vicariato apostólico
+|bulaPontificia          = ''Spiritali fidelium''
+|sufragánea              = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+|patrón                  =
+|catedral                = [[Catedral de Nuestra Señora del Carmen (Puerto Carreño)|de Nuestra Señora del Carmen]]<ref name="cat">{{Cita web |url=https://www.gcatholic.org/churches/data/cathCO.htm|título=Cathedrals in Colombia|fechaacceso=20 de marzo de 2011  |idioma=inglés |editorial=Giga-Catholic}}</ref>
+|sede                    = [[Puerto Carreño]]
+|región tipo             = Departamento
+|región                  = [[Vichada]]
+|país                    = {{COL}}
+|curia                   = Avenida Orinoco N. 7-19, Puerto Carreño
+|concatedral             =
+|ordinario               = [[Álvaro Mon Pérez]], [[Congregación del Santísimo Redentor|C.SS.R.]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 7
+|población total         = 51&nbsp;600
+|población año           = 2022
+|fieles                  = 40&nbsp;100
+|porcentaje fieles       = 77.7
+|sacerdotes              = 18
+|área                    = 57&nbsp;000 km²
+|mapa                    = Mapa Vicariato Apostolico de Puerto Carreño.svg
+|pie mapa                = Localización y extensión del vicariato apostólico
+|sitio web               = [https://web.archive.org/web/20130612024321/http://www.vicariatoapostolicopuertocarreno.org/ www.vicariatoapostolicopuertocarreno.org]
+}}
+
+El '''vicariato apostólico de Puerto Carreño''' ({{lang-la|Vicariatus Apostolicus Portus Carreniensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Villavicencio|Villavicencio]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3lico-de-puerto-carre%C3%B1o Sitio web] de la CEC</ref> Desde el 30 de marzo de 2023 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[Álvaro Mon Pérez]], de la [[Congregación del Santísimo Redentor]].<ref group="nota">No se le asignó una [[sede titular]].</ref> 
+
+== Territorio y organización ==
+El vicariato apostólico tiene 57&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en parte del [[Vichada|departamento de Vichada]], comprendiendo los municipios de: [[La Primavera]], [[Puerto Carreño]], [[Santa Rosalía (Colombia)|Santa Rosalía]] y la parte oriental del de [[Cumaribo]].
+
+Limita al norte y al este con [[Venezuela]], al sur con el [[vicariato apostólico de Inírida]] y la [[diócesis de San José del Guaviare]], al oeste con el [[vicariato apostólico de Puerto Gaitán]] y al noroeste con el [[vicariato apostólico de Trinidad]] y la [[diócesis de Arauca]].<ref name="lim">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/pto_carre_o_vicariato_700.gif |título=Mapa del Vicariato Apostólico de Puerto Carreño |fechaacceso=20 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111118222235/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/pto_carre_o_vicariato_700.gif |fechaarchivo=18 de noviembre de 2011 }}</ref>
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[Puerto Carreño]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Puerto Carreño)|Catedral de Nuestra Señora del Carmen]].
+
+En 2022 en el vicariato apostólico existían 7 [[Parroquia (religión)|parroquias]]:
+
+== Historia ==
+El vicariato apostólico fue erigido el 22 de diciembre de 1999 mediante la [[bula]] ''Spiritali fidelium'' del [[papa]] [[Juan Pablo II]], obteniendo el territorio de la [[prefectura apostólica de Vichada]], que fue simultáneamente suprimida.<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19991222_spiritali-fidelium_lt.html Bula ''Spiritali fidelium''], AAS 92 (2000), pp.&nbsp;378-379.</ref>
+
+El primer vicario apostólico de Puerto Carreño fue Álvaro Efrén Rincón Rojas de la Comunidad Redentorista, nombrado el 22 de diciembre de 1999, ordenado obispo el 24 de marzo de 2000 y que tomó posesión el 2 de abril de 2000.
+
+El 10 de junio de 2010 nombró al sacerdote Francisco Antonio Ceballos Escobar, quien era el provicario de esta circunscripción, como nuevo vicario apostólico.<ref>{{Cita web|url=http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9102|título=Vicariato Apostólico de Puerto Carreño|fechaacceso=20 de marzo de 2011|idioma=español|editorial=[[Conferencia Episcopal de Colombia]]|fechaarchivo=27 de diciembre de 2010|urlarchivo=https://web.archive.org/web/20101227235937/http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9102|deadurl=yes}}</ref>
+
+El actual vicario apostólico de Puerto Carreño es Álvaro Mon Pérez de la Comunidad Redentorista, nombrado el 30 de marzo de 2023, ordenado obispo el 22 de mayo de 2023 y que tomó posesión el 8 de junio del mismo año.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 40&nbsp;100 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 2000 || 24&nbsp;300 || 33&nbsp;000 || 73.6 || 7 || 1 || 6 || 3471 ||  || 6 || 7 || 3
+|- align="right"
+| 2001 || 27&nbsp;417 || 33&nbsp;000 || 83.1 || 5 ||  || 5 || 5483 ||  || 5 || 7 || 4
+|- align="right"
+| 2002 || 27&nbsp;758 || 34&nbsp;000 || 81.6 || 7 || 1 || 6 || 3965 ||  || 8 || 7 || 5
+|- align="right"
+| 2003 || 28&nbsp;157 || 35&nbsp;000 || 80.4 || 8 || 2 || 6 || 3519 ||  || 14 || 7 || 5
+|- align="right"
+| 2004 || 29&nbsp;000 || 40&nbsp;000 || 72.5 || 6 || 1 || 5 || 4833 ||  || 10 || 6 || 4
+|- align="right"
+| 2010 || 30&nbsp;400 || 42&nbsp;250 || 72.0 || 9 || 3 || 6 || 3377 ||  || 7 || 3 || 4
+|- align="right"
+| 2014 || 33&nbsp;800 || 44&nbsp;200 || 76.5 || 8 || 4 || 4 || 4225 ||  || 5 || 3 || 3
+|- align="right"
+| 2017 || 37&nbsp;000 || 47&nbsp;500 || 77.9 || 9 || 5 || 4 || 4111 || 1 || 7 || 2 || 6
+|- align="right"
+| 2020 || 38&nbsp;900 || 49&nbsp;800 || 78.1 || 11 || 6 || 5 || 3536 || 1 || 6 ||  || 7
+|- align="right"
+| 2022 || 40&nbsp;100 || 51&nbsp;600 || 77.7 || 18 || 10 || 8 || 2227 || 1 || 10 ||  || 7
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dpucr.html |título=''Vicariate Apostolic of Puerto Carreño'' |fechaacceso=30 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Álvaro Efrén Rincón Rojas]], [[Congregación del Santísimo Redentor|C.SS.R.]] (22 de diciembre de '''1999'''-10 de junio de '''2010''' retirado)
+* [[Francisco Antonio Ceballos Escobar]], C.SS.R. (10 de junio de '''2010'''-22 de abril de '''2020''' nombrado obispo de [[Diócesis de Riohacha|Riohacha]])
+** ''Sede vacante (2020-2023)''<ref group='nota'>Del 25 de abril de 2020 al 8 de junio de 2023, día de la toma de posesión de Álvaro Mon Pérez, [[Congregación del Santísimo Redentor|C.SS.R.]], fue administrador apostólico Raúl Alfonso Carrillo Martínez, vicario apostólico de [[Vicariato apostólico de Puerto Gaitán|Puerto Gaitán]] y obispo titular de [[Diócesis de Afufenia|Afufenia]].</ref>
+* [[Álvaro Mon Pérez]], C.SS.R., desde el 30 de marzo de '''2023'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/puer7.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3lico-de-puerto-carre%C3%B1o Ficha del vicariato apostólico] {{Wayback|url=https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3lico-de-puerto-carre%C3%B1o |date=20201127005738 }} en el sitio web de la Conferencia Episcopal de Colombia
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|Puerto Carrenzzo]]
+[[Categoría:Vichada]]
+[[Categoría:Diócesis creadas por Juan Pablo II|Puerto Carrenzzo]]

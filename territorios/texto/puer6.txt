@@ -1,1 +1,108 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+| nombre = Vicariato Apostólico de Puerto Gaitán
+| tipo = Vicariato
+| latín = Portus Gaitani
+| escudo = Escudo del Vicariato de Puerto Gaitán.svg
+| pie escudo = Escudo del Vicariato Apostólico
+| imagen = no
+| pie imagen = 
+| iglesia = [[Iglesia Católica|Católica]]
+| iglesia sui iuris = [[Iglesia Latina|Latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|22|12|1999}}
+| erección tipo = Vicariato Apostólico
+| bulaPontificia = ''Manifestavit Dominus''
+| sufragánea = [[Arquidiócesis de Villaviencio]]
+| patrón = María, Madre de la Iglesia y San Luis María Grignion de Montfort
+| catedral = [[Catedral de María Madre de la Iglesia (Puerto Gaitán)|de María Madre de la Iglesia]]<ref name="cat">{{Cita web |url=https://www.gcatholic.org/churches/southamerica/4913.htm|título=Cathedral of Mary Mother of the Church|fechaacceso=20 de marzo de 2011  |idioma=inglés |editorial=Giga-Catholic}}</ref>
+| sede = [[Puerto Gaitán]]
+| región tipo = Departamento
+| región = [[Meta (Colombia)|Meta]]
+| país = {{COL}}
+| curia = Catedral María Madre de la Iglesia, Carrera 10 n. 22-11, Barrio Alto Manacacías, Puerto Gaitán
+| concatedral = 
+| ordinario = [[Raúl Alfonso Carrillo|Raúl Alfonso Carrillo Martínez]]
+| auxiliar = 
+| emérito = 
+| vicario = 
+| administrador apostólico = 
+| parroquias = 14
+| población total = 217&nbsp;800
+| población año = 2022
+| fieles = 203&nbsp;200
+| porcentaje fieles = 80.3
+| sacerdotes = 21
+| área = 56&nbsp;400 km²
+| mapa = Mapa Vicariato Apostolico de Puerto Gaitan.svg
+| pie mapa = Localización y extensión del vicariato apostólico
+| sitio web = [www.vicariatoapostolicopuertogaitan.org https://m.facebook.com/VicPtoGaitan Página en Facebook]
+}}
+
+El '''vicariato apostólico de Puerto Gaitán''' ({{lang-la|Vicariatus Apostolicus Portus Gaitani}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Villavicencio|Villavicencio]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3licos-de-puerto-gait%C3%A1n Sitio web] de la CEC</ref> Desde el 8 de abril de 2016 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[Raúl Alfonso Carrillo|Raúl Alfonso Carrillo Martínez]].<ref group="nota">[[Obispo titular]] de [[Diócesis de Afufenia|Afufenia]].</ref> 
+
+== Territorio y organización ==
+El vicariato apostólico tiene 56&nbsp;400 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en el municipio de [[Puerto Gaitán]] en el [[Meta (Colombia)|departamento de Meta]] y la parte occidental del municipio de [[Cumaribo]] en el [[Vichada|departamento de Vichada]].
+
+Limita al norte con el [[vicariato apostólico de Trinidad]], al este con el [[vicariato apostólico de Puerto Carreño]], al sur con la [[diócesis de San José del Guaviare]] y al oeste con la [[arquidiócesis de Villavicencio]].<ref name="lim">{{Cita web|url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/puerto_gaitan_vicariato_700.gif|título=Mapa del Vicariato Apostólico de Puerto Gaitán|fechaacceso=20 de marzo de 2011|idioma=español|editorial=[[Conferencia Episcopal de Colombia]]|urlarchivo=https://web.archive.org/web/20111121142746/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/puerto_gaitan_vicariato_700.gif|fechaarchivo=21 de noviembre de 2011}}</ref>
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[Puerto Gaitán]], en donde se halla la [[Catedral de María Madre de la Iglesia (Puerto Gaitán)|Catedral de María Madre de la Iglesia]].
+
+En 2022 en el vicariato apostólico existían 12 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+El vicariato apostólico fue erigido el 22 de diciembre de 1999 mediante la bula ''Manifestavit Dominus'' del [[papa]] [[Juan Pablo II]], obteniendo el territorio de la [[prefectura apostólica de Vichada]] (erigida el 7 de abril de 1956), simultáneamente suprimida, y de la diócesis de Villavicencio (hoy [[arquidiócesis de Villavicencio]]).<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19991222_manifestavit-dominus_lt.html Bula ''Manifestavit Dominus''], AAS 92 (2000), pp.&nbsp;565-566.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 203&nbsp;200 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 2000 || 23&nbsp;700 || 42&nbsp;000 || 56.4 || 9 || 1 || 8 || 2633 ||  || 8 || 10 || 2
+|- align="right"
+| 2001 || 50&nbsp;000 || 60&nbsp;000 || 83.3 || 15 || 5 || 10 || 3333 ||  || 11 || 6 || 9
+|- align="right"
+| 2002 || 55&nbsp;000 || 65&nbsp;000 || 84.6 || 13 || 5 || 8 || 4230 ||  || 9 || 10 || 9
+|- align="right"
+| 2003 || 65&nbsp;000 || 90&nbsp;000 || 72.2 || 15 || 7 || 8 || 4333 ||  || 9 || 10 || 16
+|- align="right"
+| 2004 || 70&nbsp;000 || 110&nbsp;000 || 63.6 || 15 || 7 || 8 || 4666 ||  || 9 || 10 || 8
+|- align="right"
+| 2010 || 78&nbsp;900 || 122&nbsp;000 || 64.7 || 26 || 21 || 5 || 3034 ||  || 5 || 5 || 6
+|- align="right"
+| 2014 || 82&nbsp;700 || 129&nbsp;500 || 63.9 || 35 || 20 || 5 || 3308 ||  || 10 ||  || 10
+|- align="right"
+| 2017 || 194&nbsp;525 || 208&nbsp;870 || 93.1 || 27 || 25 || 2 || 7204 ||  || 4 ||  || 13
+|- align="right"
+| 2020 || 196&nbsp;885 || 211&nbsp;400 || 93.1 || 28 || 26 || 2 || 7031 ||  || 6 ||  || 13
+|- align="right"
+| 2022 || 203&nbsp;200 || 217&nbsp;800 || 93.3 || 22 || 21 || 1 || 9236 ||  || 3 ||  || 12
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dpuga.html |título=''Vicariate Apostolic of Puerto Gaitán'' |fechaacceso=2 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[José Alberto Rozo Gutiérrez]], [[Compañía de María Monfortana|S.M.M.]] † (22 de diciembre de 1999 - 2 de marzo de 2012). Falleció el 24 de mayo de 2018.
+* ''Sede vacante (2012-2014). Administrador apostólico: P. Oswaldo Jaramillo S.M.M.''
+* [[Luis Horacio Gómez González]] † (10 de julio de 2014 -  8 de abril de 2016). Falleció el 17 de abril de 2016.
+* [[Raúl Alfonso Carrillo|Raúl Alfonso Carrillo Martínez]], (8 de abril de 2016 - hasta la actualidad)
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://www.gcatholic.org/dioceses/diocese/puer6.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3licos-de-puerto-gait%C3%A1n Ficha del vicariato apostólico] {{Wayback|url=https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3licos-de-puerto-gait%C3%A1n |date=20200811065552 }} en el sitio web de la Conferencia Episcopal de Colombia
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|Puerto Gaitan]]
+[[Categoría:Vichada]]
+[[Categoría:Diócesis creadas por Juan Pablo II|Puerto Gaitan]]

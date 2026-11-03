@@ -1,1 +1,224 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Vicariato apostólico de San Andrés y Providencia
+|tipo                    = vicariato
+|latín                   = Sancti Andreae et Providentiae
+|escudo                  = Escudo del Vicariato de San Andrés y Providencia.svg
+|pie escudo              = Escudo del vicariato apostólico
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|20|6|1912}}
+|erección tipo           = misión sui iuris
+|bulaPontificia          = 
+|elevación prefectura    = {{fecha|14|11|1946}}
+|elevación vicariato     = {{fecha|5|12|2000}}
+|sufragánea              = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+|patrón                  =
+|catedral                = [[Catedral de la Sagrada Familia (San Andrés)|de la Sagrada Familia]]<ref name="cat">{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#hcf|título=Cathedrals in Colombia|fechaacceso=20 de marzo de 2011 |idioma=inglés |editorial=Giga-Catholic}}</ref>
+|sede                    = [[San Andrés (San Andrés y Providencia)|San Andrés]]
+|región tipo             = Departamento
+|región                  = [[Archipiélago de San Andrés, Providencia y Santa Catalina]]
+|país                    = {{COL}}
+|curia                   = Vía San Luis 4-140, isla de San Andrés
+|concatedral             =
+|ordinario               = Vacante
+|auxiliar                =
+|emérito                 = [[Eulises González Sánchez]]
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 12
+|población total         = 68&nbsp;700
+|población año           = 2022
+|fieles                  = 36&nbsp;400
+|porcentaje fieles       = 53.0
+|sacerdotes              = 8
+|área                    = 52 km²
+|mapa                    = Islas de San Andrés y Providencia.svg
+|pie mapa                = Localización y extensión del vicariato apostólico
+|sitio web               = [https://www.vicariatosanandresprovidencia.com/ www.vicariatosanandresprovidencia.com]
+}}
+
+El '''vicariato apostólico de San Andrés y Providencia''' ({{lang-la|Vicariatus Apostolicus Sancti Andreae et Providentiae}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Cartagena de Indias|Cartagena]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariatos-apost%C3%B3lico-de-san-andr%C3%A9s-y-providencia Sitio web] de la CEC</ref> Desde el 16 de abril de 2016 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[Jaime Uriel Sanabria Arias]].<ref group="nota">[[Obispo titular]] de [[Diócesis de Burca|Burca]].</ref>
+
+== Territorio y organización ==
+El vicariato apostólico tiene 52 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en el [[Archipiélago de San Andrés, Providencia y Santa Catalina|departamento del Archipiélago de San Andrés, Providencia y Santa Catalina]].
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[San Andrés (San Andrés y Providencia)|San Andrés]], en donde se halla la [[Catedral de la Sagrada Familia (San Andrés)|Catedral de la Sagrada Familia]].
+
+En 2022 en el vicariato apostólico existían 12 [[Parroquia (religión)|parroquias]]:
+* Catedral de la Sagrada Familia (Avenida San Luis, San Andrés);
+* Cuasi Parroquia la Divina Misericordia;
+* Cristo Salvador (Punta Hansa, San Andrés);
+* El Carmelo (Rock Hole, San Andrés);
+* Nuestra Señora de Los Dolores	(La Florida, Providencia);
+* Nuestra Señora del Carmen (San Felipe, Providencia);
+* Sagrado Corazón de Jesús (Natania, San Andrés);
+* San Francisco de Asís	(La Loma, San Andrés);
+* San José (Sound Bay, San Andrés);
+* San Judas Tadeo (Sarie Bay, San Andrés);
+* Divina Misericordia (Morris Landing);
+* Santa María Estrella del Mar (San Luis, San Andrés).<ref name="IGL">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba-;005;;9220-9220&m=b&c=9220 |título=Vicariato Apostólico de San Andrés y Providencia. Parroquias |fechaacceso=20 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+== Historia ==
+=== Antecedentes ===
+En tiempos de la [[colonialismo|colonia]] la Iglesia católica tuvo presencia en estas [[isla]]s. Formalmente, el territorio dependía de las diócesis creadas en el Caribe y Centroamérica, como la Diócesis de Nicaragua y Costa Rica (erigida en 1531) el obispo de Nicaragua Fray Diego Álvarez de Osorio por la lejanía y sin logística tuvo dificultades para atender la zona por lo que llegó a ser atendida por la diócesis de Cartagena de Indias que fue erigida el 24 de abril de 1534.
+En forma continua la [[evangelización]] comenzó en el año 1900 cuando el sacerdote [[Alemania|alemán]] Albert Stroebelle, trabajando en los [[Estados Unidos de América]], oyó hablar de que en estas islas no había sacerdotes y solicitó el permiso a su obispo para viajar a ese lugar. 
+
+Cuando llegó se dio cuenta de que sólo existía la [[Iglesia bautista]] establecida desde 1884. No obstante comenzó la obra evangelizadora. Cuenta él mismo que en la [[isla de Providencia]], al predicar durante la [[cuaresma]] en una iglesia bautista, por invitación del pastor Eusebio Howard, sobre la pasión y muerte de [[Jesucristo]], convirtió a la fe católica a toda la comunidad con su pastor a la cabeza, formando así la primera comunidad católica, bajo la advocación de [[Nuestra Señora de los Dolores]] y teniendo como templo el que antes era iglesia bautista de Bethel. 
+
+Al padre Stroebelle se le unió el sacerdote estadounidense Timothy Saint John, quien trabajó en la misión hasta 1910. Al morir, la misión pasó al Instituto Saint Joseph of the Sacred Herat de los Estados Unidos. Ese instituto envió a las islas a dos de sus miembros que se sucedieron el uno al otro durante el período de 1910 a 1913. Fueron estos el padre John Joseph Albert y el padre James Bartholomew.
+
+=== Misión sui iuris ===
+Tras la solicitud del arzobispo de [[Arquidiócesis de Cartagena de Indias|Cartagena]], [[Pedro Adán Brioschi]], quien encontraba difícil atender dicha porción de su jurisdicción a causa de la distancia y las dificultades de transporte, la [[Santa Sede]] estableció la misión ''[[Misión independiente|sui iuris]]'', el 20 de junio de 1912, separando el territorio de la arquidiócesis de Cartagena de Indias, y encargándola a los padres ingleses de la ''Sociedad Misionera de San José de Mill Hill'' (St. Joseph's Missionary Society of Mill Hill) de [[Londres]]. 
+
+Los misioneros arribaron a San Andrés a principios de 1913 y trabajaron hasta 1926, cuando por disposición de la [[Sagrada Congregación de Propaganda Fide]], entregaron la misión a los padres [[Orden de los Hermanos Menores Capuchinos|Capuchinos]] de la provincia de Valencia ([[España]]), quienes continuaron la obra evangelizadora enfocados en tres frentes: pastoral catequética, educación y promoción social. 
+
+=== Prefectura apostólica ===
+En 1946, por decreto del 14 de noviembre, la misión se erigió en [[prefectura apostólica]]. Al lado de los padres capuchinos y desde el principio, las Hermanas Terciarias Capuchinas trabajaron en la formación de la población infantil y juvenil fundando y dirigiendo el Colegio de la [[Sagrada Familia]], desde el que se afianzó la fe, y se colaboró en el desarrollo de las islas. 
+
+A partir de 1941 se ordenó el primer sacerdote nativo, el padre Eusebio Howard, al que siguieron los padres Martín Taylor, José Archbold, Benito Hufffington y Marcelino Hudgson. 
+
+=== Vicariato apostólico ===
+El 5 de diciembre de 2000 la prefectura apostólica fue elevada al [[vicariato apostólico]] mediante la [[bula]] ''De Evangelii proclamatione'' del [[papa]] [[Juan Pablo II]].<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_20001205_de-evangelii-proclamatione_lt.html Bula ''De Evangelii proclamatione''], AAS 93 (2001), p. 197.</ref> Como su primer vicario apostólico se nombró a Eulises González Sánchez, quien tomó posesión el 1 de abril de 2001.<ref name="his">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9220 |título=Vicariato Apostólico de San Andrés y Providencia |fechaacceso=20 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |fechaarchivo=28 de diciembre de 2010 |urlarchivo=https://web.archive.org/web/20101228001223/http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9220 |deadurl=yes }}</ref>
+
+El 25 de junio de 2016 se posesionó como segundo vicario apostólico Jaime Uriel Sanabria.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 36&nbsp;400 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 1546 || 7500 || 20.6 || 5 || 1 || 4 || 309 || || 4 || 20 || 2
+|- align="right"
+| 1965 || 8900 || 15&nbsp;600 || 57.1 || 8 || 3 || 5 || 1112 || || 10 || 23 || 4
+|- align="right"
+| 1968 || 13&nbsp;400 || 17&nbsp;500 || 76.6 || 9 || 4 || 5 || 1488 || || 6 || 26 || 7
+|- align="right"
+| 1976 || 17&nbsp;500 || 24&nbsp;500 || 71.4 || 7 || 3 || 4 || 2500 || || 9 || 27 || 5
+|- align="right"
+| 1980 || 20&nbsp;500 || 30&nbsp;800 || 66.6 || 6 || 2 || 4 || 3416 || || 9 || 25 || 6
+|- align="right"
+| 1990 || 34&nbsp;000 || 55&nbsp;000 || 61.8 || 8 || 4 || 4 || 4250 || || 5 || 26 || 7
+|- align="right"
+| 1999 || 50&nbsp;250 || 79&nbsp;250 || 63.4 || 8 || 5 || 3 || 6281 || || 4 || 26 || 8
+|- align="right"
+| 2000 || 32&nbsp;420 || 53&nbsp;562 || 60.5 || 10 || 5 || 5 || 3242 || 2 || 6 || 26 || 8
+|- align="right"
+| 2001 || 33&nbsp;910 || 57&nbsp;937 || 58.5 || 10 || 5 || 5 || 3391 || 2 || 5 || 26 || 9
+|- align="right"
+| 2002 || 42&nbsp;000 || 70&nbsp;000 || 60.0 || 12 || 9 || 3 || 3500 || 2 || 4 || 24 || 9
+|- align="right"
+| 2003 || 44&nbsp;000 || 75&nbsp;000 || 58.7 || 13 || 9 || 4 || 3384 || 2 || 5 || 26 || 9
+|- align="right"
+| 2004 || 50&nbsp;000 || 80&nbsp;000 || 62.5 || 14 || 9 || 5 || 3571 || 2 || 6 || 26 || 9
+|- align="right"
+| 2010 || 63&nbsp;000 || 92&nbsp;000 || 68.5 || 17 || 2 || 19 || 3315 || 2 || 2 || 15 || 10
+|- align="right"
+| 2014 || 66&nbsp;500 || 96&nbsp;000 || 69.3 || 14 || 12 || 2 || 4750 || 3 || 2 || 10 || 11
+|- align="right"
+| 2017 || 67&nbsp;000 || 93&nbsp;000 || 72.0 || 14 || 12 || 2 || 4785 || 3 || 2 || 10 || 11
+|- align="right"
+| 2020 || 66&nbsp;530 || 97&nbsp;240 || 68.4 || 7 || 6 || 1 || 9504 || 5 || 1 || 11 || 12
+|- align="right"
+| 2022 || 36&nbsp;400 || 68&nbsp;700 || 53.0 || 8 || 6 || 2 || 4550 || 5 || 4 || 9 || 12
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dsnyp.html |título=''Vicariate Apostolic of San Andrés y Providencia'' |fechaacceso=11 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=27 de septiembre de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Superior de misión ===
+{| class="wikitable"
+! rowspan="2" |Nombre
+! rowspan="2" |Nombrado por
+! colspan="2" |Episcopado
+! rowspan="2" |Destino
+|-
+!Comienzo
+!Final
+|-
+|Riccardo Turner, [[Sociedad Misionera de San José de Mill Hill|M.H.M.]] †
+|[[Pío X]]
+|'''1912'''
+|'''1926'''
+|Falleció
+|}
+
+=== Prefectos apostólicos ===
+{| class="wikitable"
+! rowspan="2" |Nombre
+! rowspan="2" |Nombrado por
+! colspan="2" |Episcopado
+! rowspan="2" |Comentarios
+|-
+!Comienzo
+!Final
+|-
+|[[Eugenio de Carcagente|Eugenio da Carcagente]], [[Orden de los Hermanos Menores Capuchinos|O.F.M.Cap.]] † 
+|[[Pío XII]]
+|23 de julio de '''1926'''
+|21 de octubre de '''1952'''
+|Falleció
+|-
+|[[Gaspar de Orihuela]], O.F.M.Cap. †
+|Pío XII
+|9 de enero de '''1953'''
+|'''1965'''
+| Falleció
+|-
+|[[Alfonso Robledo de Manizales]], O.F.M.Cap. †
+|[[Pablo VI]]
+|11 de enero de '''1966'''
+|'''1972'''
+|Falleció
+|-
+|[[Antonio Ferrándiz Morales]], O.F.M.Cap. †
+|Pablo VI
+|24 de marzo de '''1972'''
+|10 de noviembre de '''1998'''
+|Falleció
+|}
+
+=== Vicarios apostólicos ===
+{| class="wikitable"
+! rowspan="2" |Nombre
+! rowspan="2" |Nombrado por
+! colspan="2" |Episcopado
+! rowspan="2" |Comentarios
+|-
+!Comienzo
+!Final
+|-
+|[[Eulises González Sánchez]]
+|[[Juan Pablo II]]
+|5 de diciembre de '''2000'''
+|16 de abril de '''2016'''
+|Retirado
+|-
+|[[Jaime Uriel Sanabria Arias]]
+|[[Francisco (papa)|Francisco]]
+|Desde el 16 de abril de '''2016'''
+|Hasta 29 de junio '''2026'''
+|Trasladado a la [[Diócesis de Yopal]]
+|}
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/zand3.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3licos-de-san-andr%C3%A9s-y-providencia Ficha del vicariato apostólico] {{Wayback|url=https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3licos-de-san-andr%C3%A9s-y-providencia |date=20190306043225 }} en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|San Andres y Providencia]]
+[[Categoría:Diócesis creadas por Pío X|San Andres y Providencia]]
+[[Categoría:Isla de San Andrés (Colombia)]]

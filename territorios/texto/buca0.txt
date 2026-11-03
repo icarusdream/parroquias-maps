@@ -1,1 +1,133 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Arquidiócesis de Bucaramanga
+|tipo                    = arquidiócesis
+|latín                   = Bucaramanguen(sis)
+|escudo                  = Escudo de la Arquidiócesis de Bucaramanga.svg
+|pie escudo              = Escudo de la arquidiócesis
+|imagen                  = Iglesia Sagrada Familia, Bucaramanga, Santander.JPG
+|pie imagen              = Catedral de la Sagrada Familia
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|17|12|1952}}
+|erección tipo           = Diócesis
+|bulaPontificia          = ''Cum sit latior''
+|elevación arquidiócesis = {{fecha|14|12|1974}}
+|sufragáneas             = <li>[[Diócesis de Barrancabermeja|Barrancabermeja]]<li>[[Diócesis de Málaga-Soatá|Málaga-Soatá]]<li>[[Diócesis de Socorro y San Gil|Socorro y San Gil]]<li>[[Diócesis de Vélez|Vélez]]
+|patrón                  = Inmaculada Concepción
+|catedral                = [[Catedral de la Sagrada Familia (Bucaramanga)|de la Sagrada Familia]]
+|sede                    = [[Bucaramanga]]
+|región tipo             = departamento
+|región                  = [[Santander (Colombia)|Santander]]
+|país                    = {{COL}}
+|curia                   = Arzobispado, Cr 20 N. 36-06 Ps 8 Bucaramanga
+|concatedral             = 
+|ordinario               = [[Luis Augusto Campos Flórez]]
+|auxiliar                = 
+|emérito                 = [[Ismael Rueda Sierra]]
+|vicario                 = 
+|coadjutor               = 
+|administrador apostólico = 
+|parroquias              = 110
+|población total         = 1&nbsp;316&nbsp;368
+|población año           = 2022
+|fieles                  = 1&nbsp;265&nbsp;529
+|porcentaje fieles       = 96.1
+|sacerdotes              = 276
+|área                    = 5397 km²
+|mapa                    = Mapa Arquidiocesis de Bucaramanga.svg
+|pie mapa                = Localización y extensión de la arquidiócesis
+|sitio web               = [https://www.arquidiocesisdebucaramanga.com/ www.arquidiocesisdebucaramanga.com]
+}}
+
+La '''arquidiócesis de Bucaramanga''' ({{lang-la|Archidioecesis Bucaramanguensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Bucaramanga. Desde el 18 de abril de 2026 su [[arzobispo]] es [[Luis Augusto Campos Flórez]].<ref>{{cita web|título=La Iglesia colombiana anuncia a Luis Augusto Campos Flórez como arzobispo de Bucaramanga|url=https://adn.celam.org/la-iglesia-colombiana-anuncia-a-luis-augusto-campos-florez-como-arzobispo-de-bucaramanga/|fecha=27 de febrero de 2026|fechaacceso=7 de marzo de 2026|fechaarchivo=8 de marzo de 2026|sitioweb=adn.celam.org|urlmuerta=|urlarchivo=https://web.archive.org/web/20260308002651/https://adn.celam.org/la-iglesia-colombiana-anuncia-a-luis-augusto-campos-florez-como-arzobispo-de-bucaramanga/}}</ref>
+
+== Territorio y organización ==
+[[Archivo:Basílica. Sector antiguo de la ciudad de Girón, Santander. Colombia..JPG|thumb|miniatura|derecha|Basílica Menor Santuario Señor de los Milagros, en [[Girón (Colombia)|Girón]].]]
+
+La arquidiócesis tiene 5397 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 15 municipios del  [[Santander (Colombia)|departamento Santander]]: [[Rionegro (Santander)|Rionegro]], [[El Playón (Santander)|El Playón]], [[Suratá]], [[Matanza (Santander)|Matanza]], [[California (Santander)|California]], [[Vetas]], [[Charta]], [[Lebrija (Colombia)|Lebrija]], [[Bucaramanga]], [[Tona (Santander)|Tona]], [[Floridablanca (Colombia)|Floridablanca]], [[San Juan de Girón|Girón]], [[Piedecuesta]], [[Santa Bárbara (Santander)|Santa Bárbara]] y [[Los Santos (Santander)|Los Santos]].
+
+La sede de la arquidiócesis se encuentra en la ciudad de [[Bucaramanga]], en donde se halla la [[Catedral de la Sagrada Familia (Bucaramanga)|Catedral de la Sagrada Familia]]. En [[San Juan de Girón]] se halla la Basílica Menor Santuario Señor de los Milagros.
+
+La arquidiócesis tiene como sufragáneas a las diócesis de: [[Diócesis de Barrancabermeja|Barrancabermeja]], [[Diócesis de Málaga-Soatá|Málaga-Soatá]], [[Diócesis de Socorro y San Gil|Socorro y San Gil]] y [[Diócesis de Vélez|Vélez]].
+
+En 2022 en la arquidiócesis existían 110 [[Parroquia (religión)|parroquias]] agrupadas en 3 vicariatos y 17 arciprestazgos.
+
+== Historia ==
+La diócesis de Bucaramanga fue erigida el 17 de diciembre de 1952 mediante la [[bula]] ''Cum sit latior'' del [[papa]] [[Pío XII]], derivando el territorio de la entonces [[arquidiócesis de Nueva Pamplona|diócesis de Nueva Pamplona]]. Originalmente fue sufragánea de la [[arquidiócesis de Bogotá]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Cum sit latior''], AAS 45 (1953), pp. 387-389.</ref>
+
+El 7 de noviembre de 1953, mediante la [[carta apostólica]] ''Centesimo fere'', el papa [[Pío XII]] proclamó a la Santísima Virgen María Inmaculada patrona principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf Carta apostólica ''Centesimo fere''], AAS 47 (1955), pp. 145-146.</ref>
+
+El 29 de mayo de 1956 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Nueva Pamplona.
+
+El 14 de diciembre de 1974 fue elevada al rango de arquidiócesis metropolitana con la bula ''Qui Divino Consilio'' de [[Pablo VI]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-67-1975-ocr.pdf Bula ''Qui Divino Consilio''], AAS 67 (1975), p.&nbsp;165.</ref>
+
+En julio de 1986 la arquidiócesis recibió la visita pastoral del papa [[Juan Pablo II]].
+
+El 7 de julio de 1987 cedió una porción de su territorio para la erección de la [[diócesis de Málaga-Soatá]] mediante la bula ''Quo efficacius providetur'' del papa Juan Pablo II.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19870707_malangensis-soatensis_lt.html Bula ''Quo efficacius provideretur''], AAS 79 (1987), pp. 1360-1362.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la arquidiócesis tenía a fines de 2022 un total de 1&nbsp;265&nbsp;529 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1958 || 358&nbsp;177 || 363&nbsp;820 || 98.4 || 109 || 66 || 43 || 3286 ||  || 61 || 358 || 41
+|- align="right"
+| 1966 || 565&nbsp;287 || 569&nbsp;297 || 99.3 || 167 || 87 || 80 || 3384 ||  || 93 || 448 || 51
+|- align="right"
+| 1970 || 579&nbsp;998 || 593&nbsp;998 || 97.6 || 142 || 84 || 58 || 4084 ||  || 101 || 1031 || 58
+|- align="right"
+| 1976 || 601&nbsp;605 || 619&nbsp;198 || 97.2 || 125 || 84 || 41 || 4812 ||  || 61 || 340 || 67
+|- align="right"
+| 1980 || 675&nbsp;682 || 695&nbsp;815 || 97.1 || 133 || 85 || 48 || 5080 ||  || 72 || 398 || 69
+|- align="right"
+| 1990 || 832&nbsp;684 || 858&nbsp;586 || 97.0 || 157 || 89 || 68 || 5303 || 3 || 101 || 563 || 69
+|- align="right"
+| 1999 ||1&nbsp;045&nbsp;884 || 1&nbsp;070&nbsp;133 || 97.7 || 205 || 137 || 68 || 5101 || 10 || 106 || 612 || 90
+|- align="right" 
+| 2000 || 1&nbsp;072&nbsp;035 || 1&nbsp;096&nbsp;896 || 97.7 || 214 || 146 || 68 || 5009 || 10 || 142 || 552 || 90
+|- align="right"
+| 2001 || 1&nbsp;104&nbsp;214 || 1&nbsp;130&nbsp;517 || 97.7 || 216 || 148 || 68 || 5112 || 10 || 138 || 625 || 92
+|- align="right"
+| 2002 || 1&nbsp;126&nbsp;749 || 1&nbsp;153&nbsp;589 || 97.7 || 212 || 147 || 65 || 5314 || 14 || 115 || 632 || 94
+|- align="right"
+| 2003 || 1&nbsp;149&nbsp;284 || 1&nbsp;176&nbsp;660 || 97.7 || 215 || 150 || 65 || 5345 || 20 || 122 || 636 || 94
+|- align="right"
+| 2004 || 1&nbsp;168&nbsp;525 || 1&nbsp;192&nbsp;350 || 98.0 || 213 || 143 || 70 || 5486 || 24 || 125 || 581 || 96
+|- align="right"
+| 2012 || 1&nbsp;343&nbsp;760 || 1&nbsp;376&nbsp;252 || 97.6 || 244 || 183 || 61 || 5507 || 56 || 105 || 574 || 105
+|- align="right"
+| 2015 || 1&nbsp;412&nbsp;063 || 1&nbsp;446&nbsp;206 || 97.6 || 236 || 179 || 57 || 5983 || 60 || 80 || 553 || 105
+|- align="right"
+| 2018 || 1&nbsp;440&nbsp;000 || 1&nbsp;498&nbsp;200 || 96.1 || 274 || 184 || 90 || 5255 || 70 || 114 || 593 || 109
+|- align="right"
+| 2020 || 1&nbsp;240&nbsp;000 || 1&nbsp;290&nbsp;431 || 96.1 || 284 || 189 || 95 || 4366 || 62 || 111 || 571 || 110
+|- align="right"
+| 2022 || 1&nbsp;265&nbsp;529 || 1&nbsp;316&nbsp;368 || 96.1 || 276 || 180 || 96 || 4585 || 59 || 116 || 555 || 110
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dbuca.html |título=''Archdiocese of Bucaramanga'' |fechaacceso=28 de septiembre de 2024 |apellido=Cheney |nombre=David |fecha=29 de julio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Aníbal Muñoz Duque]] † (18 de diciembre de '''1952'''-3 de agosto de '''1959''' nombrado arzobispo de la [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]])
+* Héctor Rueda Hernández † (6 de mayo de '''1960'''-7 de noviembre de '''1991''' nombrado arzobispo de la [[Arquidiócesis de Medellín|Medellín]])
+* cardenal [[Darío Castrillón Hoyos]] † (16 de diciembre de '''1992'''-15 de junio de '''1996''' nombrado proprefecto de la [[Congregación para el Clero]])
+** ''Sede vacante (1996-1998)''
+* [[Víctor Manuel López Forero]] † (27 de junio de '''1998'''-13 de febrero de '''2009''' retirado)
+* [[Ismael Rueda Sierra]] (13 de febrero de '''2009'''-24 de febrero de '''2026''' retirado)
+* [[Luis Augusto Campos Flórez]], desde el 18 de abril de '''2026.'''
+
+== Referencias ==
+{{listaref}}
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/buca0.htm Ficha de la arquidiócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-bucaramanga Ficha de la arquidiócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Bucaramanga| ]]

@@ -1,1 +1,420 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Arquidiócesis de Santa Fe de Antioquia
+|tipo                    = arquidiócesis
+|latín                   = Sanctae Fidei de Antioquia
+|escudo                  = Escudo Arquidiócesis de Santa Fe de Antioquia.svg
+|pie escudo              = Escudo de la arquidiócesis
+|imagen                  = Catedral Nuestra Señora de la Inmaculada Concepción.JPG
+|pie imagen              = Catedral basílica de la Inmaculada Concepción
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|31|8|1804}}
+|erección tipo           = diócesis de Antioquia
+|bula de erección        = 
+|elevación arquidiócesis = {{fecha|18|6|1988}}
+|sufragáneas             = <li>[[Diócesis de Apartadó|Apartadó]]<li>[[Diócesis de Istmina-Tadó|Istmina-Tadó]]<li>[[Diócesis de Quibdó|Quibdó]]<li>[[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]]
+|patrón                  = 
+|catedral                = [[Catedral basílica de la Inmaculada Concepción (Santa Fe de Antioquia)|basílica de la Inmaculada Concepción]]
+|sede                    = [[Santa Fe de Antioquia]]
+|región tipo             = Departamento
+|región                  = [[Antioquia]]
+|país                    = {{COL}}
+|curia                   = Arzobispado, Plazuela Martínez Pardo - Calle 9A N. 12-11, Santa Fe de Antioquia
+|concatedral             = 
+|ordinario               = [[Hugo Alberto Torres Marín]]
+|auxiliar                = 
+|emérito                 = <li>[[Ignacio Gómez Aristizábal, fallecido.|Ignacio José Gómez Aristizábal]]<li>[[Orlando Antonio Corrales García]]
+|vicario                 = 
+|coadjutor               = 
+|administrador apostólico = 
+|parroquias              = 49
+|población total         = 286&nbsp;461
+|población año           = 2022
+|fieles                  = 251&nbsp;313
+|porcentaje fieles       = 87.7
+|sacerdotes              = 96
+|área                    = 9925 km²
+|mapa                    = Mapa Arquidiocesis de Santa Fe de Antioquia.svg
+|pie mapa                = Localización y extensión de la arquidiócesis
+|sitio web               = [https://www.arquisantioquia.co/ www.arquisantioquia.co]
+}}
+
+La '''arquidiócesis de Santa Fe de Antioquia''' ({{lang-la|Archidioecesis Sanctae Fidei de Antioquia}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Santa Fe de Antioquia. Desde el 25 de enero de 2023 su [[arzobispo]] es [[Hugo Alberto Torres Marín]].
+
+== Territorio y organización ==
+[[Archivo:Iglesia de Frontino-Fachada Principal.jpg|thumb|miniatura|derecha|Basílica menor de Nuestra Señora del Carmen, en Frontino]]
+
+La arquidiócesis tiene 9925 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 18 municipios del [[Antioquia|departamento de Antioquia]]: [[Dabeiba]], [[Cañasgordas]], [[Caicedo]], [[Uramita]], [[Frontino (Antioquia)|Frontino]], [[Giraldo]], [[Buriticá]], [[Abriaquí]], [[Santa Fe de Antioquia]], [[Urrao]], [[Anzá]], [[Ebéjico]], [[San Jerónimo (Antioquia)|San Jerónimo]], [[Sopetrán]], [[Olaya (Antioquia)|Olaya]], [[Liborina]], [[Sabanalarga (Antioquia)|Sabanalarga]] y [[Peque (Colombia)|Peque]]. Además, también pertenecen a la arquidiócesis los corregimientos de: [[Palmitas (Medellín)|Palmitas]], en el municipio de [[Medellín]], y Altamira, en el municipio de [[Betulia (Antioquia)|Betulia]].
+
+[[Archivo:Iglesia-Sopetrán.jpg|thumb|miniatura|derecha|Basílica menor de Nuestra Señora del Carmen, en Frontino]]
+
+La arquidiócesis limita por el norte con las diócesis de Apartadó y Montelíbano, por el oriente con las diócesis de Santa Rosa de Osos, Medellín y Caldas, por el sur con las Diócesis de Jericó y Quibdó, por el occidente con la Diócesis de Quibdó.
+
+La sede de la arquidiócesis se encuentra en la ciudad de [[Santa Fe de Antioquia]], en donde se halla la [[Catedral basílica de la Inmaculada Concepción (Santa Fe de Antioquia)|Catedral basílica de la Inmaculada Concepción]]. En [[Frontino (Antioquia)|Frontino]] se encuentra la [[Basílica menor de Nuestra Señora del Carmen (Frontino)|basílica menor de Nuestra Señora del Carmen]], y en [[Sopetrán]] la [[basílica menor de Nuestra Señora de la Asunción (Sopetrán)|de Nuestra Señora de la Asunción]].
+
+La arquidiócesis tiene como sufragáneas a las diócesis de [[Diócesis de Apartadó|Apartadó]], [[Diócesis de Istmina-Tadó|Istmina-Tadó]], [[Diócesis de Quibdó|Quibdó]] y [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]].
+
+En 2022 en la arquidiócesis existían 49 [[Parroquia (religión)|parroquias]] agrupadas en 8 vicarías foráneas.
+
+{|class="wikitable"  style="font-size:90%;width:98.5%;line-height:130%"
+|-style="background: #DDDDDD;" align=center
+| '''Vicaría''' || '''Parroquias''' 
+|-
+|'''Ntra. Sra. de Chiquinquirá''' || 
+# San Martín de Porres - (Sta. Fe Ant.)
+# San José - (Tonusco Arriba, Sta. Fe Ant.)
+# [[Catedral Basílica de la Inmaculada Concepción de Santa Fe de Antioquia|La Inmaculada Concepción, Catedral]] - (Sta. Fe Ant.)
+# Sagrado Corazón de Jesús - (Corregimiento de [[Guasabra]], Sta. Fe de Ant.)
+# [[Iglesia de Santa Bárbara (Santa Fe de Antioquia)|Santa Bárbara]] - (Sta. Fe Ant.)
+# San Francisco de Asís - (Anzá)
+# Ntra. Sra. del Carmen - (Guintar, Anzá) 
+|-
+|'''Ntra. Sra. del Perpetuo Socorro''' || 
+# Ntra. Sra. de la Anunciación - (Corregimiento La Encarnación, Urrao)
+# San Juan Eudes - (Jaiperá, Urrao)
+# Ntra. Sra. de las Mercedes - (Caicedo)
+# San José - (Urrao)
+# Santa Teresa de Jesús - (Corregimiento de Altamira, Betulia) 
+|-
+|'''San Pablo Apóstol''' || 
+# San Francisco de Asís - (Cestillal, Cañasgordas)
+# [[Iglesia de San Carlos de Borromeo (Cañasgordas)|San Carlos de Borromeo]], Santuario del Santo Cristo - (Cañasgordas)
+# San Pascual Bailón - (San Pascual, Cañasgordas)
+# Ntra. Sra. del Monte Carmelo - (Tabacal, Buriticá)
+# San Antonio de Padua - (Buriticá)
+# San Isidro Labrador - (Giraldo)
+# Nuestra Señora de Fatima - (Versalles, Cañasgordas)
+|-
+|'''Santísima Trinidad''' || 
+# Ntra. Sra. de las Mercedes - (Dabeiba)
+# Ntra. Sra. de Guadalupe - (Dabeiba)
+# San José - (Urama, Dabeiba)
+# Santa Ana - (Uramita)
+# Ntra. Sra. de los Dolores - (Corregimiento de Juntas de Uramita, Cañasgordas)
+# [[Iglesia de Santo Domingo de Guzmán (Peque)|Santo Domingo de Guzmán]] - (Peque) 
+|-
+|'''Juan Pablo II''' || 
+# Beata Madre Laura - (La Blanquita, Corregimiento de Frontino)
+# Ntra. Sra. del Perpetuo Socorro - (Nutibara, Frontino)
+# [[Basílica Menor de Nuestra Señora del Carmen (Frontino)|Ntra. Sra. del Carmen, Basílica]] - (Frontino)
+# Ntra. Sra. de la Asunción - (Manguruma, Frontino)
+# Santa Cruz - (Abriaquí)
+|-
+|'''San José''' || 
+# Cristo Resucitado - (Llanos de Aguirre, San Jerónimo)
+# [[Iglesia de Nuestra Señora de la Candelaria (San Jerónimo)|Ntra. Sra. de la Candelaria]] - (San Jerónimo)
+# Ntra. Sra. de Chiquinquirá - (Sevilla, Ebéjico)
+# Santa Ana - (El Brasil, Ebéjico)
+# San Sebastián - (Corregimiento de Palmitas, Medellín)
+# San José - (Ebéjico)
+|-
+|'''Ntra. Sra. de la Asunción''' || 
+# Ntra. Sra. de las Nieves - (Olaya)
+# San Miguel Arcángel - (Llanadas, Olaya)
+# San Antonio de Padua - (Sucre, Olaya)
+# La Inmaculada - (Horizontes, Sopetrán)
+# San Roque - (Córdoba, Sopetrán)
+# [[Iglesia de Nuestra Señora de la Asunción (Sopetrán)|Ntra. Sra. De la Asunción]] - (Sopetrán) 
+|-
+|'''San Lorenzo''' || 
+# Santa María - (El Oro, Sabanalarga)
+# San Pedro Apóstol - (Sabanalarga)
+# San Lorenzo - (Liborina)
+# San José Obrero - (La Honda, Liborina)
+# Ntra. Sra. de las Mercedes - (La Merced, Liborina)
+# San Diego - (San Diego, Liborina)
+# San Francisco de Asís - (Carmen de la Venta, Liborina) 
+|-
+|}
+
+== Historia ==
+=== Comienzos === 
+Gran parte del territorio de la [[provincia de Antioquia]] (hoy departamento de Antioquia) dependió de la [[Arquidiócesis de Popayán|diócesis de Popayán]], erigida en 1546. Debido a las distancias, se creó una vicaría superintendente en 1754 con sede en la [[Medellín|villa de Medellín]], con jurisdicción sobre las demás vicarías de la provincia.<ref name ="Sociedad">{{cita libro
+| autor = Piedrahita Echeverri, Javier, Pbro.
+| título = Medellín ciudad tricentenaria : 1675-1975, pasado - presente - futuro
+| año = 1975
+| capítulo = Historia Eclesiástica de Medellín
+| otros = Sociedad de Mejoras Públicas de Medellín
+| editorial = Editorial Bedout, Medellín
+| páginas= 263-265
+| oclc = 253745910 
+}}</ref> Entre tanto, en las ciudades de Antioquia (hoy [[Santa Fe de Antioquia]]) y [[Rionegro (Antioquia)|Rionegro]] y las villas de Medellín y [[Marinilla]], surgió en cada una de ellas el deseo de ser sede diocesana.<ref name ="creacionParro">{{cita libro
+| autor = Piedrahita Echeverri, Javier
+| título = Creación del obispado en Antioquia
+| año = 1992
+| capítulo = Cap. III Sección: Parroquias con que empezó la Diócesis de Antioquia 
+| editorial = Editorial Universidad Pontificia Bolivariana
+| páginas = 110-112
+| oclc = 
+| cita= 
+}}</ref>
+
+Finalmente, luego de varios intentos, la ciudad de Antioquia, capital de la provincia, logró su aspiración y el 31 de agosto de 1804 el [[papa]] [[Pío VII]] erigió la diócesis de Antioquia desmembrando la mayor parte de ella de la diócesis de Popayán,<ref name ="Sociedad"/> y en extensión más pequeña, de la [[Arquidiocesis de Cartagena de Indias|diócesis de Cartagena]] (ambas hoy arquidiócesis) y de la [[Arquidiócesis de Santa Fe de Bogotá|arquidiócesis de Santafé en Nueva Granada]] (hoy arquidiócesis de Bogotá), de la cual fue originalmente sufragánea. 
+
+El primer obispo electo fue el [[Orden de Frailes Menores|franciscano]] [[España|español]] [[Fernando Cano Almirante]], quien sin embargo, en el contexto del proceso independentista de las colonias americanas, no pudo tomar posesión de la sede y en 1825 fue trasladado a las [[Diócesis de Canarias|Islas Canarias]].
+
+El primer obispo que se instaló en Antioquia, con permiso del gobierno republicano, fue el dominico [[Mariano Garnica y Orjuela]], quien  
+
+No fue hasta 1827 que la [[Santa Sede]] designó un nuevo obispo con el aval del gobierno republicano, el fraile [[Orden de Predicadores|dominico]] [[Mariano Garnica y Orjuela]],<ref name ="Sociedad"/> quien fue nombrado obispo de Antioquia el 21 de mayo de 1827, recibió la consagración episcopal el 23 de mayo de 1828 y llegó a la ciudad el 1 de julio del mismo año. Fue el primer obispo que gobernó la sede. La diócesis comprendía toda la provincia de Antioquia, y en 1828 estaba conformada por 56 parroquias.<ref name ="creacionParro"/>
+
+El 20 de julio de 1828 Garnica instaló el [[cabildo catedralicio]] y cumplió otros actos que resultaron jurídicamente nulos, por haberse instalado primero el cabildo que la diócesis. Por lo cual, intervino la Santa Sede, ordenando al obispo repetir en orden jurídico los actos de instalación, que se cumplieron en la ciudad de [[Rionegro]], el 19 de enero de 1829.
+
+Durante su gobierno, Garnica dictó normas para la organización de la diócesis, entre ellas el reglamento para la catedral, la cual era el [[Iglesia de Santa Bárbara (Santa Fe de Antioquia)|templo de Santa Bárbara]] que servía provisionalmente como iglesia catedralicia; creó varias parroquias, y el 18 de abril de 1830 inauguró oficialmente el seminario bajo el patronato de santo [[Tomás de Aquino]], si bien el establecimiento ya funcionaba desde el 25 de marzo anterior.<ref name="seminario-II">{{Enlace roto|1={{cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20II.doc
+ |título     = Pequeño Compendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 10 de febrero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. II: Desde la fundación de la ciudad de Antioquia hasta el traslado de la Diócesis a Medellín.
+ |formato     = DOC
+ |idioma      = español
+ |páginas    = 9-10
+ |cita        = 
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20II.doc |bot=InternetArchiveBot }}</ref>
+
+Garnica residía frecuentemente en Rionegro, e insistió incansablemente por conseguir del Gobierno y de la Santa Sede el traslado de la sede episcopal a Medellín. Las razones aducidas por el obispo fueron: la ciudad de Antioquia se ubica en el extremo de la provincia, es difícil el paso por el [[río Cauca]] y su clima es muy cálido.<ref name ="creacion">{{cita libro
+| autor = Piedrahita Echeverri, Javier
+| título = Creación del obispado en Antioquia
+| año = 1992
+| capítulo = Cap. III Sección: Esfuerzos del Señor Garnica para que la Sede fuera traslada a Medellín
+| editorial = Editorial Universidad Pontificia Bolivariana
+| páginas = 90-93
+| oclc = 
+| cita= 
+}}</ref> Por tal motivo, le generó el desafecto y la antipatía de los ciudadanos de Antioquia. Murió en Medellín el 16 de agosto de 1832, tras cuatro años de episcopado. 
+
+El 24 de julio de 1835 se nombró como obispo de Antioquia a [[Juan de la Cruz Gómez Plata]], quien fue consagrado el 17 de enero de 1836 y tomó posesión de la diócesis el 12 de julio del mismo año. Gómez Plata es considerado como uno de los creadores de la grandeza de Antioquia. Desplegó una gran labor pastoral en todos los campos de la administración eclesiástica. 
+
+Gómez Plata decidió darle al seminario el carácter de colegio-seminario que abrió el 4 de septiembre de 1836 y le dio el nombre de San Fernando.<ref name ="seminario-II"/> Además permitió la enseñanza de estudios civiles o profanos como jurisprudencia, medicina y otros, con la facultad de conferir grados académicos. Creció tanto el personal del colegio-seminario, que Gómez Plata resolvió construir en la parte que daba a la calle un segundo piso. Emulando a los colegios de [[Universidad del Rosario|Nuestra Señora del Rosario]] y [[Colegio Mayor de San Bartolomé (Bogotá)|San Bartolomé]] de [[Bogotá]].
+
+Es tal el prestigió que adquirió el colegio-seminario, que años más tarde el escritor y político [[Marco Fidel Suárez]] escribió: “''El seminario de Antioquia es en Colombia instituto verdaderamente histórico y monumento glorioso''”. En él se formaron, entre otros, los obispos [[Manuel Canuto Restrepo]], [[Joaquín Guillermo González]], [[José Ignacio Montoya]], [[Jesús María Rodríguez]] y [[Francisco Cristóbal Toro]]. Entre el laicado se destacan [[Gregorio Gutiérrez González]], [[Pedro Justo Berrío]], [[Juan Esteban Zamarra]], etc.
+
+El 6 de diciembre de 1837 Gómez Plata consagró la catedral. Contrató para ella el primer reloj y el primer órgano. Organizó la diócesis, que recorrió repetidas veces en visitas pastorales. Publicó varias cartas pastorales, entre ellas una sobre la [[Inmaculada Concepción]].
+
+A Gómez Plata no le faltaron dificultades con sus relaciones con el gobierno civil. Con motivo de la persecución contra la Iglesia antioqueña promovida por el coronel [[Salvador Córdoba]], fueron apresados los presbíteros José Manuel Lobo Rivera, cura de la catedral y José María Montoya, cura de Abejorral. El prelado le escribió al coronel una enérgica carta el 2 de diciembre de 1840.
+
+Su labor pastoral la alternó con política, asistió varias veces y en diversos períodos al Congreso Nacional, del que hizo parte como representante de la provincia de Antioquia. Después de 14 años de estar al frente de la diócesis, murió en Medellín el 1 de diciembre de 1850. Sus despojos mortales permanecieron en dicha ciudad hasta 1936, cuando fueron trasladados a ciudad de Santa Fe de Antioquia. Hoy reposan en le cripta de los obispos. 
+
+El 8 de febrero de 1855 el papa [[Pío IX]] nombró como obispo de Antioquia a [[Domingo Antonio Riaño]], quien llegó a su sede en noviembre del mismo año. Durante su gobierno se enfocó en el mejoramiento del seminario, le cambió el título por el del Sagrado Corazón de Jesús el 5 de enero de 1859 y le dio escudo;<ref name ="seminario-II"/> además amplió la edificación, al que le añadió el segundo piso en la parte posterior completando así la reforma empezada por su antecesor, lo dotó de mobiliario y otros elementos, como también de ingresos. Promovió de la [[catequesis]], con la difusión del texto del [[Gaspar Astete|padre Astete]], modificado por el arzobispo Mosquera. Veló mucho de la integridad de la fe y de la vivencia de las costumbres cristianas. En 1856 envió una petición a la asamblea del estado, a favor de la religión católica.
+
+Escribió varias cartas pastorales en defensa de los derechos de la Iglesia y promover la vida cristiana. Defendió firmemente la autoridad y los derechos de la Iglesia, cuando estos se vieron agraviados por el gobierno civil, en especial por el general [[Tomás Cipriano de Mosquera]], presidente de la Nueva Granada, que el 20 de julio de 1860 dictó el “Decreto de tuición de cultos”, por el cual ningún ministro podía practicar las funciones del culto sin la autorización del poder ejecutivo. Fue esta una polémica que duró varios años y causó mucho daño a la Iglesia y que luego generó el destierro del prelado, que se vio obligado a salir hacia el vecino [[Ecuador]].
+
+Por la tensión político-religiosa y por el destierro de Riaño, obligaron a las vocaciones sacerdotales, buscar su ordenación a Bogotá, en consecuencia cerro también el seminario; desde su destierro Riaño dio un decreto el 7 de agosto de 1865 ordenando la apertura del colegio-seminario del Sagrado Corazón de Jesús, nombró rector al Pbro. Lino Garro y vicerrector al doctor Martínez Pardo. 
+
+Riaño falleció en Ecuador el 20 de julio de 1866. Sus restos mortales después de alguno tiempo fueron trasladados a Medellín y posteriormente a Santa Fe de Antioquia, donde reposan en la cripta de la Catedral.
+
+Entre tanto, la villa de Medellín fue adquiriendo mayor importancia política y comercial, siendo declarada «ciudad» en 1813 y designada capital de la provincia en 1826,<ref name ="Sociedad2">{{cita libro
+| autor = Ospina Londoño, Jorge
+| título = Medellín ciudad tricentenaria : 1675-1975, pasado - presente - futuro
+| año = 1975
+| capítulo = Momentos Históricos de Medellín
+| otros = Sociedad de Mejoras Públicas de Medellín
+| editorial = Editorial Bedout, Medellín
+| páginas= 260
+| oclc = 253745910
+}}</ref> desplazando a la ciudad de Antioquia. Además, en 1856 la provincia pasó a llamarse [[Estado Soberano de Antioquia|Estado Federal de Antioquia]],<ref>{{cita web
+ |url          = http://bib.cervantesvirtual.com/servlet/SirveObras/01361686457806724311802/p0000001.htm
+ |título      = Ley de creación del Estado de Antioquía (1856)
+ |fechaacceso  = 8 de noviembre de 2012
+ |editorial    = Cervantes Virtual
+ |idioma       = español
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120127114919/http://bib.cervantesvirtual.com/servlet/SirveObras/01361686457806724311802/p0000001.htm
+ |fechaarchivo = 27 de enero de 2012
+}}</ref> que más adelante, en 1856 la provincia pasa a llamarse [[Estado Soberano de Antioquia]].
+
+=== Supresión de la diócesis de Antioquia ===
+Varios años antes de la muerte de Riaño, muchos sacerdotes de Medellín se dirigieron al papa Pío IX para pedirle el traslado de la sede de Antioquia a Medellín, alegando razones pastorales de ubicación, distancia y clima.<ref name ="histo arqui">{{cita libro
+| autor = Piedrahita Echeverri, Javier; Humberto Bronx
+| título = Historia de la Arquidiócesis de Medellín
+| año = 1969
+| capítulo = Cap. III - Traslación de la Sede Episcopal de Antioquia a Medellín
+| editorial = Movifoto, Medellín
+| páginas = 10-14
+| oclc = 252674638
+| cita= 
+}}</ref> Después del fallecimiento de Riaño, los presbíteros volvieron a insistir ante la Santa Sede añadiendo a las razones anteriores las siguientes:<ref name ="histo arqui"/>
+* que la capital política del Estado era Medellín;
+* que de las 80 parroquias correspondientes a la jurisdicción de Antioquia, 14 estaban cerca de ella y que solo contaban con 22&nbsp;521 habitantes, mientras que las 66 restantes estaban cerca de Medellín y contaban con 260&nbsp;804 personas.
+
+El papa Pío IX, el 14 de febrero de 1868 mediante el decreto ''Apostolici ministerii'' la [[Congregación Consistorial]],<ref>(en latín) [https://www.archive.org/stream/piiixpontificis01ixgoog#page/n355/mode/1up Decreto ''Apostolici ministerii''], en ''Pii IX Pontificis Maximi Acta. Pars prima'', Vol. V, Roma, 1871, p.&nbsp;359.</ref> teniendo en cuenta que la población de Medellín era casi el doble de la de Antioquia, que Medellín era la capital del Estado desde 1826 y que por su clima, su posición geográfica y su comercio aventajaba a Antioquia, decretó la extinción de la sede episcopal de Antioquia y la erección de la sede episcopal de Medellín, la que debía conservar el título de la sede suprimida, denominándose ''diócesis de Medellín-Antioquia''.<ref name ="histo arqui"/>
+
+En esta fecha fue nombrado ejecutor del decreto el arzobispo de Santa Fe de Bogotá, [[Vicente Arbeláez]], quien en cumplimiento del mandato del romano pontífice expidió el decreto ejecutorial el 1 de agosto de 1868.<ref name ="histo arqui"/><ref name="jara">{{cita libro
+| autor = Jaramillo Restrepo, Presbítero Julio César
+| título = Basílica de Medellín 
+| año = 1950
+| editorial = Editorial Bedout
+| oclc = 22131893
+}}</ref> 
+
+Fue nombrado como primer obispo [[Valerio Antonio Jiménez]],<ref name="seminario">{{Enlace roto|1={{cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20III.doc
+ |título     = Pequeño Copendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 14 de enero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. III - Descubrimiento y colonización del Valle de Aburrá y fundación de Medellín como ciudad y Diócesis
+ |formato     = DOC
+ |idioma      = español
+ |cita        = 
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20III.doc |bot=InternetArchiveBot }}</ref> quien trasladó el cabildo de la catedral de Santa Fe de Antioquia a Medellín, lo mismo que el seminario del Sagrado Corazón de Jesús.<ref name="jara"/> La población de la diócesis en ese entonces, según los censos oficiales era de unos 283&nbsp;325 habitantes.
+
+=== Restablecimiento de la diócesis de Antioquia ===
+El traslado de la sede episcopal a Medellín generó muchos problemas con la ciudad de Antioquia, que años atrás había perdido el título de capital política, y ahora perdía el de capital diocesana que tanto tiempo les había costado conseguir a sus ciudadanos y que con mucho esfuerzo la dotaron con lo necesario. Su catedral bajó a la categoría de iglesia parroquial, y fue un duro golpe. Los habitantes se opusieron a que trasladaran a Medellín aquellos tesoros religiosos, y pusieron en manos de la municipalidad las llaves de la catedral.<ref name ="histo arqui2">{{cita libro
+| autor = Piedrahita Echeverri, Javier; Humberto Bronx
+| título = Historia de la Arquidiócesis de Medellín
+| año = 1969
+| capítulo = Cap. V 
+| editorial = Movifoto, Medellín
+| páginas = 26-27
+| oclc = 252674638
+| cita= 
+}}</ref>
+
+Además, la propiedad de varios de los inmuebles de la curia fueron arrebatados por la municipalidad, agravando las tensiones con Medellín.<ref name ="histo arqui2"/> Por tal motivo, intervino el presidente del Estado, [[Pedro Justo Berrío]], quien logró que ambas partes se reunieran y dialogaran. En el encuentro, Jiménez después de escuchar a los representantes de la ciudad de Antioquia, y de darles la razón, acordó interponer su influencia para conseguir la erección de la diócesis de Antioquia.<ref name ="histo arqui2"/>
+
+Finalmente, para solucionar estos y otros problemas, y con el visto bueno del obispo Jiménez, fue restablecida la diócesis de Antioquia mediante la bula ''Super oecumenica'' del papa Pío IX,<ref>(en latín) [https://www.archive.org/stream/piiixpontificis01ixgoog#page/n532/mode/1up Bula ''Super oecumenica''], en ''Pii IX Pontificis Maximi Acta. Pars prima'', Vol. VI, Roma, 1874, p.&nbsp;138.</ref> del 29 de enero de 1872 y ejecutada el 25 de septiembre de 1873.<ref name="santa fe">{{cita web
+ |url          = http://www.arquisantioquia.org.co/quienessomos.shtml?apc=aa--;-;1050;-1050;&x=1048&s=a&m=a
+ |título      = Sobre la Diócesis - Historia
+ |fechaacceso  = 8 de noviembre de 2012
+ |autor        = Arquidiócesis de Santa Fe de Antioquia
+ |idioma       = español
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120402004841/http://www.arquisantioquia.org.co/quienessomos.shtml?apc=aa--;-;1050;-1050;&x=1048&s=a&m=a
+ |fechaarchivo = 2 de abril de 2012
+}}</ref>
+
+El restablecimiento de la diócesis de Antioquia recuperó parte de su antiguo territorio, se le entregaron las siguientes parroquias: [[Santa Fe de Antioquia]], [[Anzá]], [[Buriticá]], [[Cañasgordas]], [[Frontino (Antioquia)|Frontino]], [[Abriaquí]], [[Giraldo]], [[Ituango]], [[Urrao]], [[Belmira]], [[Ebéjico]], [[Liborina]], [[Sabanalarga (Antioquia)|Sabanalarga]], [[San Jerónimo (Antioquia)|San Jerónimo]], Sacaojal y Sucre. En total fueron 18 municipios.<ref name ="histo arqui2"/>
+
+Luego el obispo de Antioquia y el cabildo solicitaron que se les anexaran más parroquias y así lo determinó la Santa Sede el 16 de abril de 1875, cuando ya había muerto José Joaquín Isaza Ruíz, segundo obispo de Medellín y quien se oponía a ceder parte del territorio de Medellín.<ref name ="histo arquiHH">{{cita libro
+| autor = Piedrahita Echeverri, Javier; Humberto Bronx
+| título = Historia de la Arquidiócesis de Medellín
+| año = 1969
+| capítulo = Cap. VII. Sección: Nueva desmembración del territorio diocesano en favor de la Diócesis de Antioquia 
+| editorial = Movifoto, Medellín
+| páginas = 44-45
+| oclc = 252674638
+| cita= 
+}}</ref> Se anexaron: [[Caramanta|Nueva Caramanta]], [[Valparaíso (Antioquia)|Valparaíso]], [[Támesis (Antioquia)|Támesis]], [[Jericó (Antioquia)|Jericó]], [[Andes (Antioquia)|Andes]], [[Jardín (Antioquia)|Jardín]], [[Ciudad Bolívar (Antioquia)|Bolívar]], [[Concordia (Antioquia)|Concordia]], [[San Pedro de los Milagros|San Pedro]], [[Donmatías]], [[Entrerríos (Antioquia)|Entrerríos]], [[Santa Rosa de Osos]], [[San Andrés de Cuerquia|San Andrés]], [[Yarumal]], [[Campamento (Antioquia)|Campamento]], [[Carolina del Príncipe|Carolina]], [[Angostura (Antioquia)|Angostura]], [[Anorí]], Zea, [[Zaragoza (Colombia)|Zaragoza]], [[Cáceres (Antioquia)|Cáceres]], [[Nechí]], [[Amalfi (Antioquia)|Amalfi]], [[Remedios (Antioquia)|Remedios]], Cancan y San Bartolomé, en total 26 municipios, quedando la diócesis de Antioquia con 44 municipios.<ref name ="histo arquiHH"/>
+
+Mediante decreto de la Congregación Consistorial del 24 de febrero de 1902, la diócesis de Medellín fue elevada al rango arquidiócesis metropolitana, como diócesis sufragáneas quedaron las diócesis de Antioquia y Manizales (hoy [[arquidiócesis de Manizales]]).
+
+El 28 de abril de 1908 la diócesis de Antioquia cedió una porción de su territorio para la erección de la [[prefectura apostólica del Chocó]].
+
+El 29 de enero de 1915, mediante la bula ''Universi Dominici Gregis'' del papa [[Benedicto XV]], se erigió la [[diócesis de Jericó]],<ref name="jerico">{{Enlace roto|1={{cita web
+ |url         = http://www.jerico.diocesis.ws/Breve-rese%F1a-hist%F3rica.php
+ |título     = Breve reseña histórica de la Diócesis de Jericó
+ |fechaacceso = 8 de noviembre de 2012
+ |autor       = Diócesis de Jericó
+ |idioma      = español
+ |cita        = 
+}} |2=http://www.jerico.diocesis.ws/Breve-rese%F1a-hist%F3rica.php |bot=InternetArchiveBot }}</ref> con territorio desmembrado de la diócesis de Antioquia.<ref>Síntesis de la bula pontificia en [https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf AAS 7 (1915), p. 121].</ref> 
+
+El 5 de febrero de 1917 mediante la bula ''Quod catholicae'' del papa Benedicto XV, la diócesis volvió a ceder una parte de su territorio para la erección de la [[diócesis de Santa Rosa de Osos]], y al mismo tiempo la unió ''[[aeque principaliter]]'' con la diócesis de Jericó, establecida 2 años antes, y asumió el nombre de la diócesis de Antioquia-Jericó.<ref name ="jerico"/><ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf Bula ''Quod catholicae''], AAS 13 (1921), p.&nbsp;457.</ref> Esta unión se debió a la erección de la diócesis de Santa Rosa de Osos, pues la diócesis de Antioquia se reducía a solamente a nueve parroquias. Además, a la mitad de ese mismo año llegó la comunicación de que tres de estas parroquias pasarían a la [[prefectura apostólica de Urabá]], que sería erigida el año siguiente.
+
+24 años después de la unión, la diócesis de Jericó fue nuevamente erigida el 3 de julio de 1941 mediante la bula ''Universi Dominici Gregis'' del papa [[Pío XII]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf Bula ''Universi dominici gregis''], AAS 33 (1941), p.&nbsp;410.</ref> Tras la división de la diócesis de Antioquia-Jericó, la jurisdicción de Antioquia recuperó su nombre original. Además, las dos diócesis también incorporaron el territorio de la prefectura apostólica de Urabá, que fue suprimida al mismo tiempo, correspondiéndole a Antioquia los municipios de Anzá, Caicedo y Urrao.<ref name ="jerico"/>
+
+El 14 de noviembre de 1952 cedió otra porción de su territorio para la erección del vicariato apostólico de Quibdó (hoy [[diócesis de Quibdó]]) mediante la bula ''Cum usu cotidiano'' del papa Pío XII.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Cum usu cotidiano''], AAS 45 (1953), p.&nbsp;217.</ref>
+
+El 18 de junio de 1988 volvió a ceder una parte de su territorio para la erección de la [[diócesis de Apartadó]] mediante la bula ''Quo aptius'' del papa [[Juan Pablo II]],<ref>(en latín) [https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880628_apartadoensis.html Bula ''Quo aptius''], AAS 80 (1988), pp.&nbsp;1735-1736</ref> y al mismo tiempo fue elevada al rango de arquidiócesis metropolitana tomando su nombre actual mediante la bula ''Spiritali sane''. La arquidiócesis quedó conformada con apenas 11 municipios y 25 parroquias.<ref>(en latín) [http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880618_antioquiensis.html Bula ''Spiritali sane''], AAS 80 (1988), pp.&nbsp;1382-1383.</ref>
+
+El 5 de febrero de 2004 mediante el decreto ''Quo aptius'' se amplió la arquidiócesis de Santa Fe de Antioquia agregándole 18 parroquias ubicadas al margen oriental del río Cauca (municipios de Ebéjico, Liborina, Peque, San Jerónimo, Sopetrán, Olaya, Sabanalarga y el corregimiento de Palmitas del municipio de Medellín), y que fueron desmembradas de la diócesis de Santa Rosa de Osos. A la vez cedió los municipios de [[Murindó]] y [[Vigía del Fuerte]] a la diócesis de Quibdó.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/2004/maggio%202004.pdf Decreto ''Quo aptius''], AAS 96 (2004), pp. 316-317.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la arquidiócesis tenía a fines de 2022 un total de 251&nbsp;313 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12 | '''Diócesis de Antioquia'''
+|- align="right"
+| 1950 || 184&nbsp;000 ||  || || 53 || 53 ||  || 3471 ||  ||  || 74 || 23
+|- align="right"
+| 1959 || 198&nbsp;500 || 198&nbsp;926 || 99.8 || 40 || 40 ||  || 4962 ||  ||  || 90 || 19
+|- align="right"
+| 1964 || 197&nbsp;575 || 198&nbsp;876 || 99.3 || 47 || 47 ||  || 4203 ||  ||  || 97 || 22
+|- align="right"
+| 1968 || 263&nbsp;080 || 286&nbsp;012 || 92.0 || 51 || 51 ||  || 5158 ||  ||  || 134 || 19
+|- align="right"
+| 1976 || 286&nbsp;100 || 298&nbsp;100 || 96.0 || 70 || 65 || 5 || 4087 ||  || 5 || 160 || 34
+|- align="right"
+| 1980 || 314&nbsp;254 || 327&nbsp;454 || 96.0 || 62 || 59 || 3 || 5068 ||  || 4 || 152 || 34
+|- align="center"
+!colspan=12 | '''Arquidiócesis de Santa Fe de Antioquia'''
+|- align="right"
+| 1990 || 150&nbsp;700 || 164&nbsp;000 || 91.9 || 67 || 59 || 8 || 2249 || 2 || 8 || 64 || 27
+|- align="right"
+| 1999 || 150&nbsp;000 || 160&nbsp;000 || 93.8 || 76 || 76 ||  || 1973 || 3 ||  || 79 || 25
+|- align="right"
+| 2000 || 150&nbsp;000 || 160&nbsp;000 || 93.8 || 103 || 91 || 12 || 1456 || 4 || 12 || 85 || 27
+|- align="right"
+| 2001 || 150&nbsp;000 || 160&nbsp;000 || 93.8 || 70 || 68 || 2 || 2142 || 1 || 2 || 90 || 27
+|- align="right"
+| 2002 || 160&nbsp;000 || 180&nbsp;000 || 88.9 || 72 || 72 ||  || 2222 ||  ||  || 45 || 25
+|- align="right"
+| 2003 || 140&nbsp;000 || 150&nbsp;000 || 93.3 || 73 || 73 ||  || 1917 || 2 || 85 || 45 || 25
+|- align="right"
+| 2004 || 160&nbsp;000 || 180&nbsp;000 || 88.9 || 70 || 70 ||  || 2285 || 2 || 85 || 50 || 25
+|- align="right"
+| 2010 || 249&nbsp;000 || 272&nbsp;000 || 91.5 || 97 || 97 ||  || 2567 || 3 || 85 || 77 || 48
+|- align="right"
+| 2014 || 250&nbsp;200 || 282&nbsp;400 || 88.6 || 86 || 86 ||  || 2909 || 3 || 85 || 76 || 48
+|- align="right"
+| 2017 || 247&nbsp;970 || 280&nbsp;940 || 88.3 || 92 || 92 ||  || 2695 ||  || 85 || 56 || 48
+|- align="right"
+| 2020 || 246&nbsp;020 || 280&nbsp;650 || 87.7 || 91 || 91 ||  || 2703 ||  ||  || 54 || 48
+|- align="right"
+| 2022 || 251&nbsp;313 || 286&nbsp;461 || 87.7 || 96 || 96 ||  || 2617 ||  ||  || 49 || 49
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dsfan.html |título=''Archdiocese of Santa Fe de Antioquia'' |fechaacceso=1 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=17 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+[[Archivo:Mariano Garnica y Orjuela-Obispo.jpg|thumb|miniatura|derecha|Fray [[Mariano Garnica y Orjuela]], primer obispo de Antioquia]]
+[[Archivo:Juan de la Cruz Gómez Plata-Obispo.jpg|thumb|miniatura|derecha|Juan de la Cruz Gómez Plata, segundo obispo de Antioquia]]
+[[Archivo:Domingo Antonio Riaño-Obispo.jpg|thumb|miniatura|derecha|Domingo Antonio Riaño Martínez, tercer obispo de Antioquia]]
+[[Archivo:Joaquín Guillermo González.jpg|thumb|miniatura|derecha|Joaquín Guillermo González, cuarto obispo de Antioquia]]
+
+:*''Sede vacante (1804-1818)''
+** [[Fernando Cano Almirante]], [[Orden de Frailes Menores|O.F.M.Obs.]] † (21 de marzo de '''1818'''-19 de diciembre de '''1825''' nombrado obispo de las [[Diócesis de Canarias|Islas Canarias]]) (obispo electo)
+* [[Mariano Garnica y Orjuela]], [[Orden de Predicadores|O.P.]] † (21 de mayo de '''1827'''-10 de agosto de '''1832''' falleció)
+** ''Sede suprimida (1832-1835)''
+** [[José María Esteves]] † (19 de diciembre de '''1834''', pero el 15 de octubre de '''1834''' falleció) (obispo electo póstumo)
+* [[Juan de la Cruz Gómez Plata|Juan de la Cruz Gómez y Plata]] † (24 de julio de '''1835'''-1 de diciembre de '''1850''' falleció)
+** ''Sede suprimida (1850-1854)''
+* [[Domingo Antonio Riaño Martínez]] † (13 de enero de '''1854'''-20 de julio de '''1866''' falleció)
+** ''Sede suprimida (1868-1872)''
+* [[Joaquín Guillermo González]] † (21 de marzo de '''1873'''-29 de mayo de '''1882''' renunció)<ref group='nota'>Murió el 4 de enero de 1888. Cfr. Eubel, vol. 8, p. 110.</ref>
+* [[Jesús María Rodríguez Balbín]] † (9 de agosto de '''1883'''-30 de julio de '''1891''' falleció)
+* [[Juan Nepomuceno Rueda]] † (30 de enero de '''1892'''-'''1900''' renunció)<ref group='nota'>Murió el 30 de julio de 1903. Cfr. Eubel, vol. 8, p. 110.</ref>
+* [[José María Villalba]] † (25 de septiembre de '''1900'''-antes del 4 de agosto de '''1901''' falleció)
+* [[Manuel Antonio López de Mesa]] † (30 de mayo de '''1902'''-15 de mayo de '''1908''' falleció)
+** ''Sede suprimida (1908-1910)''
+* [[Maximiliano Crespo Rivera]] † (18 de octubre de '''1910'''-7 de febrero de '''1917''' nombrado obispo de [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]])
+* [[Francisco Cristóbal Toro Correa]] † (8 de febrero de '''1917'''-16 de noviembre de '''1942''' falleció)
+* [[Luis Andrade Valderrama]], [[Orden de Frailes Menores|O.F.M.]] † (16 de junio de '''1944'''-9 de marzo de '''1955''' renunció<ref group="nota">Nombrado obispo titular de [[Diócesis de Sarepta|Sarepta]].</ref>)
+* [[Guillermo Escobar Vélez]] † (1 de abril de '''1955'''-28 de julio de '''1969''' renunció<ref group="nota">Nombrado obispo titular de [[Diócesis de Nicives|Nicives]].</ref>)
+* [[Eladio Acosta Arteaga]], [[Congregación de Jesús y María|C.I.M.]] † (6 de marzo de '''1970'''-10 de octubre de '''1992''' retirado)
+* [[Ignacio Gómez Aristizábal|Ignacio José Gómez Aristizábal]] (10 de octubre de '''1992'''-12 de enero de '''2007''' retirado)
+* [[Orlando Antonio Corrales García]] (12 de enero de '''2007'''-3 de mayo de '''2022''' retirado)<ref group='nota'>Desde el 3 de mayo de 2022 al 23 de marzo de 2023, día de la toma de posesión de [[Hugo Alberto Torres Marín]], fue [[administrador apostólico]] [[Elkin Fernando Álvarez Botero]], obispo de [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]].</ref>
+* [[Hugo Alberto Torres Marín]], desde el 25 de enero de '''2023'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* (en latín) [[Konrad Eubel]], ''Hierarchia Catholica Medii Aevi'', vol. 7, pp.&nbsp;80-81; vol. 8, pp.&nbsp;109-110
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/zfed0.htm Ficha de la arquidiócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-santa-fe-de-antioquia Ficha de la arquidiócesis] en el sitio de la Conferencia Episcopal de Colombia
+* {{cita web|url=http://html.rincondelvago.com/el-tribunal-del-santo-oficio.html|título=Cronología de varias diócesis latino-americanas}}
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Santa Fe de Antioquia| ]]

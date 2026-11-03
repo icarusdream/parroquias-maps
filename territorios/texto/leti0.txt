@@ -1,1 +1,146 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+| nombre = Vicariato apostólico de Leticia
+| tipo = vicariato
+| latín = Laetitiae
+| escudo = Escudo del Vicariato de Leticia.svg
+| pie escudo = Escudo del vicariato apostólico
+| imagen = Iglesia de la Paz, Leticia.JPG
+| pie imagen = Catedral de Nuestra Señora de la Paz
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|8|2|1951}}
+| erección tipo = prefectura apostólica
+| bulaPontificia = ''Quo efficacius''
+| elevación vicariato = {{fecha|23|10|2000}}
+| sufragánea = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+| patrón = 
+| catedral = [[Catedral de Nuestra Señora de la Paz (Leticia)|de Nuestra Señora de la Paz]]<ref name="cat">{{Cita web |url=http://www.gcatholic.org/churches/southamerica/4896.htm|título=Cathedrals in Colombia|fechaacceso=16 de marzo de 2011  |idioma=inglés |editorial=gcatholic}}</ref>
+| sede = [[Leticia (Colombia)|Leticia]]
+| región tipo = Departamento
+| región = [[Amazonas (Colombia)|Amazonas]]
+| país = {{COL}}
+| curia = Carrera 11a N. 11-95, Leticia
+| concatedral = 
+| ordinario = Jhon Mario Mesa Palacio
+| auxiliar = 
+| emérito = José de Jesús Quintero Diaz
+| vicario = 
+| administrador apostólico = 
+| parroquias = 12
+| población total = 88&nbsp;000
+| población año = 2022
+| fieles = 83&nbsp;000
+| porcentaje fieles = 94.3
+| sacerdotes = 18
+| área = 109&nbsp;665 km²
+| mapa = Mapa Vicariato Apostolico de Leticia.svg
+| pie mapa = Localización y extensión del vicariato apostólico
+| sitio web = 
+}}
+
+El '''vicariato apostólico de Leticia''' ({{lang-la|Vicariatus Apostolicus Laetitiae}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Florencia (Colombia)|Florencia]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3lico-de-leticia Sitio web] de la CEC</ref> Desde el 4 de diciembre de 2025 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[John Mario Mesa Palacio]] 
+
+== Territorio y organización ==
+El vicariato apostólico tiene 109&nbsp;665 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en la mayor parte del [[Amazonas (Colombia)|departamento de Amazonas]] ([[Municipios de Colombia|municipios]] de [[Leticia (Colombia)|Leticia]] y [[Puerto Nariño]] y 9 [[Áreas no municipalizadas de Colombia|áreas no municipalizadas]]: [[El Encanto]], [[La Chorrera (Amazonas)|La Chorrera]], [[La Pedrera (Amazonas)|La Pedrera]], [[La Victoria (Amazonas)|La Victoria]], [[Mirití-Paraná]], [[Puerto Arica (Colombia)|Puerto Arica]], [[Puerto Santander (Amazonas)|Puerto Santander]] y [[Tarapacá (Amazonas)|Tarapacá]]), a excepción del distrito de [[Puerto Alegría (Colombia)|Puerto Alegría]].
+
+Su territorio limita al norte con el [[vicariato apostólico de Puerto Leguízamo-Solano]] y el [[Vicariato apostólico de Mitú]], al este con la [[República Federativa del Brasil]], y al sur y oeste con la [[República del Perú]].<ref name="lim">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/leticia_vicariato_700.gif |título=Mapa del Vicariato Apostólico de Leticia |fechaacceso=16 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20110523235254/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/leticia_vicariato_700.gif |fechaarchivo=23 de mayo de 2011 }}</ref>
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[Leticia (Colombia)|Leticia]], en donde se halla la [[Catedral de Nuestra Señora de la Paz (Leticia)|Catedral de Nuestra Señora de la Paz]].
+
+En 2022 en el vicariato apostólico existían 12 [[Parroquia (religión)|parroquias]]:
+* Marianito de Jesús Eusse, en Leticia;
+* Nuestra Señora de Fátima, en Puerto Arica;
+* Nuestra Señora del Carmen, en Tarapacá;
+* Sagrada Familia de Nazaret, en Leticia;
+* Sagrado Corazón de Jesús, en Leticia;
+* San Antonio de Padua, en Mirití-Paraná;
+* San Francisco de Loretoyaco, en Puerto Nariño;
+* San Francisco Javier, en Araracuara, Puerto Santander;
+* San José, en La Pedrera;
+* San José, en Kilómetro 6, Leticia;
+* San Rafael, en Leticia;
+* Santa Teresita, en La Chorrera.<ref name="igl">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba-;005;;9044-9044&m=b&c=9044 |título=Vicariato Apostólico de Leticia. Parroquias |fechaacceso=16 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+== Historia == 
+La prefectura apostólica de Leticia fue erigida el 8 de febrero de 1951 mediante la [[bula]] ''Quo efficacius'' del [[papa]] [[Pío XII]], derivando el territorio del vicariato apostólico de Caquetá (hoy [[diócesis de Mocoa-Sibundoy]]).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf Bula ''Quo efficacius''], AAS 43 (1951), p.&nbsp;356.</ref> La misión fue confiada a los misioneros [[Orden de los Hermanos Menores Capuchinos|capuchinos]] de la provincia de [[Cataluña]].
+
+El 4 de marzo de 1989, mediante el decreto ''Per Constitutionem Apostolicam'' de la [[Congregación para la Evangelización de los Pueblos]], se encomendó el cuidado pastoral de la prefectura apostólica a los obispos de la [[diócesis de Santa Rosa de Osos]]. Ese mismo día fue nombrado prefecto apostólico Alfonso Yepes Rojo, sacerdote de la misma diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf Decreto ''Per Constitutionem Apostolicam''], AAS 81 (1989), p. 711.</ref>
+
+El 23 de octubre de 2000 la prefectura apostólica fue elevada a vicariato apostólico mediante la bula ''Cum in Praefectura'' del papa [[Juan Pablo II]].<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_20001023_cum-in-praefectura_lt.html Bula ''Cum in Praefectura''], AAS 93 (2001), pp. 421-422.</ref>
+
+El 21 de febrero de 2013 cedió una porción de territorio para la erección del [[vicariato apostólico de Puerto Leguízamo-Solano]] mediante la bula ''Caritas Domini'' del papa [[Benedicto XVI]].<ref>(en latín) [https://www.vatican.va/content/benedict-xvi/la/apost_constitutions/documents/hf_ben-xvi_apc_20130221_portus-leguizamensis-solanensis.html Bula ''Caritas Domini''], AAS 105 (2013), pp.&nbsp;251-252.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 83&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12 | '''Prefectura apostólica de Leticia'''
+|- align="right"
+| 1966 || 17&nbsp;500 || 18&nbsp;900 || 92.6 || 11 || 1 || 10 || 1590 ||  || 14 || 33 || 3
+|- align="right"
+| 1970 || 17&nbsp;500 || 18&nbsp;000 || 97.2 || 14 ||  || 14 || 1250 ||  || 17 || 33 ||
+|- align="right"
+| 1976 || 21&nbsp;000 || 22&nbsp;500 || 93.3 || 11 ||  || 11 || 1909 ||  || 12 || 40 || 3
+|- align="right"
+| 1980 || 24&nbsp;000 || 25&nbsp;000 || 96.0 || 13 || 2 || 11 || 1846 ||  || 12 || 42 || 4
+|- align="right"
+| 1990 || 33&nbsp;300 || 34&nbsp;500 || 96.5 || 17 || 9 || 8 || 1958 ||  || 9 || 42 || 6
+|- align="right"
+| 1996 || 57&nbsp;200 || 61&nbsp;230 || 93.4 || 18 || 12 || 6 || 3177 ||  || 7 || 37 || 9
+|- align="center"
+!colspan=12 | '''Vicariato apostólico de Leticia'''
+|- align="right"
+| 2000 || 57&nbsp;900 || 62&nbsp;120 || 93.2 || 19 || 14 || 5 || 3047 ||  || 6 || 35 || 12
+|- align="right"
+| 2001 || 59&nbsp;600 || 64&nbsp;500 || 92.4 || 26 || 23 || 3 || 2292 ||  || 4 || 36 || 12
+|- align="right"
+| 2002 || 59&nbsp;600 || 64&nbsp;500 || 92.4 || 17 || 14 || 3 || 3505 ||  || 4 || 38 || 12
+|- align="right"
+| 2003 || 59&nbsp;600 || 64&nbsp;500 || 92.4 || 17 || 14 || 3 || 3505 ||  || 5 || 37 || 12
+|- align="right"
+| 2004 || 62&nbsp;800 || 65&nbsp;300 || 96.2 || 16 || 13 || 3 || 3925 ||  || 5 || 36 || 12
+|- align="right"
+| 2008 || 71&nbsp;000 || 66&nbsp;553 || 93.7 || 16 || 13 || 3 || 4160 ||  || 4 || 26 || 12
+|- align="right"
+| 2010 || 69&nbsp;900 || 77&nbsp;500 || 90.2 || 16 || 14 || 2 || 4368 ||  || 3 || 24 || 12
+|- align="right"
+| 2014 || 74&nbsp;258 || 81&nbsp;750 || 90.8 || 13 || 11 || 2 || 5712 ||  || 3 || 22 || 12
+|- align="right"
+| 2017 || 78&nbsp;800 || 83&nbsp;900 || 93.9 || 19 || 12 || 7 || 4147 ||  || 7 || 21 || 12
+|- align="right"
+| 2020 || 81&nbsp;060 || 85&nbsp;400 || 94.9 || 25 || 21 || 4 || 3242 ||  || 4 || 17 || 12
+|- align="right"
+| 2022 || 83&nbsp;000 || 88&nbsp;000 || 94.3 || 18 || 13 || 5 || 4611 ||  || 7 || 15 || 12
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dleti.html |título=''Vicariate Apostolic of Leticia'' |fechaacceso=27 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=3 de agosto de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Prefectos apostólicos ===
+* [[Marceliano Eduardo Canyes Santacana]], [[Orden de los Hermanos Menores Capuchinos|O.F.M.Cap.]] † (11 de enero de '''1952'''-4 de marzo de '''1989''' renunció)
+* [[Alfonso Yepes Rojo]] † (4 de marzo de '''1989'''-21 de mayo de '''1990''' falleció)
+** ''Sede vacante (1990-1997)''
+* [[William de Jesús Ruiz Velásquez]] † (8 de julio de '''1997'''-23 de octubre de '''2000''' renunció)
+
+=== Vicarios apostólicos ===
+* [[José de Jesús Quintero Díaz]],<ref name="obispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bqudi.html |título=Bishop José de Jesús Quintero Díaz |fechaacceso=16 de marzo de 2011  |idioma=inglés |editorial=Catholic-Hierarchy}}</ref>  (23 de octubre de '''2000-'''4 de diciembre de '''2025''' renunció.
+* [[John Mario Mesa Palacio]] desde el 4 de diciembre del 2025
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/leti0.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3lico-de-leticia Ficha del vicariato apostólico] {{Wayback|url=https://www.cec.org.co/jurisdicciones/vicariato-apost%C3%B3lico/vicariatos-apost%C3%B3lico-de-leticia |date=20200808212539 }} en el sitio web de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Amazonas (Colombia)]]
+[[Categoría:Vicariatos apostólicos de Colombia|Leticia]]
+[[Categoría:Diócesis creadas por Pío XII|Leticia]]

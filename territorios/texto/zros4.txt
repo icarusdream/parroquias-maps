@@ -1,1 +1,183 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+| nombre = Diócesis de Santa Rosa de Osos
+| tipo = diócesis
+| latín = Sanctae Rosae de Osos
+| escudo = 
+| pie escudo = Escudo de la diócesis
+| imagen = Santa Rosa de Osos-Catedral.jpg
+| pie imagen = Catedral de Nuestra Señora del Rosario de Chiquinquirá y Santa Rosa de Lima
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|5|2|1917|edad}}<br><small>por el papa [[Benedicto XV]]</small>
+| erección tipo = diócesis
+| bulaPontificia = ''Quod Catholicae''
+| sufragánea = [[arquidiócesis de Santa Fe de Antioquia]]
+| patrón = <li>''santa'' [[Rosa de Lima (santa)|Rosa de Lima]]<li>[[Nuestra Señora de las Misericordias|Virgen de las Misericordias]]
+| catedral = [[Catedral de Santa Rosa de Osos|de Nuestra Señora del Rosario de Chiquinquirá y Santa Rosa de Lima]]
+| sede = [[Santa Rosa de Osos]]
+| región tipo = Departamento
+| región = [[Antioquia]]
+| país = {{COL}}
+| curia = Obispado, Calle Real 28-72, Santa Rosa de Osos
+| concatedral = 
+| ordinario = [[Luis Albeiro Maldonado Monsalve]]
+| auxiliar = 
+| emérito = 
+| vicario = 
+| administrador diocesano = 
+| parroquias = 77
+| población total = 654&nbsp;061
+| población año = 2022
+| fieles = 615&nbsp;441
+| porcentaje fieles = 94.1
+| sacerdotes = 139
+| área = 22&nbsp;925 km²
+| mapa = Mapa Diocesis de Santa Rosa de Osos.svg
+| pie mapa = Localización y extensión de la diócesis
+| sitio web = [https://www.dsro.org/ www.dsro.org]
+}}
+
+La '''diócesis de Santa Rosa de Osos''' ({{lang-la|Dioecesis Sanctae Rosae de Osos}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Santa Fe de Antioquia]]. Desde el 10 de abril de 2025 su obispo es monseñor [[Luis Albeiro Maldonado Monsalve]].
+
+== Territorio y organización ==
+La diócesis tiene 22&nbsp;925 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en parte de las subregiones de [[Norte antioqueño|Norte]], [[Nordeste antioqueño|Nordeste]] y [[Bajo Cauca]] del [[Antioquia|departamento de Antioquia]], comprendiendo los 29 municipios de: [[Santa Rosa de Osos]], [[Amalfi (Antioquia)|Amalfi]], [[Angostura (Antioquia)|Angostura]], [[Anorí]], [[Belmira]], [[Briceño (Antioquia)|Briceño]], [[Cáceres (Antioquia)|Cáceres]], [[Campamento (Antioquia)|Campamento]], [[Carolina del Príncipe]], [[Caucasia]], [[Donmatías]], [[El Bagre]], [[Entrerríos (Antioquia)|Entrerríos]], [[Gómez Plata]], [[Guadalupe (Antioquia)|Guadalupe]], [[Ituango]], [[Nechí]], [[Remedios (Antioquia)|Remedios]], [[San Andrés de Cuerquia]], [[San José de la Montaña (Antioquía)|San José de la Montaña]], [[San Pedro de los Milagros]], [[Segovia (Antioquia)|Segovia]], [[Tarazá]], [[Toledo (Antioquia)|Toledo]], [[Valdivia (Antioquia)|Valdivia]], [[Vegachí]], [[Yalí]], [[Yarumal]] y [[Zaragoza (Antioquia)|Zaragoza]].
+
+La sede de la diócesis se encuentra en la ciudad de [[Santa Rosa de Osos]], en donde se halla la [[Catedral de Santa Rosa de Osos|Catedral de Nuestra Señora del Rosario de Chiquinquirá y Santa Rosa de Lima]]. Hay tres basílicas menores en la diócesis: la de [[Basílica menor de Nuestra Señora de las Misericordias (Santa Rosa de Osos)|Nuestra Señora de la Merced]], en Santa Rosa de Osos, la del [[Basílica menor del Señor de los Milagros (San Pedro de los Milagros)|Señor de los Milagros]], en [[San Pedro de los Milagros]], y la de [[Basílica menor de Nuestra Señora de la Merced (Yarumal)|Nuestra Señora de la Merced]], en [[Yarumal]].
+
+En 2022 en la diócesis existían 77 [[Parroquia (religión)|parroquias]] agrupadas en 9 vicarías: Santa Bárbara, Nuestra Señora de los Dolores, San José, San Pedro Claver, La Inmaculada, San Rafael, Señor de los Milagros, Beato Padre Marianito y Santa Rosa de Lima.
+
+== Historia ==
+La diócesis fue erigida el 5 de febrero de 1917 mediante la [[bula]] ''Quod Catholicae'' del [[papa]] [[Benedicto XV]], derivando el territorio de la diócesis de Antioquia (hoy arquidiócesis de Santa Fe de Antioquia).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf Bula ''Quod catholicae''], AAS 13 (1921), p.&nbsp;457.</ref> El primer obispo fue [[Maximiliano Crespo Rivera]], quien fue elegido el 7 de febrero de 1917.
+
+El 27 de octubre de 1962 cedió una porción de su territorio a la nueva [[diócesis de Barrancabermeja]] mediante la bula ''Divina Christi verba'' del papa [[Juan XXIII]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Divina Christi verba''], AAS 55 (1963), p.&nbsp;928.</ref>
+
+Originalmente sufragánea de la [[arquidiócesis de Medellín]], el 18 de junio de 1988 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Santa Fe de Antioquia.
+
+El 4 de marzo de 1989, mediante el decreto ''Per Constitutionem Apostolicam'' de la [[Congregación para la Evangelización de los Pueblos]], se confió a los obispos de Santa Rosa de Osos el cuidado pastoral de la prefectura apostólica de Leticia (hoy [[vicariato apostólico de Leticia]]).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-81-1989-ocr.pdf Decreto ''Per Constitutionem Apostolicam''], AAS 81 (1989), p. 711.</ref>
+
+El 22 de noviembre de 2003 cedió los municipios de [[Ebéjico]], [[Liborina]], [[Peque (Colombia)|Peque]], [[San Jerónimo (Antioquia)|San Jerónimo]], [[Sopetrán]], [[Olaya (Antioquia)|Olaya]], [[Sabanalarga (Antioquia)|Sabanalarga]] y el corregimiento de [[Palmitas (Medellín)|Palmitas]] en el municipio de [[Medellín]] a la arquidiócesis de Santa Fe de Antioquia.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/2004/maggio%202004.pdf Decreto ''Quo aptius''], AAS 96 (2004), pp. 316-317.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 615&nbsp;441 fieles bautizados.
+
+[[Archivo:Basilica de Yarumal-Fachada Principal.JPG|thumb|[[Basílica menor de Nuestra Señora de la Merced (Yarumal)]]|293x293px]]
+
+[[Archivo:Basilica del Señor de los Milagros - San Pedro.jpg|thumb|[[Basílica menor del Señor de los Milagros (San Pedro de los Milagros)]]|330x330px]][[Archivo:Basílica de las Misericordias en fiestas patronales, Santa Rosa de Osos.jpg|thumb|[[Basílica menor de Nuestra Señora de las Misericordias (Santa Rosa de Osos)]]|220x220px]]
+
+[[Archivo:Seminario Santo Tomás de Aquino.jpg|thumb|Seminario Conciliar Santo Tomás de Aquino|220x220px]]
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 279&nbsp;750 || 280&nbsp;000 || 99.9 || 144 || 109 || 35 || 1942 ||  || 70 || 305 || 61
+|- align="right"
+| 1966 || 407&nbsp;000 || 407&nbsp;786 || 99.8 || 207 || 162 || 45 || 1966 ||  || 110 || 390 || 66
+|- align="right"
+| 1968 || 415&nbsp;070 || 416&nbsp;570 || 99.6 || 166 || 132 || 34 || 2500 ||  || 61 || 350 || 61
+|- align="right"
+| 1976 || 395&nbsp;835 || 398&nbsp;835 || 99.2 || 155 || 126 || 29 || 2553 ||  || 48 || 300 || 76
+|- align="right"
+| 1980 || 396&nbsp;700 || 398&nbsp;800 || 99.5 || 142 || 117 || 25 || 2793 ||  || 45 || 282 || 79
+|- align="right"
+| 1990 || 438&nbsp;952 || 447&nbsp;910 || 98.0 || 157 || 143 || 14 || 2795 || 1 || 61 || 299 || 81
+|- align="right"
+| 1999 || 620&nbsp;757 || 639&nbsp;954 || 97.0 || 170 || 153 || 17 || 3651 ||  || 96 || 234 || 89
+|- align="right"
+| 2000 || 624&nbsp;389 || 643&nbsp;700 || 97.0 || 162 || 145 || 17 || 3854 ||  || 120 || 209 || 89
+|- align="right"
+| 2001 || 603&nbsp;437 || 622&nbsp;100 || 97.0 || 171 || 155 || 16 || 3528 ||  || 174 || 228 || 90
+|- align="right"
+| 2002 || 609&nbsp;750 || 628&nbsp;608 || 97.0 || 175 || 160 || 15 || 3484 ||  || 106 || 247 || 91
+|- align="right"
+| 2003 || 622&nbsp;850 || 642&nbsp;113 || 97.0 || 197 || 185 || 12 || 3161 ||  || 56 || 206 || 91
+|- align="right"
+| 2004 || 630&nbsp;000 || 650&nbsp;200 || 96.9 || 185 || 185 ||  || 3405 ||  || 47 || 232 || 92
+|- align="right"
+| 2010 || 585&nbsp;000 || 609&nbsp;000 || 96.1 || 174 || 162 || 12 || 3362 ||  || 15 || 142 || 75
+|- align="right"
+| 2014 || 613&nbsp;000 || 637&nbsp;000 || 96.2 || 146 || 136 || 10 || 4198 ||  || 11 || 142 || 77
+|- align="right"
+| 2017 || 653&nbsp;975 || 689&nbsp;126 || 94.9 || 155 || 147 || 8 || 4219 ||  || 11 || 136 || 74
+|- align="right"
+| 2020 || 674&nbsp;500 || 711&nbsp;800 || 94.8 || 142 || 131 || 11 || 4750 ||  || 16 || 127 || 79
+|- align="right"
+| 2022 || 615&nbsp;441 || 654&nbsp;061 || 94.1 || 139 || 127 || 12 || 4427 ||  || 23 || 126 || 77
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dsrdo.html |título=''Diocese of Santa Rosa de Osos''|fechaacceso=1 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=6 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+{| class="wikitable" style="text-align:center; font-size:90%; width:90%"
+! rowspan="2" |Foto 
+! rowspan="2" |Escudo 
+! rowspan="2" |Titular
+! colspan="2" |Período
+! rowspan="2" |Fin del cargo<br><small>(razón)</small>
+|-
+!Inicio
+!Fin
+|-
+| [[Archivo:Dom Maximiliano CrespoRivera.jpg|60x60px]]
+| [[Archivo:Template-Bishop.svg|60x60px]]
+| [[Maximiliano Crespo Rivera|Maximiliano '''Crespo Rivera''']] †
+| 7 de febrero de '''1917'''
+| 15 de noviembre de '''1923'''
+| ''Nombrado arzobispo de [[Arquidiócesis de Popayán|Popayán]]''
+|-
+| [[Archivo:Miguel Ángel Builes (headshot).jpg|60x60px]]
+| [[Archivo:Coat of arms of Miguel Ángel Builes Gómez.svg|60x60px]] 
+| [[Miguel Ángel Builes|Miguel Ángel '''Builes Gómez''']] † 
+| 27 de mayo de '''1924'''
+| 29 de septiembre de '''1971'''	
+| ''Falleció''
+|-
+| [[Archivo:Silver - replace this image male.svg|60x60px]] 
+| [[Archivo:Template-Bishop.svg|60x60px]] 
+| [[Joaquín García Ordóñez|Joaquín '''García Ordóñez''']] † 
+| 29 de septiembre de '''1971''' por sucesión
+| 10 de junio de '''1995'''
+| ''Retirado''
+|-
+| [[Archivo:Silver - replace this image male.svg|60x60px]] 
+| [[Archivo:Coat of arms of Jairo Jaramillo Monsalve.svg|59x59px]]
+| [[Jairo Jaramillo Monsalve|Jairo '''Jaramillo Monsalve''']]
+| 10 de junio de '''1995'''<br>(asumió el 22 de diciembre de 1995)
+| 13 de noviembre de '''2010'''
+| ''Nombrado arzobispo de [[Arquidiócesis de Barranquilla|Barranquilla]]''
+|-
+| [[Archivo:Monseñor Jorge Alberto Ossa (cropped).png|60x60px]]
+| [[Archivo:Escudo Jorge Alberto Ossa Soto.svg|60x60px]] 
+| [[Jorge Alberto Ossa Soto|Jorge Alberto '''Ossa Soto''']] 
+| 15 de julio de '''2011'''<br>(asumió el 27 de agosto de 2011)
+| 15 de octubre de '''2019'''
+| ''Nombrado arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]]''
+|-
+| [[Archivo:Elkin Alvarez-Medellin (cropped).jpg|60x60px]]
+| [[Archivo:Coat of arms of Elkin Alvarez Botero.svg|59x59px]]
+| [[Elkin Fernando Álvarez Botero|Elkin Fernando '''Álvarez Botero''']] † 
+| 22 de octubre de '''2020'''
+| 8 de julio de '''2023'''
+| ''Falleció''
+|-
+|[[Archivo:Luis Albeiro Maldonado Monsalve.jpg|centro|sinmarco|56x56px|Monseñor Luis Albeiro Maldonado Monsalve]]
+|[[Archivo:Coat of arms of Luis Albeiro Maldonado Monsalves.svg|centro|sinmarco|59x59px]]
+|[[Luis Albeiro Maldonado Monsalve]]
+|10 de abril de '''2025'''
+|
+|}
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/zros4.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-santa-rosa-de-osos Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+* [http://www.ucn.edu.co/ Sitio oficial de la Católica del Norte Fundación Universitaria]
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Santa Rosa de Osos| ]]

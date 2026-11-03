@@ -1,1 +1,147 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Arquidiócesis de Tunja
+|tipo                    = arquidiócesis
+|latín                   = Tunquen(sis)
+|escudo                  = Escudo de la Arquidiócesis de Tunja.svg
+|pie escudo              = Escudo de la arquidiócesis 
+|imagen                  = Catedral tunja.JPG
+|pie imagen              = Catedral basílica de Santiago Apóstol
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|29|7|1880}}
+|erección tipo           = diócesis
+|bula de erección        = ''Infinitus amor''
+|elevación arquidiócesis = {{fecha|20|6|1964}}
+|sufragáneas             = <li>[[Diócesis de Chiquinquirá|Chiquinquirá]]<li>[[Diócesis de Duitama-Sogamoso|Duitama-Sogamoso]]<li>[[Diócesis de Garagoa|Garagoa]]<li>[[Diócesis de Yopal|Yopal]]
+|patrón                  =
+|catedral                = [[Catedral basílica metropolitana Santiago Apóstol (Tunja)|basílica de Santiago Apóstol]]<ref>{{Cita web |url=https://www.gcatholic.org/churches/data/cathCO.htm#bbq |título=Cathedrals in Colombia |fechaacceso=22 de noviembre de 2008  |idioma=inglés |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Tunja]]
+|región tipo             = Departamento
+|región                  = [[Boyacá]]
+|país                    = {{COL}}
+|curia                   = Carrera 2 N. 59-390, Tunja
+|concatedral             =
+|ordinario               = [[Gabriel Ángel Villa Vahos]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|coadjutor               =
+|administrador apostólico=
+|parroquias              = 64
+|población total         = 320&nbsp;000
+|población año           = 2022
+|fieles                  = 273&nbsp;510
+|porcentaje fieles       = 85.5
+|sacerdotes              = 181
+|área                    = 3379 km²
+|mapa                    = Mapa Arquidiocesis de Tunja.svg
+|pie mapa                = Localización y extensión de la arquidiócesis
+|sitio web               = [https://www.arquidiocesisdetunja.org/ www.arquidiocesisdetunja.org]
+}}
+
+La '''arquidiócesis de Tunja''' ({{lang-la|Archidioecesis Tunquensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Tunja. Desde el 10 de febrero de 2020 su [[arzobispo]] es [[Gabriel Ángel Villa Vahos]].
+
+== Territorio y organización ==
+[[Archivo:Firavitoba.jpg|thumb|miniatura|derecha|Basílica menor de Nuestra Señora de las Nieves, en Firavitoba]]
+
+La arquidiócesis tiene 3379 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 27 municipios del [[Boyacá|departamento de Boyacá]]: [[Aquitania (Boyacá)|Aquitania]], [[Boyacá]], [[Chiquiza]], [[Chivatá]], [[Ciénega]], [[Cómbita]], [[Cucaita]], [[Cuítiva]], [[Firavitoba]], [[Iza (Boyacá)|Iza]], [[Motavita]], [[Nuevo Colón]], [[Oicatá]], [[Paipa]], [[Pesca (Boyacá)|Pesca]], [[Samacá]], [[Siachoque]], [[Sora (Boyacá)|Sora]], [[Soracá]], [[Sotaquirá]], [[Toca]], [[Tota]], [[Tunja]], [[Turmequé]], [[Tuta]], [[Ventaquemada]] y [[Viracachá]].
+
+[[Archivo:Arquidiocesis de tunja.jpg|thumb|miniatura|derecha|Planta física de la arquidiócesis de Tunja]]
+
+La sede de la arquidiócesis se encuentra en la ciudad de [[Tunja]], en donde se halla la [[Catedral basílica metropolitana Santiago Apóstol (Tunja)|Catedral basílica de Santiago Apóstol]]. En [[Firavitoba]] se halla la [[Basílica menor de Nuestra Señora de las Nieves (Firavitoba)|basílica menor de Nuestra Señora de las Nieves]].<ref>Decreto de la [[Congregación para el Culto Divino y la Disciplina de los Sacramentos]], 18 de octubre de 2019; Prot. 435/19.</ref>
+
+[[Archivo:Sector Antiguo de la ciudad de Tunja 11.JPG|thumb|miniatura|derecha|Iglesia de San Francisco (Tunja)|Iglesia de San Francisco, en Tunja]]
+
+La arquidiócesis tiene como sufragáneas a las diócesis de [[Diócesis de Chiquinquirá|Chiquinquirá]], [[Diócesis de Duitama-Sogamoso|Duitama-Sogamoso]],[[Diócesis de Garagoa|Garagoa]] y [[Diócesis de Yopal|Yopal]]. La provincia eclesiástica tiene agregado al [[vicariato apostólico de Trinidad]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]].<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3licos-de-trinidad Sitio web] de la CEC</ref>
+
+En 2022 en la arquidiócesis existían 64 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+La diócesis de Tunja fue erigida el 29 de julio de 1880 mediante la [[bula]] ''Infinitus amor'' del papa [[León XIII]], derivando su territorio de la arquidiócesis de Santafé de Bogotá (hoy [[arquidiócesis de Bogotá]]), de la que originalmente era sufragánea.<ref>(en latín) [https://books.google.it/books?id=zVFGAAAAYAAJ&hl=it&pg=PA87#v=onepage&q&f=false Decreto ''Infinitus amor''], en «Leonis XIII pontificis maximi Acta», vol. II, p. 87.</ref> La nueva diócesis comprendía las provincias de Tunja, Tundama, Vélez, Socorro y Casanare. Ante la demora de la designación del primer obispo, el arzobispo de Bogotá nombró como obispo-gobernador a Moisés Higuera, quien desempeñaba el cargo de obispo auxiliar del arzobispado con residencia en Tunja.
+
+El 17 de julio de 1893 cedió una parte de su territorio para la erección del vicariato apostólico de Casanare (suprimido en 1999) mediante el [[Breve apostólico|breve]] ''Romani Pontífices'' del papa León XIII.<ref>(en latín) [https://books.google.it/books?id=9fUYAAAAYAAJ&hl=it&pg=PA213#v=onepage&q&f=false Breve ''Romani Pontifices''], en «Leonis XIII pontificis maximi acta», vol. XIII, p. 213.</ref>
+
+El 7 de marzo de 1955 cedió una parte de su territorio para la erección de la diócesis de Duitama (hoy [[diócesis de Duitama-Sogamoso]]) mediante la bula ''Idem ardens'' del papa [[Pío XII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf Bula ''Idem ardens''], AAS 47 (1955), p.&nbsp;534.</ref>
+
+El 27 de octubre de 1962 cedió otra porción de su territorio a la [[diócesis de Barrancabermeja]] mediante la bula ''Divina Christi verba'' del papa [[Juan XXIII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Divina Christi verba''], AAS 55 (1963), p.&nbsp;928.</ref>
+
+El 20 de junio de 1964 fue elevada al rango de arquidiócesis metropolitana mediante la bula ''Immensa Christi'' del papa [[Pablo VI]].<ref>(en latín) [https://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19640620_tunquensis_lt.html Bula ''Immensa Christi''], AAS 57 (1965), pp.&nbsp;361-362.</ref>
+
+El 26 de abril de 1977 cedió otras porciones de su territorio para la erección por el papa Pablo VI de las diócesis de [[Diócesis de Chiquinquirá|Chiquinquirá]] (mediante la bula ''Qui Divino Consilio'')<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-69-1977-ocr.pdf Bula ''Qui divino consilio''], AAS 69 (1977), p.&nbsp;435.</ref> y [[Diócesis de Garagoa|Garagoa]] (mediante la bula ''Cum Venerabilis'').<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-69-1977-ocr.pdf Bula ''Cum Venerabilis''], AAS 69 (1977), p.&nbsp;437.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la arquidiócesis tenía a fines de 2022 un total de 273&nbsp;510 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 900&nbsp;000 || 900&nbsp;000 || 100.0 || 232 || 163 || 69 || 3879 ||  || 244 || 334 || 110
+|- align="right"
+| 1966 || 609&nbsp;950 || 612&nbsp;200 || 99.6 || 208 || 159 || 49 || 2932 ||  || 84 || 421 || 85
+|- align="right"
+| 1970 || 598&nbsp;039 || 598&nbsp;039 || 100.0 || 190 || 146 || 44 || 3147 ||  || 79 || 286 || 87
+|- align="right"
+| 1976 || 700&nbsp;000 || 720&nbsp;000 || 97.2 || 201 || 157 || 44 || 3482 ||  || 71 || 412 || 93
+|- align="right"
+| 1980 || 317&nbsp;988 || 321&nbsp;200 || 99.0 || 93 || 72 || 21 || 3419 ||  || 38 || 147 || 42
+|- align="right"
+| 1990 || 360&nbsp;000 || 400&nbsp;000 || 90.0 || 98 || 84 || 14 || 3673 || 2 || 21 || 116 || 42
+|- align="right"
+| 1999 || 300&nbsp;000 || 340&nbsp;000 || 88.2 || 127 || 111 || 16 || 2362 || 3 || 18 || 156 || 51
+|- align="right"
+| 2000 || 280&nbsp;000 || 320&nbsp;000 || 87.5 || 128 || 112 || 16 || 2187 || 3 || 17 || 156 || 52
+|- align="right"
+| 2001 || 300&nbsp;000 || 340&nbsp;000 || 88.2 || 118 || 102 || 16 || 2542 || 3 || 17 || 154 || 52
+|- align="right"
+| 2002 || 300&nbsp;000 || 340&nbsp;000 || 88.2 || 126 || 106 || 20 || 2380 || 3 || 21 || 156 || 52
+|- align="right"
+| 2003 || 240&nbsp;000 || 281&nbsp;500 || 85.3 || 140 || 119 || 21 || 1714 || 3 || 24 || 151 || 53
+|- align="right"
+| 2004 || 260&nbsp;000 || 300&nbsp;000 || 86.7 || 143 || 115 || 28 || 1818 || 3 || 54 || 137 || 54
+|- align="right"
+| 2010 || 237&nbsp;000 || 278&nbsp;000 || 85.3 || 143 || 121 || 22 || 1657 || 9 || 44 || 106 || 56
+|- align="right"
+| 2014 || 249&nbsp;000 || 290&nbsp;000 || 85.9 || 165 || 141 || 24 || 1509 || 14 || 40 || 104 || 62
+|- align="right"
+| 2017 || 257&nbsp;600 || 300&nbsp;000 || 85.9 || 170 || 144 || 26 || 1515 || 13 || 36 || 92 || 62
+|- align="right"
+| 2020 || 265&nbsp;800 || 309&nbsp;900 || 85.8 || 169 || 146 || 23 || 1572 || 14 || 31 || 62 || 64
+|- align="right"
+| 2020 || 265&nbsp;800 || 309&nbsp;900 || 85.8 || 169 || 146 || 23 || 1572 || 14 || 31 || 62 || 64
+|- align="right"
+| 2022 || 273&nbsp;510 || 320&nbsp;000 || 85.5 || 181 || 146 || 35 || 1511 || 14 || 39 || 57 || 64
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dtunj.html |título=''Archdiocese of Tunja'' |fechaacceso=5 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=29 de julio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Severo García]] † (18 de noviembre de '''1881'''-19 de abril de '''1886''' renunció<ref group='nota'>El 4 de febrero de 1888 fue nombrado [[arzobispo titular]] de [[Arquidiócesis de Calcide de Siria|Calcide de Siria]].</ref>)
+* [[Giuseppe Benigno Perilla]] † (17 de marzo de '''1887'''-13 de marzo de '''1903''' falleció)
+** ''Sede vacante (1903-1905)''
+* [[Eduardo Maldonado Calvo]] † (24 de julio de '''1905'''-31 de marzo de '''1932''' falleció)
+* [[Crisanto Luque Sánchez]] † (9 de septiembre de '''1932'''-14 de julio de '''1950''' nombrado arzobispo de [[Arquidiócesis de Bogotá|Bogotá]])
+* [[Ángel María Ocampo Berrío]], [[Compañía de Jesús|S.I.]] † (6 de diciembre de '''1950'''-20 de febrero de '''1970''' renunció<ref group='nota'>Nombrado arzobispo titular a título personal de [[Diócesis de Castulo|Castulo]].</ref>)
+* [[Augusto Trujillo Arango]] † (20 de febrero de '''1970'''-2 de febrero de '''1998''' retirado)
+* [[Luis Augusto Castro Quiroga]], [[Misioneros de la Consolata|I.M.C.]] † (2 de febrero de '''1998'''-11 de febrero de '''2020''' retirado)
+* [[Gabriel Ángel Villa Vahos]], desde el 10 de febrero de '''2020'''<ref group='nota'>Tomó posesión el 24 de marzo de 2020.</ref>
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* Para noticias sobre Severo García: B. García Saavedra, [http://books.google.com/books?id=eGJaAAAAMAAJ&q=%22Severo+Garc%C3%ADa%22+Tunja+1887&dq=%22Severo+Garc%C3%ADa%22+Tunja+1887&lr=&hl=it&pgis=1 El hijo de la Providencia], 1973, p.&nbsp;150
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/tunj0.htm Ficha de la arquidiócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-tunja Ficha de la arquidiócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Tunja| ]]

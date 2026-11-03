@@ -1,1 +1,136 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Tumaco
+|tipo                    = diócesis
+|latín                   = Tumacoën(sis)
+|escudo                  = Escudo de la Diócesis de Tumaco.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|1|5|1927}}
+|erección tipo           = prefectura apostólica
+|bulaPontificia          = ''Quae ad aeternam''
+|elevación vicariato     = {{fecha|7|2|1961}}
+|elevación diócesis      = {{fecha|29|10|1999}}
+|sufragánea              = [[arquidiócesis de Popayán]]
+|patrón                  =
+|catedral                = [[Catedral de San Andrés (Tumaco)|de San Andrés]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#gxq |título=Cathedrals in Colombia |fechaacceso=24 de noviembre de 2008  |editorial=Giga-Catholic Information |idioma=inglés }}</ref>
+|sede                    = [[Tumaco]]
+|región tipo             = Departamento
+|región                  = [[Nariño (Colombia)|Nariño]]
+|país                    = {{COL}}
+|curia                   = Obispado, Apartado Aéreo 307, Calle Márquez Edificio Catedral, Tumaco
+|concatedral             = 
+|ordinario               = [[Franklin Misael Betancourt]]
+|auxiliar                =
+|emérito                 = [[Gustavo Girón Higuita]], [[Orden de los Carmelitas Descalzos|O.C.D.]]
+|vicario                 =
+|parroquias              = 78
+|población total         = 1&nbsp;000&nbsp;180
+|población año           = 2021
+|fieles                  = 892&nbsp;615
+|porcentaje fieles       = 89.2
+|sacerdotes              = 165
+|área                    = 16&nbsp;000 km²
+|mapa                    = Mapa Diocesis de Tumaco.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdetumaco.com.co/ www.diocesisdetumaco.com.co]
+}}
+
+La '''diócesis de Tumaco''' ({{lang-la|Dioecesis Tumacoënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Popayán]]. Desde el 27 de noviembre de 2025 su obispo es [[Franklin Misael Betancourt]].<ref name="obispo">{{Cita web |url=https://www.catholic-hierarchy.org/bishop/bmisbet.html|título=Bishop Franklin Misael Betancourt |fechaacceso=11 de diciembre de 2025  |idioma=inglés |editorial=Catholic-Hierarchy}}</ref>
+
+== Territorio y organización ==
+La diócesis tiene 16&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 9 municipios del [[Nariño (Colombia)|departamento de Nariño]]: [[Barbacoas (Nariño)|Barbacoas]], [[El Charco (Nariño)|El Charco]], [[Francisco Pizarro (Nariño)|Francisco Pizarro]], [[La Tola]], [[Magui]], [[Mosquera (Nariño)|Mosquera]], [[Olaya Herrera]], [[Roberto Payán (Nariño)|Roberto Payán]] y [[Tumaco]]. La extrema parte oriental del municipio de El Charco pertenece a la [[diócesis de Pasto]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/tumaco_diocesis_700.gif |título=Mapa de la diócesis de Tumaco |fechaacceso=24 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref> 
+
+La diócesis limita al noreste con el [[vicariato apostólico de Guapí]] y la arquidiócesis de Popayán, al este con la [[diócesis de Pasto]] y el sureste con la [[diócesis de Ipiales]], y al sur con la [[diócesis de Tulcán]], sufragánea de la [[Arquidiócesis de Quito|provincia eclesiástica Quito]], también de la [[arquidiócesis de Quito]], y al suroeste con el [[vicariato apostólico de Esmeraldas]] en la República del [[Ecuador]], y con el [[océano Pacífico]] al noroeste.<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Tumaco]] (o San Andrés de Tumaco), en donde se halla la [[Catedral de San Andrés]].
+
+En 2021 en la diócesis existían 21 [[Parroquia (religión)|parroquias]] agrupadas en 4 vicarías.
+
+== Historia ==
+La prefectura apostólica de Tumaco fue erigida el 1 de mayo de 1927 mediante la [[bula]] ''Quae ad aeternam'' del [[papa]] [[Pío XI]], obteniendo el territorio de las diócesis de Cali (hoy [[arquidiócesis de Cali]]) y de [[Diócesis de Pasto|Pasto]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-24-1932-ocr.pdf Bula ''Quae ad aeternam''], AAS 24 (1932), p.&nbsp;357.</ref> La nueva circunscripción eclesiástica fue encomendada a la comunidad de los padres agustinos y comprendía en ese entonces: Tumaco, Barbacoas, Santa Bárbara de Iscuandé, Ricaurte, Guapi y [[Puerto Merizalde]]. El primer prefecto fue Bernardo Merizalde Morales quien impulsa la educación, la construcción del ferrocarril Tumaco-Pasto y otras obras de promoción social.
+
+El 14 de noviembre de 1952 cedió una parte de su territorio para la erección del vicariato apostólico de Buenaventura (hoy [[diócesis de Buenaventura]]) mediante la bula ''Provida mater Ecclesia'' del papa [[Pío XII]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Provida mater Ecclesia''], AAS 45 (1953), p.&nbsp;257.</ref>
+
+El 5 de abril de 1954 cedió otra parte de su territorio para la erección de la prefectura apostólica de Guapi (hoy [[vicariato apostólico de Guapi]]) mediante la bula ''Quemadmodum providus'' del papa Pío XII.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf Bula ''Quemadmodum providus''], AAS 46 (1954), p.&nbsp;472.</ref>
+
+El 7 de febrero de 1961 la prefectura apostólica fue elevada a vicariato apostólico mediante la bula ''Regnum Christi'' del papa [[Juan XXIII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-53-1961-ocr.pdf Bula ''Regnum Christi''], AAS 53 (1961), p.&nbsp;596.</ref>
+
+El 23 de septiembre de 1964 cedió otra porción de su territorio para la erección de la [[diócesis de Ipiales]] mediante la bula ''Cunctis in orbe'' del papa [[Pablo VI]].<ref>(en latín) [http://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19640923_ipialensis_lt.html Bula ''Cunctis in orbe''], AAS 57 (1965), pp. 435-437.</ref>
+
+El 29 de octubre de 1999 el vicariato apostólico fue elevado a diócesis con la bula ''Carmelitarum Excalceatorum'' del papa [[Juan Pablo II]]. Al mismo tiempo cedió el municipio de [[Iscuandé]] al [[vicariato apostólico de Guapi]].<ref>(en latín) [https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19991029_carmelitarum-excalceatorum.html Bula ''Carmelitarum Excalceatorum''], AAS 92 (2000), pp. 308-309.</ref>
+
+En el 2000, por acuerdo celebrado entre el obispo de Tumaco y el prefecto apostólico de Guapi, la prefectura se hizo cargo de la atención pastoral de la parroquia de Santa Bárbara del municipio del mismo nombre en el departamento de Nariño.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 214&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 200&nbsp;000 || 200&nbsp;000 || 100.0 || 10 ||  || 10 || 20&nbsp;000 ||  || 10 || 20 || 5
+|- align="right"
+| 1966 || 164&nbsp;600 || 165&nbsp;100 || 99.7 || 36 || 18 || 18 || 4572 ||  || 18 || 32 || 9
+|- align="right"
+| 1970 || 164&nbsp;700 || 165&nbsp;100 || 99.8 || 20 ||  || 20 || 8235 ||  || 20 || 46 || 10
+|- align="right"
+| 1976 || 189&nbsp;000 || 190&nbsp;000 || 99.5 || 18 ||  || 18 || 10&nbsp;500 ||  || 18 || 41 || 9
+|- align="right"
+| 1980 || 168&nbsp;500 || 169&nbsp;600 || 99.4 || 13 ||  || 13 || 12&nbsp;961 ||  || 13 || 35 || 9
+|- align="right"
+| 1990 || 207&nbsp;000 || 213&nbsp;000 || 97.2 || 21 || 7 || 14 || 9857 || 1 || 14 || 35 || 14
+|- align="right"
+| 1999 || 200&nbsp;000 || 220&nbsp;000 || 90.9 || 22 || 10 || 12 || 9090 || 1 || 16 || 27 || 10
+|- align="right"
+| 2000 || 198&nbsp;000 || 220&nbsp;000 || 90.0 || 18 || 8 || 10 || 11&nbsp;000 ||  || 13 || 24 || 10
+|- align="right"
+| 2001 || 200&nbsp;000 || 225&nbsp;000 || 88.9 || 18 || 7 || 11 || 11&nbsp;111 ||  || 14 || 24 || 10
+|- align="right"
+| 2002 || 215&nbsp;000 || 250&nbsp;000 || 86.0 || 21 || 9 || 12 || 10&nbsp;238 ||  || 14 || 27 || 10
+|- align="right"
+| 2003 || 210&nbsp;000 || 250&nbsp;000 || 84.0 || 20 || 10 || 10 || 10&nbsp;500 ||  || 17 || 28 || 14
+|- align="right"
+| 2004 || 210&nbsp;000 || 250&nbsp;000 || 84.0 || 30 || 15 || 15 || 7000 ||  || 22 || 28 || 14
+|- align="right"
+| 2010 || 246&nbsp;000 || 278&nbsp;000 || 88.5 || 31 || 18 || 13 || 7935 || 1 || 19 || 18 || 17
+|- align="right"
+| 2014 || 249&nbsp;520 || 335&nbsp;320 || 74.4 || 31 || 19 || 12 || 8049 || 9 || 26 || 13 || 17
+|- align="right"
+| 2017 || 254&nbsp;850 || 346&nbsp;880 || 73.5 || 34 || 21 || 13 || 7495 ||  || 24 || 13 || 18
+|- align="right"
+| 2020 || 262&nbsp;750 || 357&nbsp;800 || 73.4 || 29 || 18 || 11 || 9060 ||  || 11 || 15 || 19
+|- align="right"
+| 2022 || 214&nbsp;000 || 467&nbsp;064 || 45.8 || 31 || 20 || 11 || 6903 ||  || 11 || 15 || 19
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dtuma.html |título=''Diocese of Tumaco''|fechaacceso=21 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=31 de agosto de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Bernardo Merizalde Morales]], [[Orden de Agustinos Recoletos|O.A.R.]] † (30 de marzo de '''1928'''-noviembre de '''1947''' renunció)
+* [[Pedro Nel Ramírez]], O.A.R. † (14 de julio de '''1949'''-5 de abril de '''1954''' renunció)
+* [[Luis Francisco Irizar Salazar]], [[Orden de los Carmelitas Descalzos|O.C.D.]] † (23 de abril de '''1954'''-5 de noviembre de '''1965''' falleció)
+* [[Miguel Ángel Lecumberri Erburum]], O.C.D. † (3 de mayo de '''1966'''-8 de febrero de '''1990''' renunció)
+* [[Gustavo Girón Higuita]], O.C.D. (8 de febrero de '''1990'''-25 de julio de '''2015''' renunció)
+* [[Orlando Olave Villanoba]] (18 de marzo de '''2017'''-11 de julio de '''2024''' nombrado obispo de [[Diócesis de Ocaña|Ocaña]])
+* [[Franklin Misael Betancourt]] (Desde el 27 de Noviembre de '''2025''')<ref>{{Cita web |url=https://www.cec.org.co/sistema-informativo/actualidad/el-papa-leon-xiv-nombra-nuevo-obispo-para-tumaco-pbro-franklin|título=El Papa León XIV nombra nuevo obispo para Tumaco: Pbro. Franklin Misael Betancourt|idioma=español |editorial=[[Conferencia Episcopal de Colombia]]|fechaacceso=23 de octubre de 2025|fechaarchivo=11 de diciembre de 2025 }}</ref> 
+
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/tuma0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-tumaco Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Tumaco]]
+[[Categoría:Tumaco]]
+[[Categoría:Religión en Nariño]]
+[[Categoría:Provincia eclesiástica de Popayán|Tumaco]]

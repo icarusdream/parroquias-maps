@@ -1,1 +1,134 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Armenia
+|tipo                    = diócesis
+|latín                   = Armenien(sis)
+|escudo                  = Escudo de la Diócesis de Armenia.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral de armenia.jpg
+|pie imagen              = Catedral de la Inmaculada Concepción
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|17|12|1952}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Leguntur saepissime''
+|sufragánea              = [[Arquidiócesis de Manizales]]
+|patrón                  = [[Inmaculada Concepción]]
+|catedral                = [[Catedral de la Inmaculada Concepción (Armenia)|de la Inmaculada Concepción]]<ref name ="Gcatolic">{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/arme0.htm |título=Diocese of Armenia |fechaacceso=26 de octubre de 2012  |idioma=inglés |editorial=Giga Catholic }}</ref>
+|sede                    = [[Armenia (Quindío)|Armenia]]
+|región tipo             = Departamento
+|región                  = [[Quindío]]
+|país                    = {{COL}}
+|curia                   = Obispado, Calle 23 N. 12-26, Centro de Servicios Diocesanos, Armenia
+|concatedral             =
+|ordinario               = [[Carlos Arturo Quintero Gómez]]
+|auxiliar                =
+|emérito                 =
+|vicario                 = Jaime Álvarez Gómez
+|administrador apostólico=
+|parroquias              = 46
+|población total         = 562&nbsp;117
+|población año           = 2022
+|fieles                  = 473&nbsp;000
+|porcentaje fieles       = 84.1
+|sacerdotes              = 105
+|área                    = 1845 km²
+|mapa                    = Mapa Diocesis de Armenia.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesisarmenia.org/ www.diocesisarmenia.org]
+}}
+
+La '''diócesis de Armenia''' ({{lang-la|Dioecesis Armeniensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Manizales]]. Desde el 12 de diciembre de 2018 su [[obispo]] es [[Carlos Arturo Quintero Gómez]].
+
+== Territorio y organización ==
+La diócesis tiene 1845 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en el [[Quindío|departamento del Quindío]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/armenia_dicesis_700.gif |título=Mapa de la Diócesis de Armenia |fechaacceso=22 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111121142223/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/armenia_dicesis_700.gif |fechaarchivo=21 de noviembre de 2011}}</ref>
+
+La sede de la diócesis se encuentra en la ciudad de [[Armenia (Quindío)|Armenia]], en donde se halla la [[Catedral de la Inmaculada Concepción (Armenia)|Catedral de la Inmaculada Concepción]].
+
+En 2022 en la diócesis existían 46 [[Parroquia (religión)|parroquias]] agrupadas en 6 vicarías.
+
+== Historia ==
+La diócesis fue erigida el 17 de diciembre de 1952 mediante la [[bula]] ''Leguntur saepissime'' del [[papa]] [[Pío XII]], derivando el territorio de la [[prefectura apostólica del Chocó]] (a la vez suprimida) y de la diócesis de Manizales (hoy arquidiócesis).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Leguntur saepissime''], AAS 45 (1953), p.&nbsp;323.</ref> Se designó como su primer obispo a Jesús Martínez Vargas, quien se posesionó el 6 de febrero de 1953 y se retiró el 22 de abril de 1972.
+
+Originalmente sufragánea de la [[arquidiócesis de Medellín]], el 10 de mayo de 1954 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Manizales.
+
+El 8 de febrero de 1972 el papa [[Pablo VI]] designó como segundo obispo a Libardo Ramírez Gómez, quien gobernó hasta el 18 de octubre de 1986 cuando fue nombrado obispo de [[Diócesis de Garzón|Garzón]].
+
+Durante la [[sede vacante]] del 11 de diciembre de 1986 a 5 de junio de 1987, rigió la diócesis el [[presbítero]] Gonzalo Guevara Pérez.
+
+En 1987 llegó a la diócesis Roberto López Londoño, quien fue nombrado obispo de Armenia el 12 de mayo de 1987 y se posesionó el 6 de junio del mismo año. Estuvo al frente de la diócesis hasta que fue nombrado obispo de [[Diócesis de Jericó|Jericó]] el 7 de octubre de 2003.
+
+Durante la sede vacante del 13 de diciembre de 2003 a 30 de enero de 2004, la diócesis fue administrada por el arzobispo de Manizales, [[Fabio Betancur Tirado]]. 
+
+El 29 de noviembre de 2003 fue nombrado obispo de Armenia Fabio Duque Jaramillo, quien recibió su ordenación episcopal el 31 de enero de 2004 y gobernó hasta el 11 de junio de 2012 cuando nombrado obispo de Garzón. Después fue nombrado [[Alberto Giraldo Jaramillo]] quien estuvo como administrador  apostólico.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 473&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1959 || 351&nbsp;000 || 352&nbsp;200 || 99.7 || 52 || 45 || 7 || 6750 ||  || 22 || 220 || 14
+|- align="right"
+| 1966 || 360&nbsp;000 || 363&nbsp;000 || 99.2 || 63 || 51 || 12 || 5714 ||  || 40 || 293 || 19
+|- align="right"
+| 1970 || 430&nbsp;000 || 434&nbsp;100 || 99.1 || 66 || 52 || 14 || 6515 ||  || 29 || 220 || 20
+|- align="right"
+| 1976 || 350&nbsp;500 || 360&nbsp;100 || 97.3 || 48 || 38 || 10 || 7302 ||  || 40 || 278 || 23
+|- align="right"
+| 1980 || 400&nbsp;000 || 420&nbsp;000 || 95.2 || 58 || 46 || 12 || 6896 ||  || 30 || 236 || 24
+|- align="right"
+| 1990 || 395&nbsp;000 || 418&nbsp;944 || 94.3 || 62 || 55 || 7 || 6370 ||  || 18 || 202 || 30
+|- align="right"
+| 1999 || 400&nbsp;000 || 430&nbsp;000 || 93.0 || 82 || 72 || 10 || 4878 ||  || 20 || 203 || 39
+|- align="right"
+| 2000 || 400&nbsp;000 || 430&nbsp;000 || 93.0 || 81 || 71 || 10 || 4938 || 1 || 16 || 173 || 40
+|- align="right"
+| 2001 || 400&nbsp;000 || 430&nbsp;000 || 93.0 || 85 || 75 || 10 || 4705 || 1 || 20 || 172 || 41
+|- align="right"
+| 2002 || 390&nbsp;000 || 445&nbsp;000 || 87.6 || 91 || 81 || 10 || 4285 || 1 || 17 || 165 || 42
+|- align="right"
+| 2003 || 400&nbsp;000 || 485&nbsp;000 || 82.5 || 87 || 78 || 9 || 4597 || 1 || 14 || 172 || 42
+|- align="right"
+| 2004 || 408&nbsp;422 || 495&nbsp;212 || 82.5 || 93 || 82 || 11 || 4391 || 1 || 16 || 181 || 43
+|- align="right"
+| 2006 || 422&nbsp;000 || 512&nbsp;000 || 82.4 || 99 || 85 || 14 || 4262 || 1 || 18 || 181 || 43
+|- align="right"
+| 2012 || 458&nbsp;000 || 554&nbsp;000 || 82.7 || 108 || 95 || 13 || 4240 || 5 || 26 || 163 || 44
+|- align="right"
+| 2015 || 473&nbsp;000 || 562&nbsp;114 || 84.1 || 103 || 87 || 16 || 4592 || 6 || 23 || 163 || 46
+|- align="right"
+| 2018 || 480&nbsp;930 || 571&nbsp;733 || 84.1 || 109 || 94 || 15 || 4412 || 6 || 18 || 165 || 46
+|- align="right"
+| 2020 || 488&nbsp;600 || 581&nbsp;200 || 84.1 || 105 || 92 || 13 || 4653 || 6 || 17 || 167 || 46
+|- align="right"
+| 2022 || 473&nbsp;000 || 562&nbsp;117 || 84.1 || 105 || 92 || 13 || 4504 || 8 || 15 || 155 || 46
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/darmc.html |título=''Diocese of Armenia''|fechaacceso=28 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=21 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[José de Jesús Martinez Vargas]] † (18 de diciembre de '''1952'''-8 de febrero de '''1972''' retirado)
+* [[Libardo Ramírez Gómez]] (8 de febrero de '''1972'''-18 de octubre de '''1986''' nombrado obispo de [[Diócesis de Garzón|Garzón]])
+* [[José Roberto López Londoño]] † (9 de mayo de '''1987'''-7 de octubre de '''2003''' nombrado obispo de [[Diócesis de Jericó|Jericó]])
+* [[Fabio Duque Jaramillo]], [[Orden de Frailes Menores|O.F.M.]] † (29 de noviembre de '''2003'''-11 de junio de '''2012''' nombrado obispo de [[Diócesis de Garzón|Garzón]])
+** ''Sede vacante (2012-2014)''
+* [[Pablo Emiro Salas Anteliz]] (18 de agosto de '''2014'''-14 de noviembre de '''2017''' nombrado arzobispo de [[Arquidiócesis de Barranquilla|Barranquilla]])
+* [[Carlos Arturo Quintero Gómez]], desde el 12 de diciembre de '''2018'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/arme0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-armenia Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Armenia]]
+[[Categoría:Religión en Armenia (Quindío)]]
+[[Categoría:Provincia eclesiástica de Manizales|Armenia]]
+[[Categoría:Diócesis creadas por Pío XII|Armenia]]

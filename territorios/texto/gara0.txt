@@ -1,1 +1,115 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Garagoa
+|tipo                    = diócesis
+|latín                   = Garagoën(sis)
+|escudo                  = Escudo de la Diócesis de Garagoa.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral Garagoa Año 2007.jpg
+|pie imagen              = Catedral de Nuestra Señora de la Candelaria
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|26|4|1977}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Cum Venerabilis''
+|sufragánea              = [[arquidiócesis de Tunja]]
+|patrón                  = Nuestra Señora del Amparo de Chinavita
+|catedral                = [[Catedral de Nuestra Señora de la Candelaria (Garagoa)|de Nuestra Señora de la Candelaria]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/southamerica/4910.htm 
+|título=Cathedral of Our Lady of the Rosary of Chiquinquirá |idioma=inglés |fechaacceso=21 de marzo de 2011|editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Garagoa]]
+|región tipo             = Departamento
+|región                  = [[Boyacá]]
+|país                    = {{COL}}
+|curia                   = Calle 14 N. 10-28, Garagoa
+|concatedral             =
+|ordinario               = [[Julio Hernando García Peláez]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador diocesano =
+|parroquias              = 33
+|población total         = 139&nbsp;210
+|población año           = 2021
+|fieles                  = 133&nbsp;905
+|porcentaje fieles       = 96.2
+|sacerdotes              = 54
+|área                    = 4400 km²
+|mapa                    = Mapa Diocesis de Garagoa.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesisdegaragoa.org.co/ www.diocesisdegaragoa.org.co]
+}}
+
+La '''diócesis de Garagoa''' ({{lang-la|Dioecesis Garagoënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Tunja]]. Desde el 15 de junio de 2017 su [[obispo]] es [[Julio Hernando García Peláez]].<ref name="obispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bhuev.html |título=Bishop Julio Hernando Garcia Pelaez|fechaacceso=15 de junio de 2017  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref>
+
+== Territorio y organización ==
+La diócesis tiene 4400 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 25 municipios del [[Boyacá|departamento de Boyacá]]: [[Garagoa]], [[Jenesano]], [[Ramiriquí]], [[Rondón (Boyacá)|Rondón]], [[Tibaná]], [[Úmbita]], [[Chinavita]], [[Pachavita]], [[Zetaquira]], [[Berbeo]], [[Guateque]], [[Sutatenza]], [[Somondoco]], [[Guayatá|Guayata]], [[Almeida (Boyacá)|Almeida]], [[Chivor]], [[Macanal]], [[Campohermoso (Boyacá)|Campohermoso]], [[Páez (Boyacá)|Páez]], [[Santa María (Boyacá)|Santa María]], [[San Luis de Gaceno]], [[La Capilla]], [[Sutatenza]], [[Tenza]], [[San Eduardo (Boyacá)|San Eduardo]] y [[Miraflores (Boyacá)|Miraflores]].<ref name="c">{{Cita web|url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/garagoa_diocesis_700.gif|título=Diócesis de Garagoa|fechaacceso=21 de marzo de 2011|editorial=[[Conferencia Episcopal de Colombia]]|urlarchivo=https://web.archive.org/web/20111118222434/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/garagoa_diocesis_700.gif|fechaarchivo=18 de noviembre de 2011}}</ref> 
+ 
+Su territorio limita al norte con la [[arquidiócesis de Tunja]], al este con la [[diócesis de Yopal]], al sur con la [[arquidiócesis de Villavicencio]], al suroeste con la [[arquidiócesis de Bogotá]] y al oeste con la [[diócesis de Zipaquirá]].<ref name="c"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[Garagoa]], en donde se halla la [[Catedral de Nuestra Señora de la Candelaria (Garagoa)|Catedral de Nuestra Señora de la Candelaria]].<ref>{{Cita web|url=http://diocesisdegaragoa.org.co/parroquias/|título=Parroquias|sitioweb=Diócesis de Garagoa|fechaacceso=18 de junio de 2024}}</ref>
+
+En 2021 en la diócesis existían 33 [[Parroquia (religión)|parroquias]] agrupadas en 4 vicarías: San Mateo, San Marcos, San Lucas y San Juan.
+
+== Historia ==
+La diócesis fue erigida el 26 de abril de 1977 mediante la [[bula]] ''Cum Venerabilis'' del [[papa]] [[Pablo VI]], obteniendo el territorio de la arquidiócesis de Tunja.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-69-1977-ocr.pdf Bula ''Cum Venerabilis''], AAS 69 (1977), p.&nbsp;437.</ref>
+
+El 7 de abril de 1978, con la [[carta apostólica]] ''Probatus ille'', el papa Pablo VI confirmó a la Santísima Virgen María, Nuestra Señora del Refugio, venerada popularmente con el título de Nuestra Señora del Amparo de Chinavita, como [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-70-1978-ocr.pdf Carta apostólica ''Probatus ille''], AAS 70 (1978), pp. 322-323.</ref>
+
+El 29 de octubre de 1999 adquirió una porción de territorio del vicariato apostólico de Casanare, que al mismo tiempo asumió el nombre de [[vicariato apostólico de Trinidad]].<ref>{{Cita web|url=http://press.catholica.va/news_services/bulletin/news/5984.php?index=5984&po_date=27.11.1999|título=Erezione della diocesi di Yopal (Colombia) e nomina dell'Amministratore Apostolico "sede vacante et ad nutum Sanctae Sedis"|fecha=27 de noviembre de 1999|fechaacceso=18 de junio de 2024|urlarchivo=https://web.archive.org/web/20130601035525/http://press.catholica.va/news_services/bulletin/news/5984.php?index=5984&po_date=27.11.1999|fechaarchivo=?|urlmuerta=sí}}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 133&nbsp;905 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1980 || 220&nbsp;000 || 225&nbsp;000 || 97.8 || 25 || 24 || 1 || 8800 ||  || 5 || 26 || 26
+|- align="right"
+| 1990 || 230&nbsp;000 || 240&nbsp;000 || 95.8 || 42 || 42 ||  || 5476 ||  || 2 || 53 || 29
+|- align="right"
+| 1999 || 153&nbsp;000 || 155&nbsp;000 || 98.7 || 50 || 49 || 1 || 3060 ||  || 1 || 47 || 28
+|- align="right"
+| 2000 || 153&nbsp;000 || 155&nbsp;000 || 98.7 || 50 || 49 || 1 || 3060 ||  || 1 || 47 || 28
+|- align="right"
+| 2001 || 153&nbsp;000 || 155&nbsp;000 || 98.7 || 49 || 48 || 1 || 3122 ||  || 1 || 44 || 28
+|- align="right"
+| 2002 || 153&nbsp;000 || 155&nbsp;000 || 98.7 || 47 || 46 || 1 || 3255 ||  || 1 || 42 || 29
+|- align="right"
+| 2003 || 153&nbsp;000 || 155&nbsp;000 || 98.7 || 48 || 48 ||  || 3187 ||  ||  || 31 || 30
+|- align="right"
+| 2004 || 155&nbsp;500 || 157&nbsp;500 || 98.7 || 46 || 46 ||  || 3380 ||  ||  || 31 || 31
+|- align="right"
+| 2006 || 159&nbsp;300 || 161&nbsp;500 || 98.6 || 55 || 54 || 1 || 2896 ||  || 1 || 28 || 31
+|- align="right"
+| 2013 || 172&nbsp;000 || 176&nbsp;000 || 97.7 || 53 || 52 || 1 || 3245 ||  || 1 || 30 || 31
+|- align="right"
+| 2016 || 178&nbsp;000 || 182&nbsp;000 || 97.8 || 44 || 43 || 1 || 4045 ||  || 1 || 37 || 31
+|- align="right"
+| 2019 || 132&nbsp;440 || 137&nbsp;340 || 96.4 || 49 || 48 || 1 || 2702 ||  || 1 || 36 || 33
+|- align="right"
+| 2021 || 133&nbsp;905 || 139&nbsp;210 || 96.2 || 54 || 53 || 1 || 2479 ||  || 1 || 63 || 33
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dgara.html |título=''Diocese of Garagoa''|fechaacceso=6 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=15 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Juan Eliseo Mojica Oliveros]] † (26 de abril de '''1977'''-27 de diciembre de '''1989''' falleció)
+* [[Guillermo Álvaro Ortiz Carrillo]] † (27 de diciembre de '''1989''' por sucesión-24 de febrero de '''2000''' falleció)
+* [[José Vicente Huertas Vargas]] (23 de junio de '''2000'''-15 de junio de '''2017''' retirado) 
+* [[Julio Hernando García Peláez]], desde el 15 de junio de '''2017'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/gara0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-garagoa Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Garagoa]]
+[[Categoría:Provincia eclesiástica de Tunja|Garagoa]]
+[[Categoría:Diócesis creadas por Pablo VI|Garagoa]]

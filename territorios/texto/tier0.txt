@@ -1,1 +1,169 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Vicariato apostólico de Tierradentro
+|tipo                    = vicariato
+|latín                   = Tierradentroën(sis)
+|escudo                  = 
+|pie escudo              = 
+|imagen                  = no
+|pie imagen              = 
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|13|5|1921}}
+|erección tipo           = prefectura apostólica
+|breve de erección       = ''Cum in archidioecesi''
+|elevación vicariato     = {{fecha|17|2|2000}}
+|sufragánea              = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+|patrón                  = 
+|catedral                = [[Catedral de San Antonio de Ambostá|de San Antonio de Ambostá]]<ref name ="Gcatolic">{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/tier0.htm |título=Vicariate Apostolic of Tierradentro |fechaacceso=28 de octubre de 2012  |idioma=inglés |editorial=Giga Catholic }}</ref>
+|sede                    = Belalcázar
+|región tipo             = Departamento
+|región                  = [[Cauca (Colombia)|Cauca]]
+|país                    = {{COL}}
+|curia                   = Vicariato Apostólico, Belalcázar
+|concatedral             = 
+|ordinario               = [[Homero Marín Arboleda]], [[Congregación de la Misión|C.M.]]
+|auxiliar                = 
+|emérito                 = <li>[[Edgar Hernando Tirado Mazo]], [[Misioneros Javerianos de Yarumal|M.X.Y.]]<ref group='nota'>Obispo titular de [[Diócesis de Zaba|Zaba]].</ref><li>[[Óscar Augusto Múnera Ochoa]]<ref group='nota'>Obispo titular de [[Diócesis de Corniculana|Corniculana]].</ref>
+|vicario                 = 
+|administrador apostólico = 
+|parroquias              = 10
+|población total         = 76&nbsp;000
+|población año           = 2022
+|fieles                  = 71&nbsp;000
+|porcentaje fieles       = 93.4
+|sacerdotes              = 16
+|área                    = 2085 km²
+|mapa                    = Mapa Vicariato Apostolico de Tierradentro.svg
+|pie mapa                = Localización y extensión del vicariato apostólico
+|sitio web               = 
+}}
+
+El '''vicariato apostólico de Tierradentro''' ({{lang-la|Vicariatus Apostolicus Tierradentroënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Popayán|Popayán]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3lico-de-tierradentro Sitio web] de la CEC</ref> El 12 de mayo de 2026 [[Su santidad|Su Santidad]] el [[León XIV|Papa León XIV]] nombró al padre [[Homero Marín Arboleda]], [[Congregación de la Misión|C.M.]], como Vicario Apostólico de esta porción del pueblo de Dios.
+
+== Territorio y organización ==
+El vicariato apostólico tiene 2085 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en los municipios de [[Inzá]] y [[Páez (Cauca)|Páez]] (región llamada Tierradentro) del [[Cauca (Colombia)|departamento de Cauca]].
+
+Su territorio limita al norte con la [[diócesis de El Espinal]], al oeste con la [[arquidiócesis de Popayán]], al sur con la [[diócesis de Garzón]] y al este con la [[diócesis de Neiva]] y la [[diócesis de Garzón]]. La composición [[etnográfica]] de la población del vicariato apostólico es: mestizos (54%), indígenas (40%) y afrocolombianos (5.5%).
+
+La sede del vicariato apostólico se encuentra en la ciudad de Belalcázar, en el municipio de [[Páez (Cauca)|Páez]], en donde se halla la [[Catedral de San Antonio de Ambostá]].
+
+En 2022 en el vicariato apostólico existían 10 [[Parroquia (religión)|parroquias]]:
+; En el municipio de Inzá
+* Amo Jesús de Guanacas;
+* Nuestra Señora de la Candelaria, en Turminá;
+* Nuestra Señora de las Mercedes, en Pedregal;
+* San Andrés Apóstol, en San Andrés.
+; En el municipio de Páez
+* La Inmaculada, en Vitoncó;
+* Nuestra Señora del Carmen, en Ríochiquito;
+* Sagrado Corazón de Jesús, en Itaibe;
+* San Antonio de Padua, en Belalcázar;
+* San Vicente de Paúl, en Ricaurte;
+* San Luis Gonzaga, en San Luis.
+
+== Historia ==
+=== Antecedentes ===
+Las primeras incursiones evangelizadoras en Tierradentro comenzaron en 1613 de la mano de los misioneros [[Compañía de Jesús|jesuitas]], quienes en 1629 establecieron una residencia en la que permanecieron hasta 1647. En 1657 estuvieron también misionando en la región los [[Orden de Frailes Menores|franciscanos]], los cuales estuvieron cerca de 16 años. Desde entonces la [[Arquidiócesis de Popayán|diócesis de Popayán]] comenzó a enviar el párroco a la parroquia de Calderas en Tierradentro y durante dos siglos fueron los sacerdotes diocesanos quienes continuaron la [[evangelización]].
+
+En 1903 Tierradentro fue establecida como [[Misión (religión)|misión]] de la arquidiócesis de Popayán, por acuerdo entre el Estado colombiano y la [[Santa Sede]]. El 16 de julio de 1905 fue confiada a la [[Congregación de la Misión]], según convenio firmado entre el arzobispo de Popayán, [[Manuel José Caicedo]], y el padre provincial de los lazaristas Juan Floro Bret.
+
+=== Prefectura apostólica ===
+Por solicitud del provincial de los lazaristas y con el consentimiento del arzobispo de Popayán, la prefectura apostólica de Tierradentro fue erigida el 13 de mayo de 1921 con el [[breve apostólico|breve]] ''Cum in archidioecesi'' del [[papa]] [[Benedicto XV]], obteniendo el territorio de la arquidiócesis de Popayán, dejando el ''Jus commissionis'' a la comunidad de los padres Lazaristas (también conocidos como vicentinos).<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf Breve ''Cum in archidioecesi''], AAS 13 (1921), p.&nbsp;374.</ref>
+
+El 9 de noviembre de 1923 fue nombrado como prefecto apostólico Emilio Larquère, hasta entonces [[Prefectura apostólica de Arauca|prefecto apostólico de Arauca]]. Tomó posesión el 28 de febrero de 1924 y falleció el 3 de julio de 1948 en Belalcázar. Quedó rigiendo los destinos de la prefectura el proprefecto David González, sacerdote de la Congregación de la Misión.
+
+El 27 de octubre de 1950 fue nombrado prefecto apostólico Enrique Vallejo, quien se desempeñaba como rector del Seminario Mayor de [[Tunja]]. Se posesionó el 7 de diciembre del mismo año. En 1977 al cumplir los 75 años renunció, y falleció en [[Cali]] el 22 de noviembre de 1984.
+
+El 21 de julio de 1977 fue nombrado prefecto apostólico Germán García Isaza, quien estaba como misionero párroco en Willa, parroquia de la prefectura apostólica. Se posesionó el 10 de septiembre de 1977. Fue trasladado y preconizado por la [[Santa Sede]] como obispo de [[Diócesis de Caldas|Caldas]], el 8 de junio de 1988. Como administrador de la prefectura quedó encargado el padre Juan Evangelista Murcia, en calidad de proprefecto, quien se desempeñaba como párroco de una de las parroquias de la prefectura, llamada Vitoncó.
+
+El 7 de abril de 1989 fue nombrado prefecto apostólico Jorge García Isaza, quien se desempeñaba como rector del Seminario Menor Indígena. Se posesionó el 28 de mayo del mismo año.
+
+El 6 de junio de 1994 un sismo con [[epicentro]] en un lugar central del territorio, produjo una avalancha de los ríos que destruyeron el 60% de la infraestructura de la Iglesia, causando 1150 muertos. Este suceso fue determinante en cambios de toda índole en Tierradentro.
+
+El 17 de febrero de 2000, la prefectura apostólica fue elevada al rango de vicariato apostólico con la bula ''Sollicitam curam'' del papa [[Juan Pablo II]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-92-2000-ocr.pdf Bula ''Sollicitam curam''], AAS 92 (2000), pp. 617-618.</ref>
+
+En mayo de 2002, el vicario apostólico Jorge García Isaza se vio obligado a exiliarse tras las amenazas de muerte de la guerrilla de las FARC. Regresó al vicariato después de un mes y medio, pero al año siguiente presentó al papa su renuncia al gobierno pastoral del vicariato.
+
+=== Vicariato apostólico ===
+El 17 de febrero de 2000 el papa [[Juan Pablo II]] elevó la prefectura apostólica a vicariato apostólico mediante de la [[bula]] ''Sollicitam curam''. En la misma fecha, García Isaza fue nombrado [[obispo titular]] de [[Diócesis de Budua|Budua]] y vicario apostólico de Tierradentro. Recibió la ordenación episcopal el 26 de marzo del mismo año en la catedral de Belalcázar.
+
+En mayo de 2002 García Isaza se vio obligado a salir temporalmente del territorio del vicariato apostólico, por los atentados que contra su vida decretó la guerrilla de las [[FARC]]. Regresó después de mes y medio, pero en 2003 presentó al papa su carta de renuncia, agregando además de la razón de la edad canónica, el problema de los obstáculos que la subversión ponía a su labor pastoral, ya que sus continuos reclamos como pastor lo convirtieron en objetivo de las retaliaciones de los alzados en armas, con perjuicio de los fieles.
+
+El 26 de enero de 2004 fue nombrado Edgar Hernando Tirado Mazo como obispo titular de [[Diócesis de Zaba|Zaba]] y vicario apostólico de Tierradentro. El cual pertenece a la comunidad de los [[Misioneros Javerianos de Yarumal]].
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 36&nbsp;400 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 35&nbsp;950 || 36&nbsp;000 || 99.9 || 5 || 5 ||  || 7190 ||  ||  || 16 ||
+|- align="right"
+| 1964 || 32&nbsp;800 || 33&nbsp;450 || 98.1 || 10 ||  || 10 || 3280 ||  || 12 || 44 || 3
+|- align="right"
+| 1968 || 44&nbsp;100 || 45&nbsp;000 || 98.0 || 11 ||  || 11 || 4009 ||  || 13 || 47 || 4
+|- align="right"
+| 1976 || 44&nbsp;500 || 45&nbsp;500 || 97.8  ||  ||   ||  ||  ||  || 1 || 52 || 7
+|- align="right"
+| 1980 || 45&nbsp;000 || 48&nbsp;000 || 93.8 || 12 ||  || 12 || 3750 ||  || 15 || 53 || 9
+|- align="right"
+| 1990 || 49&nbsp;000 || 55&nbsp;600 || 88.1 || 14 ||  || 14 || 3500 ||  || 16 || 58 || 10
+|- align="right"
+| 1999 || 51&nbsp;200 || 55&nbsp;000 || 93.1 || 20 || 7 || 13 || 2560 ||  || 13 || 34 || 12
+|- align="right"
+| 2000 || 51&nbsp;200 || 55&nbsp;000 || 93.1 || 21 || 8 || 13 || 2438 ||  || 13 || 32 || 12
+|- align="right"
+| 2001 || 50&nbsp;000 || 55&nbsp;000 || 90.9 || 19 || 7 || 12 || 2631 ||  || 12 || 31 || 11
+|- align="right"
+| 2002 || 50&nbsp;000 || 55&nbsp;000 || 90.9 || 21 || 11 || 10 || 2380 ||  || 10 || 32 || 11
+|- align="right"
+| 2003 || 50&nbsp;000 || 55&nbsp;000 || 90.9 || 21 || 11 || 10 || 2380 ||  || 10 || 32 || 13
+|- align="right"
+| 2004 || 50&nbsp;000 || 55&nbsp;000 || 90.9 || 15 || 9 || 6 || 3333 ||  || 7 || 23 || 10
+|- align="right"
+| 2010 || 55&nbsp;500 || 66&nbsp;500 || 83.5 || 16 || 11 || 5 || 3468 ||  || 8 || 19 || 10
+|- align="right"
+| 2014 || 59&nbsp;600 || 70&nbsp;900 || 84.1 || 21 || 16 || 5 || 2838 ||  || 6 || 13 || 10
+|- align="right"
+| 2017 || 64&nbsp;600 || 70&nbsp;500 || 91.6 || 20 || 16 || 4 || 3230 ||  || 4 || 7 || 10
+|- align="right"
+| 2020 || 68&nbsp;400 || 73&nbsp;600 || 92.9 || 15 || 10 || 5 || 4560 ||  || 9 ||  || 10
+|- align="right"
+| 2022 || 71&nbsp;000 || 76&nbsp;000 || 93.4 || 16 || 13 || 3 || 4437 ||  || 7 || 8 || 10
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dtier.html |título=''Vicariate Apostolic of Tierradentro'' |fechaacceso=19 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=6 de agosto de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Prefectos apostólicos de Tierradentro ===
+* P. Emilio Larquère, [[Congregación de la Misión|C.M.]] † (9 de noviembre de '''1923'''-3 de julio de '''1948''' falleció)
+** ''Sede vacante (1948-1950)''
+* P. Enrique Alejandro Vallejo Bernal, C.M. † (27 de octubre de '''1950'''-mayo de '''1977''' retirado)
+* P. Germán García Isaza, C.M. † (21 de julio de '''1977'''-18 de junio de '''1988''' nombrado obispo de [[Diócesis de Caldas|Caldas]])
+* P. Jorge García Isaza, C.M. † (5 de mayo de '''1989'''-17 de febrero de '''2003''' nombrado vicario apostólico)
+
+=== Vicarios apostólicos de Tierradentro ===
+* Jorge García Isaza, C.M. † (5 de mayo de '''1989'''-25 de abril de '''2003''' retirado)
+* [[Edgar Hernando Tirado Mazo]], [[Misioneros Javerianos de Yarumal|M.X.Y.]] (19 de diciembre de '''2003'''-5 de junio de '''2015''' retirado)
+* [[Óscar Augusto Múnera Ochoa]] (5 de junio de '''2015'''-20 de julio de '''2024''' renunció)<ref>{{Cita web|url=https://www.religiondigital.org/miguel_estupinan-_corresponsal_en_colombia/Papa-acepto-renuncia-obispo-denunciado_7_2671002877.html|título=El Papa aceptó la renuncia, a los 62 años, de un obispo colombiano denunciado por abuso sexual|autor=Miguel Estupiñán|fecha=2024-07-20|sitioweb=Religión Digital}}</ref>
+** [[Marco Antonio Merchán Ladino]], desde el 29 de julio de '''2024''' (administrador apostólico)
+* [[Homero Marín Arboleda]], [[Congregación de la Misión|C.M.]] (12 de mayo de '''2026''' - )
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/tier0.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3lico-de-tierradentro Ficha del vicariato apostólico] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|Tierradentro]]
+[[Categoría:Diócesis creadas por Benedicto XV|Tierradentro]]

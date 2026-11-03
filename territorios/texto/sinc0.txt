@@ -1,1 +1,204 @@
-ERROR: HTTP Error 429: Too Many Requests
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Sincelejo
+|tipo                    = diócesis
+|latín                   = Sinceleien(sis)
+|escudo                  = Escudo de la Diócesis de Sincelejo.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Parque Santander de Sincelejo Agosto 2014.jpg
+|pie imagen              = Catedral de San Francisco de Asís
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|25|4|1969}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Ad Ecclesiam Christi''
+|sufragánea              = [[arquidiócesis de Cartagena de Indias]]
+|patrón                  = Inmaculado Corazón de María
+|catedral                = [[Catedral de San Francisco de Asís (Sincelejo)|de San Francisco de Asís]]<ref>{{Cita web |url=https://www.gcatholic.org/churches/southamerica/4117.htm 
+|título=Cathedral of St. Francis of Assisi |idioma=inglés |fechaacceso=21 de marzo de 2011 |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Sincelejo]]
+|región tipo             = Departamento
+|región                  = [[Sucre (Colombia)|Sucre]]
+|país                    = {{COL}}
+|curia                   = Obispado, Calle 27 N. 11-59, Barrio Rita de Arrazola, Sincelejo
+|concatedral             =
+|ordinario               = [[José Crispiano Clavijo Méndez]]
+|auxiliar                =
+|emérito                 = 
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 57
+|población total         = 906&nbsp;000
+|población año           = 2022
+|fieles                  = 837&nbsp;000
+|porcentaje fieles       = 92.4
+|sacerdotes              = 86
+|área                    = 10&nbsp;670 km²
+|mapa                    = Mapa Diocesis de Sincelejo.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdesincelejo.org/ www.diocesisdesincelejo.org]
+}}
+
+La '''diócesis de Sincelejo''' ({{lang-la|Dioecesis Sinceleiensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Cartagena de Indias]]. Desde el 19 de febrero de 2015 su [[obispo]] es [[José Crispiano Clavijo Méndez]].
+
+== Territorio y organización ==
+[[Archivo:Villa de San Benito Abad.jpg|thumb|miniatura|derecha|Basílica del Señor de los Milagros, en San Benito Abad]]
+
+La diócesis tiene 10&nbsp;670 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 26 municipios del [[Sucre (Colombia)|departamento de Sucre]]: [[Buenavista (Sucre)|Buenavista]], [[Caimito (Sucre)|Caimito]], [[Chalán]], [[Colosó]], [[Corozal (Colombia)|Corozal]], [[Coveñas]], [[El Roble (Sucre)|El Roble]], [[Galeras (Colombia)|Galeras]], [[Guaranda (Colombia)|Guaranda]], [[La Unión (Sucre)|La Unión]], [[Los Palmitos]], [[Majagual]], [[Morroa]], [[Ovejas]], [[Sampués]], [[San Antonio de Palmito]], [[San Benito Abad]], [[San Juan de Betulia]], [[San Marcos (Colombia)|San Marcos]], [[San Onofre]], [[San Pedro (Sucre)|San Pedro]], [[Santiago de Tolú]], [[Sincé]], [[Sincelejo]], [[Sucre (Sucre)|Sucre]] y [[Tolúviejo]].
+
+La sede de la diócesis se encuentra en la ciudad de [[Sincelejo]], en donde se halla la [[Catedral de San Francisco de Asís (Sincelejo)|Catedral de San Francisco de Asís]]. En [[San Benito Abad (Sucre)|San Benito Abad]] se halla la [[Basílica del Señor de los Milagros (San Benito Abad)|basílica del Señor de los Milagros]].
+
+En 2025 en la diócesis existen 51 [[Parroquia (religión)|parroquias]], 4 delegaciones pastorales, 2 cuasiparroquias y 5 diaconías, agrupadas en 7 vicarías: Vicaría de San Francisco de Asís, Vicaría del Inmaculado Corazón de María, Vicaría de la Sabana, Vicaría de los Montes de María, Vicaría del Golfo, Vicaría del San Jorge y Vicaría de la Mojana.
+
+==== Vicaría San Francisco de Asís (Sincelejo – Zona Norte) ====
+
+* Parroquia Catedral San Francisco de Asís.
+* Parroquia Cristo Rey.
+* Parroquia Espíritu Santo.
+* Parroquia Padre de la Misericordia.
+* Parroquia Ntra. Sra. del Perpetuo Socorro.
+* Parroquia Ntra. Sra. de Fátima.
+* Parroquia San Antonio de Padua.
+* Parroquia Cristo Redentor.
+* Parroquia Juan Pablo II.
+* Delegación Pastoral Cristo Sacerdote.
+* Cuasi-parroquia Sagrado Corazón de Jesús.
+* Cuasi-parroquia San Judas Tadeo.
+* Delegación pastoral Santa Laura Montoya.
+* Delegación Pastoral Sagrada Familia.
+
+==== Vicaría inmaculado Corazón de María (Sincelejo – Zona sur) ====
+
+* Parroquia Ntra. Sra. de la Medalla Milagrosa
+
+* Parroquia Ntra. Sra. de las Mercedes.
+* Parroquia Ntra. Sra. del Carmen.
+* Parroquia Niño Jesús.
+* Parroquia Jesús Buen Pastor.
+* Parroquia Santísimo Sacramento.
+* Delegación pastoral Jesús Resucitado.
+* Parroquia San Isidro Labrador (Chochó).
+* Parroquia San Juan Evangelista (Sampués).
+
+==== Vicaría de la Sabana ====
+
+* Parroquia Inmaculada Concepción de María, Galeras.
+* Parroquia Natividad de María, Sincé.
+* Parroquia Santísima Trinidad, Sincé.
+* Parroquia Sagrado Corazón de Jesús, Corozal.
+* Parroquia San José, Corozal.
+* Parroquia San Juan de Betulia.
+* Parroquia San Pedro Claver, San Pedro.
+* Parroquia Santo Tomás Becket, Buenavista.
+* Parroquia Santa Clara de Asís, Corozal.
+* Diaconía Jesús Resucitado, Corozal.
+
+==== Vicaría de los Montes de María. ====
+
+* Parroquia San Francisco de Asís, Ovejas.
+* Parroquia Santa Rosa de Lima, Los Palmitos.
+* Parroquia San Blas, Morroa.
+* Parroquia Inmaculada Concepción de María, Chalán.
+* Parroquia San José, Toluviejo.
+* Parroquia San Miguel Arcángel, Colosó.
+* Diaconía Flor del Monte, Ovejas.
+* Diaconía Sabanas de Pedro, Los Palmitos.
+
+==== Vicaría del Golfo. ====
+
+* Parroquia Sagrado Corazón de Jesús, Coveñas.
+* Parroquia San Antonio Abad, Palmito.
+* Parroquia San Onofre, San Onofre.
+* Parroquia Jesús Maestro, libertad San Onofre.
+* Parroquia Santiago Apóstol, Tolú.
+* Parroquia La Ascensión del Señor, Tolú.
+
+==== Vicaría del San Jorge. ====
+
+* Parroquia Santísima Trinidad, San Marcos.
+* Parroquia Cristo Redentor, San Marcos. 
+* Parroquia Espíritu Santo, San Marcos.
+* Parroquia Jesús Pan de Vida, Las Flores San Marcos.
+* Basílica menor San Benito Abad, San Benito.
+* Parroquia Santo Domingo de Guzmán, La Unión.'''.'''
+* Parroquia San Juan Bautista, Caimito.
+* Parroquia San Mateo, el Roble.
+* Parroquia Santiago Apóstol, Santiago.
+* Diaconía de Buenavista, San Marcos.
+* Diaconía Los Cayitos, Caimito.
+
+==== Vicaría de la Mojana. ====
+
+* Parroquia Santa Cruz, Sucre – Sucre.
+* Parroquia del Santo Cristo, Guaranda.'''.'''
+* Parroquia San José, Majagual.
+* Nuestra Sra. De la Candelaria, Pansegüita – Sucre.
+* Parroquia La Transfiguración del Señor, Piza – Majagual.
+
+== Historia ==
+=== Antecedentes ===
+El territorio de la actual diócesis de Sincelejo perteneció, desde el 24 de abril de 1534, a la diócesis de Cartagena de Indias, por [[Breve apostólico|breve]] del [[papa]] [[Clemente VII]], quien erigió esa [[diócesis]] con un amplio territorio.
+
+Los obispos de [[Cartagena de Indias]] fueron los primeros interesados en la evangelización de estos territorios. En efecto, ya para entonces dividieron el territorio en nueve vicarías foráneas, correspondiendo el actual territorio de la diócesis de Sincelejo a las vicarías de San José y de San Francisco de Asís, a las que pertenecían, respectivamente, las parroquias de Corozal, Sincé, Colosó y las parroquias de Sincelejo, Toluviejo, Tolú y Sampués.
+
+El departamento de Sucre fue creado el 1 de marzo de 1967. Este hecho históricamente importante para la ciudad de [[Sincelejo]] y la región, hizo pensar que el complemento del departamento era la erección de la diócesis.
+
+=== Diócesis ===
+La diócesis fue erigida el 25 de abril de 1969 mediante la [[bula]] ''Ad Ecclesiam Christi'' del papa [[Pablo VI]], obteniendo el territorio de la arquidiócesis de Cartagena y del [[vicariato apostólico de San Jorge]] (parroquias de San Marcos, San Benito, [[Santiago Apóstol (Sucre)|Santiago]], Caimito, Majagual y Sucre).<ref>(en latín) [https://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19690425_sincelejensis_lt.html Bula ''Ad Ecclesiam Christi''], AAS 61 (1969), pp.&nbsp;699-700.</ref>
+
+En el momento de la erección de la diócesis contaba con 20 sacerdotes diocesanos, 9 sacerdotes religiosos, 6 comunidades religiosas, 3 seminaristas y 17 parroquias organizadas con párrocos permanentes.
+
+El 16 de mayo de 1979, con la [[carta apostólica]] ''Qui a pueris'', el papa [[Juan Pablo II]] confirmó a la Santísima Virgen María, venerada con el título de Inmaculado Corazón, como [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-71-1979-ocr.pdf Carta apostólica ''Qui a pueris''], AAS 71 (1979), pp. 920-921.</ref>
+
+== Estadística ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 837&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1976 || 380&nbsp;000 || 404&nbsp;529 || 93.9 || 25 || 19 || 6 || 15&nbsp;200 ||  || 6 || 126 || 18
+|- align="right"
+| 1980 || 421&nbsp;000 || 454&nbsp;000 || 92.7 || 25 || 18 || 7 || 16&nbsp;840 ||  || 7 || 126 || 19
+|- align="right"
+| 1990 || 481&nbsp;187 || 529&nbsp;059 || 91.0 || 35 || 26 || 9 || 13&nbsp;748 || 1 || 9 || 129 || 25
+|- align="right"
+| 1995 || 560&nbsp;000 || 600&nbsp;000 || 93.3 || 43 || 37 || 6 || 13&nbsp;023 || 1 || 6 || 128 || 27
+|- align="right"
+| 2003 || 680&nbsp;000 || 800&nbsp;000 || 85.0 || 58 || 48 || 10 || 11&nbsp;724 || 1 || 11 || 90 || 42
+|- align="right"
+| 2004 || 671&nbsp;816 || 839&nbsp;770 || 80.0 || 55 || 47 || 8 || 12&nbsp;214 || 1 || 8 || 110 || 42
+|- align="right"
+| 2014 || 776&nbsp;000 || 964&nbsp;000 || 80.5 || 62 || 48 || 14 || 12&nbsp;516 || 7 || 25 || 64 || 49
+|- align="right"
+| 2017 || 803&nbsp;745 || 997&nbsp;215 || 80.6 || 77 || 62 || 15 || 10&nbsp;438 || 13 || 24 || 69 || 50
+|- align="right"
+| 2020 || 810&nbsp;370 || 877&nbsp;024 || 92.4 || 72 || 61 || 11 || 11&nbsp;255 || 13 || 11 || 63 || 55
+|- align="right"
+| 2022 || 837&nbsp;000 || 906&nbsp;000 || 92.4 || 86 || 75 || 11 || 9732 || 13 || 11 || 63 || 57
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dsinc.html |título=''Diocese of Sincelejo''|fechaacceso=8 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=17 de agosto de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Félix María Torres Parra]] † (25 de abril de '''1969'''-11 de diciembre de '''1980''' nombrado obispo de [[Diócesis de Santa Marta|Santa Marta]])
+* [[Héctor Jaramillo Duque]], [[Pía Sociedad de San Francisco de Sales|S.D.B.]] † (3 de agosto de '''1981'''-16 de septiembre de '''1990''' falleció)
+* [[Nel Beltrán Santamaría|Nel Hedye Beltrán Santamaría]] †   (29 de abril de '''1992'''-12 de febrero de '''2015''' renunció)
+* [[Sede vacante]] 2015
+* [[José Crispiano Clavijo Méndez]], desde el 19 de febrero de '''2015'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/sinc0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-sincelejo Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Sincelejo]]
+[[Categoría:Provincia eclesiástica de Cartagena|Sincelejo]]
+[[Categoría:Diócesis creadas por Pablo VI|Sincelejo]]
+[[Categoría:Sincelejo]]
