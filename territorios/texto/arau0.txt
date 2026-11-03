@@ -1,0 +1,194 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Arauca
+|tipo                    = diócesis
+|latín                   = Araucen(sis)
+|escudo                  = Escudo de la Diócesis de Arauca.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral Santa Bárbara de Arauca.jpg
+|pie imagen              = Catedral de Santa Bárbara
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|26|5|1915}}
+|erección tipo           = diócesis
+|bulaPontificia          =
+|sufragánea              = [[arquidiócesis de Nueva Pamplona]]
+|patrón                  =
+|catedral                = [[Catedral de Santa Bárbara (Arauca)|de Santa Bárbara]]<ref name ="Gcatolic">{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/arau0.htm |título=Diocese of Arauca |fechaacceso=28 de octubre de 2012 |idioma=inglés |editorial=Giga Catholic}}</ref>
+|sede                    = [[Arauca (Arauca)|Arauca]]
+|región tipo             = Departamento
+|región                  = [[Arauca (Colombia)|Arauca]]
+|país                    = {{COL}}
+|curia                   = Casa Episcopal, Calle 21 N. 19-23, Arauca
+|concatedral             =
+|ordinario               = [[Jaime Cristóbal Abril González]]
+|auxiliar                =
+|emérito                 = 
+|vicario                 =
+|parroquias              = 27
+|población total         = 338&nbsp;200
+|población año           = 2022
+|fieles                  = 264&nbsp;670
+|porcentaje fieles       = 78.3
+|sacerdotes              = 49
+|área                    = 23&nbsp;505 km²
+|mapa                    = Mapa Diocesis de Arauca.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdearauca.org/ www.diocesisdearauca.org]
+}}
+
+La '''diócesis de Arauca''' ({{lang-la|Dioecesis Araucensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Nueva Pamplona]]. Desde el 18 de noviembre de 2019 su [[obispo]] es [[Jaime Cristóbal Abril González]]. 
+
+== Territorio y organización ==
+La diócesis tiene 23&nbsp;505 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en el [[Arauca (Colombia)|departamento de Arauca]]; en 2 municipios del [[Boyacá|departamento de Boyacá]] ([[Chita (Boyacá)|Chita]] y [[Cubará]]); el municipio de [[La Salina]] en el [[Casanare|departamento de Casanare]]; y el corregimiento de [[Gibraltar (Boyacá)|Gibraltar]] en el municipio de [[Toledo (Norte de Santander)|Toledo]] en el [[Norte de Santander|departamento de Norte de Santander]].<ref name="mapa">{{Cita web|url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/arauca_diocesis_700.gif|título=Mapa de la Diócesis de Arauca|fechaacceso=25 de noviembre de 2008|editorial=[[Conferencia Episcopal de Colombia]]|idioma=español}}</ref>
+
+Al norte y al este limita con [[Venezuela]], al sureste con los vicariatos apostólicos de [[Vicariato apostólico de Puerto Carreño|Puerto Carreño]] y [[Vicariato apostólico de Trinidad|Trinidad]], al suroeste con las diócesis de [[Diócesis de Yopal|Yopal]] y [[Diócesis de Duitama-Sogamoso|Duitama-Sogamoso]], al oeste con la [[diócesis de Málaga-Soatá]] y al noroeste con la arquidiócesis de Nueva Pamplona.<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Arauca (Arauca)|Arauca]], en donde se halla la [[Catedral de Santa Bárbara (Arauca)|Catedral de Santa Bárbara]].
+
+Actualmente a la diócesis la conforman 27 [[Parroquia (religión)|parroquias]] (1  cuasiparroquia) y 4 centros parroquiales, agrupados en 4 Vicarías Foráneas: Beato Jesús Emilio Jaramillo Monsalve, San Pedro Claver, Santa Laura Montoya y San Ezequiel Moreno:
+; Vicaría Foránea Beato Jesús Emilio Jaramillo
+* P. Santa Bárbara - Catedral(Arauca);
+* P. María Auxiliadora (Arauca);
+* P. Santa Teresita (Arauca);
+* P. Perpetuo Socorro (Arauca);
+* P. Señor de los Milagros (Arauca);
+* P. La Purísima (Cravo Norte);
+* Cuasi-parroquia La Medalla Milagrosa (Arauca);
+* Centro parroquial Divino Niño (Arauca);
+* Centro Parroquial Nuestra Señora de la Paz.
+; Vicaría Foránea San Pedro Claver
+* P. Sagrado Corazón (Aguachica, Arauquita);
+* P. Espíritu Santo ([[Puerto Jordán]]);
+* P. San José (Panamá de Arauca, Arauquita).
+* P. San Isidro labrador (La Reinera, Pesquera. Arauquita);
+* P. San Lorenzo (Arauquita);
+* P. Nuestra Señora del Carmen ([[La Esmeralda (Arauca)|La Esmeralda]], Arauquita).
+* P. Nuestra Señora del Carmen de Fortul
+; Vicaría Foránea Santa Laura Montoya
+* P. Santa Cruz ([[Gibraltar (Boyacá)|Gibraltar]], Cubará);
+* P. San Miguel Arcángel (Cubará);
+* P. Nuestra Señora del Carmen (Saravena);
+* P. Cristo Rey (Saravena);
+* P. Señor de los Milagros (Saravena);
+* P. Divino Niño (Saravena);
+* P. La Inmaculada (Saravena);
+* Centro pastoral La Sagrada Familia (Saravena).
+; Vicaría Foránea San Ezequiel Moreno
+* P. La Asunción (Tame);
+* P. Santísima Trinidad (Tame);
+* P. La Inmaculada (Puerto Rondón);
+* P. Divino Niño (Tame);
+* P. Beato Jesús Emilio Jaramillo (Fortul).
+* P. La Candelaria (La Salina, Casanare);
+* P. Nuestra Señora de la Candelaria (Chita, Boyacá).
+* Centro pastoral Virgen de la Medalla Milagrosa
+
+== Historia ==
+La prefectura apostólica de Arauca fue erigida el 26 de mayo de 1915 mediante un decreto de la Sagrada [[Congregación Consistorial]], obteniendo el territorio del [[vicariato apostólico de Casanare]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf Extracto del decreto] de erección de la prefectura apostólica, AAS 7 (1915), p.&nbsp;288.</ref> En enero de 1916 fue nombrado como primer prefecto apostólico de Arauca el presbítero Emilio Larquère.
+
+En 1917 se anexaron a la prefectura apostólica las parroquias de Chita (Boyacá) y La Salina (Casanare).
+
+El 9 de noviembre de 1923 Emilio Larquère fue nombrado prefecto apostólico de [[Vicariato apostólico de Tierradentro|Tierradentro]]. El 7 de mayo de 1924 fue nombrado como prefecto apostólico de Arauca Giuseppe Potier (José María Potier), quien falleció en 1950.
+
+El 15 de junio de 1945 cedió una porción de su territorio para la erección de la [[prefectura apostólica de Labateca]] mediante la [[bula]] ''Ecclesiarum omnium'' del [[papa]] [[Pío XII]].
+
+El 27 de octubre de 1950 fue nombrado como prefecto apostólico de Arauca Graziano Martínez, quien falleció en 1956.
+
+El 11 de octubre de 1956 Luis Eduardo García se posesionó como prefecto apostólico de Arauca, quien escogió la ciudad de Arauca como sede de la prefectura apostólica. Su jurisdicción se había ampliado hasta Cubará y El Chuscas en Boyacá, Tunebia y Gibraltar en Norte de Santander, al suprimirse el 29 de mayo de 1956 la prefectura apostólica de Labateca. 
+
+El 11 de noviembre de 1970 la prefectura apostólica fue elevada a vicariato apostólico mediante la bula ''Quoniam praecipuas'' del papa [[Pablo VI]] y se nombró a Jesús Emilio Jaramillo como vicario apostólico de Arauca y obispo titular de [[Diócesis de Strumnitza|Strumnitza]], quien recibió la ordenación episcopal el 10 de enero de 1971.<ref>(en latín) [http://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19701111_araucensis_lt.html Bula ''Quoniam praecipuas''], AAS 63 (1971), pp. 259-260.</ref>
+
+El 19 de julio de 1984 el vicariato apostólico fue elevado a diócesis mediante la bula ''Accuratissima Summis'' del papa [[Juan Pablo II]].<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19840711_araucensis_lt.html Bula ''Accuratissima Summis''], AAS 76 (1984), pp. 948-950.</ref> Jaramillo Monsalve fue elevado a obispo diocesano, pero el 2 de octubre de 1989 fue asesinado por guerrilleros del [[Ejército de Liberación Nacional (Colombia)|Ejército de Liberación Nacional]].
+
+Desde de finales de 1989 hasta el 8 de junio de 1990, fue administrador apostólico el obispo de [[Diócesis de Cúcuta|Cúcuta]], [[Alberto Giraldo Jaramillo]].
+
+El 8 de junio de 1990 tomó posesión como obispo de la diócesis el redentorista Rafael Arcadio Bernal Supelano. Durante su episcopado la diócesis asumió el Proyecto Diocesano de Renovación y Evangelización (PDRE). En 1995, puesto en marcha dicho proceso de renovación y evangelización, se fundó en la Esmeralda (Arauquita, Arauca), el Seminario Mayor San José Obrero, llamado el "corazón de la diócesis", el cual nació como fruto de este mismo proceso. En este [[seminario]] se formaron para la Iglesia más de 30 sacerdotes de los cuales algunos prestan su servicio en la misma circunscripción y en otras regiones. Fue clausurado en 2015 ante la ausencia de seminaristas que pudieran continuar su proceso. Se crearon algunas parroquias como Santa Cruz en Gibraltar y El Sagrado Corazón de Jesús en la vereda Aguachica (Arauquita). El 10 de enero de 2003 fue nombrado obispo de [[Diócesis de Líbano-Honda|Líbano-Honda]].
+
+Desde el 3 de mayo de 2003 fue nombrado obispo Carlos Germán Mesa Ruiz. Durante su gobierno varios sacerdotes fueron enviados a especializarse en [[Roma]] y [[París]]. El seminario se consolidó en la parte académica y en su infraestructura. El mismo año de su ingreso a la diócesis fueron asesinados por la guerrilla dos sacerdotes. Dirigió la diócesis hasta el 2 de febrero de 2010 cuando fue nombrado como nuevo obispo de [[Diócesis de Socorro y San Gil|Socorro y San Gil]]. Durante la [[sede vacante]] fue nombrado José María Bolívar Monroy, hasta entonces vicario general, como administrador diocesano hasta el nombramiento del nuevo obispo.
+
+El 22 de octubre de 2010 el papa [[Benedicto XVI]] nombró como obispo de Arauca al sacerdote [[Jaime Muñoz Pedroza]], quien se desempeñaba como rector del Seminario Mayor de [[Tunja]]. Su consagración episcopal se llevó a cabo el 4 de diciembre de 2010 en la catedral metropolitana Santiago de Tunja y su posesión canónica fue el 14 de diciembre en Arauca. En 2015 se fundó el primer [[monasterio]] con la presencia de las [[Orden de las hermanas pobres de Santa Clara]]; el monasterio se encuentra ubicado en la vereda "Palmarito" del municipio de [[Fortul]]. Allí mismo está el santuario de la "Negrita del Piedemonte y la Sabana".
+
+El 8 de septiembre de 2017 el papa [[Francisco (papa)|Francisco]], en su [[visita apostólica]] a Colombia celebró la [[misa]] de [[Beatificación]] del [[siervo de Dios]] Jesús Emilio Jaramillo, asignando el día 3 de octubre para la [[Memoria (liturgia)|memoria litúrgica]] de este [[mártir]] de la Iglesia católica.
+
+El 11 de julio de 2017 el papa Francisco trasladó a Jaime Muñoz Pedroza a la [[diócesis de Girardot]]. Nuevamente se le concedió el permiso al Colegio de Consultores para la elección de un administrador diocesano siendo elegido por segunda vez el padre José María Bolívar Monroy.
+
+El 18 de noviembre de 2019 el papa Francisco nombró a Jaime Cristóbal Abril González como obispo de Arauca, quien era [[obispo auxiliar]] de la arquidiócesis de Nueva Pamplona. En 2020 la [[pandemia]] causada por el [[Covid 19]] obligó el cierre temporal de los templos y la paralización de toda la acción pastoral.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 264&nbsp;670 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 32&nbsp;000 || 34&nbsp;000 || 94.1 || 9 ||  || 9 || 3555 ||  || 13 || 17 || 4
+|- align="right"
+| 1966 || 60&nbsp;000 || 60&nbsp;000 || 100.0 || 23 || 4 || 19 || 2608 ||  || 21 || 23 || 11
+|- align="right"
+| 1968 || 69&nbsp;700 || 75&nbsp;000 || 92.9 || 26 || 10 || 16 || 2680 ||  || 18 || 30 || 12
+|- align="right"
+| 1976 || 153&nbsp;102 || 158&nbsp;000 || 96.9 || 26 || 17 || 9 || 5888 ||  || 11 || 50 || 12
+|- align="right"
+| 1980 || 131&nbsp;800 || 135&nbsp;200 || 97.5 || 24 || 17 || 7 || 5491 ||  || 7 || 59 || 13
+|- align="right"
+| 1990 || 151&nbsp;000 || 174&nbsp;000 || 86.8 || 23 || 17 || 6 || 6565 ||  || 8 || 59 || 15
+|- align="right"
+| 1999 || 198&nbsp;945 || 248&nbsp;681 || 80.0 || 32 || 22 || 10 || 6217 ||  || 10 || 57 || 17
+|- align="right"
+| 2000 || 202&nbsp;000 || 248&nbsp;750 || 81.2 || 30 || 23 || 7 || 6733 ||  || 8 || 56 || 15
+|- align="right"
+| 2001 || 202&nbsp;000 || 248&nbsp;750 || 81.2 || 38 || 31 || 7 || 5315 ||  || 7 || 55 || 20
+|- align="right"
+| 2002 || 220&nbsp;000 || 260&nbsp;000 || 84.6 || 43 || 34 || 9 || 5116 ||  || 9 || 53 || 21
+|- align="right"
+| 2003 || 230&nbsp;000 || 260&nbsp;000 || 88.5 || 40 || 35 || 5 || 5750 ||  || 5 || 52 || 22
+|- align="right"
+| 2004 || 232&nbsp;000 || 262&nbsp;000 || 88.5 || 40 || 35 || 5 || 5800 ||  || 5 || 51 || 22
+|- align="right"
+| 2006 || 238&nbsp;000 || 268&nbsp;000 || 88.8 || 37 || 31 || 6 || 6432 ||  || 6 || 49 || 22
+|- align="right"
+| 2012 || 264&nbsp;000 || 288&nbsp;000 || 91.7 || 47 || 43 || 4 || 5617 ||  || 4 || 46 || 24
+|- align="right"
+| 2015 || 273&nbsp;000 || 298&nbsp;100 || 91.6 || 54 || 52 || 2 || 5055 ||  || 2 || 19 || 24
+|- align="right"
+| 2018 || 250&nbsp;938 || 320&nbsp;478 || 78.3 || 53 || 53 || 0 || 4734 ||  || 0 || 32 || 25
+|- align="right"
+| 2020 || 256&nbsp;400 || 327&nbsp;500 || 78.3 || 45 || 45 ||  || 5697 ||  ||  || 30 || 28
+|- align="right"
+| 2022 || 264&nbsp;670 || 338&nbsp;200 || 78.3 || 49 || 49 ||  || 5401 ||  ||  || 26 || 27
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/darau.html |título=''Diocese of Arauca''|fechaacceso=10 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=3 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio == 
+=== Prefectos apostólicos de Arauca ===
+Ninguno de los prefectos apostólicos de Arauca recibió la ordenación episcopal.
+
+* Émile Larquère, [[Congregación de la Misión|C.M.]] † (enero de '''1916'''-9 de noviembre de '''1923''' nombrado prefecto apostólico de [[Vicariato apostólico de Tierradentro|Tierradentro]])
+* José María Potier, C.M. † (7 de mayo de '''1924'''-'''1950''' falleció)
+* Gratiniano Martínez, C.M. † (27 de octubre de '''1950'''-'''1956''' renunció)
+* Luís Eduardo García Rodríguez, [[Misioneros Javerianos de Yarumal|M.X.Y.]] † (31 de julio de '''1956'''-8 de enero de '''1970''' falleció)
+
+=== Vicario apostólico de Arauca ===
+* ''Beato'' [[Jesús Emilio Jaramillo Monsalve]], M.X.Y. † (11 de noviembre de '''1970'''-19 de julio de '''1984''' nombrado obispo ordinario)
+
+=== Obispos de Arauca ===
+* ''Beato'' [[Jesús Emilio Jaramillo Monsalve]], M.X.Y. † (19 de julio de '''1984'''-2 de octubre de '''1989''' falleció)
+* [[Rafael Arcadio Bernal Supelano]], [[Congregación del Santísimo Redentor|C.SS.R.]] † (29 de marzo de '''1990'''-10 de enero de '''2003''' nombrado obispo de [[Diócesis de Líbano-Honda|Líbano-Honda]])
+* [[Carlos Germán Mesa Ruiz]] (20 de marzo de '''2003'''-2 de febrero de '''2010''' nombrado obispo de [[Diócesis de Socorro y San Gil|Socorro y San Gil]])
+* [[Jaime Muñoz Pedroza]] (22 de octubre de '''2010'''-11 de julio de '''2018''' nombrado obispo de [[Diócesis de Girardot|Girardot]])
+* [[Jaime Cristóbal Abril González]], desde el 18 de noviembre de '''2019'''
+
+== Véase también ==
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/arau0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-arauca Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Arauca| ]]

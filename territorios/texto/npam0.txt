@@ -1,0 +1,189 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Arquidiócesis de Nueva Pamplona
+|tipo                    = arquidiócesis
+|latín                   = Neo-Pampilonen(sis)
+|escudo                  = Escudo Arquidiócesis de Nueva Pamplona.svg
+|pie escudo              = Escudo de la arquidiócesis
+|imagen                  = Sector Antiguo de la Ciudad de Pamplona.jpg
+|pie imagen              = Catedral de Santa Clara
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|25|9|1835}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Coelestem agricolam''
+|elevación arquidiócesis = {{fecha|29|5|1956}}
+|sufragáneas             = <li>[[Diócesis de Arauca|Arauca]]<li>[[Diócesis de Cúcuta|Cúcuta]]<li>[[Diócesis de Ocaña|Ocaña]]<li>[[Diócesis de Tibú|Tibú]]
+|patrón                  =
+|catedral                = [[Catedral de Pamplona (Colombia)|de Santa Clara]]
+|sede                    = [[Pamplona (Colombia)|Pamplona]]
+|región tipo             = Departamento
+|región                  = [[Norte de Santander]]
+|país                    = {{COL}}
+|curia                   = Arzobispado, Carrera 5 N. 4-87, Pamplona
+|concatedral             =
+|ordinario               = [[Jorge Alberto Ossa Soto]]<ref name="arzobispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bmame.html |título=Archbishop Luis Madrid Merlano |fechaacceso=22 de marzo de 2011 |idioma=inglés |editorial=Catholic-Hierarchy |urlarchivo=https://web.archive.org/web/20111111091400/http://www.catholic-hierarchy.org/bishop/bmame.html |fechaarchivo=11 de noviembre de 2011 }}</ref>
+|auxiliar                =
+|emérito                 = [[Luis Madrid Merlano]]
+|vicario                 =
+|coadjutor               =
+|administrador apostólico=
+|parroquias              = 36
+|población total         = 237&nbsp;000
+|población año           = 2021
+|fieles                  = 213&nbsp;300
+|porcentaje fieles       = 90.0
+|sacerdotes              = 74
+|área                    = 6571 km²
+|mapa                    = Mapa Arquidiocesis de Nueva Pamplona.svg
+|pie mapa                = Localización y extensión de la arquidiócesis
+|sitio web               = [https://web.archive.org/web/20130314034442/http://www.arquipamplona.org/ www.arquipamplona.org]
+}}
+
+La '''arquidiócesis de Nueva Pamplona''' ({{lang-la|Archidioecesis Neo-Pampilonensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Nueva Pamplona. Desde el 15 de octubre de 2019 su [[arzobispo]] es [[Jorge Alberto Ossa Soto]].
+
+== Territorio y organización ==
+La arquidiócesis tiene 6571 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 18 [[Municipios de Colombia|municipios]] del [[Norte de Santander|departamento de Norte de Santander]]: [[Bochalema]], [[Pamplona (Colombia)|Pamplona]], [[Salazar de Las Palmas]] (excepto el corregimiento de El Carmen de Nazareth que pertenece a la [[diócesis de Cúcuta]]), [[Cucutilla]], [[La Esperanza (Norte de Santander)|La Esperanza]] (excepto los corregimientos de La Pedregosa y Pueblo Nuevo que pertenecen a la [[diócesis de Ocaña]]), [[Labateca]], [[Cácota]], [[Arboledas (Norte de Santander)|Arboledas]], [[Cáchira]], [[Pamplonita]], [[Santo Domingo de Silos (Norte de Santander)|Santo Domingo de Silos]], [[Herrán (Norte de Santander)|Herrán]], [[Toledo (Norte de Santander)|Toledo]] (excepto el corregimiento de Gibraltar que pertenece a la [[diócesis de Arauca]]), [[Durania]], [[Mutiscua]], [[Chinácota]], [[Chitagá]] y [[Ragonvalia]].<ref name="cec">{{Cita web |url=http://www./ |título=Arquidiócesis de Nueva Pamplona. Parroquias |fechaacceso=22 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20110321232018/http://www/ |fechaarchivo=21 de marzo de 2011 |deadurl=yes }}</ref>
+
+Limita con la [[diócesis de Ocaña]] y la [[diócesis de Cúcuta]] al norte; con la [[República Bolivariana de Venezuela]] al este; con la [[diócesis de Arauca]] y la [[diócesis de Málaga-Soatá]] al sur y con la [[arquidiócesis de Bucaramanga]] al oeste.<ref>{{Cita web|url=http://www.cec.org.co/index.shtml?s=b&m=a&c=002|título=Mapa de las Diócesis de Colombia|fechaacceso=22 de marzo de 2011|idioma=español|editorial=[[Conferencia Episcopal de Colombia]]|urlarchivo=https://web.archive.org/web/20110514094125/http://www.cec.org.co/index.shtml?s=b&m=a&c=002|fechaarchivo=14 de mayo de 2011}}</ref>
+
+La sede de la arquidiócesis se encuentra en la ciudad de [[Pamplona (Colombia)|Pamplona]], en donde se halla la [[Catedral de Pamplona (Colombia)|Catedral de Santa Clara]].
+
+La arquidiócesis tiene como sufragáneas a las diócesis de [[Diócesis de Arauca|Arauca]], [[Diócesis de Cúcuta|Cúcuta]], [[Diócesis de Ocaña|Ocaña]] y [[Diócesis de Tibú|Tibú]].
+
+En 2021 en la arquidiócesis existían 36 [[Parroquia (religión)|parroquias]] agrupadas en 7 arciprestazgos: San Pedro, Nuestra Señora de las Angustias, San Juan Bautista, Sagrado Corazón de Jesús, San Pablo, San Pio X y Nuestra Señora del Carmen:
+; Arciprestazgo San Pedro
+* Nuestra Señora de las Nieves (Pamplona);
+* Nuestra Señora del Carmen (Pamplona);
+* San Francisco de Asís (Pamplona);
+* El Señor del Humilladero (Pamplona);
+* San Pedro Apóstol (Pamplona);
+* Santa Marta (Pamplona);
+* Divino Salvador (Pamplona);
+* Cristo Rey (Pamplona).
+; Arciprestazgo Nuestra Señora de las Angustias
+* San Luis de Gonzaga (Toledo);
+* Nuestra Señora de las Angustias (Labateca);
+* San Bernardo (San Bernardo de Bata, Toledo);
+* Santa Teresita del Niño Jesús (Samoré, Toledo).
+; Arciprestazgo San Juan Bautista
+* San Antonio de Padua (Herrán);
+* Santo Niño (Ragonvalia);
+* San Juan Bautista (Chinacotá);
+* San Miguel arcángel  (chinacota).
+; Arciprestazgo Sagrado Corazón de Jesús
+* San José (Durania);
+* Sagrado Corazón de Jesús (Bochalema);
+* Nuestra Señora del Rosario (Pamplonita);
+* Nuestra Señora de los Remedios (Villa Sucre, Arboledas);
+* Cristo Rey (La Donjuana, Bochalema);
+* Señor de los Milagros Corozal, Cúcuta;
+* Señor de la Misericordia El Diamante, Pamplonita.
+; Arciprestazgo San Pablo 
+* San Pablo (Salazar);
+* Santísima Trinidad (Arboledas);
+* Inmaculada Concepción (Cucutilla);
+* San José (San José de la Montaña, Cucutilla);
+* Espíritu Santo (Salazar, La Laguna).
+; Arciprestazgo San Pío X 
+* Nuestra Señora del Rosario de Chiquinquirá (Babega, Silos);
+* Nuestra Señora de los Dolores (Cácota);
+* San Juan Nepomuceno (Chitagá);
+* San José (Mutiscua);
+* Santo Domingo de Silos (Silos).
+; Arciprestazgo Nuestra Señora del Carmen;
+* Nuestra Señora del Carmen (Cáchira);
+* San Pedro y San Pablo (La Carrera, Cáchira);
+* María Madre de la Iglesia (La Esperanza);
+* San Agustín (La Vega, Cáchira).
+
+== Historia ==
+La diócesis de Nueva Pamplona fue erigida el 25 de septiembre de 1835 mediante la [[bula]] ''Coelestem agricolam'' del [[papa]] [[Gregorio XVI]], obteniendo el territorio de la arquidiócesis de Santafé en Nueva Granada (hoy [[arquidiócesis de Bogotá]]), de la que originalmente se hizo sufragánea.<ref>(en latín) [https://www.archive.org/stream/iurispontificii01martgoog#page/n149/mode/1up Bula ''Coelestem agricolam''], en Raffaele de Martinis, ''Iuris pontificii de propaganda fide. Pars prima'', Tomo V, Roma, 1893, p.&nbsp;140.</ref>
+
+José Jorge Torres Estans fue el primer obispo de la diócesis y estableció el [[seminario]] diocesano.
+
+Posteriormente cedió partes de su territorio en varias ocasiones para la erección de:
+* la diócesis de Socorro (hoy [[diócesis de Socorro y San Gil]]) el 20 de marzo de 1895 mediante decreto ''Iamdudum'' del papa [[León XIII]];<ref>(en latín) [https://books.google.it/books?id=VvYYAAAAYAAJ&pg=PA83 Breve ''Iamdudum''], en ''Leonis XIII pontificis maximi acta'', vol. XV, 1896, pp.&nbsp;83-91.</ref>
+* la prefectura apostólica de Río Magdalena (hoy [[diócesis de Barrancabermeja]]) el 20 de abril de 1928 mediante la bula ''Dominici gregis'' del papa [[Pío XI]];<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-21-1929-ocr.pdf Bula ''Dominici gregis''], AAS 21 (1929), p.&nbsp;141.</ref>
+* la [[prefectura apostólica de Labateca]] el 15 de junio de 1945 mediante la bula ''Ecclesiarum omnium'' del papa [[Pío XII]];<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-37-1945-ocr.pdf Bula ''Ecclesiarum omnium''], AAS 37 (1945), pp.&nbsp;307-308.</ref>
+* la prelatura territorial de Bertrania en el Catatumbo (hoy [[diócesis de Tibú]]) el 1 de agosto de 1951 mediante la bula ''In nimium territorium'' del papa Pío XII;<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-44-1952-ocr.pdf Bula ''In nimium territorium''], AAS 44 (1952), p.&nbsp;171.</ref>
+* la diócesis de Bucaramanga (hoy [[arquidiócesis de Bucaramanga]]) el 17 de diciembre de 1952 mediante la bula ''Cum sit latior'' del papa Pío XII.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Cum sit latior''], AAS 45 (1953), pp. 387-389.</ref>
+
+El 29 de mayo de 1956 cedió otra porción de su territorio para la erección de la [[diócesis de Cúcuta]] mediante la bula ''Ecclesiarum omnium'' del papa Pío XII<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf Bula ''Ecclesiarum omnium''], AAS 48 (1956), p.&nbsp;696.</ref> y también se amplió con el territorio de la suprimida prefectura apostólica de Labateca. Ese día a la vez fue elevada al rango de arquidiócesis metropolitana con la bula ''Dum rerum humanarum''.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-48-1956-ocr.pdf Bula ''Dum rerum humanarum''], AAS 48 (1956), p.&nbsp;693.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la arquidiócesis tenía a fines de 2021 un total de 213&nbsp;300 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 645&nbsp;960 || 646&nbsp;471 || 99.9 || 195 || 130 || 65 || 3312 ||  || 36 || 174 || 65
+|- align="right"
+| 1966 || 165&nbsp;252 || 165&nbsp;627 || 99.8 || 76 || 68 || 8 || 2174 ||  || 19 || 229 || 24
+|- align="right"
+| 1970 || 149&nbsp;500 || 150&nbsp;000 || 99.7 || 69 || 66 || 3 || 2166 ||  || 5 || 125 || 25
+|- align="right"
+| 1976 || 145&nbsp;000 || 150&nbsp;000 || 96.7 || 52 || 52 ||  || 2788 ||  ||  || 154 || 26
+|- align="right"
+| 1980 || 238&nbsp;284 || 250&nbsp;920 || 95.0 || 49 || 49 ||  || 4862 ||  ||  || 155 || 26
+|- align="right"
+| 1990 || 292&nbsp;596 || 303&nbsp;600 || 96.4 || 47 || 47 ||  || 6225 ||  ||  || 128 || 27
+|- align="right"
+| 1999 || 221&nbsp;926 || 234&nbsp;967 || 94.4 || 63 || 63 ||  || 3522 ||  ||  || 90 || 29
+|- align="right"
+| 2000 || 210&nbsp;000 || 234&nbsp;967 || 89.4 || 65 || 65 ||  || 3230 ||  ||  || 95 || 34
+|- align="right"
+| 2001 || 205&nbsp;000 || 213&nbsp;042 || 96.2 || 71 || 71 ||  || 2887 ||  ||  || 92 || 34
+|- align="right"
+| 2002 || 201&nbsp;529 || 210&nbsp;000 || 96.0 || 72 || 72 ||  || 2799 ||  ||  || 89 || 34
+|- align="right"
+| 2003 || 197&nbsp;944 || 203&nbsp;596 || 97.2 || 68 || 68 ||  || 2910 ||  ||  || 111 || 34
+|- align="right"
+| 2004 || 192&nbsp;207 || 197&nbsp;599 || 97.3 || 67 || 67 ||  || 2868 ||  ||  || 79 || 34
+|- align="right"
+| 2013 || 211&nbsp;300 || 221&nbsp;000 || 95.6 || 70 || 70 ||  || 3018 ||  ||  || 92 || 36
+|- align="right"
+| 2016 || 210&nbsp;240 || 217&nbsp;140 || 96.8 || 69 || 69 ||  || 3046 ||  ||  || 78 || 36
+|- align="right"
+| 2019 || 215&nbsp;000 || 225&nbsp;700 || 95.3 || 72 || 72 ||  || 2986 ||  ||  || 63 || 36
+|- align="right"
+| 2021 || 213&nbsp;300 || 237&nbsp;000 || 90.0 || 74 || 74 ||  || 2882 ||  ||  || 65 || 36
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dnupa.html |título=''Archdiocese of Nueva Pamplona'' |fechaacceso=10 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=28 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[José Jorge de Torres y Estans]] † (21 de noviembre de '''1836'''-19 de abril de '''1853''' falleció)
+** ''Sede vacante (1853-1856)''
+* [[José Luis Niño]] † (27 de mayo de '''1856'''-12 de febrero de '''1864''' falleció)
+* [[Bonifacio Antonio Toscano]] † (16 de diciembre de '''1864'''-18 de noviembre de '''1873''' renunció<ref group='nota'>El 16 de enero de 1874 fue nombrado [[obispo titular]] de [[Diócesis de Centuria|Centuria]].</ref>)
+* [[Indalecio Barreto]] † (16 de enero de '''1874'''-20 de marzo de '''1875''' falleció)
+* [[Ignacio Antonio Parra]] † (17 de septiembre de '''1875'''-21 de febrero de '''1908''' falleció)
+* [[Evaristo Blanco]] † (27 de marzo de '''1909'''-15 de septiembre de '''1915''' falleció)
+* [[Rafael Afanador y Cadena]] † (5 de junio de '''1916'''-29 de mayo de '''1956''' renunció<ref group='nota'>Nombrado [[arzobispo titular]] de [[Arquidiócesis de Pompeópolis de Cilicia|Pompeópolis de Cilicia]].</ref>)
+* [[Bernardo Botero Álvarez]], [[Congregación de la Misión|C.M.]] † (29 de mayo de '''1956'''-28 de junio de '''1959''' falleció)
+* [[Aníbal Muñoz Duque]] † (3 de agosto de '''1959'''-27 de marzo de '''1968''' nombrado arzobispo coadjutor de [[Arquidiócesis de Bogotá|Bogotá]])
+* [[Alfredo Rubio Díaz]] † (27 de marzo de '''1968'''-28 de febrero de '''1978''' retirado)
+* [[Mario Revollo Bravo]] † (28 de febrero de '''1978'''-25 de junio de '''1984''' nombrado arzobispo de [[Arquidiócesis de Bogotá|Bogotá]])
+* [[Rafael Sarmiento Peralta]] † (12 de enero de '''1985'''-21 de junio de '''1994''' retirado)
+* [[Víctor Manuel López Forero]] † (21 de junio de '''1994'''-27 de junio de '''1998''' nombrado arzobispo de [[Arquidiócesis de Bucaramanga|Bucaramanga]])
+* [[Gustavo Martínez Frías]] † (18 de marzo de '''1999'''-29 de agosto de '''2009''' falleció)
+* [[Luis Madrid Merlano]] (30 de marzo de '''2010'''-6 de junio de '''2018''' renunció)
+* [[Jorge Alberto Ossa Soto]], desde el 15 de octubre de '''2019'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/npam0.htm Ficha de la arquidiócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-nueva-pamplona Ficha de la arquidiócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Nueva Pamplona| ]]

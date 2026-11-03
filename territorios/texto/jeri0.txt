@@ -1,0 +1,175 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Jericó
+|tipo                    = diócesis
+|latín                   = Iericoën(sis)
+|escudo                  = Escudo de la Diócesis de Jericó.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral de Jericó-antioquia.JPG
+|pie imagen              = Catedral de Nuestra Señora de las Mercedes
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|29|1|1915}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Universi Dominici Gregis''
+|sufragánea              = [[arquidiócesis de Medellín]]
+|patrón                  = 
+|catedral                = [[Catedral de Nuestra Señora de las Mercedes (Jericó)|de Nuestra Señora de las Mercedes]]
+|sede                    = [[Jericó (Antioquia)|Jericó]]
+|región tipo             = Departamento
+|región                  = [[Antioquia]]
+|país                    = {{COL}}
+|curia                   = Obispado, Calle Benedicto XV 6a N. 2-43, Jericó
+|concatedral             = 
+|ordinario               = [[Diego Luis Rendon Urrea]]
+|auxiliar                = 
+|emérito                 = [[Noel Antonio Londoño Buitrago]], [[Congregación del Santísimo Redentor|C.SS.R.]]
+|vicario                 = 
+|administrador apostólico = 
+|parroquias              = 30
+|población total         = 235&nbsp;000
+|población año           = 2021
+|fieles                  = 232&nbsp;790
+|porcentaje fieles       = 99.1
+|sacerdotes              = 86
+|área                    = 3000 km²
+|mapa                    = Mapa Diocesis de Jerico.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesisdejerico.org www.diocesisdejerico.org]
+}}
+
+La '''diócesis de Jericó''' ({{lang-la|Dioecesis Iericoënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Medellín]]. El 13 de julio de 2026 el Papa León XIV nombro como 8 [[obispo]] a Mons. [[Diego Luis Rendón Urrea]], quien tomó posesión canónica el 5 de septiembre de 2026 en la Catedral Nuestra Señora de las Mercedes
+
+== Territorio y organización ==
+[[Archivo:Iglesia principal de Jardín.jpg|thumb|miniatura|derecha|Basílica menor de la Inmaculada Concepción, en Jardín]]
+
+La diócesis tiene 3000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 15 municipios del [[Antioquia|departamento de Antioquia]]: [[Andes (Antioquia)|Andes]], [[Betania (Antioquia)|Betania]], [[Betulia (Antioquia)|Betulia]] (excepto el corregimiento de Altamira, que pertenece a la [[arquidiócesis de Santa Fe de Antioquia]]), [[Ciudad Bolívar (Antioquia)|Ciudad Bolívar]], [[Caramanta]], [[Concordia (Antioquia)|Concordia]], [[Hispania (Antioquia)|Hispania]], [[La Pintada (Antioquia)|La Pintada]], [[Jardín (Antioquia)|Jardín]], [[Jericó (Antioquia)|Jericó]], [[Pueblorrico]], [[Salgar (Antioquia)|Salgar]], [[Tarso (Antioquia)|Tarso]], [[Támesis (Antioquia)|Támesis]] y [[Valparaíso (Antioquia)|Valparaíso]].
+
+[[Archivo:Iglesia de Caramanta-Fachada Principal.jpg|thumb|miniatura|derecha|[[Iglesia de la Inmaculada Concepción (Caramanta)|Iglesia de la Inmaculada Concepción]], en Caramanta]]
+
+El territorio de la diócesis está situado en el llamado [[Suroeste antioqueño|Suroeste]] de Antioquia, y localizado sobre la margen occidental del [[río Cauca]]. Limita con la [[arquidiócesis de Santa Fe de Antioquia]] por el norte; por el oriente con la [[diócesis de Caldas]]; por el sureste con la [[arquidiócesis de Manizales]]; por el sur con la [[diócesis de Pereira]]; y con la [[diócesis de Quibdó]] por el occidente.
+
+La sede de la diócesis se encuentra en la ciudad de [[Jericó (Antioquia)|Jericó]], en donde se halla la [[Catedral de Nuestra Señora de las Mercedes (Jericó)|Catedral de Nuestra Señora de las Mercedes]]. En [[Jardín (Antioquia)|Jardín]] se halla la [[Basílica de la Inmaculada Concepción (Jardín)|basílica de la Inmaculada Concepción]].
+
+En 2021 en la diócesis existían 30 [[Parroquia (religión)|parroquias]] agrupadas en 4 vicarías foráneas: Nuestra Señora de las Mercedes, San Pablo, San Pedro y San Juan Bautista:
+; Vicaría Nuestra Señora de las Mercedes
+* Nuestra Señora de las Mercedes, Catedral (Jericó);
+* El Inmaculado Corazón de María (Jericó);
+* San Antonio de Padua (Pueblorrico);
+* San Pablo (Tarso);
+* Nuestra Señora de Chiquinquirá (Corregimiento Buenos Aires, Andes).
+; Vicaría San Pablo
+* La Inmaculada Concepción (Ciudad Bolívar);
+* María Auxiliadora (Ciudad Bolívar);
+* San Bernardo (Corregimiento Farallones, Ciudad Bolívar);
+* San Pío X (Corregimiento San Gregorio o Alfonso López, Ciudad Bolívar);
+* [[Iglesia de San Juan Evangelista (Salgar)|San Juan Evangelista]] (Salgar);
+* Nuestra Señora del Carmen (Corregimiento La Cámara, Salgar);
+* San Juan de Ávila (Corregimiento Peñalisa, Salgar);
+* [[Iglesia de Nuestra Señora de las Mercedes (Concordia)|Nuestra Señora de las Mercedes]] (Concordia);
+* Nuestra Señora del Perpetuo Socorro (Corregimiento El Socorro, Concordia);
+* La Inmaculada Concepción (Betulia).
+; Vicaría San Pedro 
+* San Antonio de Padua (Támesis);
+* Santa Teresa de Ávila (Corregimiento Palermo, Támesis);
+* San Pablo (Corregimiento San Pablo, Támesis);
+* Santa Ana (Valparaíso);
+* [[Iglesia de la Inmaculada Concepción (Caramanta)|La Inmaculada Concepción]] (Caramanta);
+* Nuestra Señora de los Dolores (Corregimiento Alegrías, Caramanta);
+* La Santa Cruz (Corregimiento Sucre, Caramanta);
+* El Sagrado Corazón de Jesús (El Crucero, La Pintada).
+; Vicaría San Juan Bautista 
+* [[Iglesia de Nuestra Señora de las Mercedes (Andes)|Nuestra Señora de las Mercedes (Andes)]];
+* San Pedro Claver (Andes);
+* El Sagrado Corazón de Jesús (Corregimiento Tapartó, Andes);
+* La Inmaculada Concepción (Corregimiento San José, Andes);
+* Santa Rita de Casia (Corregimiento Santa Rita, Andes);
+* San Antonio de Padua (Corregimiento Santa Inés, Andes);
+* Nuestra Señora de las Mercedes (Hispania);
+* [[Iglesia de San Rafael (Betania)|San Rafael Arcángel]] (Betania);
+* [[Basílica Menor de la Inmaculada Concepción (Jardín)|La Inmaculada Concepción]] (Jardín).
+
+== Historia ==
+La diócesis de Jericó fue erigida el 29 de enero de 1915 mediante la [[bula]] ''Universi Dominici Gregis'' del [[papa]] [[Benedicto XV]], derivando el territorio de la diócesis de Antioquia (hoy [[arquidiócesis de Santa Fe de Antioquia]]); la nueva diócesis pasó a ser sufragánea de la arquidiócesis de Medellín.<ref>Síntesis de la bula pontificia en [https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf AAS 7 (1915), p. 121].</ref>
+
+En 1916 se inauguró el [[seminario]], dedicado a san [[Juan Eudes]] y encomendado a la [[Congregación de Jesús y María]] (padres eudistas). De allí se formaron sacerdotes que influyeron notablemente en la vida de la región como es el caso del [[presbítero]] [[Francisco Luis Lema]], y el de Arturo Correa Toro.
+
+El 5 de febrero de 1917 mediante la bula ''Quod Catholicae Religionis'' se unió ''[[aeque principaliter]]'' a la diócesis de Antioquia y al mismo tiempo se amplió con el territorio de [[El Carmen de Atrato]] que pertenecía a la [[prefectura apostólica del Chocó]]. La bula estableció que la sede de las dos diócesis unidas era la ciudad de Jericó. La unión ''aeque principaliter'' fue motivada por el hecho de que, con la misma bula, la diócesis de Antioquia quedó reducida a sólo nueve parroquias para la erección de la [[diócesis de Santa Rosa de Osos]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-13-1921-ocr.pdf Bula ''Quod catholicae''], AAS 13 (1921), p.&nbsp;457.</ref><ref>A. Gálvez Abadía, p. 95</ref> Además, a mediados de 1917 se recibió comunicación de que tres de estas parroquias pasarían a la [[prefectura apostólica de Urabá]],<ref>A. Gálvez Abadía, pp. 115-116</ref> erigida en el año siguiente.
+
+La unión ''aeque principaliter'' duró hasta el 3 de julio de 1941, cuando, mediante otra bula llamada ''Universi Dominici Gregis'',<ref group='nota'>Esta bula lleva el mismo nombre con la que Benedicto XV había erigido la diócesis en 1915</ref> el papa [[Pío XII]] estableció la separación de las dos diócesis. Al mismo tiempo, Jericó cedió una porción de su territorio a la diócesis de Antioquia (Anzá, Caicedo y Urrao).<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-33-1941-ocr.pdf Bula ''Universi dominici gregis''], AAS 33 (1941), p.&nbsp;410.</ref>
+
+El 8 de abril de 1954 cedió el territorio del municipio de El Carmen de Atrato al vicariato apostólico de Quibdó (hoy [[diócesis de Quibdó]]) mediante el decreto ''Apostolica sedes''.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-46-1954-ocr.pdf Decreto ''Apostolica sedes''], AAS 46 (1954), pp. 228-229.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 232&nbsp;790 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 250&nbsp;000 || 250&nbsp;000 || 100.0 || 84 || 79 || 5 || 2976 ||  || 6 || 223 || 20
+|- align="right"
+| 1966 || 312&nbsp;000 || 312&nbsp;000 || 100.0 || 124 || 118 || 6 || 2516 ||  || 8 || 223 || 30
+|- align="right"
+| 1970 || 260&nbsp;000 || 260&nbsp;000 || 100.0 || 84 || 82 || 2 || 3095 ||  || 8 || 255 || 28
+|- align="right"
+| 1976 || 240&nbsp;000 || 240&nbsp;500 || 99.8 || 74 || 72 || 2 || 3243 ||  || 3 || 236 || 24
+|- align="right"
+| 1980 || 214&nbsp;000 || 215&nbsp;000 || 99.5 || 71 || 69 || 2 || 3014 ||  || 3 || 151 || 29
+|- align="right"
+| 1990 || 269&nbsp;000 || 270&nbsp;000 || 99.6 || 74 || 72 || 2 || 3635 ||  || 7 || 167 || 32
+|- align="right"
+| 1999 || 208&nbsp;000 || 210&nbsp;000 || 99.0 || 84 || 81 || 3 || 2476 ||  || 3 || 170 || 32
+|- align="right"
+| 2000 || 208&nbsp;000 || 210&nbsp;000 || 99.0 || 81 || 81 ||  || 2567 || 1 ||  || 170 || 33
+|- align="right"
+| 2001 || 208&nbsp;000 || 210&nbsp;000 || 99.0 || 79 || 79 ||  || 2632 || 1 ||  || 170 || 33
+|- align="right"
+| 2002 || 213&nbsp;500 || 215&nbsp;000 || 99.3 || 79 || 79 ||  || 2702 || 1 ||  || 165 || 33
+|- align="right"
+| 2003 || 218&nbsp;000 || 220&nbsp;000 || 99.1 || 77 || 77 ||  || 2831 || 2 ||  || 165 || 33
+|- align="right"
+| 2004 || 228&nbsp;000 || 230&nbsp;000 || 99.1 || 76 || 76 ||  || 3000 ||  ||  || 167 || 33
+|- align="right"
+| 2006 || 234&nbsp;000 || 237&nbsp;000 || 98.7 || 76 || 76 ||  || 3078 || 1 ||  || 170 || 33 
+|- align="right"
+| 2013 || 254&nbsp;000 || 259&nbsp;000 || 98.1 || 87 || 87 ||  || 2919 || 2 ||  || 121 || 33
+|- align="right"
+| 2016 || 262&nbsp;951 || 268&nbsp;000 || 98.1 || 76 || 76 ||  || 3459 || 2 ||  || 106 || 33
+|- align="right"
+| 2019 || 226&nbsp;000 || 228&nbsp;000 || 99.1 || 85 || 85 ||  || 2658 || 4 ||  || 93 || 33
+|- align="right"
+| 2021 || 232&nbsp;790 || 235&nbsp;000 || 99.1 || 86 || 86 ||  || 2706 || 4 ||  || 52 || 30
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/djeri.html |título=''Diocese of Jericó''|fechaacceso=2 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=27 de julio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+:* [[Maximiliano Crespo Rivera]] † ('''1915'''-7 de febrero de '''1917''' nombrado obispo de [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]]) (administrador apostólico)
+* [[Francisco Cristóbal Toro Correa]] † (8 de febrero de '''1917'''-3 de julio de '''1941''' nombrado obispo de [[Arquidiócesis de Santa Fe de Antioquia|Antioquia]])<ref group='nota'>En este período las diócesis de Jericó y de Antioquia estaban unidas ''[[aeque principaliter]]''.</ref>
+* [[Antonio José Jaramillo Tobón]] † (7 de febrero de '''1942'''-31 de marzo de '''1960''' renunció<ref group="nota">Nombrado [[arzobispo titular]] de [[Arquidiócesis de Cotrada|Cotrada]].</ref>)
+* [[Augusto Trujillo Arango]] † (31 de marzo de '''1960'''-20 de febrero de '''1970''' nombrado arzobispo de [[Arquidiócesis de Tunja|Tunja]])
+* [[Juan Eliseo Mojica Oliveros]] † (4 de junio de '''1970'''-26 de abril de '''1977''' nombrado obispo de [[Diócesis de Garagoa|Garagoa]])
+* [[Augusto Aristizábal Ospina]] † (29 de octubre de '''1977'''-7 de octubre de '''2003''' retirado)
+* [[José Roberto López Londoño]] † (7 de octubre de '''2003'''-13 de junio de '''2013''' retirado)
+* [[Noel Antonio Londoño Buitrago]], [[Congregación del Santísimo Redentor|C.SS.R.]],  (13 de junio de '''2013'''-13 de julio de '''2026''' retirado)
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* Aída Gálvez Abadía, [https://dialnet.unirioja.es/servlet/tesis?codigo=8211 ''Por obligación de conciencia. Los misioneros del Carmen Descalzo en Urabá, Colombia. Siglo XX''], Universitat Rovira i Virgili, Tesi di laurea, Tarragona, 2003
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/jeri0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-jeric%C3%B3 Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombiaa]
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Jericó| ]]

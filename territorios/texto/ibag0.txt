@@ -1,0 +1,207 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Arquidiócesis de Ibagué
+|tipo                    = arquidiócesis
+|latín                   = Ibaguen(sis)
+|escudo                  = Escudo de la Arquidiócesis de Ibagué.svg
+|pie escudo              = Escudo de la arquidiócesis
+|imagen                  = Catedral de Ibague.JPG
+|pie imagen              = Catedral de la Inmaculada Concepción de María
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|20|5|1900}}
+|erección tipo           = diócesis
+|decreto de erección     = ''Quum legitimae''
+|elevación arquidiócesis = {{fecha|13|12|1974}}
+|sufragáneas             = <li>[[Diócesis de El Espinal|El Espinal]]<li>[[Diócesis de Garzón|Garzón]]<li>[[Diócesis de Líbano-Honda|Líbano-Honda]]<li>[[Diócesis de Neiva|Neiva]]
+|patrón                  =
+|catedral                = [[Catedral metropolitana de Ibagué|de la Inmaculada Concepción de María]]<ref>{{Cita web |url=https://www.gcatholic.org/churches/data/cathCO.htm#bcf |título=Cathedrals in Colombia |fechaacceso=10 de marzo de 2011  |idioma=inglés |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Ibagué]]
+|región tipo             = Departamento
+|región                  = [[Tolima]]
+|país                    = {{COL}}
+|curia                   = Curia Arzobispal, Calle 10 N. 2-58, Ibagué
+|concatedral             =
+|ordinario               = [[Orlando Roa Barbosa]]<ref name="arzobispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bsalg.html |título=Archbishop Rubén Salazar Gómez |fechaacceso=29 de marzo de 2011  |idioma=inglés |editorial=Catholic-Hierarchierarchy.org/bishop/bcalz.html}}</ref>
+|auxiliar                =
+|emérito                 = [[Flavio Calle Zapata]]
+|vicario                 =
+|coadjutor               =
+|administrador apostólico= 
+|parroquias              = 62
+|población total         = 687&nbsp;400
+|población año           = 2021
+|fieles                  = 654&nbsp;000
+|porcentaje fieles       = 95.1
+|sacerdotes              = 111
+|área                    = 6044 km²
+|mapa                    = Mapa Arquidiocesis de Ibague.svg
+|pie mapa                = Localización y extensión de la arquidiócesis
+|sitio web               = [https://www.arquidiocesisdeibague.org/ www.arquidiocesisdeibague.org]
+}}
+
+La '''arquidiócesis de Ibagué''' ({{lang-la|Archidioecesis Ibaguensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Ibagué. Desde el 29 de mayo de 2020 su [[arzobispo]] es [[Orlando Roa Barbosa]].
+
+== Territorio y organización ==
+La arquidiócesis tiene 6044 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 13 municipios del [[Tolima|departamento de Tolima]]: [[Alvarado (Tolima)|Alvarado]], [[Anzoátegui (Tolima)|Anzoátegui]], [[Cajamarca (Tolima)|Cajamarca]], [[Coello (Tolima)|Coello]] (excluyendo el distrito de Gualanday, que forma parte de la [[diócesis de El Espinal]]), [[Ibagué]], [[Piedras (Tolima)|Piedras]], [[Roncesvalles (Tolima)|Roncesvalles]], [[Rovira (Tolima)|Rovira]], [[Santa Isabel (Tolima)|Santa Isabel]], [[Valle de San Juan]] y [[Venadillo (Tolima)|Venadillo]]. También pertenecen a la arquidiócesis los distritos de Playarrica en el municipio de [[San Antonio (Colombia)|San Antonio]] y el de Payande en el municipio de [[San Luis (Tolima)|San Luis]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/ibague_arquidiocesis_700.gif |título=Mapa de la Arquidiócesis de Ibagué |fechaacceso=10 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20150624094051/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/ibague_arquidiocesis_700.gif |fechaarchivo=24 de junio de 2015 }}</ref> 
+
+Limita con la [[diócesis de Líbano-Honda]] al norte, con la [[diócesis de Girardot]] al este, con las [[diócesis de El Espinal]] al sur, con la [[diócesis de Buga]] al suroeste y con la [[diócesis de Armenia]] y la [[diócesis de Pereira]] al oeste.<ref name="mapa"/>
+
+La sede de la arquidiócesis se encuentra en la ciudad de [[Ibagué]], en donde se halla la [[Catedral metropolitana de Ibagué|Catedral de la Inmaculada Concepción de María]].
+
+La arquidiócesis tiene como sufragáneas a las diócesis de [[Diócesis de El Espinal|El Espinal]], [[Diócesis de Garzón|Garzón]], [[Diócesis de Líbano-Honda|Líbano-Honda]] y [[Diócesis de Neiva|Neiva]].
+
+En 2021 en la arquidiócesis existían 62 [[Parroquia (religión)|parroquias]] agrupadas en 9 vicarías.
+; Parroquias
+* Anunciación del Señor
+* Capilla Divino Niño
+* [[Catedral metropolitana de Ibagué|Catedral Inmaculada Concepción]]
+* Cristo Rey (Picaleña)
+* Divina Eucaristía
+* Divino Niño (Venadillo)
+* Espíritu Santo
+* Inmaculado Corazón de María
+* María Auxiliadora
+* María Reina
+* Medalla Milagrosa
+* Medalla Milagrosa (Riomanso)
+* Nuestra Señora de Chiquinquirá
+* Nuestra Señora de Chiquinquirá (Alvarado)
+* Nuestra Señora de Chiquinquirá (Coello)
+* Nuestra Señora de Fátima
+* Nuestra Señora de Guadalupe
+* Nuestra Señora de la Salud
+* Nuestra Señora del Carmen
+* Nuestra Señora del Carmen (Roncesvalles)
+* Nuestra Señora del Perpetuo Socorro
+* Nuestra Señora del Perpetuo Socorro (Anzoátegui)
+* Nuestra Señora del Rosario
+* Pastoral Juvenil y Vocacional
+* María Rosa Mística
+* Sagrado Corazón de Jesús
+* San Antonio de Padua (Junín)
+* San Antonio María Claret
+* San Bernardo y San Juan Bautista (Alvarado)
+* San Bonifacio
+* San Cayetano
+* San Francisco de Asís
+* San Isidro Labrador
+* San Isidro Labrador (Lisboa)
+* San Joaquín
+* San José Obrero
+* San Juan Bautista
+* San Juan Bautista (Valle de San Juan)
+* San Judas Tadeo
+* San Lorenzo
+* San Martín de Porres
+* San Martín de Porres (Rovira)
+* San Miguel Arcángel (Cajamarca)
+* San Pablo Apóstol
+* San Pedro Apóstol
+* San Pedro Claver (Playarrica)
+* San Pío X (Villarestrepo)
+* San Roque
+* San Sebastián (Piedras)
+* San Vicente de Paúl
+* Santa Ana
+* Santa Bárbara (Payandé)
+* Santa Bárbara (Venadillo)
+* Santa Cruz
+* Santa Gertrudis (Rovira)
+* Santa Isabel de Hungría (Santa Isabel)
+* Santísima Trinidad
+* Santos Ángeles Custodios
+* Santuario Divino Niño
+* Santa Cruz de Jerusalén
+* Nuestra Señora del Carmen (Tapias- Toche)<ref name="seam">{{Cita web |url=http://arquidiocesisdeibague.org/servicios/directorio-eclesiastico.html |título=Directorio Eclesiástico |fechaacceso=10 de marzo de 2011 |idioma=español |editorial=Arquidiócesis de Ibagué}}</ref>
+
+== Historia ==
+La diócesis fue erigida el 20 de mayo de 1900 mediante el decreto ''Quum legitimae'' de la [[Congregación Consistorial]], obteniendo el territorio de la [[diócesis del Tolima]] (abarcaba la región conocida como [[Tolima Grande]]), que simultáneamente fue suprimida.<ref>(en latín) [https://archive.org/stream/analectaecclesia09romeuoft#page/445/mode/1up Decreto ''Quum legitimae''], en ''Analecta ecclesiastica'', IX, 1901, pp.&nbsp;445-447.</ref> La diócesis de Ibagué fue originalmente sufragánea de la [[arquidiócesis de Popayán]].
+
+Luego de tres años de sede vacante, durante los cuales la diócesis fue administrada por Esteban Rojas Tovar, exobispo del Tolima y luego obispo de Garzón, fue nombrado el primer obispo de Ibagué, Ismael Perdomo Borrero.
+
+En 1901 se construyó el [[seminario]] menor bajo la advocación de San Joaquín, mientras que en 1903 el seminario mayor, dedicado a María Inmaculada.
+
+El 10 de abril de 1948 el sacerdote diocesano [[Pedro María Ramírez]] fue asesinado por su fe y fue beatificado el 8 de septiembre de 2017.
+
+El 18 de marzo de 1957 cedió una porción de su territorio para la erección de la [[diócesis de El Espinal]] mediante la [[bula]] ''Qui supremum imperium'' del [[papa]] [[Pío XII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf Bula ''Qui supremum imperium''], AAS 49 (1957), p.&nbsp;712.</ref>
+
+El 14 de diciembre de 1974 fue elevada al rango de arquidiócesis metropolitana mediante la bula ''Quamquam Ecclesiarum'' del papa [[Pablo VI]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-67-1975-ocr.pdf Bula ''Quamquam Ecclesiarum''], AAS 67 (1975), p.&nbsp;167.</ref>
+
+El 8 de julio de 1989 cedió otra porción de su territorio para la erección de la [[diócesis de Líbano-Honda]] mediante la bula ''Ita iam hosce'' del papa [[Juan Pablo II]].<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19890708_libana-hondana_lt.html Bula ''Ita iam hosce''], AAS 81 (1989), pp. 1188-1190.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la arquidiócesis tenía a fines de 2021 un total de 654&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12 | '''Diócesis de Ibagué'''
+|- align="right"
+| 1950 || 709&nbsp;580 || 710&nbsp;580 || 99.9 || 89 || 18 || 107 || 6631 ||  || 35 || 250 || 61
+|- align="right"
+| 1966 || 580&nbsp;000 || 600&nbsp;000 || 96.7 || 93 || 27 || 120 || 4833 ||  || 45 || 238 || 46
+|- align="right"
+| 1970 || 780&nbsp;000 || 780&nbsp;000 || 100.0 || 84 || 20 || 104 || 7500 ||  || 30 || 299 || 50
+|- align="center"
+!colspan=12 | '''Arquidiócesis de Ibagué'''
+|- align="right"
+| 1976 || 750&nbsp;000 || 800&nbsp;000 || 93.8 || 76 || 15 || 91 || 8241 ||  || 27 || 280 || 56
+|- align="right"
+| 1980 || 771&nbsp;000 || 822&nbsp;000 || 93.8 || 75 || 16 || 91 || 8472 ||  || 34|| 230 || 58
+|- align="right"
+| 1990 || 383&nbsp;500 || 415&nbsp;763 || 92.2 || 55 || 12 || 67 || 5723 ||  || 18 || 131 || 38
+|- align="right"
+| 1999 || 489&nbsp;579 || 543&nbsp;977 || 90.0 || 79 || 18 || 97 || 5047 ||  || 25 || 146 || 46
+|- align="right"
+| 2000 || 485&nbsp;747 || 539&nbsp;719 || 90.0 || 78 || 16 || 94 || 5167 ||  || 28 || 137 || 48
+|- align="right"
+| 2001 || 485&nbsp;355 || 539&nbsp;284 || 90.0 || 82 || 18 || 100 || 4853 ||  || 31 || 142 || 53
+|- align="right"
+| 2002 || 489&nbsp;400 || 547&nbsp;004 || 89.5 || 81 || 17 || 98 || 4993 || 12 || 31 || 141 || 54
+|- align="right"
+| 2003 || 504&nbsp;611 || 560&nbsp;679 || 90.0 || 89 || 16 || 105 || 4805 || 12 || 23 || 143 || 54
+|- align="right"
+| 2004 || 510&nbsp;300 || 567&nbsp;000 || 90.0 || 72 || 17 || 89 || 5733 || 12 || 29 || 150 || 54
+|- align="right"
+| 2006 || 504&nbsp;310 || 560&nbsp;344 || 90.0 || 83 || 18 || 101 || 4993 || 12 || 32 || 164 || 55
+|- align="right"
+| 2013 || 547&nbsp;000 || 605&nbsp;000 || 90.4 || 89 || 18 || 107 || 5112 || 17 || 33 || 207 || 62
+|- align="right"
+| 2016 || 609&nbsp;000 || 603&nbsp;011 || 91.9 || 102 || 17 || 119 || 5117 || 17 || 32 || 200 || 62
+|- align="right"
+| 2019 || 634&nbsp;377 || 667&nbsp;420 || 95.0 || 121 || 104 || 17 || 5242 || 17 || 30 || 172 || 62
+|- align="right"
+| 2021 || 654&nbsp;000 || 687&nbsp;400 || 95.1 || 111 || 97 || 14 || 5891 || 12 || 28 || 155 || 62
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dflrn.html |título=''Archdiocese of Ibagué'' |fechaacceso=19 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=5 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+:* ''Sede vacante (1900-1903)''
+* [[Ismael Perdomo Borrero]] † (8 de junio de '''1903'''-5 de febrero de '''1923''' nombrado arzobispo coadjutor de [[Arquidiócesis de Bogotá|Bogotá]]<ref group='nota'>A la vez nombrado [[arzobispo titular]] de [[Arquidiócesis de Trajanópolis de Ródope|Trajanópolis de Ródope]].</ref>)
+* [[Pedro María Rodríguez Andrade]] † (10 de abril de '''1924'''-17 de marzo de '''1957''' renunció<ref group='nota'>Nombrado arzobispo titular de [[Arquidiócesis de Brisi|Brisi]].</ref>)
+* [[Arturo Duque Villegas]] † (17 de marzo de '''1957'''-7 de julio de '''1959''' nombrado arzobispo de [[Arquidiócesis de Manizales|Manizales]])
+* [[Rubén Isaza Restrepo]] † (2 de noviembre de '''1959'''-3 de enero de '''1964''' nombrado arzobispo coadjutor de [[Arquidiócesis de Bogotá|Bogotá]]<ref group='nota'>A la vez nombrado arzobispo titular a título personal de [[Diócesis de Lares|Lares]].</ref>)
+* [[José Joaquín Flórez Hernández]] † (17 de marzo de '''1964'''-25 de marzo de '''1993''' retirado)
+* [[Juan Francisco Sarasti Jaramillo]], [[Congregación de Jesús y María|C.I.M.]] † (25 de marzo de '''1993'''-17 de agosto de '''2002''' nombrado arzobispo de [[Arquidiócesis de Cali|Cali]])
+* [[Flavio Calle Zapata]] (10 de enero de '''2003'''-19 de marzo de '''2019''' retirado)
+* [[Orlando Roa Barbosa]], desde el 29 de mayo de '''2020'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/ibag0.htm Ficha de la arquidiócesis] en [https://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-ibagu%C3%A9 Ficha de la arquidiócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Ibagué| ]]

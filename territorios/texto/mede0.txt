@@ -1,0 +1,1604 @@
+{{Artículo destacado}}
+{{Ficha de circunscripción eclesiástica
+| nombre = Arquidiócesis de Medellín
+| tipo = arquidiócesis
+| latín = Medellen(sis)
+| escudo = Escudo Arquidiócesis de Medellín.svg
+| pie escudo = Escudo de la arquidiócesis
+| imagen = Fachada completa - C. de Medellín.jpg
+| pie imagen = Catedral basílica de la Inmaculada Concepción
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|14|2|1868|edad}}
+| erección tipo = diócesis de Medellín y Antioquia
+| decreto de erección = ''Apostolici ministerii''
+| elevación arquidiócesis = {{fecha|24|2|1902|edad}}
+| sufragáneas = <li>[[Diócesis de Caldas|Caldas]]<li>[[Diócesis de Girardota|Girardota]]<li>[[Diócesis de Jericó|Jericó]]<li>[[Diócesis de Sonsón-Rionegro|Sonsón-Rionegro]]
+| patrón = [[Virgen de la Candelaria|Nuestra Señora de la Candelaria]]<ref name="candela">{{Cita web |autor=Gaudiumpress |url=https://es.gaudiumpress.org/content/84013-virgen-de-la-candelaria-es-nombrada-patrona-principal-de-la-arquidiocesis-de-medellin/ |título=Virgen de la Candelaria es nombrada Patrona principal de la Arquidiócesis de Medellín |fechaacceso=29 de abril de 2020 }}</ref>
+| catedral = [[Catedral metropolitana de Medellín|basílica de la Inmaculada Concepción]]
+| sede = [[Medellín]]
+| región tipo = Departamento
+| región = [[Antioquia]]
+| país = {{COL}}
+| curia = Arzobispado, Calle 57 N. 49‑44, Medellín
+| concatedral = 
+| ordinario = [[Ricardo Antonio Tobón Restrepo]]
+| auxiliar = [[José Mauricio Vélez García]]<ref group='nota'>[[Obispo titular]] de [[Diócesis de Lapda|Lapda]].</ref>
+| emérito = 
+| vicario = 
+| coadjutor = 
+| administrador apostólico = 
+| parroquias = 342
+| población total = 3&nbsp;863&nbsp;087
+| población año = 2021
+| fieles = 3&nbsp;082&nbsp;475
+| porcentaje fieles = 79.8
+| sacerdotes = 1148
+| área = 718 km²
+| mapa = Arquidiocesis de Medellin-Mapa.svg
+| pie mapa = Localización y extensión de la arquidiócesis
+| sitio web = [http://www.arqmedellin.com/ www.arqmedellin.com]
+}}
+
+La '''arquidiócesis de Medellín''' ({{lang-la|Archidioecesis Medellensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[arquidiócesis]] [[Iglesia latina|latina]], [[Sede episcopal|sede]] [[Metrópolis (jurisdicción religiosa)|metropolitana]] de la [[provincia eclesiástica]] de Medellín. Desde el 16 de febrero de 2010 su [[arzobispo]] es [[Ricardo Tobón Restrepo|Ricardo Antonio Tobón Restrepo]].
+
+== Territorio y organización ==
+La arquidiócesis tiene 718 km² (según el Anuario Pontificio, otra fuente: 687.54 [[km²]]<ref name="medellinCEC"/>) y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en el [[área metropolitana del Valle de Aburrá]] (o de Medellín), constituida por 7 municipios del [[Antioquia|departamento de Antioquia]]: [[Medellín]], [[Bello (Antioquia)|Bello]], [[Envigado]], [[Itagüí]], [[Sabaneta (Colombia)|Sabaneta]], [[Copacabana (Antioquia)|Copacabana]] y [[La Estrella (Antioquia)|La Estrella]].<ref name="municipios">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap I: Realidad Social de la Región. Sección: Situación General
+ |páginas=6
+}}</ref> Quedan excluidas del territorio de la arquidiócesis de Medellín la región denominada La Tablaza del municipio de La Estrella, que pertenece a la [[diócesis de Caldas]];<ref name="latablaza">{{Enlace roto|1={{Cita web
+ |url         = http://www.diocesisdecaldas.org/dondeestamos.shtml?apc=a-a--218-218&s=a&m=a&x=222
+ |título     = Dónde Estamos
+ |fechaacceso = 2 de septiembre de 2011
+ |autor       = Diócesis de Caldas
+ |cita        = Dirección dinámica cambia cada determinado tiempo
+}} |2=http://www.diocesisdecaldas.org/dondeestamos.shtml?apc=a-a--218-218&s=a&m=a&x=222 |bot=InternetArchiveBot }}</ref> la parroquia de San Sebastián del corregimiento de [[Palmitas (Medellín)|San Sebastián de Palmitas]] del municipio de Medellín, que forma parte de la [[arquidiócesis de Santa Fe de Antioquia]],<ref name="palmitas">{{Cita web
+ |url          = http://www.arquisantioquia.org.co/jurisdiccion.shtml?apc=aa--;1;-;-;&x=1049&s=a&m=a
+ |título      = Ubicación geográfica
+ |fechaacceso  = 2 de septiembre de 2011
+ |autor        = Arquidiócesis de Santa Fe de Antioquia
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120402033905/http://www.arquisantioquia.org.co/jurisdiccion.shtml?apc=aa--;1;-;-;&x=1049&s=a&m=a
+ |fechaarchivo = 2 de abril de 2012
+}}</ref> y el sector denominado Las Palmas del municipio de Envigado, que pertenece a la [[diócesis de Sonsón-Rionegro]].<ref name="lasPalmas">{{Cita web
+ |url=http://www.diosonrio.org.co/index.php?option=com_content&view=article&id=505&Itemid=6
+ |título=Parroquias
+ |fechaacceso=18 de octubre de 2011
+ |autor=Diócesis de Sonsón-Rionegro
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref><ref name="lasPalmas2">{{Cita web
+ |url          = http://www.directorioenvigado.com/sitios/2
+ |título      = Iglesias y sitios turísticos
+ |fechaacceso  = 19 de octubre de 2011
+ |autor        = Directorio de Envigado
+ |urlarchivo   = https://web.archive.org/web/20120127021156/http://www.directorioenvigado.com/sitios/2
+ |fechaarchivo = 27 de enero de 2012
+}}</ref>
+
+La arquidiócesis de Medellín está situada en el noroccidente de Colombia, en el [[valle de Aburrá]] ubicado en la [[Cordillera Central (Colombia)|cordillera Central]] y es atravesada de sur a norte por el [[río Medellín]]. La arquidiócesis limita por el norte con las [[diócesis de Santa Rosa de Osos]], por el nororiente con la diócesis de Girardota, por el oriente y sur-oriente con la diócesis de Sonsón-Rionegro, por el sur y sur-occidente con la diócesis de Caldas, y por el occidente con la arquidiócesis de Santa Fe de Antioquia.<ref name="medellinCEC"/>
+
+=== Patrimonio arquitectónico ===
+La sede de la arquidiócesis se encuentra en [[Medellín]], donde se halla la [[Catedral metropolitana de Medellín|Catedral basílica de la Inmaculada Concepción]], la curia arzobispal y el Tribunal Eclesiástico de Medellín. 
+
+En el territorio de la arquidiócesis existen otras dos basílicas menores: [[Basílica de Nuestra Señora de la Candelaria (Medellín)|Nuestra Señora de la Candelaria]], en Medellín, y [[Basílica menor de Nuestra Señora del Rosario de Chiquinquirá (La Estrella)|Nuestra Señora del Rosario de Chiquinquirá]], en el municipio de [[La Estrella (Antioquia)|La Estrella]] (santuario mariano).
+
+{{Imagen múltiple
+| posición_tabla    = right
+| dirección         = vertical
+| título            = 
+| foto1             = Basilica-candelaria.JPG
+| ancho1            = 
+| texto1            = [[Basílica de Nuestra Señora de la Candelaria (Medellín)|Basílica de Nuestra Señora de la Candelaria]], en Medellín<ref name="Sociedad"/>
+| alineación_texto1 = 
+| foto2             = Basilica Menor Nuestra Señora del Rosario de Chiquinquira.JPG
+| ancho2            = 190
+| texto2            = [[Basílica menor de Nuestra Señora del Rosario de Chiquinquirá (La Estrella)|Basílica de Nuestra Señora de Chiquinquirá]], en La Estrella
+| alineación_texto2 = 
+| foto3             = Iglesia de Nuestra Señora del Rosario-Bello.JPG
+| ancho3            = 
+| texto3            = [[Iglesia de Nuestra Señora del Rosario (Bello)|Iglesia de Nuestra Señora del Rosario]], en [[Bello (Antioquia)|Bello]]
+| ancho_total       = 150
+}}
+
+Entre las iglesias y santuarios de la arquidiócesis de Medellín hay ocho templos que han sido declarados [[Anexo:Monumentos Nacionales de Colombia|Bienes de Interés Cultural de Carácter Nacional]] (BIC), que son equivalentes al antiguo título de Monumento Nacional, ya en desuso.<ref name="templosbien">{{Cita web
+ |url          = http://arq-medellin.org.co/IGLESIAS_INTERES.html
+ |título      = Iglesias de Interés. Templos de Medellín: Patrimonio religioso
+ |fechaacceso  = 7 de agosto de 2012
+ |autor        = Arquidiócesis de Medellín
+ |cita         = La arquidiócesis cambio de dirección web y no incluyó la información de la página de referencia, por lo cual es redireccionada a la copia que se encuentra en el [[Internet Archive]]
+ |urlarchivo   = https://web.archive.org/web/20071014150138/http://arq-medellin.org.co/IGLESIAS_INTERES.html
+ |fechaarchivo = 14 de octubre de 2007
+}}</ref> Además de la Catedral y de la basílica de la Candelaria, los restantes BIC son:
+* [[Iglesia de la Veracruz (Medellín)|Iglesia de la Veracruz]], plazuela de la Veracruz
+* [[Iglesia del Sagrado Corazón de Jesús (Medellín)|Iglesia del Sagrado Corazón de Jesús]]
+* Iglesia de Jesús Nazareno
+* [[Iglesia del Calvario (Campo Valdés)|Iglesia del Calvario]]
+* [[Iglesia de Nuestra Señora de los Dolores de Robledo (Medellín)|Iglesia de Nuestra Señora de los Dolores]], barrio Robledo
+* [[Iglesia de Nuestra Señora del Rosario de Hatoviejo]], municipio de [[Bello (Antioquia)|Bello]] (BIC)
+
+Por su valor cultural, arquitectónico y/o histórico, también se destacan los siguientes templos:
+{{lista de columnas|2|
+* [[Iglesia de San Antonio (Medellín)|Iglesia de San Antonio]]
+* [[Iglesia de San Ignacio (Medellín)|Iglesia de San Ignacio]]
+* [[Iglesia de San José (Medellín)|Iglesia de San José]] ([[Centro de Medellín|Centro]])
+* [[Iglesia de San José del Poblado|Iglesia de San José]] ([[barrio El Poblado]])
+* [[Iglesia de San Benito (Medellín)|Iglesia de San Benito]]
+* [[Iglesia de San Juan de Dios (Medellín)|Iglesia de San Juan de Dios]] (el Santísimo Sacramento expuesto las 24 horas del día)
+* [[Iglesia de Nuestra Señora del Sufragio (Medellín)|Iglesia de Nuestra Señora del Sufragio]]
+* [[Iglesia de Nuestra Señora del Sagrado Corazón (Medellín)|Iglesia de Nuestra Señora del Sagrado Corazón]]
+* [[Iglesia de Nuestra Señora de los Dolores (Medellín)|Iglesia de Nuestra Señora de los Dolores]] (barrio La América)
+* [[Iglesia de Nuestra Señora de Belén (Medellín)|Iglesia de Nuestra Señora de Belén]]
+* [[Iglesia de Nuestra Señora del Rosario (Itagüí)|Iglesia de Nuestra Señora del Rosario]] ([[Itagüí]])
+* [[Iglesia de Nuestra Señora del Rosario (Bello)|Iglesia de Nuestra Señora del Rosario]] ([[Bello (Antioquia)|Bello]])
+* [[Iglesia de San José (Envigado)|Iglesia de San José]] ([[Envigado]])
+* [[Iglesia de Nuestra Señora de la Asunción (Copacabana)|Iglesia de Nuestra Señora de la Asunción]] ([[Copacabana (Antioquia)|Copacabana]])
+* [[Iglesia de Santa Gertrudis (Envigado)|Iglesia de Santa Gertrudis]] ([[Envigado]])
+* [[Iglesia de Santa Ana (Sabaneta)|Iglesia de Santa Ana]] ([[Sabaneta (Colombia)|Sabaneta]], santuario mariano)
+* Iglesia de San Nicolás de Tolentino
+* Iglesia de Nuestra Señora de Fátima;
+* Iglesia de San Joaquín
+* Iglesia de San Judas Tadeo (santuario en el barrio Castilla)
+* Iglesia de San Mateo
+* Iglesia de Santa Gema Galgani
+* Iglesia de Santo Tomas de Aquino (barrio Robledo)
+* Iglesia del Niño Jesús de Praga (barrio Enciso)
+* Iglesia de Cristo Rey
+* Iglesia de San Blas (barrio Manrique)
+}}
+
+=== Provincia eclesiástica ===
+[[Archivo:Mapa Provincia Eclesiástica de Medellín.svg|thumb|derecha|Jurisdicción de la provincia eclesiástica de Medellín|159x159px]]
+
+La [[provincia eclesiástica]] de Medellín está formada por la arquidiócesis de Medellín —que es la sede metropolitana— y las diócesis sufragáneas de [[Diócesis de Caldas|Caldas]], [[Diócesis de Girardota|Girardota]], [[Diócesis de Jericó|Jericó]] y [[Diócesis de Sonsón-Rionegro|Sonsón-Rionegro]].<ref name="gcatholicSufra">{{Cita web
+ |url=https://www.gcatholic.org/dioceses/diocese/mede0.htm
+ |título=Metropolitan Archdiocese of Medellín
+ |fechaacceso=28 de enero de 2011
+ |autor=Giga-Catholic
+ |idioma=inglés
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref> El arzobispo de Medellín es el [[Obispo metropolitano|metropolitano]] de la provincia y como tal tiene los privilegios canónicos correspondientes sobre las diócesis sufragáneas.<ref>{{Cita web |url=http://es.catholic.net/conocetufe/358/2235/articulo.php?id=22794 |título=Organización y Gobierno de la Iglesia. Sección: Arzobispos |fechaacceso=18 de octubre de 2012  |editorial=Catholic.net }}</ref>
+
+La provincia fue creada cuando Medellín pasó a ser sede metropolitana y en sus inicios tenía como sufragáneas a las diócesis de Antioquia y Manizales.<ref name="medellinCEC"/> Hoy la provincia tiene alrededor de 480 parroquias, abarca unos 14&nbsp;827 km² en donde habitan aproximadamente 4&nbsp;614&nbsp;000 de personas de los cuales 4&nbsp;125&nbsp;000 son católicos, o sea el 89.4&nbsp;% de la población. Aunque Medellín es, territorialmente la circunscripción más pequeña de la provincia, es en cambio en número de parroquias y feligreses la más grande.
+
+{| valign="top"
+|
+{| class="wikitable center" style="width:325px;line-height:175%;font-size:88%;"
+|-
+!colspan=6 style="width:180px;background: #6688AA;"|Datos comparativos entre las diócesis de la provincia
+|-align="center" style="background: #DDDDDD;"
+| '''Diócesis''' ||'''Erigida''' || '''Área<br>(km²)''' || '''% C.''' || '''Población<br>total''' || '''P.'''
+|-align="right"
+| align="left"| Medellín<ref name='CH'></ref> ||14&nbsp;de&nbsp;febrero&nbsp;de&nbsp;1868 ||687 ||86.9 || 3&nbsp;376&nbsp;000 || 335
+|-align="right"
+| align="left"| Jericó<ref>{{Cita web |url=http://www.catholic-hierarchy.org/diocese/djeri.html |título=Diocese of Jericó |fechaacceso=25 de marzo de 2012  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref> || 3 de julio de 1941 || 3000 || 99.1 || 230&nbsp;000 || 33
+|-align="right"
+| align="left"| Sonsón‑Rionegro<ref>{{Cita web |url=http://www.catholic-hierarchy.org/diocese/dsori.html |título=Diocese of Sonsón-Rionegro |fechaacceso=25 de marzo de 2012  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref>|| 18 de marzo de 1957 || 7300 || 97.3 || 565&nbsp;000 || 56
+|-align="right"
+| align="left"| Caldas<ref>{{Cita web |url=http://www.catholic-hierarchy.org/diocese/dcald.html |título=Diocese of Caldas |fechaacceso=25 de marzo de 2012  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref> || 18 de junio de 1988 || 1395 || 95.8 || 237&nbsp;000 || 26
+|-align="right"
+| align="left"| Girardota<ref>{{Cita web |url=http://www.catholic-hierarchy.org/diocese/dgira.html |título=Diocese of Girardota |fechaacceso=25 de marzo de 2012  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref> || 18 de junio de 1988|| 2445 || 90.3 || 206&nbsp;000 || 30
+|-style="background: #DDDDDD;"
+| colspan="2" align="center"| '''Total''' || align="right" | 14&nbsp;827 ||align="right"| 89.4 ||align="right"| 4&nbsp;614&nbsp;000 ||align="right"| 480
+|-
+| colspan=6 style="background: #F0F0F0;"|<small>'''P.'''=Número de parroquias; '''% C.'''=Porcentaje de católicos;</small>
+|}
+|
+{|class="wikitable right" align="right" style="font-size:90%;line-height:120%"
+|-
+!colspan=3 style="width:180px;background: #6688AA;"|Centros parroquiales<br>por localidad<ref name="sinodo1">{{Cita web
+ |url          = http://www.sinodomedellin.org/index.php/instrucciones-sobre-el-sinodo/la-realidad-de-la-arquidiocesis.html
+ |título      = La Realidad de la Arquidiócesis
+ |fechaacceso  = 18 de enero de 2011
+ |autor        = IV Sínodo Arquidiocesano
+ |cita         = San Antonio de Prado es zona rural de Medellín y se suma como parte de este; además por error sumaron la Iglesia de San Juan de Dios como parroquia de Medellín, en realidad no es un templo parroquial, por lo cual no se debe contar como parroquia.
+ |urlarchivo   = https://web.archive.org/web/20120112112152/http://www.sinodomedellin.org/index.php/instrucciones-sobre-el-sinodo/la-realidad-de-la-arquidiocesis.html
+ |fechaarchivo = 12 de enero de 2012
+}}</ref>
+|-style="background: #DDDDDD;"
+| '''Ciudad''' ||'''No. P''' || '''No. Cp'''
+|-
+| Medellín ||align="right"| 228 ||align="right"| 9
+|-
+| Bello ||align="right"| 39 ||align="right"| -
+|-
+| Itagüí || align="right"|23 ||align="right"| 2
+|-
+| Envigado ||align="right"| 17 ||align="right"| -
+|-
+| Copacabana ||align="right"| 7 ||align="right"| 1
+|-
+| Sabaneta ||align="right"| 5 ||align="right"| -
+|-
+| La Estrella ||align="right"| 4 ||align="right"| -
+|-style="background: #DDDDDD;"
+|! rowspan="2" align="center"| '''Total''' ||align="right"| '''323''' ||align="right"| '''12'''
+|-
+! colspan="2" style="background: #DDDDDD;"| 335
+|-
+|colspan=3 style="background: #F0F0F0;"|<small>'''P'''=parroquia; '''Cp'''=cuasiparroquias</small>
+|}
+|}
+
+Anteriormente, la arquidiócesis de Medellín también tenía autoridad metropolitana sobre las siguientes diócesis:
+* [[Arquidiócesis de Manizales|Manizales]] pasó a ser sede metropolitana el 10 de mayo de 1954;<ref name="manizlaes"/>
+* [[Arquidiócesis de Santa Fe de Antioquia|Antioquia]], pasó a ser sede metropolitana el 18 de junio de 1988;<ref name="santa fe"/><ref name="antioqui">{{Cita web
+ |autor=The Hierarchy of the Catholic Church
+ |url=http://www.catholic-hierarchy.org/diocese/dsfan.html
+ |título=Archdiocese of Santa Fe de Antioquia
+ |fechaacceso=28 de febrero de 2011
+ |idioma=inglés }}</ref>
+* [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]], pasó a ser sufragánea de Santa Fe de Antioquia.<ref name="antioqui"/>
+
+
+=== División pastoral ===
+{{VT|Anexo:División pastoral de la arquidiócesis de Medellín}}
+[[Archivo:Arquidiocesis de Medellin-Vicarias Episcopales Z.svg|thumb|derecha|Mapa de las vicarías episcopales de zona de la arquidiócesis|185x185px]]
+
+En 2021 en la arquidiócesis existían 342 [[Parroquia (religión)|parroquias]] (entre ellas doce cuasiparroquias y un templo no parroquial: la [[Iglesia de San Juan de Dios (Medellín)|iglesia de San Juan de Dios]] en Medellín)<ref name="anuario">{{Cita libro
+ |título=Annuario Pontificio per l'anno 2010
+ |año=2010
+ |editorial=[[Librería Editrice Vaticana]], Città del Vaticano
+}}</ref> que son atendidos por 1062 sacerdotes. Además, el arzobispado es prácticamente urbano, pues el 97&nbsp;% de la población de su jurisdicción vive en las áreas urbanas.<ref name="Metropili">{{Cita web
+ |url          = http://www.metropol.gov.co/siata/Metropoli.pdf
+ |título      = Metrópoli, hacia la integración sostenible
+ |fechaacceso  = 2 de febrero de 2011
+ |autor        = Área Metropolitana del Valle de Aburrá
+ |formato      = PDF
+ |cita         = En la página 30 se encuentra la tabla con la población urbana y rural de los municipios del área metropolitana del censo de 2005, de la población rural de Medellín se debe restar 7&nbsp;663 que corresponden a los habitantes del Corregimiento de San Sebastián de Palmitas, zona rural que pertenece eclesiásticamente a la Arquidiócesis de Santa Fe de Antioquia.
+ |urlarchivo   = https://web.archive.org/web/20120118202121/http://www.metropol.gov.co/siata/Metropoli.pdf
+ |fechaarchivo = 18 de enero de 2012
+}}</ref> agrupadas en veintiún arciprestazgos, estos en ocho zonas pastorales (hoy informales, pero se siguen utilizando), que a su vez se agrupan en cuatro vicarías episcopales de zona:<ref name="Zonaspasto">{{Cita web
+ |url=http://issuu.com/arqmedellin/docs/estatuto
+ |título=Estatuto de las vicarias episcopales de zona y de los arciprestazgos de la Arquidiócesis de Medellín
+ |fechaacceso=7 de agosto de 2012
+ |autor=Arquidiócesis de Medellín
+}}</ref> En el 2011 se reorganizó territorialmente la arquidiócesis, las antiguas ocho [[zona pastoral|zonas pastorales]] establecidas durante la administración episcopal de Botero Salazar, fueron reemplazadas por las cuatro vicarías episcopales de zona, pero se conservaron intactas las vicarías foráneas.<ref name="Decreto">{{Cita publicación
+ |apellido=Ricardo Tobón Restrepo
+ |nombre=Arzobispo de Medellín
+ |título=Decreto Nº 29G/11
+ |año=2011
+ |cita=Decreto en el cual se estructura la Arquidiócesis de Medellín en cuatro Vicarías Episcopales de Zona
+}}</ref>
+
+Cada vicaría episcopal de zona está a cargo de un ''vicario episcopal de zona'' y cada arciprestazgo está a cargo de un ''arcipreste''. El vicario episcopal será en su jurisdicción el directo responsable de la vida eclesial, de la programación pastoral, de la buena marcha de los arciprestazgos y de las parroquias, del seguimiento de los presbíteros, diáconos y religiosos, de la promoción y organización del laicado y de la animación de la unidad arquidiocesana.<ref name="Decreto"/> Además el vicario episcopal funge también como párroco de la parroquia sede de su vicaría.<ref name="Decreto"/>
+
+{|class="wikitable center" style="font-size:90%;width:100%;line-height:130%"
+|-style="background: #6688AA;" align=center
+| '''Vicarías episcopales de zona''' || '''Zonas pastorales''' || '''Arciprestazgos''' || ''' Pq.'''
+|-
+|! rowspan="6" |'''Vicaría Episcopal del Oriente'''<br>Tiene su sede en la Parroquia<br>«San Cayetano».|| rowspan="3" align="center" ! |Zona pastoral 1<br><small>(Nor-Oriental)</small> || 1. Nuestra Señora de Guadalupe ([[Popular (Medellín)|Comuna 1-Popular]]).||align=right| 16
+|-
+| 2. Santo Tomás Apóstol ([[Santa Cruz (Medellín)|Comuna 2-Santa Cruz]] + [[Aranjuez (Medellín)|Comuna 4-Aranjuez]]). ||align=right| 22
+|-
+| 3. San Pedro Apóstol ([[Comuna Manrique|Comuna 3-Manrique]]).||align=right| 14
+|-
+| ! rowspan="3" align=center |Zona pastoral 3<br><small>(Centro-Oriental)</small>|| 1. San Felipe Apóstol ([[Villa Hermosa (Medellín)|Comuna 8-Villa Hermosa]]).||align=right| 12
+|-
+| 2. Nuestra Señora del Sagrado Corazón ([[Buenos Aires (Medellín)|Comuna 9-Buenos Aires]]). ||align=right| 18
+|-
+| 3. Nuestra Señora de La Candelaria ([[La Candelaria (Medellín)|Comuna 10-La Candelaria]]). ||align=right| 20
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="5" |'''Vicaría&nbsp;Episcopal&nbsp;del&nbsp;Occidente'''<br>Tiene su sede en la Parroquia<br>«Nuestra Señora de Belén». || rowspan="3" align="center" ! |Zona pastoral 4<br><small>(Centro-Occidental)</small> || 1. San Juan Evangelista ([[Laureles - Estadio|Comuna 11-Laureles-Estadio]]). ||align=right| 14
+|-
+| 2. San Simón Apóstol ([[La América|Comuna 12-La América]]). ||align=right| 14
+|-
+| 3. Nuestra Señora del Carmen ([[San Javier (Medellín)|Comuna 13-San Javier]]). || align=right| 12
+|-
+|! rowspan="2" align=center |Zona pastoral 6<br><small>(Sur-Occidental)</small> || 1. San Matías Apóstol ([[Guayabal (Medellín)|Comuna 15-Guayabal]]). ||align=right| 9
+|-
+| 2. San Bartolomé Apóstol ([[Belén (Medellín)|Comuna 16-Belén]]). ||align=right| 20
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="6" |'''Vicaría Episcopal del Norte'''<br>Tiene su sede en la Parroquia<br>«Nuestra Señora del Rosario» (Bello).|| rowspan="3" align="center" ! |Zona pastoral 2<br><small>(Nor-Occidental)</small> || 1.&nbsp;San&nbsp;Judas&nbsp;Tadeo&nbsp;Apóstol&nbsp;([[Castilla (Medellín)|Comuna&nbsp;5-Castilla]]&nbsp;+&nbsp;[[Doce de Octubre (Medellín)|Comuna&nbsp;6-Doce&nbsp;de&nbsp;Octubre]]).||align=right| 22
+|-
+| 2. San Mateo Apóstol ([[Robledo (Medellín)|Comuna 7-Robledo]]). ||align=right| 14
+|-
+| 3. Beata Madre Laura ([[San Cristóbal (Medellín)|San Cristóbal]] + occidente Comuna 7-Robledo).|| align="right" | 15
+|-
+| ! rowspan="3" align=center |Zona pastoral 8<br><small>(Norte)</small> || 1. San Andrés Apóstol (Bello-Centro). ||align=right| 18
+|-
+| 2. Santiago Apóstol (Bello-París-Cabañas-Barrio Nuevo). || align=right| 10
+|-
+| 3. Nuestra Señora de la Asunción (Bello-Niquía-Copacabana). ||align=right| 18
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|! rowspan="4" |'''Vicaría Episcopal del Sur'''<br>Tiene su sede en la Parroquia<br>«Santa Gertrudis» (Envigado). || rowspan="2" align="center" ! |Zona pastoral 5<br><small>(Sur-Oriental)</small> || 1. San Lucas Apóstol ([[El Poblado (Medellín)|Comuna 14-El Poblado]]). ||align=right| 10
+|-
+| 2. San Marcos Apóstol (Envigado-Sabaneta).||align=right| 23
+|-
+| ! rowspan="2" align=center |Zona pastoral 7<br><small>(Sur)</small>|| 1. San Pablo Apóstol (Itagüí).||align=right| 17
+|-
+| 2. Nuestra Señora de Chiquinquirá (Itagüí-La Estrella-[[San Antonio de Prado (Medellín)|San Antonio de Prado]]). ||align=right| 18
+|-style="background: #F0F0F0;"
+| align=center| ''' Total ''' || align=center|''' 8 ''' ||align=center|''' 21 arciprestazgos''' ||align=right| ''' 336'''
+|-
+|colspan=4 style="background: #F0F0F0;" |<small>'''Pq.'''= centros parroquiales (323 parroquias, 12 cuasiparroquias y un templo no parroquial).</small>
+|}
+
+=== Escudo de armas ===
+
+{| class="wikitable right"
+|- 
+|style="text-align:center"|
+[[Archivo:Escudo Arquidiócesis de Medellín.svg|120px]]
+|style="text-align:center"|[[Archivo:Escudo de Medellin.svg|110px]]
+|- style=text-align:center"
+|Escudo de la arquidiócesis de Medellín
+|[[Escudo de Medellín|Escudo de la ciudad de Medellín]]
+|}
+
+La arquidiócesis de Medellín desde sus inicios no contaba con un escudo oficial pese a su antigüedad, por tal motivo el arzobispo [[Tulio Botero Salazar]], después de tomar posesión de la sede arzobispal en 1958, y al ver este problema, resolvió que para identificar a la arquidiócesis en sus documentos oficiales se utilizara el mismo escudo que por más de 300 años ha identificado a la [[Escudo de Medellín|ciudad de Medellín]],<ref name="Candelaria">{{Cita libro
+ |autor=Piedrahita Echeverri, Monseñor Javier
+ |título=Monografía Histórica de la Parroquia de la Candelaria
+ |año=2006
+ |editorial=Grafoprint, Medellín
+ |capítulo=Capítulo: Escudo de Armas
+ |páginas=87-92
+ |id=no tiene ISBN
+}}</ref> el cual fue concedido por el rey [[Carlos II de España]] por medio de la [[real cédula]] dada en [[Madrid]] el 31 de marzo de 1678.<ref name="cedula 1678">{{Cita web |url=http://arq-medellin.org.co/NUESTRO_ESCUDO.htm |título=Nuestro Escudo |autor=Arquidiócesis de Medellín |cita=La arquidiócesis cambio de dirección web y no incluyó la información de la página de referencia, por lo cual es redireccionada a la copia que se encuentra en el [[Internet Archive]] |fechaacceso=7 de agosto de 2011 |urlarchivo=https://web.archive.org/web/20071014150722/http://arq-medellin.org.co/NUESTRO_ESCUDO.htm |fechaarchivo=14 de octubre de 2007 }}</ref> La cédula describe el escudo en los siguientes términos:
+
+{{left|{{cita|...Un escudo campo azul y en él un torreón muy grueso, redondo, todo alrededor almenado y sobre él un escudo de armas que tiene quince encajes, siete azules y ocho de oro, y sobre su coronel que le toca y en el homenaje de la torre a cada uno de los lados un torreoncillo, así mismo almenados y en medio de ellos puesta una imagen de Nuestra Señora sobre una nube, con su hijo en los brazos...|estilo=width:85%;}}}}
+
+El arzobispo Botero mediante decreto del 30 de junio de 1958 adoptó el escudo de la ciudad como emblema oficial,<ref name="Candelaria"/> añadiéndole como timbre la cruz arzobispal y en la parte inferior la divisa con el nombre de la arquidiócesis.<ref name="cedula 1678" />
+
+El decreto se refiere en los siguientes términos:<ref>{{cita libro
+| autor = Arquidiócesis de Medellín
+| título = Anuario 1977 de la Arquidiócesis de Medellín
+| año = 1978
+| capítulo = Decreto sobre el escudo de la Arquidiócesis
+| página = 9 
+| editorial = Com-pas Ediciones, Medellín
+| oclc = 
+}}</ref>
+
+<center>
+{{cita| <center>'''Nos Tulio Botero Salazar<br>Por Gracia de Dios y Voluntad de la Sede Apostólica<br>Arzobispo de Medellín'''</center>
+
+<center>'''Considerando:'''</center>
+
+A) que conviene tener Escudo Oficial de la Arquidiócesis;
+
+8) que existe el históricos Escudo de la Ciudad de Medellín.
+
+<center>'''Decretamos:'''</center>
+
+&nbsp;&nbsp;&nbsp;&nbsp;'''Artículo 1.°''': Adóptase como ESCUDO OFICIAL de la Arquidiócesis de Medellín, el de la Ciudad, esto es: «campo azul y en él un torreón de '''oro''' y grueso, redondo, todo alrededor almenado y sobre él un escudo de armas que tiene quince escaques, siete azules y ocho de oro, y sobre su coronel que le toca y en el homenaje de la torre a cada uno de los lados un torreoncillo, así mismo almenados y en medio de ellos puesta una imagen de Nuestra Señora sobre una nube, con su hijo en los brazos con la advocación de la Anunciación» (Cédula real de 31 de marzo de 1678).
+
+&nbsp;&nbsp;&nbsp;&nbsp;'''Artículo 2.°''': Introdúcese la variante de la doble cruz arzobispal, colocadas en la parte superior del escudo.
+
+Comuníquese y cúmplase. Dado en Medellín a 30 de junio de 1958
+
+
+[[Archivo:Firma Tulio Botero Salazar.svg|200px]]
+'''Tulio Botero Salazar'''<br />Arzobispo de Medellín<br />'''Mons. Octavio Betancur Arango'''<br>Auxiliar
+
+
+|estilo=width:65%}}
+</center>
+Es de resaltar que fuera de las diferencias estilísticas, el escudo del arzobispado no cumple con dos características del blasón de la ciudad. El escudo jaquelado (ajedrezado) de quince piezas, siete azules y ocho de oro, fue cambiado por un corazón ajedrezado y la Virgen en vez de posar sobre una nube lo hace directamente sobre el torreón. Además, cada uno de los torreoncillos remata en cúpula, detalle que las armas de la ciudad no tienen.
+
+=== Tribunal eclesiástico arquidiocesano de Medellín ===
+[[Archivo:Centro Comercial Villanueva-Medellin(1).JPG|miniatura|240px|Antigua sede del seminario mayor, actualmente alberga en el tercer piso, las instalaciones de la curia arquidiocesana y el tribunal eclesiástico. El resto de la edificación alberga el centro comercial Villanueva]]
+
+El [[Tribunal Eclesiástico]] arquidiocesano de Medellín, es una institución jurídico-canónica para la justicia eclesiástica con sede en la ciudad de Medellín, fue creado en 2016,<ref name="misiontribunal">{{cita publicación
+ |url= https://view.publitas.com/semanario/periodico-mision-49-junio-2016/page/12-13
+ |título= Tribunal eclesiástico arquidiocesano En Medellín
+ |fechaacceso= 19 de enero de 2023
+ |apellido= 
+ |nombre= 
+ |publicación= Periódico Misión
+ |sitioweb=
+ |año=  junio de 2016
+ |página= p. 12
+ |issn=2248-8162
+ |cita= 
+}}</ref><ref name="trubunalarqui">{{Cita web
+ |url          = https://www.cec.org.co/sistema-informativo/opinion/tribunal-eclesiastico-arquidiocesano
+ |título       = Tribunal eclesiástico arquidiocesano
+ |fechaacceso  = 18 de enero de 2023
+ |autor        = Tobón Restrepo, Mons. Ricardo
+}}</ref> el cual reemplazó al Tribunal Eclesiástico Interdiocesano de Medellín, que había sido establecido el 3 de marzo de 1972 y tenía jurisdicción en las arquidiócesis de Medellín y de Santa Fe de Antioquia, y en las diócesis de Caldas, Girardota, Jericó, Sonsón-Rionegro, Apartadó, Istmina-Tadó, Quibdó, Santa Rosa de Osos, en total diez circunscripciones eclesiásticas.<ref name="misiontribunal"/><ref name="trubunal1">{{Cita web
+ |url          = http://www.tribunaleclesiasticomedellin.org.co/El%20tribunal.html
+ |título      = El tribunal
+ |fechaacceso  = 5 de marzo de 2011
+ |autor        = Tribunal eclesiástico interdiocesano de Medellín
+ |urlarchivo   = https://web.archive.org/web/20130724160151/http://tribunaleclesiasticomedellin.org.co/El%20tribunal.html
+ |fechaarchivo = 24 de julio de 2013
+}}</ref><ref name="trubunal2">{{Enlace roto|1={{Cita web
+ |url         = http://www.tribunaleclesiasticomedellin.org.co/Tribunal2.html
+ |título     = El tribunal
+ |fechaacceso = 5 de marzo de 2011
+ |autor       = Tribunal eclesiástico interdiocesano de Medellín
+}} |2=http://www.tribunaleclesiasticomedellin.org.co/Tribunal2.html |bot=InternetArchiveBot }}</ref>
+
+Este cambio se debió por el ''[[motu proprio]]'' «''Mitis Iudex Dominus Iesus''» (El Señor Jesús, Juez Compasivo) promulgado por el papa [[Francisco (papa)|Francisco]] el 15 de agosto de 2015, y que trata sobre la reforma del proceso canónico para las causas de declaración de nulidad del matrimonio.<ref name="trubunalarqui"/><ref name="misiontribunal"/>
+
+Los obispos, tanto en la Asamblea de la [[Conferencia Episcopal Colombiana]] como en la reunión de la Provincia Eclesiástica de Medellín, estudiaron la forma más conveniente de aplicar las disposiciones pontificias, que de alguna manera afectan la organización que hasta ese momento se tenía. Por lo cual, se tomó entonces la decisión de liquidar el Tribunal Regional de Medellín y de instaurar tribunales eclesiásticos en cada diócesis.<ref name="trubunalarqui"/>
+
+El actual Tribunal eclesiástico arquidiocesano tiene jurisdicción en las arquidiócesis de Medellín y sus funciones son: 
+
+* Atender las causas contenciosas sobre el vínculo de la sagrada ordenación. 
+* Atender todos los procesos de nulidad matrimonial. 
+* Atender las causas penales sobre delitos que pueden castigarse con la expulsión del estado clerical. 
+* Atender las causas penales que tienen que ver con la declaración de una excomunión. 
+* Conocer y definir los procesos, tanto contenciosos como criminales.
+
+El Tribunal eclesiástico arquidiocesano de Medellín es además de segunda instancia para las diócesis sufragáneas de [[Diócesis de Caldas|Caldas]], [[Diócesis de Girardota|Girardota]], [[Diócesis de Jericó|Jericó]] y [[Diócesis de Sonsón-Rionegro|Sonsón-Rionegro]]. El arzobispo de Medellín es el moderador de Tribunal eclesiástico, quien actúa a través del vicario judicial del Tribunal quien tiene potestad ordinaria de juzgar.
+
+== Relación con la sociedad ==
+=== Labor social ===
+Desde sus inicios, la iglesia local de Medellín ha tenido presente su compromiso social, teniendo preferencia por los más necesitados. El arzobispado cuenta actualmente con instituciones arquidiocesanas de carácter social, [[sin ánimo de lucro]], las cuales son manejadas por personal especializado, tienen [[personería jurídica]] y ayudan al bienestar de la población sin distinción de religión, preferencia política o raza.
+
+* '''Cáritas Arquidiocesana Medellín-Pastoral Social''' es una institución dedicada a promover, orientar y coordinar la acción caritativa y social.<ref name="caritas1">{{Cita web
+ |url=http://www.pastoralsocial.co/nosotros/
+ |título=Nosotros
+ |fechaacceso=2 de agosto de 2018
+ |autor=Cáritas Arquidiocesana Medellín-Pastoral Social
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |fechaarchivo=2 de agosto de 2018
+ |urlarchivo=https://web.archive.org/web/20180802162753/http://www.pastoralsocial.co/nosotros/
+ |deadurl=yes
+ }}</ref> Desarrolla programas que contribuyen, mediante la implementación de proyectos, a la solución de problemáticas sociales. Estos proyectos brindan asistencia, desarrollo y servicio social a la población vulnerable.<ref name="caritas2">{{Cita web
+ |url=http://www.pastoralsocial.co/nuestras-pastorales/
+ |título=Nuestras Pastorales
+ |fechaacceso=2 de agosto de 2018
+ |autor=Cáritas Arquidiocesana Medellín-Pastoral Social
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |fechaarchivo=2 de agosto de 2018
+ |urlarchivo=https://web.archive.org/web/20180802192953/http://www.pastoralsocial.co/nuestras-pastorales/
+ |deadurl=yes
+ }}</ref> Algunos de estos proyectos maduran y se convierten en entidades independientes con personería jurídica.
+
+* '''Fundación Barrios de Jesús''' es una entidad sin ánimo de lucro establecida el 2 de noviembre de 1959 durante gobierno episcopal de mons. Tulio Botero Salazar.<ref name="BarriosJesús">{{Cita web
+ |url=https://barriosdejesus.org/quienes-somos/
+ |título=¿Quiénes somos?
+ |fechaacceso=3 de marzo de 2023
+ |autor=Fundación Barrios de Jesús
+ |cita=
+}}</ref> La Fundación se dedica a solucionar el problema de vivienda para las personas de menos recursos económicos, para lo cual construye y/o mejora las viviendas con recursos obtenidos por donaciones.<ref name="BarriosJesús"/> Aunque es una entidad arquidiocesana, han impactado en varios sectores del departamento de Antioquia,<ref name="barrios">{{Cita publicación
+ |apellido=Cardona Tobón
+ |nombre=Paola A.
+ |título=Esos sueños de casa que cumple Barrios de Jesús
+ |año=18 de marzo de 2010
+ |publicación=Periódico El Colombiano
+|issn= 0122-0802
+ |url=https://www.elcolombiano.com/BancoConocimiento/E/esos_suenos_de_casa_que_cumple_barrios_de_jesus/esos_suenos_de_casa_que_cumple_barrios_de_jesus.asp
+}}</ref> actualmente han entregado más de 4&nbsp;200 soluciones de vivienda.<ref name="BaJesus">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap: Obra Social. Sección: Barrios de Jesús
+ |páginas=250-251
+}}</ref>
+
+* '''Fundación [[Banco de alimentos|Banco Arquidiocesano de Alimentos]] de Medellín''' —FUBAM— es una institución creada en 1999 que contribuye en el mejoramiento alimentario y nutricional de las personas vulnerables, especialmente niños, ancianos y enfermos.<ref name="banco">{{Cita web
+ |url          = http://www.bancodealimentos.net/Page.aspx?urlID=1&sw=0
+ |título      = Quiénes Somos
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Fundación Arquidiocesana Banco de Alimentos de Medellín
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20110514184759/http://www.bancodealimentos.net/Page.aspx?urlID=1&sw=0
+ |fechaarchivo = 14 de mayo de 2011
+}}</ref> La fundación se encarga de recolectar y aprovechar los excedentes de la producción alimentaria, evitando así el desperdicio; después de un proceso de selección, y recuperación, son distribuidos de manera organizada y digna entre instituciones sociales y parroquias, quienes a su vez atienden población en situación de vulnerabilidad.<ref name="banco"/><br>El Banco de Alimentos nació adscrito a la Pastoral Social y en 2004 se constituyó como fundación independiente sin ánimo de lucro, además es un programa pionero en Colombia (ya existen 28 en el país), en el cual colaboran empresas alimenticias, cadenas de supermercados, tiendas, y personas naturales, quienes donan sus excedentes.<ref name="banco"/> Actualmente, el Banco entrega a 188 instituciones sociales, más de 90 toneladas de alimentos mensualmente, que benefician en promedio a 100&nbsp;818 personas en el departamento de Antioquia.<ref name="banco2">{{Cita web
+ |url          = http://www.bancodealimentos.net/Page.aspx?urlID=3&sw=0
+ |título      = Nuestra Labor
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Fundación Arquidiocesana Banco de Alimentos de Medellín
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20110514184809/http://www.bancodealimentos.net/Page.aspx?urlID=3&sw=0
+ |fechaarchivo = 14 de mayo de 2011
+}}</ref> Gracias toda esta labor, el Banco recibió en el 2011 la condecoración «[[Orden de la Democracia Simón Bolivar]]» de la «[[Cámara de Representantes de Colombia]]».<ref name="elsemanrioBanco">{{Cita publicación
+ |título=Reconocimiento al Banco de Alimantos
+ |año=2011
+ |publicación=Periódico El Semanario Arquidiocesano
+ |número=No. 348
+ |páginas=3
+|issn= 2027-9205
+}}</ref>
+
+* '''Fundación Acertar''' es una entidad sin ánimo de lucro creada el 11 de junio de 2003 por iniciativa de la Arquidiócesis de Medellín, con el apoyo de destacados empresarios de la ciudad, e inicialmente se llamó Fundación Apoye. La entidad ofrece servicios de formación para el empleo y el emprendimiento, para lo cual acompaña y asesora en la búsqueda de empleo en especial en jóvenes y mujeres, además asesora y promueve la consolidación de iniciativas productivas. Desde mayo de 2015, es una Agencia Privada de Empleo no lucrativa, que cuenta con permiso otorgado por la Unidad del Servicio Público de Empleo, entidad adscrita al Ministerio de Trabajo.<ref name="acertar">{{Cita web
+ |url          = https://fundacionacertar.org/#!/-quienes-somos-2/?ancla=Marco+Estrat%C3%A9gico+
+ |título       = Quienes somos
+ |fechaacceso  = 3 de marzo de 2023
+ |autor        = Fundación Acertar
+ |cita         = Dirección dinámica cambia cada determinado tiemp
+}}</ref>
+
+[[Archivo:Papa Francisco en Colombia - Hogar San José 1.jpg|280px|miniaturadeimagen|derecha| Durante la visita apostólica a Colombia, el papa Francisco, por su paso por Medellín, visitó el Hogar San José]]
+
+* '''Hogares Infantiles San José''' es una institución dedicada a brindar educación, formación y asistencia a la niñez huérfana y desamparada. Fue establecida en Medellín en 1908 con el nombre de «Orfanato San José», durante la administración episcopal de Manuel José Caicedo. En 1965, por decreto de Tulio Botero, la institución cambió su nombre por el actual.<ref name="hogareshisto">{{Cita web
+ |url          = http://www.hogaressanjose.org/historia-de-hogares-infantiles-san-jose-un-siglo-dando-amor.htm
+ |título      = Historia
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Hogares Infantiles San José
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20100913172511/http://hogaressanjose.org/historia-de-hogares-infantiles-san-jose-un-siglo-dando-amor.htm
+ |fechaarchivo = 13 de septiembre de 2010
+}}</ref> Cuenta con tres sedes: la de Primaria, dirigida por las Hermanas Dominicas de la Presentación, a tienden a doscientas niñas huérfanas y pobres entre los seis a doce años de edad. La de Bachillerato, bajo dirección laica, a tienden a ciento treinta niñas y jóvenes huérfanas y pobres entre tres a dieciocho años. Y la de Las Palmas, dirigida por las Hermanas de la Anunciación, a tienden a ciento veinticinco niños huérfanos y pobres entre cinco a once años.<ref name="hogaressedes">{{Cita web
+ |url          = http://www.hogaressanjose.org/sedes-donde-ayudamos-a-los-ninos-haga-su-donacion.htm
+ |título      = Sedes
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Hogares Infantiles San José
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20100913144852/http://hogaressanjose.org/sedes-donde-ayudamos-a-los-ninos-haga-su-donacion.htm
+ |fechaarchivo = 13 de septiembre de 2010
+}}</ref>
+
+* '''Granjas Infantiles de Jesús Obrero''' es una institución fundada en 1948 y dedicada a brindar atención integral a niños y jóvenes de ambos sexos, en estado de orfandad o pobreza, proporcionándoles una adecuada formación cristiana, intelectual y técnica; para ello, ofrece educación preescolar, básica primaria y secundaria con énfasis en agropecuaria, asistencia integral a menores de escasos recursos, preparación técnica, alimentación y albergue.<ref name="granjas">{{Cita web
+ |url          = http://granjasinfantilesjo.org/?p=241
+ |título      = Granjas Infantiles de Jesús Obrero Copacabana-Antioquia
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Granjas Infantiles de Jesús Obrero
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120111174320/http://granjasinfantilesjo.org/?p=241
+ |fechaarchivo = 11 de enero de 2012
+}}</ref> La sede de la institución, ubicada en el municipio de [[Copacabana (Antioquia)|Copacabana]], es un complejo arquitectónico, con amplias zonas verdes donde se realizan las prácticas agropecuarias y donde son atenidos al año unos ciento treinta niños internos y cuatrocientos cincuenta niños y jóvenes externos.<ref name="granjas"/><br>Además, en convenio celebrado entre Fundación Tíabambi Colseguros, [[Servicio Nacional de Aprendizaje|SENA]] y Granjas Infantiles de Jesús Obrero, se creó en 2010 el «Centro para la Formación Agropecuaria La Sandalia» con el fin de brindar formación académica a los egresados de las Granjas Infantiles, y a jóvenes de la región.<ref name="sandalia">{{Cita web
+ |url          = http://granjasinfantilesjo.org/?p=182
+ |título      = Centro de Formación Agropecuaria “La Sandalia” Fredonia-Antioquia
+ |fechaacceso  = 20 de abril de 2011
+ |autor        = Granjas Infantiles de Jesús Obrero
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120111173805/http://granjasinfantilesjo.org/?p=182
+ |fechaarchivo = 11 de enero de 2012
+}}</ref> La sede del Centro se localiza en el municipio de [[Fredonia (Colombia)|Fredonia]] (Antioquia) y actualmente está ampliando sus instalaciones para brindar educación a cerca de 1200 estudiantes al mes.<ref name="sandalia"/>
+
+* '''Escuelas Populares Eucarísticas''' es una institución establecida en 1933, orientada a ofrecer educación a niños y niñas de los sectores más pobres de la arquidiócesis.<ref name="escualaspopu">{{Cita web
+ |url          = http://www.arquidiocesisdemedellin.com/home/index.php?option=com_content&view=article&id=51:escuelas-populares-eucaristicas&catid=34:familia&Itemid=95
+ |título      = Escuelas Populares Eucarísticas
+ |fechaacceso  = 21 de abril de 2011
+ |autor        = Arquidiócesis de Medellín
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120111142932/http://www.arquidiocesisdemedellin.com/home/index.php?option=com_content&view=article&id=51:escuelas-populares-eucaristicas&catid=34:familia&Itemid=95
+ |fechaarchivo = 11 de enero de 2012
+}}</ref> Las escuelas están ubicadas en barrios populares, cerca de los sectores más deprimidos donde la situación económica de sus habitantes es bastante precaria. En la actualidad las escuelas ofrecen educación preescolar, básica primaria y secundaria.<ref name="escualaspopu"/>
+
+=== Educación ===
+Como parte de su compromiso y misión, la educación siempre ha sido una de las prioridades de la arquidiócesis, no solo se enfoca en la formación sacerdotal, también ofrece a la comunidad laica educación completa bajo los conceptos católicos.
+
+==== Formación sacerdotal ====
+Para atender las aspiraciones al ministerio presbiteral, el arzobispado cuenta con cinco [[Seminario sacerdotal|centros de formación sacerdotal]],<ref name="5seminarios">{{Cita web
+ |url          = http://www.arqmedellin.co/_wb/_domain/arqmedellin.co/es-CO/instituciones-arquidiocesanas/seminarios.php
+ |título      = Seminarios
+ |fechaacceso  = 6 de octubre de 2018
+ |apellido     = 
+ |nombre       = 
+ |autor        = Arquidiócesis de Medellín
+ |editorial    = 
+ |urlarchivo   = https://web.archive.org/web/20181007040327/http://www.arqmedellin.co/_wb/_domain/arqmedellin.co/es-CO/instituciones-arquidiocesanas/seminarios.php
+ |fechaarchivo = 7 de octubre de 2018
+ |cita         = Dirección dinámica, cambia cada determinado tiempo.
+ |deadurl      = yes
+}}</ref> además en su jurisdicción está la presencia de las casas de formación sacerdotal pertenecientes a diferentes institutos religiosos que también participan en la vida pastoral de la arquidiócesis. Las casas de formación de la arquidiócesis son:
+[[Archivo:Capilla del Seminario Mayor de Medellín8.JPG|miniatura|250px|Capilla del seminario mayor]]
+[[Archivo:UPB-Biblioteca Central-Medellin.JPG|miniatura|250px|Biblioteca Central de la Universidad Pontificia Bolivariana —UPB—]]
+* '''[[Seminario Mayor del Sagrado Corazón de Jesús]]''' (también llamado Seminario Conciliar de Medellín). Se enfoca en la formación de sacerdotes para el [[clero]] secular.<ref name="rectoria">{{Cita web
+ |url          = http://www.semayormedellin.org/rectoria.html
+ |título      = Desde la Rectoría - ¿Qué es el Seminario Mayor de Medellín?
+ |fechaacceso  = 23 de enero de 2011
+ |autor        = Seminario Mayor de Medellín
+ |urlarchivo   = https://web.archive.org/web/20070402143618/http://www.semayormedellin.org/rectoria.html
+ |fechaarchivo = 2 de abril de 2007
+}}</ref> El seminario fue establecido en 1830 por fray [[Mariano Garnica y Orjuela]] obispo de Antioquia, por consiguiente el seminario es más antiguo que la propia silla episcopal de Medellín. La sede actual es un [[campus]] ubicado en el oriente de la ciudad de Medellín, en el sector llamado Loreto, fue construido entre 1960 y 1962 por el rector Eugenio Restrepo Uribe durante la administración episcopal de Botero Salazar y con planos del arquitecto Nel Rodríguez.<ref name="seminarioVIII">{{Enlace roto|1={{Cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20VIII.doc
+ |título     = Pequeño Copendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 23 de enero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. VIII : Plantas físicas que ha ocupado el Seminario
+ |formato     = DOC
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20VIII.doc |bot=InternetArchiveBot }}</ref> La sede es un complejo arquitectónico rodeado de zonas verdes, cuenta con 20&nbsp;000 [[m²]] de área construida, tiene capacidad para doscientas cincuenta seminaristas y se destaca del conjunto el templo que tiene forma de [[cúpula]], el cual puede ser visto de diferentes partes de la ciudad.<ref name="seminario VII">{{Enlace roto|1={{Cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20VII.doc
+ |título     = Pequeño Copendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 23 de enero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. VII : Obras Rectorales en el Seminario
+ |formato     = DOC
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20VII.doc |bot=InternetArchiveBot }}</ref>
+
+*'''Seminario Misionero Arquidiocesano [[Seminario Redemptoris Mater|«Redemptoris Mater»]]'''. Se enfoca en la formación de sacerdotes, que vienen de las vocaciones provenientes del [[Camino Neocatecumenal]].<ref name="Redemptoris">{{Cita web|url=http://www.srmmedellin.org/web/el-seminario|título=El Seminario|fechaacceso=20 de septiembre de 2011|autor=Seminario Misionero Arquidiocesano ''Redemptoris Mater''|urlarchivo=https://web.archive.org/web/20111012073440/http://www.srmmedellin.org/web/el-seminario|fechaarchivo=12 de octubre de 2011}}</ref> El seminario es al mismo tiempo arquidiocesano (porque dependen directamente del arzobispo), internacional (los seminaristas proceden de diferentes países) y misionero (los seminaristas se preparan para ir a cualquier parte del mundo para evangelizar). La sede es un campus localizado en el oriente de la ciudad de Medellín, en la vía hacía el corregimiento de [[Santa Elena (Medellín)|Santa Elena]].<ref name="Redemptoris Ubica">{{Cita web|url=http://www.srmmedellin.org/web/el-seminario?start=2|título=El Seminario - Ubicación|fechaacceso=20 de septiembre de 2011|autor=Seminario Misionero Arquidiocesano ''Redemptoris Mater''|urlarchivo=https://web.archive.org/web/20120610022017/http://www.srmmedellin.org/web/el-seminario?start=2|fechaarchivo=10 de junio de 2012}}</ref> Fue establecido en 1990 por iniciativa del entonces arzobispo de Medellín cardenal López Trujillo, quien al ver el [[seminario Redemptoris Mater]] de Roma, se interesó en establecer uno en la arquidiócesis.<ref name="Redemptoris Histo">{{Cita web|url=http://www.srmmedellin.org/web/el-seminario?start=1|título=El Seminario - Historia|fechaacceso=20 de septiembre de 2011|autor=Seminario Misionero Arquidiocesano ''Redemptoris Mater''|urlarchivo=https://web.archive.org/web/20120610012121/http://www.srmmedellin.org/web/el-seminario?start=1|fechaarchivo=10 de junio de 2012}}</ref> Para lo cual, teniendo como bese arquitectónica el de Roma, [[Kiko Argüello]] con ayuda de arquitectos de Medellín y de Italia, hacen una adaptación sobria y elegante para la construcción del seminario de Medellín.<ref name="Redemptoris Histo"/>
+
+* '''Seminario Juan Pablo II'''. Se enfoca en la formación de sacerdotes para el clero secular. Fue fundado en 1990 por el pbro. Ignacio Álvarez,<ref name="semijunapablo">{{Cita publicación
+ |apellido     = Arbeláez Montoya
+ |nombre       = José Camilo
+ |título      = Parroquia Nuestra Señora de Lourdes
+ |año         = febrero de 2014
+ |publicación = Periódico Misión
+ |número      = No. 24
+ |página      = p. 8
+ |issn        = 2248-8162
+ |url         = https://issuu.com/arqmedellin/docs/mision24
+}}</ref>  y la característica especial de este seminario radica en que atiende las vocaciones tardías, facilitándole a los aspirantes al sacerdocio las condiciones ideales para su formación, pues algunos por diversas razones tienen que trabajar para ayudar económicamente a sus familias, otros en cambio están cursando o acaban de terminar alguna carrera universitaria.<ref name="SemiJuanPablo">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap IV: El Clero. Sección: Seminario Juan Pablo II
+ |páginas=315-317
+}}</ref> La sede se localiza en el barrio «Florida Nueva» ([[Laureles-Estadio (Medellín)|Comuna Laureles-Estadio]]) y funciona en las instalaciones de la casa cural de la «parroquia Nuestra Señora de Lourdes», los seminaristas son un grupo pequeño que oscila entre 10 y 15, y ejercen sus actividades pastorales en dicha parroquia.<ref name="SemiJuanPablo"/>
+
+* '''Seminario Misionero de San José'''. También llamada Asociación Misionera San José. Se enfoca en la formación de sacerdotes preparados especialmente para ir a los sitios más apartados para evangelizar, su trabajo se basa en la misión «''ad gentes''», pues no se preparan para la arquidiócesis sino para los territorios de misión.<ref name="SemiSanjose">
+{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap IV: El Clero. Sección: Asociación Misionera San José
+ |páginas=340-343
+}}</ref> En 1991 comienza a gestarse el seminario, en agosto de 2001 adquieren la sede propia en el barrio «Altamira» ([[Robledo (Medellín)|Comuna Robledo]]), y en agosto de 2009 es aprobada la Asociación Misionera San José, por un tiempo de tres años «''Ad Experimentum''» por el entonces arzobispo Giraldo Jaramillo, como «Asociación Pública de Fieles».<ref name="SemiSanjose"/>
+
+* '''Seminario Misionero de María Inmaculada y Santa Laura Montoya'''.  Se enfoca en la formación de sacerdotes preparados especialmente para ir a evangelizar a los sitios más apartados, pero teniendo en cuenta los ideales y principios de la [[Laura Montoya|santa Laura]], única santa colombiana.<ref name="semiMadreLaura">{{Cita web
+ |url          =https://www.eltiempo.com/colombia/medellin/el-seminario-de-medellin-donde-se-forman-sacerdotes-bajo-principios-de-santa-laura-195220
+ |título      = El seminario que forma sacerdotes con los ideales de santa Laura
+ |fechaacceso  = 3 de octubre de 2018
+ |apellido     = Tamayo Ortiz
+ |nombre       = Heidi 
+ |autor        =  
+ |editorial    = Periódico El Tiempo
+ |urlarchivo   = 
+ |fechaarchivo = 
+}}</ref> En 2004, luego de la beatificación de la madre Laura, comienza a gestarse el seminario por medio de un decreto «''Ad Experimentum''» y es establecido como «Asociación pública de misioneros de la madre Laura» por un periodo de 5 años. En 2016 Ricardo Tobón, aprobó indefinidamente la asociación pública de fieles con personería canónica.<ref name="semiMadreLaura"/> Se localiza en el barrio «Trinidad» ([[Guayabal (Medellín)|Comuna Guayabal]]), de la ciudad de Medellín.
+
+Igualmente, la arquidiócesis cuenta con la '''Escuela Diaconal San Lorenzo''' para la formación de [[diácono]]s permanentes. El programa de diaconado permanente fue instaurado el 23 de noviembre de 1994, por Héctor Rueda Hernández y en 1999 fueron ordenados los primeros candidatos por Alberto Giraldo Jaramillo. El 10 de agosto de 2007 fue establecido de modo definitivo.<ref name="EscuelaDiaco">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap IV: El Clero. Sección: Escuela Diaconal Casa Pablo VI
+ |páginas=345
+}}</ref> Además, existe el '''Convictorio Eclesiástico de la Arquidiócesis de Medellín en Roma''', el cual acoge a los sacerdotes del clero arquidiocesano que viaja a Roma para adelantar estudios en las ciencias eclesiásticas en alguna de las universidades pontificias de la ciudad.<ref name="Convictorio">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap IV: El Clero. Sección: Convictorio Eclesiástico de Medellín en Roma
+ |páginas=343
+}}</ref> El Convictorio fue establecido el 19 de octubre de 1980 por el cardenal López Trujillo, y desde el 30 de agosto de 2007 cuenta con estatutos y reglamento aprobados por La [[Congregación para la Educación Católica]].<ref name="Convictorio"/>
+
+==== Educación media y superior ====
+
+{|class="wikitable" align="right" style="font-size:80%;line-height:120%"
+|-style="background: #6688AA;"
+|colspan=5 align="center"| '''Colegios arquidiocesanos'''<ref name="colegios">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap: Educación
+ |páginas=111-112
+}}</ref>
+|-style="background: #DDDDDD;"
+| '''Nombre''' ||'''Año''' || rowspan="16" | ||'''Nombre''' ||'''Año'''
+|-
+|Hogares Infantiles San José || align="center"| 1908 ||Colegio Carmelitano || align="center"| 1970
+|-
+|Escuelas Populares Eucarísticas || align="center"| 1933 ||Colegio San Buenaventura || align="center"| 1974
+|-
+| Escuela Normal Superior Antioqueña || align="center"| 1936 ||Colegio la Asunción || align="center"| 1975
+|-
+|Colegio de la UPB || align="center"| 1937 ||Colegio San Lucas || align="center"| 1979
+|-
+|[[Seminario Menor de Medellín|Seminario Menor]] || align="center"| 1943 ||Instituto Vicarial Jesús Maestro || align="center"| 1980
+|-
+|Liceo Salazar y Herrera || align="center"| 1945 ||Colegio San Francisco de Asís || align="center"| 1982
+|-
+|Granjas Infantiles Jesús Obrero || align="center"| 1948 ||Colegio Sagrado Corazón de María|| align="center"| 1985
+|-
+|Liceo San Rafael || align="center"| 1950 || Colegio Parroquial San Judas Tadeo || align="center"| 1985
+|-
+|Colegio de María || align="center"| 1954 ||Colegio Ntra. Sra. del Buen Consejo || align="center"| 1987
+|-
+|Instituto Jesús de la Buena Esperanza || align="center"| 1958 || Colegio Ntra. Sra. del Sag. Corazón ||align="center"| 1989
+|-
+|Liceo Francisco Restrepo Molina || align="center"| 1960 || Colegio Juan Pablo II || align="center"| 1989
+|-
+|Instituto Cristo Rey || align="center"| 1962 || Colegio San Gabriel de la Dolorosa || align="center"| 1991
+|-
+|Colegio Ntra. Sra. de Chiquinquirá || align="center"| 1964 || Colegio Parroquial Emaús || align="center"| 1995
+|-
+|Unidad Educativa San Marcos || align="center"| 1964 || Colegio Pequeña María || align="center"| 2001
+|-
+|Colegio Pablo VI || align="center"| 1965 || Colegio la Pasión de N. S. Jesucristo || align="center"| 2003
+|-
+|-
+|colspan=5 style="background: #F0F0F0;"| <small>Las instituciones educativas están organizadas por el año de fundación.</small>
+|}
+
+Además de los centros de formación sacerdotal, la arquidiócesis cuenta con importantes centros de enseñanza media y superior, los cuales están a cargo de la Vicaría Episcopal de Pastoral Educativa y de la Cultura. El arzobispado posee treinta colegios católicos arquidiocesanos y parroquiales, que albergan unos 22&nbsp;112 estudiantes, entre los que se incluye, el Colegio Seminario Menor, Colegio de la UPB, las Escuelas Populares Eucarísticas, las Granjas Infantiles y los Hogares San José.<ref name="sinodo">{{Cita web
+ |url          = http://www.sinodomedellin.org/index.php/instrucciones-sobre-el-sinodo/la-realidad-de-la-arquidiocesis.html
+ |título      = La Realidad de la Arquidiócesis
+ |fechaacceso  = 18 de enero de 2011
+ |autor        = IV Sínodo Arquidiocesano
+ |urlarchivo   = https://web.archive.org/web/20120112112152/http://www.sinodomedellin.org/index.php/instrucciones-sobre-el-sinodo/la-realidad-de-la-arquidiocesis.html
+ |fechaarchivo = 12 de enero de 2012
+}}</ref>
+
+En el campo de la educación superior posee la [[Universidad Pontificia Bolivariana]] —UPB—, y la [[Institución Universitaria Salazar y Herrera]] —IUSH—.<ref name="sinodo"/> La UPB, fundada en 1936, es una institución privada con derecho canónico y civil, con patrimonio autónomo, sin ánimo de lucro. Ofrece todos los niveles de formación que se prevén en las [[Educación en Colombia|normas colombianas]]: [[preescolar]], [[Educación primaria|básica primaria]], [[Educación secundaria|básica secundaria y media académica]], [[Educación tecnológica|tecnológica]], [[profesional]] y los tres niveles de la formación avanzada con [[especialización]], [[maestría]] y [[doctorado]]. Actualmente la universidad se ha expandido fuera del territorio de la arquidiócesis y cuenta, además de la sede de Medellín que es la principal, con sedes en las ciudades de [[Bucaramanga]], [[Montería]], [[Palmira]] y [[Bogotá]],<ref name="upb">{{Cita web
+ |url=http://www.upb.edu.co
+ |título=Universidad Pontificia Bolivariana
+ |fechaacceso=23 de enero de 2011
+ |autor=UPB
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref> las cuales atienden un total de 25&nbsp;686 estudiantes en todo el país,<ref name="estadis">{{Enlace roto|1={{Cita web
+ |url         = http://convena.upb.edu.co/estadisticas/
+ |título     = Estadísticas básicas
+ |fechaacceso = 24 de enero de 2011
+ |autor       = UPB
+ |cita        = Dirección dinámica cambia cada determinado tiempo
+}} |2=http://convena.upb.edu.co/estadisticas/ |bot=InternetArchiveBot }}</ref> además la sede de Medellín, cuenta con la [[Clínica Universitaria Bolivariana]] que hace parte del proyecto académico de la universidad.<ref name="clinica">{{Cita web
+ |url=http://www.upb.edu.co/portal/page?_pageid=1074,42629770&_dad=portal&_schema=PORTAL
+ |título=Quienes somos
+ |fechaacceso=23 de enero de 2011
+ |autor=Clínica Universitaria Bolivariana
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref>
+
+La IUSH fue establecida en la década de 1990 con el nombre de «Politécnico Arzobispo Salazar y Herrera» y funcionaba en parte de las instalaciones del Liceo Salazar y Herrera. En 2003 cambia su carácter académico y pasa a ser institución universitaria, permitiéndole ofrecer carreras profesionales y desde 2005 funciona en su nueva sede. Actualmente ofrece en pregrado los tres niveles de formación superior establecidos en las normas colombianas: técnico profesional, tecnológico, y profesional. En posgrado ofrece Especialización.<ref name="IUSH">{{Enlace roto|1={{Cita web
+ |url         = http://www.iush.edu.co/Uploads/PEI.pdf
+ |título     = Institución Universitaria Salazar y Herrera: Proyecto Educativo Institucional -PEI-
+ |fechaacceso = 18 de abril de 2011
+ |autor       = Dirección de auto evaluación y acreditación
+ |formato     = PDF
+ |páginas    = 14
+}} |2=http://www.iush.edu.co/Uploads/PEI.pdf |bot=InternetArchiveBot }}</ref>
+
+=== Otras entidades arquidiocesanas ===
+Otras entidades arquidiocesanas con [[personería jurídica]]:
+
+* '''Promotora de Bienes —PROBIEN—''' es una entidad encargada del manejo de algunos bienes arquidiocesanos de los cuales puede derivarse algún lucro económico. Esta entidad también colabora con las parroquias en casos similares.<ref name="Probien">
+{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Síntesis del Informe Quinquenal 1984-1989
+ |año=1989
+ |capítulo=Cap. III: Situación Económica de la Arquidiócesis.
+ |páginas=32
+}}</ref> Además, ayuda a la arquidiócesis misma, a sus parroquias e instituciones en todo lo relacionado con negociaciones de propiedad raíz que por algún motivo deben ser vendidas, e igualmente interviene en los asuntos relacionados con organismos estatales, cuyas decisiones afecten sus propiedades.<ref name="Probien2">
+{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Síntesis del Informe Quinquenal 1984-1989
+ |año=1989
+ |capítulo=Cap. III: Situación Económica de la Arquidiócesis. Sección: Promotora de Bienes -PROBIEN-
+ |páginas=45-46
+}}</ref>
+
+[[Archivo:Resurrección - Obra de Jorge Marín Vieco - Cementerio Campos De Paz 1b.jpg|260px|miniaturadeimagen|derecha|«Resurrección» obra de escultor Jorge Marín Vieco, escultura representativa del Cementerio Campos De Paz]]
+
+* '''Funeraria y Parque Cementerio Campos de Paz''' es una entidad que presta servicios funerarios y administra el Parque Cementerio Campos de Paz. Los servicios exequiales de la entidad son uno de los más completos de la ciudad,  cuentra con cuatro unidades de servicios que son: cementerio, crematorio, velaciones y funeraria.<ref name="elcolocampos">{{Cita web
+ |url= https://www.elcolombiano.com/historico/empresas_en_accion_la_funeraria_campos_de_paz_esta_contigo-LYEC_267804
+ |título=Campos de paz, un cementerio que brinda más
+ |fechaacceso=18 de enero de 2023
+ |apellido= Zambrano Benavides
+ |nombre=Diego 
+ |sitioweb= [http://www.elcolombiano.com Periódico El Colombiano]
+ |año= 1 de noviembre de 20132018
+ |cita= }}</ref> El camposanto está localizado en la zona suroccidental de Medellín, y es el segundo parque cementerio abierto en Colombia, comenzando su trayectoria en 1969.<ref name="elsemanrioCampos">{{Cita publicación|título=Intervención de Ricardo Tobón Restrepo, en la entrega de la restauración de la obra “La Resurrección”, en el Cementerio Campos de Paz|apellido=Tobón Restrepo|nombre=Ricardo Antonio, Arz.|publicación=Periódico El Semanario Arquidiocesano|número=No. 320|páginas=8|issn=2027-9205|año=2011}}</ref> Cuenta con siete salas para los servicios fúnebres, crematorio, y se destacan importantes obras arquitectónicas como: la Capilla de la Asunción, obra del arquitecto Laureano Forero, es una estructura en concreto blanco y vidrio, su base es un cuadrado perfecto, lateralmente es un triángulo y de frente tiene la forma de pirámide.<ref name="campospaz">{{Cita web
+ |url=http://camposdepaz.com.co/index.php/simbolos
+ |título=Símbolos
+ |fechaacceso=21 de enero de 2012
+ |autor=Funeraria y Parque Cementerio Campos de Paz
+ |urlarchivo=https://web.archive.org/web/20130810100445/http://camposdepaz.com.co/index.php/simbolos
+ |fechaarchivo=10 de agosto de 2013
+ }}</ref> El Templo de las Cenizas es un gran bloque de piedra amarilla, cuya entrada principal tiene un diseño de pirámide invertida. Tiene capacidad aproximada para 20&nbsp;854 cenizarios y 1500 osarios, y posee en su interior dos niveles, el piso para la circulación es de cristal en el nivel superior. Y el Panteón Militar de la Cuarta Brigada, espacio destinado exclusivamente a la inhumación de soldados y policías muertos en combate.<ref name="campospaz"/> También se destaca la escultura «La Resurrección» del maestro [[Jorge Marín Vieco]], obra representativa de Campos de Paz, de catorce metros de altura, de cuatro toneladas de peso, inaugurada el 23 de abril de 1972 y restaurada en 2011.<ref name="elsemanrioCampos"/>
+
+* '''Corporación Arquidiocesana de Servicios Exequiales El Tabor-La Candelaria''' es una entidad que presta servicios funerarios y administra tres cementerios: La Candelaria, el de Belén y el de La América. Los servicios exequiales de la entidad son uno de los más económicos y completos de la ciudad.<ref name="candelaria">{{Cita web
+ |url=https://www.elcolombiano.com/BancoConocimiento/A/a_la_candelaria_llegan_cada_vez_menos_deudos/a_la_candelaria_llegan_cada_vez_menos_deudos.asp
+ |título=A La Candelaria llegan cada vez menos deudos
+ |fechaacceso=27 de mayo de 2011
+ |autor=Periódico El Colombiano
+}}</ref> La corporación fue creada en 1966, durante la administración episcopal de Botero Salazar, con el fin de centralizar la administración de los camposantos de la ciudad, que en ese entonces eran administrados por las parroquias.<ref name="corpora">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap: Obra Social. Sección: Exequiales El Tabor-La Candelaria
+ |páginas=261-262
+}}</ref> El cementerio La Candelaria data de 1966, está localizado en la zona noroccidental de Medellín, tiene cuatro mil ochocientas bóvedas y cinco mil osarios,<ref name="candelaria"/> está dividido en cuatro pabellones y cuenta con capilla, sala de velaciones, crematorio y laboratorio de [[tanatopraxia]].<ref name="corpora"/> Del total de bóvedas, solo está ocupado el treinta por ciento.<ref name="candelaria"/> Los camposantos de Belén y La América, son pequeños cementerios que datan de principios del {{siglo|XX||s}} y son de origen parroquial.
+
+* El '''Centro de Formación Los Pomos''' es una organización sin animo de lucro. Que gestiona programas formativos para el desarrollo social y espiritual, para enriquecer el desarrollo humano de las personas, parroquias, empresas e instituciones educativas públicas y privadas, todo esto por medio talleres, convivencias, retiros espirituales, etc. El centro fue establecido en 1972 y en 1973 adquiere su sede actual en Buenos Aires, sector Quintanilla.
+
+=== Medios de comunicación ===
+[[Archivo:El Informador-Wikipedia.jpg|miniatura|280px|Revista El Informador edición 185 de 15 de julio-15 de agosto de 2011, donde se publicó el artículo de Arquidiócesis de Medellín de la Wikipedia en español]]
+
+La arquidiócesis de Medellín utiliza varios tipos de medios de comunicación para cumplir con sus esfuerzos de evangelización, para lo cual, cuenta con el Departamento de Comunicaciones. Los principales órganos de comunicación del arzobispado son «El Semanario Arquidiocesano», «Misión» y «El Informador», estas publicaciones son gratuitas y tienen como objetivo informar las noticias eclesiales, actividades de la curia arquidiocesana y el pensamiento del arzobispo sellado en el editorial.
+
+El Semanario es un [[boletín informativo]] semanal enfocado principalmente al clero y a la curia arquidiocesana, su primera edición salió en marzo de 2004,<ref name="elsemanrio">{{Cita publicación
+ |apellido=Cardona Quintero
+ |nombre=Juan Pablo, Pbro.
+ |título=Cosechando lo Sembrado
+ |año=2011
+ |publicación=Periódico El Semanario Arquidiocesano
+ |número=No. 312
+ |páginas=2-3
+|issn= 2027-9205
+}}</ref> y tiene un formato carta. Misión es un [[periódico]] mensual orientado al público en general, fue lanzado en octubre de 2011 y su formato es alrededor del estilo [[tabloide]].<ref name="Mision">{{Cita publicación
+ |apellido=Vélez De Restrepo
+ |nombre=Lilliana Vélez De Restrepo
+ |título=La Arquidiócesis lanzó nueva Misión
+ |año=2011
+ |publicación=Periódico El Colombiano
+ |url=https://www.elcolombiano.com/BancoConocimiento/L/la_arquidiocesis_lanzo_nueva_mision/la_arquidiocesis_lanzo_nueva_mision.asp
+}}</ref> El Informador es una [[revista]] mensual que abarca los temas eclesiales y de actualidad con mayor profundidad. Dichas publicaciones tienen su versión digital que pueden ser consultadas en la página oficial de la arquidiócesis y además pueden ser descargados en formato PDF. Adicionalmente, también son publicadas en publitas.com sitio que permite visualizar los medios impresos sin necesidad de descargarlos.
+
+En el sector de la radio, el arzobispado cuenta con espacios en diversas emisoras de la ciudad, especialmente en las estaciones radiales católicas y en [[Radio Bolivariana]],<ref name="Radio">
+{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Síntesis del Informe Quinquenal 1984-1989
+ |año=1989
+ |capítulo=Cap. II: Situación Religiosa General. Sección: La Arquidiócesis y los Medios de Comunicación
+ |páginas=30-31
+}}</ref> emisora de carácter universitario de propiedad de la Universidad Pontificia Bolivariana.
+
+En el campo de la televisión, la Arquidiócesis cuenta con el apoyo del canal católico [[Tele VID]] (antiguamente llamado Televida), el cual tiene su sede en la ciudad de Medellín y transmite los principales eventos religiosos del arzobispado.<ref name="Extramedios">{{Cita web
+ |url=https://www.elextramedios.com/node/464
+ |título=Televida celebró con un Viaje a la Esperanza sus 10 años
+ |fechaacceso=3 de octubre de 2018
+ |editorial=El Extramedios
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo=https://web.archive.org/web/20181004021431/https://www.elextramedios.com/node/464
+ |fechaarchivo=4 de octubre de 2018
+ }}</ref> Además, el arzobispo Tobón cuenta con un programa televisivo en el canal llamado «En Confianza con Monseñor» en donde los televidentes, después de escuchar los planteamientos del Arzobispo, disponen de la línea telefónica, así como de la Internet para exponer sus comentarios o inquietudes.<ref name="tele">{{Cita web
+ |url=https://www.televid.tv/programacion/en-confianza-con-monsenor
+ |título=En Confianza con Monseñor
+ |fechaacceso=29 de abril de 2020
+ |editorial=Tele VID
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo=
+ |fechaarchivo=
+ }}</ref> También está en el canal el programa «Al día con la Iglesia», un noticiero que actualiza toda la dinámica pastoral de la Arquidiócesis.<ref name="telealdia">{{Cita web
+ |url=https://televid.tv/al-dia-con-la-iglesia/
+ |título=Al día con la Iglesia
+ |fechaacceso=13 de febrero de 2022
+ |editorial=Tele VID
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo=
+ |fechaarchivo=
+ }}</ref> El canal, obra de la Congregación Mariana de Medellín, transmite su señal por los principales [[Televisión por suscripción|operadores de televisión por suscripción]] de Colombia, y por más de sesenta pequeños cable operadores, igualmente cuenta con [[Televisión por satélite|señal satelital abierta]] que le permite llegar a toda Colombia, a casi todo el continente americano, a España y Portugal. Además, su señal también es transmitida por las plataformas digitales.<ref name="televidseñal">{{Cita web
+ |url=https://televid.tv/nuestra-senal/
+ |título=Nuestra señal
+ |fechaacceso=2 de febrero de 2021
+ |editorial=Canal Tele VID
+ |cita=
+}}</ref>
+
+== Historia ==
+Gran parte del territorio de la [[provincia de Antioquia]] (hoy [[departamento de Antioquia]]) dependió de la [[diócesis de Popayán]], erigida en 1531. Debido a las distancias, se creó una vicaría superintendente en 1754 con sede en la [[villa de Medellín]], con jurisdicción sobre las demás vicarías de la provincia.<ref name="Sociedad">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier, Pbro.
+ |título=Medellín ciudad tricentenaria : 1675-1975, pasado - presente - futuro
+ |año=1975
+ |capítulo=Historia Eclesiástica de Medellín
+| otros = Sociedad de Mejoras Públicas de Medellín
+ |editorial=Editorial Bedout, Medellín
+ |páginas=263-265
+| oclc = 253745910
+}}</ref> Entre tanto, en las ciudades de Antioquia (hoy [[Santa Fe de Antioquia]]) y [[Rionegro (Antioquia)|Rionegro]] y las Villas de Medellín y [[Marinilla]], surgió en cada una de ellas el deseo de ser sede diocesana.<ref name="creacionParro">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Creación del obispado en Antioquia
+ |año=1992
+ |capítulo=Cap. III Sección: Parroquias con que empezó la Diócesis de Antioquia
+ |editorial=Editorial Universidad Pontificia Bolivariana
+ |páginas=110-112
+}}</ref>
+
+Luego de varios intentos la ciudad de Antioquia, capital de la provincia, logró su aspiración y el 31 de agosto de 1804 el [[papa]] [[Pío VII]] erigió la [[diócesis de Antioquia]] desmembrando la mayor parte de ella de la diócesis de Popayán,<ref name="Sociedad"/> y, en extensión más pequeña, de las diócesis de [[Arquidiocesis de Santa Fe de Bogotá|Santa Fe de Bogotá]] y de [[Arquidiocesis de Cartagena|Cartagena]]. Pero no fue hasta 1827 que se designó como su primer obispo a fray [[Mariano Garnica y Orjuela]],<ref name="Sociedad"/> de la [[Orden de Predicadores]], quien fue consagrado el 23 de mayo de 1828 y tomó posesión de la sede el 1 de julio del mismo año. La diócesis comprendía toda la provincia de Antioquia, y en 1828 estaba conformada por cincuenta y seis parroquias.<ref name="creacionParro"/>
+
+Garnica instaló el [[cabildo catedralicio]], dictó normas para la organización de la diócesis, entre ellas el reglamento para la catedral, erigió varias parroquias, y el 18 de abril de 1830 inauguró oficialmente el seminario bajo el patronazgo de santo [[Tomás de Aquino]], si bien el establecimiento ya funcionaba desde el 25 de marzo anterior.<ref name="seminario-II">{{Enlace roto|1={{Cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20II.doc
+ |título     = Pequeño Copendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 10 de febrero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. II : Desde la fundación de la ciudad de Antioquia hasta el traslado de la Diócesis a Medellín.
+ |formato     = DOC
+ |páginas    = 9-10
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20II.doc |bot=InternetArchiveBot }}</ref>
+
+Garnica insistió incansablemente por conseguir del Gobierno y de la [[Santa Sede]] el traslado de la sede episcopal a Medellín. Las razones aducidas por el obispo fueron: la ciudad de Antioquia se ubica en el extremo de la provincia, es difícil el paso por el [[río Cauca]] y su clima es muy cálido.<ref name="creacion">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Creación del obispado en Antioquia
+ |año=1992
+ |capítulo=Cap. III Sección: Esfuerzos del Señor Garnica para que la Sede fuera traslada a Medellín
+ |editorial=Editorial Universidad Pontificia Bolivariana
+ |páginas=90-93
+}}</ref> Ese motivo le generó el desafecto y la antipatía de los ciudadanos de Antioquia.
+
+En 1836 [[Juan de la Cruz Gómez Plata]], segundo obispo de Antioquia, decidió darle al seminario el carácter de colegio-seminario que abrió el 4 de septiembre del mismo año y le dio el nombre de San Fernando.<ref name="seminario-II"/> Tiempo después, [[Domingo Antonio Riaño]], tercer obispo de Antioquia, le cambió el nombre al seminario por el del Sagrado Corazón de Jesús el 5 de enero de 1859 y le dio escudo.<ref name="seminario-II"/>
+
+Entre tanto la villa de Medellín fue adquiriendo mayor importancia política y comercial, siendo declarada «ciudad» en 1813 y designada capital de la provincia en 1826,<ref name="Sociedad2">{{Cita libro
+ |autor=Ospina Londoño, Jorge
+ |título=Medellín ciudad tricentenaria : 1675-1975, pasado - presente - futuro
+ |año=1975
+ |capítulo=Momentos Históricos de Medellín
+| otros = Sociedad de Mejoras Públicas de Medellín
+ |editorial=Editorial Bedout, Medellín
+ |páginas=260
+| oclc = 253745910
+}}</ref> desplazando a la ciudad de Antioquia. Además, en 1856 la provincia pasó a llamarse [[Estado Soberano de Antioquia|Estado Federal de Antioquia]],<ref>{{Cita web
+ |url          = http://bib.cervantesvirtual.com/servlet/SirveObras/01361686457806724311802/p0000001.htm
+ |título      = Ley de creación del Estado de Antioquía (1856)
+ |fechaacceso  = 21 de septiembre de 2011
+ |editorial    = Cervantes Virtual
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120127114919/http://bib.cervantesvirtual.com/servlet/SirveObras/01361686457806724311802/p0000001.htm
+ |fechaarchivo = 27 de enero de 2012
+}}</ref> que más adelante tomó el nombre de estado soberano.
+
+=== Erección de la diócesis de Medellín-Antioquia ===
+[[Archivo:Iglesia de la Candelaria-Pastor Restrepo.JPG|miniatura|240px|Iglesia de la Candelaria en 1870, sede de la parroquia más antigua de la arquidiócesis, establecida en 1674, por 63 años fue el templo catedralicio de Medellín]]
+
+Varios años antes de la muerte de Riaño muchos sacerdotes de Medellín se dirigieron al papa [[Pío IX]] para pedirle el traslado de la sede de Antioquia a Medellín, alegando razones pastorales de ubicación, distancia y clima.<ref name="histo arqui">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. III - Traslación de la Sede Episcopal de Antioquia a Medellín
+ |editorial=Movifoto, Medellín
+ |páginas=10-14
+| oclc = 252674638
+}}</ref> Después del fallecimiento del obispo Riaño, quien murió en el destierro en [[Quito]] en 1866, los eclesiásticos volvieron a insistir ante la Santa Sede añadiendo a las razones anteriores las siguientes:<ref name="histo arqui"/>
+* que la capital política del Estado era Medellín;
+* que de las ochenta parroquias correspondientes a la jurisdicción de Antioquia, catorce estaban cerca de ella y que solo contaban con 22&nbsp;521 habitantes, mientras que las sesenta y seis restantes estaban cerca de Medellín y contaban con 260&nbsp;804 personas.
+
+El papa Pío IX, el 14 de febrero de 1868, teniendo en cuenta que la población de Medellín era casi el doble de la de Antioquia, que Medellín era la capital del Estado desde 1826 y que por su clima, su posición geográfica y su comercio aventajaba a Antioquia, decretó la extinción de la silla episcopal de Antioquia y la erección de la silla episcopal de Medellín, la que debía conservar el título de la sede suprimida, denominándose ''diócesis de Medellín-Antioquia''.<ref name="histo arqui"/>
+[[Archivo:Obispo Valerio Antonio Jiménez-Medellin.jpg|miniatura|izquierda|165px|[[Valerio Antonio Jiménez]], primer obispo de la diócesis de Medellín-Antioquia]]
+En esta fecha fue nombrado ejecutor del decreto de erección, (''Apostolici ministerii'' de la [[Congregación Consistorial]])<ref>(en latín) [https://www.archive.org/stream/piiixpontificis01ixgoog#page/n355/mode/1up Decreto ''Apostolici ministerii''] (1868), en ''Pii IX Pontificis Maximi Acta. Pars prima'', Vol. V, Roma, 1871, p.&nbsp;359.</ref> el arzobispo de Santa Fe de Bogotá, [[Vicente Arbeláez]], quien en cumplimiento del mandato del romano pontífice expidió el decreto ejecutorial el 1 de agosto de 1868.<ref name="histo arqui"/><ref name="jara">{{Cita libro
+ |autor=Jaramillo Restrepo, Presbítero Julio César
+ |título=Basílica de Medellín
+ |año=1950
+ |editorial=Editorial Bedout
+| oclc = 22131893
+}}</ref> En ese decreto determinó que «el [[Basílica menor de Nuestra Señora de la Candelaria|Templo de La Candelaria]] sirviera de catedral, mientras se edificaba un templo bastante cómodo y decente, el que elevaba desde antes de construirlo a la dignidad de catedral con todos los honores, derechos y privilegios consiguientes, dedicando ese mismo templo a la [[Inmaculada Concepción|Inmaculada Concepción de la Virgen María]]».<ref name="histo arqui"/><ref name="jara"/>
+
+Como primer obispo fue nombrado el [[Antioquia|antioqueño]] [[Valerio Antonio Jiménez]],<ref name="seminario">{{Enlace roto|1={{Cita web
+ |url         = http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20III.doc
+ |título     = Pequeño Copendio de la Historia del Seminario Conciliar de Medellín
+ |fechaacceso = 14 de enero de 2011
+ |autor       = Vásquez Jaramillo, Jaime Andrés
+ |obra        = Cap. III - Descubrimiento y colonización del Valle de Aburrá y fundación de Medellín como ciudad y Diócesis
+ |formato     = DOC
+}} |2=http://www.semayormedellin.org/Archivos%5CHistoria%5CCAPITULO%20III.doc |bot=InternetArchiveBot }}</ref> quien fue consagrado el 28 de junio de 1868 por el arzobispo Arbeláez e inauguró solemnemente la diócesis el 8 de diciembre de ese mismo año en la parroquia de la Candelaria. Trasladó el [[Cabildo catedralicio|Capítulo]] de la Catedral de Santa Fe de Antioquia a Medellín, lo mismo que el seminario del Sagrado Corazón de Jesús.<ref name="jara"/> La población de la diócesis en ese entonces, según los censos oficiales era de unos 283&nbsp;325 habitantes. Originalmente fue sufragánea de la arquidiócesis de Bogotá.
+
+En la diócesis ejercían su ministerio ciento diecinueve sacerdotes y existían ochenta parroquias, de las cuales cuarenta y seis habían sido creadas durante la época colonial, ocho en el período de la Independencia, seis en los primeros años de la República y veinte fueron establecidas en los cuarenta años en que funcionó la sede en la ciudad de Antioquia por los tres obispos que la gobernaron.<ref name="informe 2011 parro">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=26
+}}</ref>
+
+Solo existía la comunidad femenina de las monjas carmelitas de clausura. Jiménez procuró y logró la unión de un clero dividido por motivos políticos, en clérigos sometidos al gobierno y clérigos no sometidos. Eran unos treinta y tres los clérigos sometidos. Todos ellos abjuraron de su sometimiento y volvió a reinar la unidad en el clero.
+
+Jiménez dio los primeros pasos para la edificación de un nuevo templo catedralicio y expidió el decreto del 8 de febrero de 1871 que ordenó la construcción de la catedral en la plaza de Bolívar (hoy [[Parque de Bolívar (Medellín)|Parque de Bolívar]]).<ref name="jara"/> Presidió el primer sínodo diocesano el 8 de diciembre de 1871, que organizó satisfactoriamente la diócesis jurídica y pastoralmente, y rigió hasta 1950 cuando se reunió en Medellín el segundo sínodo. Solicitó como obispo coadjutor con derecho a sucesión al rector del seminario y [[deán]] del capítulo al antioqueño [[José Joaquín Isaza]]. Aceptada la petición, él mismo lo consagró el 17 de febrero de 1870 en Medellín, y con permiso papal le delegó parte de sus facultades episcopales, pues por su edad, Jimínez no podía atender adecuadamente el extenso territorio de la diócesis.<ref name="histo arqui2">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. V
+ |editorial=Movifoto, Medellín
+ |páginas=26-27
+| oclc = 252674638
+}}</ref>
+
+=== Restablecimiento de la diócesis de Antioquia ===
+[[Archivo:Evolucion territorial Arquidiocesis de Medellin.gif|miniatura|270px|Evolución territorial de la arquidiócesis de Medellín. La jurisdicción de la diócesis de Antioquia, fue durante la Independencia y primeros años de la República, los mismos de la Provincia de Antioquia, jurisdicción que luego pasaría a la diócesis de Medellín‑Antioquia]]
+
+El traslado de la sede episcopal a Medellín generó muchos problemas con la ciudad de Antioquia, que años atrás había perdido el título de capital política, y ahora perdía el de capital diocesana que tanto tiempo les había costado conseguir a sus ciudadanos y que con mucho esfuerzo la dotaron con lo necesario. Su catedral bajó a la categoría de iglesia parroquial, y fue un duro golpe. Los habitantes se opusieron a que trasladaran a Medellín aquellos tesoros religiosos, y pusieron en manos de la municipalidad las llaves de la catedral.<ref name="histo arqui2"/>
+
+Además, la propiedad de varios de los inmuebles de la curia fue arrebatada por la municipalidad, agravando las tensiones con Medellín.<ref name="histo arqui2"/> Por tal motivo, intervino el presidente del Estado, [[Pedro Justo Berrío]], quien logró que ambas partes se reunieran y dialogaran. En el encuentro, Jiménez después de escuchar a los representantes de la ciudad de Antioquia, y de darles la razón, acordó interponer su influencia para conseguir la erección de la diócesis de Antioquia.<ref name="histo arqui2"/>
+
+Finalmente, para solucionar estos y otros problemas, y con el visto bueno del obispo Jiménez, fue restablecida la diócesis de Antioquia por [[bula]] ''Super oecumenica'' del papa [[Pío IX]],<ref>(en latín) [https://www.archive.org/stream/piiixpontificis01ixgoog#page/n532/mode/1up Bula ''Super oecumenica''], en ''Pii IX Pontificis Maximi Acta. Pars prima'', Vol. VI, Roma, 1874, p.&nbsp;138.</ref> del 29 de enero de 1873<ref group='nota'>La bula reporta la siguiente fecha: ''Anno Incarnationis Dominicae 1872, quarto Kalendas februarii'', que corresponde al 29 de enero del año 1873, en el cómputo corriente. Algunas fuentes reportan erróneamente el año 1872 como fecha de publicación de la bula ''Super oecumenica''.</ref> y ejecutada el 25 de septiembre de 1873.<ref name="santa fe">{{Cita web
+ |url          = http://www.arquisantioquia.org.co/quienessomos.shtml?apc=aa--;-;1050;-1050;&x=1048&s=a&m=a
+ |título      = Sobre la Diócesis - Historia
+ |fechaacceso  = 14 de enero de 2011
+ |autor        = Arquidiócesis de Santa Fe de Antioquia
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20120402004841/http://www.arquisantioquia.org.co/quienessomos.shtml?apc=aa--;-;1050;-1050;&x=1048&s=a&m=a
+ |fechaarchivo = 2 de abril de 2012
+}}</ref> La sede episcopal de Medellín comenzó a llamarse simplemente ''diócesis de Medellín''.
+
+El restablecimiento de la diócesis de Antioquia supuso la primera desmembración de la diócesis de Medellín. Se desprendieron las siguientes parroquias: [[Santa Fe de Antioquia]], [[Anzá]], [[Buriticá]], [[Cañasgordas]], [[Frontino (Antioquia)|Frontino]], [[Abriaquí]], [[Giraldo]], [[Ituango]], [[Urrao]], [[Belmira]], [[Ebéjico]], [[Liborina]], [[Sabanalarga (Antioquia)|Sabanalarga]], [[San Jerónimo (Antioquia)|San Jerónimo]], Sacaojal y Sucre. En total fueron dieciocho municipios.<ref name="histo arqui2"/>
+
+Luego el obispo de Antioquia y el capítulo solicitaron que se les anexaran más parroquias y así lo determinó la Santa Sede el 16 de abril de 1875, cuando ya había muerto Isaza.<ref name="histo arquiHH">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. VII. Sección: Nueva desmembración del territorio diocesano en favor de la Diócesis de Antioquia
+ |editorial=Movifoto, Medellín
+ |páginas=44-45
+| oclc = 252674638
+}}</ref> Se anexaron: [[Caramanta|Nueva Caramanta]], [[Valparaíso (Antioquia)|Valparaíso]], [[Támesis (Antioquia)|Támesis]], [[Jericó (Antioquia)|Jericó]], [[Andes (Antioquia)|Andes]], [[Jardín (Antioquia)|Jardín]], [[Ciudad Bolívar (Antioquia)|Bolívar]], [[Concordia (Antioquia)|Concordia]], [[San Pedro de los Milagros|San Pedro]], [[Donmatías]], [[Entrerríos (Antioquia)|Entrerríos]], [[Santa Rosa de Osos]], [[San Andrés de Cuerquia|San Andrés]], [[Yarumal]], [[Campamento (Antioquia)|Campamento]], [[Carolina del Príncipe|Carolina]], [[Angostura (Antioquia)|Angostura]], [[Anorí]], Zea, [[Zaragoza (Colombia)|Zaragoza]], [[Cáceres (Antioquia)|Cáceres]], [[Nechí]], [[Amalfi (Antioquia)|Amalfi]], [[Remedios (Antioquia)|Remedios]], Cancán y San Bartolomé, en total 26 municipios, quedando la diócesis de Antioquia con 44 municipios.<ref name="histo arquiHH"/> De allí se desprendieron más tarde las diócesis de Santa Rosa de Osos, la de Jericó y la de Apartadó.
+[[Archivo:José_Joaquín_Isaza-Obispo_de_Medelin.jpg|miniatura|160px|José Joaquín Isaza Ruíz, obispo de Medellín entre 1873-1874]]
+
+=== Diócesis de Medellín ===
+El 29 de marzo de 1873 el obispo Jiménez se retiró del gobierno diocesano por razones de edad y enfermedad, contando con el beneplácito papal,<ref name="histo renuncia">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. V - Sección: Renuncia al obispado a los 67 años
+ |editorial=Movifoto, Medellín
+ |páginas=33
+| oclc = 252674638
+}}</ref> y automáticamente lo sucedió [[José Joaquín Isaza]], quien se convirtió en el segundo obispo de Medellín. Isaza fue un sacerdote muy preparado, con estudios en Bogotá y había sido secretario del arzobispo Arbeláez. Fue el alma del primer Sínodo realizado entre el 8 al 23 de diciembre de 1871, y visitó casi toda la diócesis. Inició los primeros contactos orientados a buscar un arquitecto para el proyecto de la nueva catedral, finalmente el 18 de noviembre de 1874 fue contratado el arquitecto italiano Felipe Crosti para diseñar y construir el templo.<ref name="jara"/> El obispo Isaza falleció el 29 de diciembre de 1874 a los cincuenta y cuatro años, por lo cual Jiménez fue nombrado [[vicario capitular]] para que administrase la diócesis temporalmente mientras se nombraba un nuevo obispo. Jiménez estuvo a cargo de la diócesis entre el 31 de diciembre de 1874 al 14 de febrero de 1876,<ref name="vicariajimenez">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. VII, Vicaría capitular del Sr. Jiménez
+ |editorial=Movifoto, Medellín
+ |páginas=43
+| oclc = 252674638
+}}</ref> luego el presbítero antioqueño [[José Ignacio Montoya Palacio]] fue nombrado vicario capitular y como tal, administró la diócesis del 14 de febrero al 23 de julio de 1876.<ref name="vicariamontoya">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. VIII, Vicaría capitular del Pbro. José Ignacio Montoya
+ |editorial=Movifoto, Medellín
+ |páginas=45
+| oclc = 252674638
+}}</ref>
+
+[[Archivo:José Ignacio Montoya Palacio - obispo de Medellín.jpg|miniatura|izquierda|160px|José Ignacio Montoya Palacio, obispo de Medellín entre 1876-1884]]
+
+Mientras tanto, el 17 de abril de 1876, el papa [[Pío IX]] preconizó a Montoya como tercer obispo de Medellín. Fue consagrado el 23 de julio por Jiménez en el templo de la Candelaria, y tomó posesión de la sede ese mismo día. El primer periodo de su administración estuvo marcado por la persecución religiosa, pues coincidió con la [[Guerra civil colombiana de 1876-1877|guerra civil de 1876 a 1877]] que tuvo un carácter político-religioso; desde su escondite administraba la diócesis.<ref name="montoya">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |capítulo=Ilustrísimo Sr. José Ignacio Montoya Palacio
+ |editorial=Medellín
+ |páginas=8-9
+}}</ref> El 12 de abril de 1879 salió desterrado por ley de la República, viajó a Europa, siendo así el primer obispo de Medellín, que visitó al papa para informarle sobre la diócesis y sobre la situación política y religiosa de Colombia.<ref name="montoya"/> A su regreso, reabrió y organizó el seminario en 1881, el cual estuvo cerrado desde 1877; para lo cual le anexó estudios «profanos» de literatura, matemáticas, derecho, contabilidad y medicina. Reinició los trabajos de la catedral, tramitó la venida de los Hermanos Cristianos y de las Monjas de la Presentación; visitó la diócesis y fue llamado el «padre de los pobres» pues fundó la sociedad San Vicente, la Casa de huérfanos, el asilo, la Beneficencia, y la escuela gratuita de San José.<ref name="montoya"/>
+
+En octubre de 1883, el obispo Montoya decretó la suspensión definitiva de la construcción de la catedral, pues la obra resultaba de tal magnitud que sería muy complicado acabarla. Adicionalmente, los diseños de la catedral tenían serios problemas estructurales, es así que el arquitecto Crosti no resultó con las capacidades que la obra requería.<ref name="jara"/> Montoya murió en Medellín el 15 de julio de 1884. Solo ordenó a 15 sacerdotes. Nuevamente [[Valerio Antonio Jiménez]] fue elegido como vicario capitular.
+[[Archivo:Bernardo Herrera Restrepo-Arzobispo.jpg|miniatura|160px|Bernardo Herrera Restrepo, obispo de Medellín entre 1886-1891]]
+El periodo de estos tres primeros obispos antioqueños estuvo marcado por [[Guerras civiles de Colombia|guerras civiles]], por el fin del Patronato Republicano y la separación de la Iglesia y del Estado, y por haberse celebrado en [[Rionegro (Antioquia)|Rionegro]] la [[Constitución de Colombia de 1863|Constitución de 1863]], anticatólica y anticlerical.<ref name="informe 2011 2">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=27
+}}</ref> Además, en este periodo sucedió la primera desmembración de la diócesis, con el restablecimiento en 1873 de la Diócesis de Antioquia,<ref name="histo arqui2"/> y con la anexión a la misma de otras parroquias en 1875.<ref name="histo arquiHH"/>
+
+Posteriormente se presentó un periodo con tres obispos bogotanos. Fueron ellos: [[Bernardo Herrera Restrepo]], después arzobispo de Bogotá y primado de Colombia; [[Joaquín Pardo Vergara]] y [[Manuel José Caicedo]].
+
+La [[Constitución de Colombia de 1886|Constitución de 1886]] y el Concordato de 1887 trajeron una época de paz. Herrera Restrepo fue consagrado el 27 de diciembre de 1885, tomó posesión de su sede episcopal el 21 de enero del año siguiente. Transformó completamente el seminario mayor imponiendo la disciplina sulpiciana que con ligeros cambios rigió hasta 1960 cuando se dictó un nuevo reglamento con una orientación distinta; en el campo de la educación concretó los deseos de Montoya y facilitó la llegada de los Hermanos Cristianos y las Hermanas de la Presentación; presenció la apertura del colegio de San Ignacio, de los jesuitas, el cual aún existe; visitó la diócesis; reinició la construcción de la catedral con un nuevo diseño y bajo la dirección del arquitecto francés [[Carlos Carré]], recomendado por el señor L. Douillard, notable arquitecto francés.<ref name="olano">{{Cita libro
+ |autor=Olano, Ricardo 
+ |título=Colección Biblioteca Basica de Medellín: Medellín en la memoria de Ricardo Olano
+ |año=2006
+ |capítulo=
+ |editorial=Instituto Tecnologico de Medellín 
+ |páginas=171-173
+}}</ref> Ordenó en Medellín solo a doce sacerdotes.<ref name="bernardo">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |capítulo=Ilustrísimo Sr. Bernardo Herrera Restrepo
+ |editorial=Medellín
+ |páginas=9-10
+}}</ref>
+
+[[Archivo:En construcción - Catedral Metropolitana de Medellín.jpg|miniatura|izquierda|260px|Construcción de la nueva catedral alrededor de 1900, llamada popularmente de «Villanueva» para distinguirla del templo de la Candelaria que servía como iglesia catedralicia]]
+Luego, el 4 de junio de 1891, Herrera fue nombrado arzobispo de Bogotá y partió el 2 de septiembre. Quedó como [[administrador apostólico]] de la diócesis el presbítero Rafael María González. A principios de 1892, fue nombrado como nuevo obispo de Medellín Joaquín Pardo Vergara, su consagración episcopal se realizó en Bogotá por manos de Herrera el 24 de abril y el 6 de junio emprendió viaje para Antioquia y tomó posesión de su sede el 18 de junio del mismo año.<ref name="bernardo"/>
+
+Pardo Vergara continuó la construcción de la catedral, amplió el número de cátedras en el seminario, trajo a las Monjas de la Enseñanza, las cuales fundaron el colegio y convento de la Enseñanza, y a las del Buen Pastor para que atendieran la cárcel de mujeres;<ref name="Pardo Vergara">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |capítulo=Ilustrísimo Sr. Joaquín Pardo Vergara
+ |editorial=Medellín
+ |páginas=11
+}}</ref> viajó dos veces a Roma, una fue para la [[Visita ad limina|visita Ad-Limina]] en 1886, la primera de la que se tiene noticia, pues la de Montoya fue obligada por el destierro y en 1899 para el Concilio Plenario Latinoamericano.<ref name="informe 2011 hyu">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=27
+}}</ref>
+[[Archivo:Joaquin Pardo Vergara-Arz. de Medellin.jpg|miniatura|160px|Joaquín Pardo Vergara, obispo y luego primer arzobispo de Medellín. Gobernó entre 1892-1904]]
+Le correspondió aplicar las determinaciones del Concilio, una de las cuales fue la creación de más [[provincias eclesiásticas]] en Colombia, pues hasta ese entonces, solo era arquidiócesis la de Santafé de Bogotá.<ref name="informe 2011 hyu"/> Dio su concepto favorable para que fueran arquidiócesis [[Arquidiócesis de Popayán|Popayán]] y [[Arquidiócesis de Cartagena|Cartagena]] en 1900, quedando Medellín como sufragánea de Santafé de Bogotá.<ref name="informe 2011 hyu"/>
+
+Además, permitió la erección de la [[Arquidiócesis de Manizales|diócesis de Manizales]], la cual fue establecida el 11 de abril de 1900 mediante el decreto ''Apostolicae Sedi'' de la Congregación Consistorial,<ref>(en latín) [https://archive.org/stream/analectaecclesia09romeuoft#page/443/mode/1up Decreto ''Apostolicae Sedi''], en ''Analecta ecclesiastica'', IX, 1901, pp.&nbsp;443-445.</ref> bajo el papa [[León XIII]], desmembrando el territorio de la diócesis de Medellín y de la de Popayán, quedando como sufragánea de esta última.<ref name="manizaleslibro">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier; Humberto Bronx
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |capítulo=Cap. XIII - Sección: Erección de la Diócesis de Manizales
+ |editorial=Movifoto, Medellín
+ |páginas=77-78
+| oclc = 252674638
+}}</ref><ref name="manizlaes">{{Cita web
+ |url=http://www.cec.org.co/index.shtml?apc=ba1;001;;-&x=1471
+ |título=Arquidiócesis de Manizales - Historia
+ |fechaacceso=14 de enero de 2011
+ |autor=Conferencia Episcopal de Colombia
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |fechaarchivo=14 de noviembre de 2011
+ |urlarchivo=https://web.archive.org/web/20111114170124/http://www.cec.org.co/index.shtml?apc=ba1;001;;-&x=1471
+ |deadurl=yes
+ }}</ref> Se desmembraron las parroquias de [[Manizales]], [[Neira (Caldas)|Neira]], [[Aranzazu]], [[Pensilvania (Caldas)|Pensilvania]], [[Salamina (Caldas)|Salamina]], [[Filadelfia (Caldas)|Filadelfia]], [[Pácora]], [[Aguadas]] y Arma Viejo; en total fueron nueve municipios con una población de 120&nbsp;000 habitantes.<ref name="manizaleslibro"/> Se tenía planeado originalmente entregar también a [[Sonsón]] y [[Abejorral]], pero finalmente siguieron siendo de Medellín. Además, a la nueva sede episcopal le sumaron 19 pueblos de Cauca que tenían 10&nbsp;000 habitantes y 12 del Tolima con 38&nbsp;000 habitantes.<ref name="manizaleslibro"/>
+
+=== Medellín sede metropolitana ===
+Después de que las diócesis de Cartagena y Popayán fueran elevadas a la categoría de arquidiócesis, la provincia eclesiástica de Bogotá siguió quedando muy extensa, por lo cual el Gobierno Nacional presidido por el presidente [[José Manuel Marroquín]], solicitó a la Santa Sede la conformación de una cuarta provincia en Colombia con sede en Medellín,<ref name="DHIAL">{{Cita web
+ |url        =https://www.dhial.org/diccionario/index.php?title=MEDELL%C3%8DN;_Arquidi%C3%B3cesis_de
+ |título     =MEDELLÍN; Arquidiócesis de
+ |fechaacceso=24 de julio de 2023
+ |autor      =Zuluaga Gil, Ricardo
+ |editorial  = Diccionario de Historia Cultural de la Iglesia en América Latina -DHIAL-
+ |cita       =
+ }}</ref> por lo que el papa [[León XIII]], mediante decreto ''Apostolici ministerii'' de la Congregación Consistorial del 24 de febrero de 1902,<ref>(en latín) [https://archive.org/stream/analectaecclesia12romeuoft#page/112/mode/1up Decreto ''Apostolici ministerii''] (1902), en ''Analecta ecclesiastica'', XII, 1904, pp. 112-113.</ref> elevó la sede episcopal de Medellín (la cual apenas contaba treinta y cuatro años de ser diócesis) a sede arzobispal y metropolitana, quedando desligada de Bogotá como diócesis [[Diócesis sufragánea|sufragánea]], y a Medellín se le asignó como sufragáneas las diócesis de Antioquia (desligada de Bogotá) y Manizales (desligada de Popayán).<ref name="DHIAL"/><ref name="medellinCEC">{{Cita web|url=http://www.cec.org.co/index.shtml?apc=ba1;001;;-&x=436|título=Arquidiócesis de Medellín—Historia|fechaacceso=14 de enero de 2011|autor=Conferencia Episcopal de Colombia|cita=Dirección dinámica cambia cada determinado tiempo|urlarchivo=https://web.archive.org/web/20111114173549/http://www.cec.org.co/index.shtml?apc=ba1;001;;-&x=436|fechaarchivo=14 de noviembre de 2011|deadurl=yes}}</ref> Dicho decreto designa ejecutor del mismo a [[Antonio Vico (cardenal)|Antonio Vico]], [[delegado apostólico]] de la [[Santa Sede]] en Colombia, quien dictó el decreto ejecutorio el 28 de agosto de 1902, en el que dispuso que la arquidiócesis de Medellín iniciaría el 29 de septiembre del mismo año. El obispo [[Joaquín Pardo Vergara]] fue designado como el primer arzobispo de Medellín,<ref name="medellinCEC"/> quien continuó al frente de la arquidiócesis hasta su fallecimiento el 14 de noviembre de 1904. Administró entonces la Arquidiócesis como [[vicario capitular]], el pbro. Víctor Escobar Lalinde.
+[[Archivo:Manuel José Cayzedo - Gonzalo Escovar Gaviria (1872-1914).jpg|miniatura|izquierda|160px|Manuel José Caicedo, arzobispo de Medellín entre 1906-1937]]
+El 14 de diciembre de 1905 fue trasladado desde la arquidiócesis de Popayán a Medellín, el bogotano [[Manuel José Caicedo]],<ref name="medellinCEC"/> quien llegó a la capital antioqueña el 12 de agosto de 1906. Caicedo fue el prelado que por más tiempo gobernó la sede episcopal de Medellín, pues estuvo hasta 1935, cuando se le nombró a su sucesor [[Tiberio de Jesús Salazar y Herrera]], como administrador apostólico.<ref name="informe 2011 ghrfv">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=28-29
+}}</ref>
+
+Al arzobispo Caicedo, le correspondió la instalación de la [[Conferencia Episcopal]] en 1908, cuando comenzó como reunión provincial y asistió a las ocho primeras conferencias. Se opuso a la erección de la [[diócesis de Sonsón]] que desde 1907 empezó a solicitar diócesis, con sede en ese municipio. Adquirió en 1910 la casa que serviría de palacio o casa episcopal, la que se utilizó hasta la llegada de Botero Salazar. Realizó varias visitas pastorales a todas las parroquias de la jurisdicción.<ref name="informe 2011 ghrfv"/>
+
+El 29 de enero de 1915, por medio de la bula «''Universi Dominici Gregis''» del papa [[Benedicto XV]], estableció la [[diócesis de Jericó]],<ref name="jerico">{{Enlace roto|1={{Cita web
+ |url         = http://www.jerico.diocesis.ws/Breve-rese%F1a-hist%F3rica.php
+ |título     = Breve reseña histórica de la Diócesis de Jericó
+ |fechaacceso = 22 de enero de 2011
+ |autor       = Diócesis de Jericó
+}} |2=http://www.jerico.diocesis.ws/Breve-rese%F1a-hist%F3rica.php |bot=InternetArchiveBot }}</ref> desmembrada de la de [[Diócesis de Antioquia|Antioquia]]. Esta última volvió a perder territorio cuando el 5 de febrero de 1917 el papa erigió la [[diócesis de Santa Rosa de Osos]] por medio de la bula «''Quod Catholicae''».<ref name="santarosa">{{Cita web
+ |url=http://www.cec.org.co/index.shtml?apc=ba1;002;;-&x=7589
+ |título=Diócesis de Santa Rosa de Osos
+ |fechaacceso=24 de enero de 2011
+ |autor=Conferencia Episcopal de Colombia
+ |fechaarchivo=14 de noviembre de 2011
+ |urlarchivo=https://web.archive.org/web/20111114211925/http://www.cec.org.co/index.shtml?apc=ba1;002;;-&x=7589
+ |deadurl=yes
+ }}</ref> Las nuevas diócesis quedaron como sufragáneas de Medellín.
+
+A Caicedo, le correspondió poner en práctica el nuevo [[Código de Derecho Canónico]] (1917) y elaborar circulares al clero sobre la manera de aplicarlo. También le tocó terminar la obra negra de la Catedral de Villanueva y hacer su respectiva decoración, para lo cual, contrató al arquitecto italiano [[Giovanni Buscaglione]], hermano salesiano, quien diseñó el [[baldaquino]], los [[altar]]es, el [[púlpito]], el [[Coro (arquitectura)|coro]] y demás obras ornamentales del templo. También se le encargó el diseño y construcción de la nueva sede del seminario mayor, inaugurado en 1928 (hoy funciona el centro comercial Villanueva y la curia en el tercer piso).<ref name="informe 2011 ghrfv"/>
+[[Archivo:Catedral de Medellin-1916.jpg|miniatura|255px|Vista de la nueva Catedral, inaugurada el 12 de agosto de 1931 por Caicedo]]
+Permitió la entrada a algunas comunidades religiosas como las de los Salesianos y Salesianas, dándoles a los primeros desde 1925 la parroquia del Sufragio, contra el parecer del Capítulo de la Catedral. Creó la Vicaría General para atender a los religiosos. En 1928, cuando solamente existían en la arquidiócesis 15 comunidades religiosas masculinas, admitió la presencia de agustinos recoletos, carmelitas, [[Orden de Frailes Menores|franciscanos]], [[Compañía de Jesús|jesuitas]], claretianos y a los Hermanos Cristianos. Femeninas solamente existían las adoratrices, las Hermanas de la Presentación, las de los Pobres, las salesianas, las del Buen Pastor y las Religiosas del Sagrado Corazón. Existía también desde 1901, las [[Siervas del Santísimo y de la Caridad|Siervas del Santísimo]] de fundación arquidiocesana.<ref name="informe 2011 ghrfv"/>
+
+El 12 de agosto de 1931, fue inaugurada oficialmente la nueva catedral como templo catedralicio en una solemne ceremonia presidida por el arzobispo Caicedo.<ref name="jara"/> Además, el [[Basílica Menor de Nuestra Señora de la Candelaria|Templo de La Candelaria]], que durante 63 años mantuvo la catedralidad volvió al culto parroquial.
+
+[[Archivo:Tiberio de Jesús Salazar y Herrera.jpg|miniatura|izquierda|165px|Tiberio de J. Salazar y Herrera, arzobispo de Medellín entre 1935-1942. Fundador de la [[Universidad Pontificia Bolivariana]]]]
+
+La lucha de Caicedo se centró contra el modernismo, por lo cual no dudo a la hora de excomulgar o prohibir publicaciones.<ref name="BibliotecaLuis">{{Cita publicación
+ |apellido=Córdoba Restrepo
+ |nombre=Juan Felipe
+ |título=Caycedo, Manuel José
+ |año=2004
+ |publicación=Biblioteca Luis Ángel Arango
+ |url=http://www.banrepcultural.org/blaavirtual/biografias/caycmanu.htm
+ |fechaacceso=6 de agosto de 2011
+ |fechaarchivo=9 de noviembre de 2017
+ |urlarchivo=https://web.archive.org/web/20171109084054/http://www.banrepcultural.org/blaavirtual/biografias/caycmanu.htm
+ |deadurl=yes
+ }}</ref> Además, todo lo pertinente al ramo de la educación debía pasar antes por sus manos, para estudiarlo cuidadosamente y vigilar que no tuviera faltas contra la doctrina cristiana.<ref name="BibliotecaLuis"/> Su intervención en política figura en la historia de Colombia por sus discrepancias con [[Ismael Perdomo Borrero]],arzobispo de Bogotá.<ref name="informe 2011 ghrfv"/>
+
+En 1932 se designó arzobispo coadjutor al [[Antioquia|antioqueño]] [[Tiberio de Jesús Salazar y Herrera]],<ref name="medellinCEC"/> quien se desempeñaba como obispo de Manizales. Más adelante, debido a la vejez y enfermedad de Caicedo, fue nombrado en 1934 administrador apostólico «''ad nutum''» y en 1935, administrador apostólico con todos los poderes. El 22 de junio de 1937, comenzó a ser arzobispo de Medellín al morir Caicedo.
+
+El 1 de febrero de 1938, Salazar y Herrera fundó el periódico oficial de la arquidiócesis con el nombre de «Boletín Arquidiocesano», el cual se publicó hasta 1963.<ref name="SalazarHerrera">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |capítulo=Ilustrísimo Sr. Tiberio de J. Salazar y Herrera
+ |editorial=Medellín
+ |páginas=13-14
+}}</ref> Pensó en independizar el [[Seminario Menor de Medellín|seminario menor]] para que funcionara en distinto edificio del mayor, para lo cual consiguió la finca Betania, ubicada en el sector llamado el Cuchillón, pero no logró dar el decreto (actualmente se encuentra allí el Batallón Bombona).<ref name="SalazarHerrera"/> En 1936, fundó dos instituciones educativas, la [[Universidad Pontificia Bolivariana|Universidad Católica Bolivariana]] y la Normal de Señoritas. Realizó una visita ''[[ad limina]]''.<ref name="SalazarHerrera"/> En 1935 organizó y presidió el [[Congreso Eucarístico Nacional]] en Medellín, y como recuerdo de este evento se dispuso la adoración perpetua del Santísimo Sacramento en el [[Iglesia de San Juan de Dios (Medellín)|templo de San Juan de Dios]]. Aprobó a las [[Siervas del Santísimo y de la Caridad|Siervas del Santísimo]] como comunidad religiosa. El 4 de marzo de 1942 Salazar y Herrera murió en Medellín y fue sepultado en la Catedral metropolitana. Fue llamado el arzobispo de la educación. Administró entonces la arquidiócesis como vicario capitular, el presbítero José Joaquín Ramírez Urrea.
+
+[[Archivo:Joaquin Garcia Benitez-Arz.jpg|miniatura|160px|Joaquín García Benítez, arzobispo de Medellín entre 1942-1958]]
+El [[Santander (Colombia)|santandereano]] [[Joaquín García Benítez]], eudista, fue nombrado como arzobispo de Medellín el 8 de mayo de 1942,<ref name="medellinCEC"/> y tomó posesión de la Sede Metropolitana el 28 de agosto de ese mismo año. Obtuvo para la catedral el título de [[basílica menor]].<ref name="GarcíaBenítez">{{Cita libro
+ |autor=Piedrahita Echeverri, Javier
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |capítulo=Ilustrísimo Sr. Joaquín García Benítez
+ |editorial=Medellín
+ |páginas=14-15
+}}</ref> Ordenó la ampliación de dos años en los estudios del seminario mayor; decretó la creación del [[Seminario Menor de Medellín|seminario menor]] para funcionar en una edificación diferente de la del mayor y vigiló la construcción del edificio correspondiente.<ref name="GarcíaBenítez"/> Reformó los estatutos del seminario y creó el «Seminario para vocaciones tardías San Pedro». Construyó un nuevo edificio para la Curia, adyacente al palacio arzobispal que sirvió de residencia al obispo auxiliar, [[Buenaventura Jáuregui Prieto|Buenaventura Jáuregui]].<ref name="GarcíaBenítez"/>
+
+Reunió el Segundo Sínodo Diocesano que introdujo cambios fundamentales, como la imposición del sistema personal de diezmos, en lugar del sistema real. Por ello fue demandado ante la Santa Sede, que aprobó lo determinado en el Sínodo y desde entonces ha sido fundamental para el sostenimiento económico de la arquidiócesis.<ref name="GarcíaBenítez"/>
+
+Durante su arzobispado se implantaron por primera vez las prestaciones sociales para los sacerdotes, fijando un porcentaje de los estipendios parroquiales. Joaquín García Benítez admitió cerca de quince comunidades religiosas y patrocinó la creación de las Monjas de la Anunciación.<ref name="GarcíaBenítez"/> Creó en 1945 la Organización Católica Social Arquidiocesana —OCSA—, que orientó todo el movimiento sindical con base en la doctrina pontificia. Obtuvo para la Universidad Católica Bolivariana el título de Pontificia, y para la parroquia de la Candelaria, la coronación Canónica del cuadro de Nuestra Señora de la Candelaria. En julio de 1957, adquirió la finca la Polka en el sector llamado Loreto en las afueras de la ciudad de Medellín, para construir la nueva sede del seminario mayor.<ref name="GarcíaBenítez"/> Además, estuvo de acuerdo con la creación de la [[diócesis de Sonsón]], la cual fue establecida el 18 de marzo de 1957, mediante la bula «''In Apostolici Muneris''» del papa [[Pío XII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-49-1957-ocr.pdf Bula ''In apostolici muneris''], AAS 49 (1957), p.&nbsp;715.</ref><ref name="sonson">{{Cita web
+ |url=http://www.diosonrio.org.co/index.php?option=com_content&view=article&id=11&Itemid=16
+ |título=Historia
+ |fechaacceso=14 de enero de 2011
+ |autor=Diócesis Sonsón Rionegro
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref>
+
+Se separaron entonces todas las parroquias del [[Oriente antioqueño]], que son: [[Sonsón]], [[Abejorral]], [[Alejandría (Antioquia)|Alejandría]], Aquitania, [[Argelia (Antioquia)|Argelia]], [[Cocorná]], [[Concepción (Antioquia)|Concepción]], [[El Carmen de Viboral]], El Jordán, [[El Peñol (Antioquia)|El Peñol]], [[El Retiro (Antioquia)|El Retiro]], [[El Santuario]], [[Granada (Antioquia)|Granada]], [[Guarne]], [[Guatapé]], [[La Ceja (Antioquia)|La Ceja]], [[La Unión (Antioquia)|La Unión]], [[Marinilla]], [[Nariño (Antioquia)|Nariño]], [[Pantanillo (Abejorral)|Pantanillo]], [[Puerto Nare]], [[Puerto Triunfo (Colombia)|Puerto Triunfo]], [[Rionegro (Antioquia)|Rionegro]], [[San Carlos (Antioquia)|San Carlos]], [[San Francisco (Antioquia)|San Francisco]], [[San Luis (Antioquia)|San Luis]], [[San Rafael (Antioquia)|San Rafael]] y [[San Vicente (Antioquia)|San Vicente]]. En total veintenueve parroquias que eran casi todas municipios o [[corregimiento]]s.<ref name="sonson"/> La extensión desmembrada fue grande, pues abarcaba 7500 kilómetros cuadrados, con unos 325&nbsp;000 habitantes. Quedaron en la nueva diócesis sesenta y nueve sacerdotes.<ref name="sonson"/>
+
+=== La arquidiócesis después del Concilio Vaticano II ===
+[[Archivo:Mons. Tulio Botero Salazar.jpg|miniatura|160px|Tulio Botero Salazar, arzobispo de Medellín entre 1958-1979]]
+
+El 2 de febrero de 1958, el [[Caldas|caldense]] [[Tulio Botero Salazar]] tomó posesión como nuevo arzobispo de Medellín, para suceder a García, quien había presentado renuncia. Desde su llegada empezó a efectuar cambios, actualizó y modernizó la curia acentuando su carácter pastoral,<ref name="elinformador185">{{Cita publicación
+ |apellido=Ospina Suárez
+ |nombre=Pedro Antonio, Pbro
+ |título=El Arzobispo Tulio Botero Salazar y la creación de 50 parroquias en 1961
+ |año=2011
+ |publicación=Revista El Informador
+ |número=No. 185
+ |páginas=19
+ |url=http://issuu.com/arqmedellin/docs/informador_julio-agosto-ed.185_baja
+ |cita=Los datos están como notas de página en la parte inferior de la página 19
+}}</ref> estableció el escudo de armas de la arquidiócesis. Realizó la llamada «Gran Misión» en todo el arzobispado que movió a todos los fieles y sacerdotes y como resultado impuso la llamada Pastoral de Conjunto, metodología de actividades apostólicas coordinadas, que predicaba el clérigo y sociólogo francés Fernando Boulard, a quién invitó para dar conferencias al clero.<ref name="elinformador185"/> De allí surgió el CEPAM (Secretariado de Pastoral), el cual organizó toda la acción pastoral de los sacerdotes, de los religiosos y de los laicos.<ref name="informe 2011 pakjgo">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=30
+}}</ref>
+
+Con ocasión del [[Concilio Vaticano II]] (1962-1965) fue uno de los padres conciliares que asistió a todas las sesiones y luego allanó el camino en la arquidiócesis para poner en práctica las reformas litúrgicas aprobadas en el concilio. También, participó en la [[I Conferencia General del Episcopado Latinoamericano|Conferencia Episcopal]] de [[Río de Janeiro]] en 1955, cuando nació el [[Consejo Episcopal Latinoamericano]] —CELAM— y en 1968 fue el anfitrión de la [[II Conferencia General del Episcopado Latinoamericano|Segunda Conferencia General del Episcopado Latinoamericano]]. Poco antes de su retiro, participó en la [[III Conferencia General del Episcopado Latinoamericano|tercera Conferencia]] en [[Puebla]].<ref name="informe 2011 pakjgo"/> A partir del Concilio Vaticano II, donde la Iglesia subraya la importancia de su labor social, Botero transforma la antigua OCSA en el Secretariado de la Pastoral Social Medellín.<ref name="pastoralsocial">{{Cita web
+ |url         = http://66.7.192.165/~pastoral/index.php/historia
+ |título         = Nuestra Historia
+ |fechaacceso         = 1 de octubre de 2011
+ |autor         = Cáritas Arquidiocesana Medellín Pastoral Social
+ }}</ref>
+[[Archivo:S Mayor de Medellin.JPG|miniatura|izquierda|255px|Vista del Seminario Mayor de Medellín construido entre 1960 y 1962]]
+
+Ordenó la construcción del nuevo edificio para el seminario mayor en Loreto, el cual fue edificado entre 1960 y 1962. Realizó en 1976 el tercer Sínodo Diocesano que sintetiza y recoge toda su obra de cambios, y que dotó de una nueva estructura pastoral a la arquidiócesis.<ref name="informe 2011 pakjgo"/> Impulsó la facultad de teología en la Universidad Pontificia Bolivariana y permitió que los seminaristas cursaran en la universidad los estudios. Se preocupó por incrementar el viaje a Europa de sacerdotes de la arquidiócesis para adelantar especializaciones en las ciencias eclesiásticas.<ref name="informe 2011 pakjgo"/>
+
+Aprobó la fundación de la «Casa Pablo VI», para alumnos que necesitaban trabajar y el «Seminario de Bachilleres» que duró cuarenta años.<ref name="informe 2011 pakjgo"/> Tuvo como obispos auxiliares a [[Miguel Antonio Medina Medina]] y luego a [[Octavio Betancourt Arango]], y hacia el final le fue nombrado como arzobispo coadjutor con derecho a sucesión el entonces obispo auxiliar de Bogotá, el [[Tolima|tolimense]] [[Alfonso López Trujillo]]. Botero creó 124 parroquias, siendo el prelado que ha creado el mayor número de parroquias en la arquidiócesis.<ref name="informe 2011 pakjgo"/> Ordenó 158 sacerdotes personalmente y otros obispos ordenaron cuarenta y cinco es decir que en su administración se ordenaron doscientos tres sacerdotes.
+
+El 27 de octubre de 1962 cedió una porción de su territorio para la erección de la [[diócesis de Barrancabermeja]] mediante la bula ''Divina Christi verba'' del papa [[Juan XXIII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Divina Christi verba''], AAS 55 (1963), p.&nbsp;928.</ref>
+
+En 1979, después de 21 años de estar al frente del gobierno pastoral, se le aceptó la renuncia por edad y murió en 1981.<ref name="informe 2011 pakjgo"/> Su episcopado se caracterizó por las innovaciones de todo orden que introdujo, siguiendo las orientaciones conciliares, cambios e innovaciones muchos de los cuales aún subsisten, al igual que algunas de las instituciones que creó, como: el seguro social eclesiástico, el Instituto Corporativo de Acción Pastoral —ICAP—, el Fondo Común Sacerdotal, el Consejo Presbiteral.<ref name="informe 2011 pakjgo"/>
+
+[[Alfonso López Trujillo]] tomó posesión de la sede el 2 de junio de 1979; en general, continuó la obra de Botero Salazar; logró restablecer muchas cosas que se habían quebrantado, como la disciplina del seminario. Procuró elevar el rendimiento académico de los seminaristas con la creación de la Facultad Eclesiástica de Filosofía. Fundó la Casa de la Arquidiócesis de Medellín en Roma, y fundó el Seminario Juan Pablo II para profesionales.<ref name="informe 2011 trujillo">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=30-31
+}}</ref> El 2 de febrero de 1983 fue proclamado [[cardenal]] por el papa [[Juan Pablo II]]. Hizo dos visitas ''ad límina'' y publicó los resúmenes de los informes quinquenales de 1984 y de 1989, en los que describe la organización y estado de la arquidiócesis.
+[[Archivo:Juan Pablo II - S M de Medellin.jpg|miniatura|255px|El papa Juan Pablo II en el encuentro con los intelectuales y el mundo universitario en la capilla del Seminario Mayor. A la izq. el cardenal López Trujillo]]
+El 5 de julio de 1986 la arquidiócesis de Medellín recibió por primera vez en su historia una visita pontificia: el papa Juan Pablo II llegó al [[Aeropuerto Olaya Herrera|Aeropuerto Olaya Herrera de Medellín]],<ref>El papa Juan Pablo II llegó primero al [[Aeropuerto Internacional José María Córdova]] ubicado en el municipio de [[Rionegro (Antioquia)|Rionegro]], cercano a la ciudad de Medellín, luego es trasladado en helicóptero de la Fuerza Aérea Colombiana al Aeropuerto Regional Olaya Herrera ubicado en plena zona urbana de la ciudad de Medellín. </ref> y tuvo el siguiente itinerario:<ref name="visita">{{Cita libro
+ |autor=Mesa G., Carlos E., C.M.F.
+ |título=Medellín y su Trayectoria Eclesiástica
+ |año=1987
+ |capítulo=Cap. La visita del Papa Juan Pablo II a Medellín
+ |páginas=48-53
+ |editorial=Editorial Zuluaga, Medellín
+}}</ref><ref name="vaticano">{{Cita web
+ |url=https://www.vatican.va/holy_father/john_paul_ii/travels/sub_index1986/trav_colombia_sp.htm
+ |título=Juan Pablo II - Viajes - Colombia 1986
+ |fechaacceso=23 de marzo de 2011
+ |autor=Librería Editrice Vaticana
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref>
+
+# En el aeropuerto: misa y ordenaciones sacerdotales. Dio su homilía «Fidelidad a la vocación sacerdotal», frente a ochocientas mil personas.
+# En el [[Estadio Atanasio Girardot]]: encuentro con los habitantes de los barrios populares y actos culturales.
+# En la [[Catedral Metropolitana de Medellín|Catedral Basílica Metropolitana de Medellín]]: encuentro con las religiosas y miembros de Institutos Seculares Femeninos.
+# En el [[Seminario Mayor de Medellín]]: encuentro con los intelectuales y el mundo universitario.
+
+Luego, el papa se hospedó en el seminario mayor, madrugó a meditar y a conversar con los seminaristas y después partió temprano hacia [[Armero]] y [[Bucaramanga]], para continuar con su viaje por el país.<ref name="visita"/>
+
+El 18 de junio de 1988 el papa Juan Pablo II erigió las diócesis de [[diócesis de Caldas|Caldas]] (mediante la bula ''Omnium Ecclesiarum'')<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_caldensis_lt.html Bula ''Omnium Ecclesiarum''], AAS 80 (1988), pp. 1733-1734.</ref> y la de [[diócesis de Girardota|Girardota]] (mediante la bula ''Qui peculiari''),<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_girardotanensis_lt.html Bula ''Qui peculiari''], AAS 80 (1988), pp. 1731-1732.</ref><ref name="caldas">{{Enlace roto|1={{Cita web
+ |url         = http://www.diocesisdecaldas.org/nuestrahistoria.shtml?apc=a-a--218-218&s=a&m=a&x=220
+ |título     = Nuestra Historia
+ |fechaacceso = 14 de enero de 2011
+ |autor       = Diócesis Caldas
+ |cita        = Dirección dinámica cambia cada determinado tiempo
+}} |2=http://www.diocesisdecaldas.org/nuestrahistoria.shtml?apc=a-a--218-218&s=a&m=a&x=220 |bot=InternetArchiveBot }}</ref><ref name="girardota">{{Cita web
+ |url=http://www.cec.org.co/index.shtml?apc=ba1;002;;-&x=5657
+ |título=Diócesis de Girardota - Historia
+ |fechaacceso=14 de enero de 2011
+ |autor=Conferencia Episcopal de Colombia
+ |cita=Dirección dinámica cambia cada determinado tiempo
+ |fechaarchivo=14 de noviembre de 2011
+ |urlarchivo=https://web.archive.org/web/20111114205921/http://www.cec.org.co/index.shtml?apc=ba1;002;;-&x=5657
+ |deadurl=yes
+ }}</ref> las cuales representaban las dos partes más rurales o semirrurales de la Arquidiócesis, por los dos extremos, el Norte y el Sur.
+
+Para la diócesis de Girardota, se separaron de la arquidiócesis, las parroquias: [[Girardota]], [[Barbosa (Antioquia)|Barbosa]], [[Yolombó]], [[Maceo]]. [[Caracolí]], [[Cisneros (Antioquia)|Cisneros]], [[San Roque (Antioquia)|San Roque]] y [[Santo Domingo (Antioquia)|Santo Domingo]], en total nueve municipios. El total de habitantes era de 150&nbsp;000, repartidos en veinte parroquias de la Arquidiócesis, dos de Sonsón Rionegro y una de Barrancabermeja. Tiene un total de 2424 kilómetros cuadrados.<ref name="informe 2011 trujillo"/>
+
+La diócesis de Caldas quedó integrada por los siguientes municipios, segregados del territorio de la arquidiócesis: [[Caldas (Antioquia)|Caldas]], [[Amagá]], [[Angelópolis]], [[Armenia (Antioquia)|Armenia]], [[Fredonia (Colombia)|Fredonia]], [[Heliconia]], [[Montebello (Antioquia)|Montebello]], [[Santa Bárbara (Antioquia)|Santa Bárbara]], [[Titiribí]], [[Venecia (Antioquia)|Venecia]] y la parroquia del sector llamado la Tablaza del municipio de La Estrella. En total diez municipios. Eran veinte parroquias habitadas por 167&nbsp;204 habitantes y una extensión de 1245 kilómetros cuadrados.<ref name="informe 2011 trujillo"/>
+
+Al cardenal López Trujillo, le correspondió aplicar el nuevo [[Código de Derecho Canónico]] (vigente de 1983), continuó la obra de transformar el antiguo edificio del Seminario en centro comercial. Consideró la idea de construir o al menos adecuar un nuevo edificio para la curia, pero desistió por razón de costos. Determinó entonces que la curia funcionara, después de haber estado diseminada por dos años en varios locales, en el tercer piso del Centro Comercial Villanueva que era el antiguo local del seminario mayor.<ref name="informe 2011 trujillo"/> Creó setenta y ocho parroquias,<ref name="elinformador184">{{Cita publicación
+ |apellido=Lopera Cárdenas
+ |nombre=Elías, Pbro
+ |título=Hace tres años pasó a la casa del Padre el Cardenal Alfonso López Trujillo
+ |año=2011
+ |publicación=Revista El Informador
+ |número=No. 184
+ |páginas=29
+ |cita=Los datos están como notas de página en la parte inferior de la página 19
+}}</ref> aprobó la fundación del seminario «''[[Seminario Redemptoris Mater|Redemptoris Mater]]''» y admitió varias comunidades religiosas.<ref name="informe 2011 trujillo"/>
+
+La inquebrantable postura de López Trujillo contra temas tales como los anticonceptivos, el aborto, y especialmente su acérrimo rechazo al movimiento de la «Teología de la Liberación», condujo que lo catalogaran como un férreo defensor del ala más conservadora de la Iglesia, fama que lo acompañó hasta el final de sus días.<ref name="eltiempotrujillo">{{Cita web
+ |url=https://www.eltiempo.com/archivo/documento/CMS-4109719
+ |título=Con muerte de Alfonso López Trujillo desaparece uno de los símbolos conservadores de la Iglesia
+ |fechaacceso=15 de septiembre de 2017
+ |autor=Periódico El Tiempo
+}}</ref>
+
+López Trujillo, emprendió la realización de un cuarto Sínodo, con base en la nueva Evangelización pero fue suspendido por su nombramiento, en 1990 como [[Pontificio Consejo para la Familia#Pontificio Consejo para la familia|Presidente del Pontificio Consejo para la Familia]], gobernó el arzobispado hasta el 5 de enero de 1991. [[Carlos Prada Sanmiguel]], obispo auxiliar de Medellín, fue nombrado como [[Administrador Diocesano]].<ref name="informe 2011 trujillo"/> En 1991 comienza a funcionar en la ciudad de [[Bucaramanga]] (departamento de [[Santander (Colombia)|Santander]]), la primera sede de la Universidad Pontificia Bolivariana fuera del territorio de la arquidiócesis, la cual comenzó a gestarse desde 1988.<ref name="upbbuca">{{Cita web
+ |url=http://www.upb.edu.co/portal/page?_pageid=1134,31059593&_dad=portal&_schema=PORTAL
+ |título=Nuestra UPB - Historia
+ |fechaacceso=3 de septiembre de 2011
+ |autor=UPB Bucaramanga
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref>
+[[Archivo:Alberto G J-Hector R H.jpg|izquierda|miniatura|255px|Alberto Giraldo Jaramillo (izq.), gobernó entre 1997-2010 y Héctor Rueda Hernández (der.), gobernó entre 1991-1997]]
+El 7 de noviembre de 1991, fue nombrado como nuevo arzobispo de Medellín, el [[Santander (Colombia)|santandereano]] [[Héctor Rueda Hernández]], quien se desempeñaba como arzobispo de Bucaramanga. Durante su gobierno unió en 1995 las dos casas de formación sacerdotal, la de Pablo VI y la de Juan Pablo II en una sola, y convirtió la casa Pablo VI en lugar de formación para el diaconado permanente, inicialmente de modo experimental. Simplificó las estructuras eclesiásticas que existían, reduciendo el número de vicarias territoriales y sectoriales.<ref name="informe 2011 rueda">{{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |capítulo=Cap II: La Realidad Eclesiástica. Sección: Breve historia de la Arquidiócesis
+ |páginas=31-32
+}}</ref> El 25 de mayo de 1995, en la ciudad de [[Montería]] (departamento de [[Córdoba (Colombia)|CórdobaI]]), se abrió la segunda sede la UPB.<ref name="upbmoteria">{{Cita web
+ |url=http://www.upb.edu.co/portal/page?_pageid=1154,31900457&_dad=portal&_schema=PORTAL
+ |título=Nuestra Universidad
+ |fechaacceso=3 de septiembre de 2011
+ |autor=UPB Monteria
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref> Más tarde, el 30 de noviembre del mismo año, durante la ceremonia de inauguración del [[Metro de Medellín]], Rueda bendijo el nuevo sistema de transporte del [[área metropolitana de Medellín]].<ref name="trenmetro">{{Cita web
+ |url=https://www.eltiempo.com/archivo/documento/MAM-469506
+ |título=Un metro hecho a la medida de Medellín
+ |fechaacceso=26 de enero de 2011
+ |autor=Periódico El Tiempo
+}}</ref> Creó diecinueve parroquias, ordenó a ciento dos sacerdotes para la arquidiócesis, e incardinó diecisiete sacerdotes extradiocesanos.<ref name="informe 2011 rueda"/>
+
+El 13 de febrero de 1997, el papa aceptó la renuncia de Rueda al gobierno pastoral, por límite de edad; a su vez nombró al [[Caldas|caldense]] [[Alberto Giraldo Jaramillo]] ([[Sulpicianos|Sulpiciano]]) como nuevo arzobispo de Medellín, quien se desempeñaba como obispo de Cúcuta, y tomó posesión de la sede el 19 de marzo del mismo año. Al principio de su gobierno, Giraldo tuvo que alternar su ministerio arzobispal con las funciones de presidente de la Conferencia Episcopal de Colombia, la cual presidio hasta el 2002.<ref name="presiCEC">{{Cita web
+ |url          = http://www.cec.org.co/index.shtml?x=22586
+ |título      = Historia de la CEC - Presidentes de la Conferencia Episcopal de Colombia
+ |fechaacceso  = 7 de agosto de 2011
+ |autor        = Conferencia Episcopal de Colombia
+ |cita         = Dirección dinámica cambia cada determinado tiempo
+ |urlarchivo   = https://web.archive.org/web/20111011195453/http://www.cec.org.co/index.shtml?x=22586
+ |fechaarchivo = 11 de octubre de 2011
+}}</ref> Igualmente, durante su gobierno se creó la Casa San Alberto Hurtado y sus programas de rehabilitación. Estableció al Centro de Espiritualidad Sacerdotal «Santo Cura de Ars», la casa de formación San José con énfasis en la Misión ''Ad Gentes''.<ref name="revistaSemi">{{Enlace roto|1={{Cita publicación
+ |apellido     = Castaño Rubio
+ |nombre       = Jorge Iván, Obispo Auxiliar de Medellín
+ |título      = Excelencia Reverendísima, Monseñor Alberto Giraldo Jaramillo
+ |año         = 2010
+ |publicación = Revista Seminario Mayor de Medellín
+ |número      = No. 25
+ |páginas     = 7
+ |issn         = 1657-8600
+ |url          = http://www.semayormedellin.org/Archivos%5CRevista%5CREVISTA.pdf
+}} |2=http://www.semayormedellin.org/Archivos%5CRevista%5CREVISTA.pdf |bot=InternetArchiveBot }}</ref> Creó la «Fundación Arquidiocesana Banco de Alimentos» pionera en Colombia, con el objetivo de recolectar los excedentes de la producción alimentaria y redistribuirla a los pobres y como un puente entre la carencia y la abundancia. Estableció oficialmente, de modo definitivo, el diaconado permanente en la arquidiócesis. Convocó también el «IV Sínodo Arquidiocesano» con el objetivo de renovar la iglesia de Medellín, su misión pastoral y evangelizadora. Inició la [[Misión Continental]]. Ordenó 318 presbíteros para la arquidiócesis de Medellín y cincuenta para distintas comunidades religiosas. Creó sesenta y una parroquias y once cuasiparroquias.<ref name="revistaSemi"/>
+
+El 11 de diciembre de 2002 la arquidiócesis de Medellín fue condecorada por el Gobierno de Colombia con la [[Orden de Boyacá]] en el grado de Cruz de Plata, en reconocimiento a su labor educativa y social.<ref name="presidencia">{{Cita web
+ |url=http://www.presidencia.gov.co/prensa_new/discursos/discursos2002/diciembre/condecoracion.htm
+ |título=Condecoración al Hospital Universitario San Vicente de Paul, a la Arquidiócesis de Medellín y al Profesor Benigno Mantilla
+ |fechaacceso=2 de febrero de 2011
+ |autor=Presidencia de la República
+}}</ref>
+
+[[Archivo:Papa Francisco en Colombia - Aeropuerto Olaya Herrera 3.jpg|290px|miniaturadeimagen|derecha|El papa Francisco celebró una misa en el [[aeropuerto Olaya Herrera]] de Medellín, durante su visita apostólica a Colombia realizado en septiembre de 2017. Para la celebración se expuso el cuadro de la «[[Virgen de la Candelaria]]», patrona de la ciudad]]
+
+El 16 de febrero de 2010, el papa [[Benedicto XVI]] aceptó la renuncia de Giraldo por límite de edad, después de estar trece años al frente de la arquidiócesis;<ref name="espectador">{{Cita web
+ |url=https://www.elespectador.com/noticias/nacional/articulo187961-ricardo-tobon-restrepo-el-nuevo-arzobispo-de-medellin
+ |título=Ricardo Tobón Restrepo es el nuevo arzobispo de Medellín
+ |fechaacceso=2 de septiembre de 2011
+ |autor=Periódico El Espectador
+}}</ref> a su vez el Santo Padre nombró como nuevo arzobispo de Medellín al antioqueño [[Ricardo Tobón Restrepo]], originario del clero de Santa Rosa de Osos y quien se desempeñaba como obispo de la [[Diócesis de Sonsón-Rionegro]].<ref name="espectador"/> Giraldo quedó en calidad de administrador apostólico hasta la posesión de Tobón,<ref name="elmundo">{{Cita web
+ |url=http://www.elmundo.com/portal/resultados/detalles/?idx=147349
+ |título=Medellín despide a su Pastor
+ |fechaacceso=2 de septiembre de 2011
+ |autor=Periódico El Mundo
+ |fechaarchivo=18 de agosto de 2022
+ |urlarchivo=https://web.archive.org/web/20220818073444/http://www.elmundo.com/portal/resultados/detalles/?idx=147349
+ |deadurl=yes
+ }}</ref> la cual fue el 8 de mayo de 2010. Después de 68 años un antioqueño vuelve a gobernar la sede episcopal de Medellín.
+
+El 7 de octubre de 2016 la [[Congregación para el Culto Divino y la Disciplina de los Sacramentos]] confirmó a Nuestra Señora de Candelaria como patrona principal de la arquidiócesis.<ref>Congregazione per il culto divino e la disciplina dei sacramenti, decreto 7 ottobre 2016, Prot. 647/15, véase [http://www.cultodivino.va/content/cultodivino/it/rivista-notitiae/indici-annate/2016.html ''Notitiae''] {{Wayback|url=http://www.cultodivino.va/content/cultodivino/it/rivista-notitiae/indici-annate/2016.html |date=20230111135312 }}, 2016, p. 57</ref><ref>[https://es.gaudiumpress.org/content/84013-virgen-de-la-candelaria-es-nombrada-patrona-principal-de-la-arquidiocesis-de-medellin/ ''Virgen de la Candelaria es nombrada Patrona principal de la Arquidiócesis de Medellín''], Gaudium Press, 7 dicembre 2016</ref>
+
+El 5 de julio de 2017 la CIII Asamblea Plenaria del Episcopado Colombiano, designó a Tobón Restrepo como vicepresidente de la Conferencia Episcopal de Colombia (CEC), para el periodo 2017-2020. ,<ref name="Caracolradio">{{Cita web
+ |url=http://caracol.com.co/emisora/2017/07/06/medellin/1499315635_254602.html
+ |título=Monseñor Ricardo Tobón, es nuevo vicepresidente del episcopado en Colombia
+ |fechaacceso=15 de septiembre de 2017
+ |autor=Caracol Radio
+ |fechaarchivo=16 de septiembre de 2017
+ |urlarchivo=https://web.archive.org/web/20170916054444/http://caracol.com.co/emisora/2017/07/06/medellin/1499315635_254602.html
+ |deadurl=yes
+ }}</ref><ref name="Confe">{{Cita web
+ |url=https://www.cec.org.co/episcopado/arzobispos/monse%C3%B1or-ricardo-antonio-tob%C3%B3n-restrepo
+ |título=Biografía de Monseñor Ricardo Tobón
+ |fechaacceso=15 de septiembre de 2017
+ |autor=Conferencia Episcopal de Colombia
+}}</ref>
+
+El 9 de septiembre de 2017, por segunda vez la arquidiócesis de Medellín recibió una visita pontificia: el papa Francisco llegó a Medellín y tuvo el siguiente itinerario:
+* En el [[Aeropuerto Olaya Herrera]]: misa, dio su [[homilía]] «La vida cristiana como discipulado», frente a más de un millón de personas. 
+* En el [[Seminario Mayor de Medellín]]: pausa, almuerzo privado y breve encuentro con los seminaristas y formadores.
+* En el Hogar San José: encuentro con cerca de trescientos niños en situaciones desfavorables.
+* En el [[Plaza de toros La Macarena|Centro de Eventos La Macarena]]: encuentro con sacerdotes, religiosos/as, consagrados/as, seminaristas y sus familias de procedencia. También estuvo presente las reliquias de la madre Laura, la primera santa colombiana.
+
+Luego, el papa partió hacia [[Bogotá]] para continuar con su viaje por el país.
+
+La Alcaldía de Medellín por medio del decreto núm. 0979 del 6 de diciembre de 2018, le confiere a la arquidiócesis, la Medalla Alcaldía de Medellín, categoría oro, en reconocimiento por sus ciento cincuenta años de trayectoria y por su gran labor educativa y social.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la arquidiócesis tenía a fines de 2021 un total de 3&nbsp;082&nbsp;475 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 800&nbsp;000 || 800&nbsp;000 || 100.0 || 366 || 275 || 91 || 2185 || || 253 || 1676 || 64
+|- align="right" 
+| 1966 || &nbsp;&nbsp;1&nbsp;200&nbsp;000 || 1&nbsp;250&nbsp;000 || 96.0 || 549 || 298 || 251 || 2185 || || 452 || 3144 || 145
+|- align="right"
+| 1968 || 1&nbsp;500&nbsp;000 || 1&nbsp;586&nbsp;650 || 94.5 || 671 || 417 || 254 || 2235 || 9 || 505 || 2946 || 162
+|- align="right" 
+| 1976 || 1&nbsp;900&nbsp;000 || 1&nbsp;950&nbsp;000 || 97.4 || 416 || 416 || || 4567 || || 334 || 3831 || 182
+|- align="right"
+| 1980 || 2&nbsp;125&nbsp;000 || 2&nbsp;250&nbsp;000 || 94.4 || 786 || 446 || 340 || 2703 || || 702 || 3055 || 192
+|- align="right" 
+| 1990 || 2&nbsp;106&nbsp;214 || 2&nbsp;149&nbsp;197 || 98.0 || 711 || 427 || 284 || 2962 || || 804 || 4604 || 234
+|- align="right"
+| 1999 || 2&nbsp;512&nbsp;065 || 2&nbsp;952&nbsp;956 || 85.1 || 896 || 578 || 318 || 2803 || || 886 || 2674 || 264
+|- align="right" 
+| 2000 || 3&nbsp;004&nbsp;344 || 3&nbsp;106&nbsp;344 || 96.7 || 878 || 546 || 332 || 3421 || 17 || 863 || 2899 || 268
+|- align="right"
+| 2001 || 2&nbsp;788&nbsp;900 || 3&nbsp;280&nbsp;993 || 85.0 || 907 || 597 || 310 || 3074 || 6 || 951 || 2863 || 270
+|- align="right" 
+| 2002 || 2&nbsp;667&nbsp;012 || 2&nbsp;963&nbsp;346 || 90.0 || 897 || 590 || 307 || 2973 || 23 || 968 || 2966 || 281
+|- align="right"
+| 2003 || 2&nbsp;587&nbsp;230 || 2&nbsp;907&nbsp;000 || 89.0 || 911 || 601 || 310 || 2839 || 36 || 750 || 2936 || 296
+|- align="right" 
+| 2004 || 2&nbsp;625&nbsp;494 || 3&nbsp;012&nbsp;847 || 87.1 || 909 || 590 || 319 || 2888 || 39 || 760 || 2901 || 301
+|- align="right"
+| 2008 || 2&nbsp;899&nbsp;000 || 3&nbsp;336&nbsp;000 || 86.9 || 977 || 668 || 309 || 2967 || 55 || 1064 || 2982 || 320
+|- align="right" 
+| 2009 || 2&nbsp;934&nbsp;000 || 3&nbsp;376&nbsp;000 || 86.9 || 989 || 672 || 317 || 2966 || 44 || 1070 || 3071 || 330
+|- align="right" 
+| 2013 || 3&nbsp;074&nbsp;000|| 3&nbsp;718&nbsp;776 || 82.7 || 961 || 692 || 269 || 3198|| 47 || 766 || 2945|| 337
+|- align="right" 
+| 2016 ||  2&nbsp;968&nbsp;326 || 3&nbsp;919&nbsp;172 || 75.7 || 1069 || 737 || 332 || 2776 || 48 || 680 || 2945|| 332
+|- align="right" 
+| 2019 ||  2&nbsp;842&nbsp;799 || 3&nbsp;984&nbsp;083 || 71.4 || 1175 || 832 || 343 || 2419 || 56 || 640 || 2681|| 342
+|- align="right"
+| 2021 || 3&nbsp;082&nbsp;475 || 3&nbsp;863&nbsp;087 || 79.8 || 1148 || 794 || 354 || 2685 || 62 || 569 || 2705 || 342
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dmede.html |título=''Archdiocese of Medellín'' |fechaacceso=30 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=19 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+En términos de población, la arquidiócesis de Medellín es la segunda circunscripción eclesiástica más grande de Colombia, solo superada por [[Arquidiócesis de Bogotá|Bogotá]]. Además, el arzobispado es prácticamente una diócesis urbana, pues el 96.3% de la población de su jurisdicción se concentra en las áreas urbanas de los siete municipios que la componen, y tan solo el 3.7 % vive en la zona rural.<ref name="Metropili"/> Igualmente, el 70.2&nbsp;% de la población de la arquidiócesis reside en la ciudad de Medellín,<ref name="Metropili"/> por consiguiente concentra el 71.3&nbsp;% de las parroquias del arzobispado,<ref name="sinodo1"/> y el 29.8&nbsp;% de la población vive en los seis municipios restantes,<ref name="Metropili"/> los cuales cuentan con el 28.7&nbsp;% de las demás parroquias.<ref name="sinodo1"/>
+
+En sus comienzos, la sede episcopal de Medellín llegó a tener aproximadamente 67&nbsp;418&nbsp;km² de territorio,<ref name="territo">La jurisdicción inicial de la sede episcopal de Medellín fueron los mismos de la provincia de Antioquia, la cual tenía aproximadamente unos 67&nbsp;418 km² de extensión.</ref> pero su territorio hoy equivale al 1.01 % de esa jurisdicción inicial,<ref name="territo"/> por consiguiente es territorialmente la quinta circunscripción eclesiástica de Colombia más pequeña, después del [[vicariato apostólico de San Andrés y Providencia]] (con 44&nbsp;km²), y las diócesis urbanas de [[Diócesis de Fontibón|Fontibón]] (80&nbsp;km²), [[Diócesis de Engativá|Engativá]] (133&nbsp;km²), y [[Diócesis de Soacha|Soacha]] (425&nbsp;km²),<ref> La arquidiócesis de Bogotá llegó a tener más de 6&nbsp;500&nbsp;000 de feligreses, por lo cual se vio en la necesidad de dividir su territorio y crear nuevas diócesis para así atender mejor a la feligresía. El 6 de agosto de 2003 se erigieron las llamadas diócesis urbanas de Fontibón, Engativá, y Soacha, que corresponden a antiguas zonas pastorales de Bogotá.</ref> pero ahora cuenta con más feligreses y parroquias de las que nunca llegó a tener en ese extenso territorio inicial.
+
+== Episcopologio ==
+{{VT|Anexo:Episcopologio de Medellín}}La sede episcopal de Medellín ha estado gobernada por trece prelados, los cuales son:<ref name ="catholic">{{cita web
+|url = http://www.catholic-hierarchy.org/diocese/dmede.html
+|título = Archdiocese of Medellín
+|fechaacceso = 12 de abril de 2011
+|autor = catholic-hierarchy.org
+|idioma = inglés
+|cita = 
+}}</ref><ref name ="gcatholicSufra"></ref>
+
+{|class="wikitable center" style="font-size:90%;width:100%;line-height:150%"
+|-style="background: #DDDDDD;"
+| '''Título''' ||'''Nombre''' || '''Desde'''<br><small>Nombramiento (toma de posesión)<ref>{{cita libro
+| autor = Piedrahita Echeverri, Javier
+| título = Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+| año = 1988
+| capítulo = 
+| editorial = Medellín
+| oclc = 
+| cita= De esta publicación se tomaron las fechas de posesión de los prelados anteriores a López Trujillo
+}}</ref></small>|| '''Hasta''' ||'''Destino''' 
+|-
+| Obispo ||[[Valerio Antonio Jiménez|Valerio Antonio Jiménez Hoyos]] || 13 de marzo de '''1868'''<br>(8 de diciembre de 1868) || 29 de marzo de '''1873''' || Renunció
+|-
+| Obispo ||[[José Joaquín Isaza|José Joaquín Isaza Ruíz]] || 29 de marzo de '''1873''' por sucesión || 29 de diciembre de '''1874''' || Falleció
+|-
+| Obispo ||[[José Ignacio Montoya Palacio]] || 7 de abril de '''1876'''<br>(23 de julio de 1876) || 15 de julio de '''1884''' || Falleció
+|-
+| Obispo ||[[Bernardo Herrera Restrepo]] || 27 de marzo de '''1885'''<br>(21 de enero de 1886) || 4 de junio de '''1891''' || Nombrado arzobispo de [[Arquidiócesis de Bogotá|Santafé en Nueva Granada]]
+|-
+| Obispo<br>arzobispo (desde el 24 de febrero de 1902)|| [[Joaquín Pardo Vergara]] || 1 de febrero de '''1892'''<br>(18 de junio de 1892) || 14 de noviembre de '''1904''' || Falleció
+|-
+| Arzobispo || [[Manuel José Caicedo|Manuel José Cayzedo Martínez]] || 14 de diciembre de '''1905'''<br>(12 de agosto de 1906) || 22 de junio de '''1937''' || Falleció
+|-
+| Arzobispo || [[Tiberio de Jesús Salazar y Herrera]] || 22 de junio de '''1937''' por sucesión || 4 de marzo de '''1942''' || Falleció
+|-
+| Arzobispo || [[Joaquín García Benítez|Joaquín Guillermo García Benítez]], [[Congregación de Jesús y María|C.I.M.]] || 14 de mayo de '''1942'''<br>(28 de agosto de 1942) || 28 de noviembre de '''1957''' || Renunció<ref group="nota">Nombrado [[arzobispo titular]] de [[Arquidiócesis de Selimbria|Selimbria]].</ref>
+|-
+| Arzobispo || [[Tulio Botero Salazar]], [[Congregación de la Misión|C.M.]] || 8 de diciembre de '''1957'''<br>(2 de febrero de 1958) || 2 de junio de '''1979''' || Retirado
+|-
+| Arzobispo || [[Alfonso López Trujillo]] || 2 de junio de '''1979''' por sucesión || 9 de enero de '''1991''' || Renunció
+|-
+| Arzobispo || [[Héctor Rueda Hernández]] || 7 de noviembre de '''1991'''<br>(12 de diciembre de 1991) || 13 de febrero de '''1997''' || Retirado
+|-
+| Arzobispo || [[Alberto Giraldo Jaramillo]], [[Compañía de Sacerdotes de San Sulpicio|P.S.S.]] ||13 de febrero de '''1997'''<br>(19 de marzo de 1997) || 16 de febrero de '''2010''' || Retirado
+|-  
+| Arzobispo ||[[Ricardo Tobón Restrepo|Ricardo Antonio Tobón Restrepo]] || Desde el 16 de febrero de '''2010'''<br>(8 de mayo de 2010) ||  || align="center"| 
+|-
+|colspan=5 |
+|}
+
+[[Ricardo Antonio Tobón Restrepo]], actual [[Obispo metropolitano|arzobispo metropolitano]],<ref name='CH'></ref> recibió el [[Palio (indumentaria religiosa)|palio]] arzobispal de manos del [[papa]] [[Benedicto XVI]] el 29 de junio del mismo año en [[Roma]], en la festividad de los Apóstoles Pedro y Pablo junto a otros 37 arzobispos del mundo.<ref name="palio">{{Cita web
+ |url=http://www.arquibogota.org.co/index.php?idcategoria=30493
+ |título=Imposición del Palio Arzobispal
+ |fechaacceso=28 de enero de 2011
+ |autor=Arquidiócesis de Bogotá
+ |cita=Dirección dinámica cambia cada determinado tiempo
+}}</ref>
+
+Se desempeña como obispo auxiliar de la arquidiócesis el prelado [[José Mauricio Vélez García]],<ref name='CH'></ref> fue nombrado el 17 de enero de 2017 como obispo auxiliar de Medellín y titular de Lapda, recibió la ordenación episcopal el 25 de febrero del mismo año y fue consagrado por el arzobispo Tobón Restrepo como consagrador principal en la Catedral metropolitana de Medellín.
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref|2}}
+
+== Bibliografía ==
+* {{Cita libro
+ |autor=Piedrahita Echeverri, Javier, Mons.; Humberto Bronx, Pbro.
+ |título=Historia de la Arquidiócesis de Medellín
+ |año=1969
+ |editorial=Movifoto, Medellín
+| oclc = 252674638
+ |cita=Parte I. “Síntesis histórica de 1868-1906”, por Piedrahíta. - Parte II. Historia de 1906 hasta 1968, por Bronx
+}}
+
+* {{Cita libro
+ |autor=Mejia E., Jesús, Pbro.
+ |título=Resumen Histórico de la Arquidiócesis de Medellín
+ |año=1967
+ |editorial=Editorial Granamérica, Medellín
+| oclc = 651343363
+}}
+
+* {{Cita libro
+ |autor=Piedrahita Echeverri, Javier, Mons.
+ |título=Arquidiócesis de Medellín: episcopologio y presbiterio 1868-1988
+ |año=1988
+ |editorial=Medellín
+}}
+
+* {{Cita libro
+ |autor=Mesa G., Carlos E., C.M.F.
+ |título=Medellín y su Trayectoria Eclesiástica
+ |año=1987
+ |editorial=Editorial Zuluaga, Medellín
+}}
+
+* {{Cita libro
+ |autor=Piedrahita Echeverri, Javier, Mons.
+ |título=Tribunal Eclesiástico Regional de Medellín : datos históricos 1972-1992 veinte años
+ |año=1992
+ |editorial=Medellín
+}}
+
+* {{Cita libro
+ |autor=Piedrahita Echeverri, Javier, Mons.
+ |título=Monografía histórica del Seminario Conciliar Sagrado Corazón de Jesús de Medellín
+ |año=2002
+ |editorial=Editorial Signos, Medellín
+}}
+
+* {{Cita libro
+ |autor=Arquidiócesis de Medellín
+ |título=Informe 2010
+ |año=2010
+ |cita=Es el informe de gestión entregado por monseñor Alberto Giraldo Jaramillo cuando entregó la sede de Medellín
+}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/mede0.htm Ficha de la arquidiócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/arquidi%C3%B3cesis/arquidi%C3%B3cesis-de-medell%C3%ADn Ficha de la arquidiócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+* [https://seminarioconciliardemedellin.org/ Sitio oficial del Seminario Conciliar de Medellín.]
+* [http://www.srmmedellin.org Sitio oficial del Seminario Misionero Arquidiocesano ''Redemptoris Mater''.]
+* [http://www.pastoralsocial.co/ Sitio oficial de Cáritas Arquidiocesana Medellín-Pastoral Social] {{Wayback|url=http://www.pastoralsocial.co/ |date=20180802193108 }}
+* [https://pasame.webnode.es/ Sitio oficial de la Pastoral de la Salud de la Arquidiócesis de Medellín.]
+* [https://espacamed.blogspot.com/ Sitio oficial de la Pastoral Catequética de la Arquidiócesis de Medellín.]
+* [https://bancodealimentos.co/site/ Sitio oficial de la Fundación Arquidiocesana Banco de Alimentos de Medellín.]
+* [https://barriosdejesus.org/ Sitio oficial de la Fundación Barrios de Jesús.]
+* [https://fundacionacertar.org Sitio oficial de la Fundación Acertar.]
+* [https://escuelaspe.edu.co/ Sitio oficial de la Escuelas Populares Eucarísticas.] 
+* [https://hogaresinfantilessanjose.com/ Sitio oficial de Hogares Infantiles San José.]
+* [http://camposdepaz.com.co/ Sitio oficial de la Funeraria y Parque Cementerio Campos de Paz.]
+* [http://untelevision.unal.edu.co/detalle/article/seminario-mayor-de-la-ciudad-de-medellin.html Vídeo sobre el Edificio Villanueva, sede de la curia arquidiocesana.] {{Wayback|url=http://untelevision.unal.edu.co/detalle/article/seminario-mayor-de-la-ciudad-de-medellin.html |date=20200713160736 }}
+
+=== Canales oficiales en diferentes portales ===
+* {{Twitter|@arq_medellin}}
+* {{Facebook|arqmedellin}}
+* {{Flickr|arqmedellin}}
+* {{Enlace roto|1=[http://issuu.com/arqmedellin Arquidiócesis de Medellín] |2=http://issuu.com/arqmedellin }} en [[Issuu]]
+* [http://www.youtube.com/arquidmedellin Arquidiócesis de Medellín] en [[Youtube]]
+
+{{Control de autoridades}}
+[[Categoría:Arquidiócesis de Medellín| ]]

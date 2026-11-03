@@ -1,0 +1,229 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Garzón
+|tipo                    = Diócesis
+|latín                   = Garzonen(sis)
+|escudo                  = Escudo de la Diócesis de Garzón.svg
+|pie escudo              = Escudo de la Diócesis
+|imagen                  = IGLESIA CATEDRAL.jpg
+|pie imagen              = Catedral San Miguel Arcángel en Garzón
+|iglesia                 = [[Iglesia Católica|Católica]]
+|iglesia sui iuris       = [[Iglesia Latina|Latina]]
+|rito                    = [[Rito Romano|Romano]]
+|erección                = {{fecha|20|5|1900}}
+|erección tipo           = Diócesis
+|decreto de erección     = ''Quum Legitimae''
+|sufragánea              = [[Arquidiócesis de Ibagué]]
+|patrón                  = 
+|catedral                = [[Catedral San Miguel Arcángel]]
+|sede                    = [[Garzón (Huila)|Garzón]]
+|región tipo             = Departamento
+|región                  = [[Huila]]
+|país                    = {{COL}}
+|curia                   = Obispado, Calle 6 N. 7-14, Garzón
+|concatedral             = 
+|ordinario               = [[Jaime Alberto Cabrera Arcos]] (2025 Electo)
+|auxiliar                = 
+|emérito                 = [[Monseñor Fray Fabio Duque Jaramillo (2012-2022)]]
+|vicario                 = Pbro. Héctor Valencia López
+|administrador apostólico = [[Monseñor Miguel Fernando González Mariló]] (2022-2025)
+|parroquias              = [[64 parroquias organizadas en 6 vicarías]]
+|población total         = 537&nbsp;693
+|población año           = 2021
+|fieles                  = 488&nbsp;365
+|porcentaje fieles       = 90.8
+|sacerdotes              = 145
+|área                    = 9667 km²
+|mapa                    = Mapa Diocesis de Garzon.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisdegarzon.com/ www.diocesisdegarzon.com]
+}}
+
+La '''diócesis de Garzón''' ({{lang-la|Dioecesis Garzonensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Ibagué]]. Desde el 28 de enero de 2025 su [[obispo]] es [[Jaime Alberto Cabrera Arcos]].
+
+== Territorio y organización ==
+La diócesis tiene 9667 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 22 municipios del [[Huila|departamento de Huila]]: [[Altamira (Huila)|Altamira]], [[Agrado]], [[Garzón (Huila)|Garzón]], [[Gigante (Huila)|Gigante]], [[El Pital (Huila)|El Pital]], [[Guadalupe (Huila)|Guadalupe]], [[Tarqui]], [[Suaza]], [[La Argentina (Huila)|La Argentina]], [[La Plata (Huila)|La Plata]], [[Nátaga]], [[Paicol]], [[Tesalia (Huila)|Tesalia]], [[Acevedo (Huila)|Acevedo]], [[Elías (Huila)|Elías]], [[Isnos]], [[Oporapa]], [[Palestina (Huila)|Palestina]], [[Pitalito]], [[Saladoblanco]], [[San Agustín (Huila)|San Agustín]] y [[Timaná]].<ref name="c">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/garzon_diocesis_700.gif |título=Diócesis de Garzón |fechaacceso=7 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111121033431/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/garzon_diocesis_700.gif |fechaarchivo=21 de noviembre de 2011 }}</ref> 
+
+Su territorio limita al norte con la [[diócesis de Neiva]], al este con la [[diócesis de Florencia]], al sur con la [[diócesis de Mocoa-Sibundoy]] y al oeste con la [[arquidiócesis de Popayán]] y el [[vicariato apostólico de Tierradentro]].<ref name="c"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[Garzón (Huila)|Garzón]], en donde se halla la [[Catedral San Miguel Arcángel]].
+
+En 2021 en la diócesis existían 64 [[Parroquia (religión)|parroquias]] agrupadas en 6 vicarías: San Pedro, San Pablo, San Andrés, San Agustín, San Mateo y San Juan:
+; Vicaría de San Pedro
+* [[Catedral San Miguel Arcángel|San Miguel Arcángel]], Catedral (Garzón)
+* Nuestra Señora del Rosario de Chiquinquirá (Garzón)
+* Santa Teresita del Niño Jesús (Garzón)
+* San José de Nazareth (Garzón) 
+* El Espíritu Santo (Garzón) 
+* Inmaculada Concepción (Inspección de La Jagua, Garzón)
+
+; Vicaría de San Pablo
+* San Antonio de Padua (Gigante)
+* Nuestra Señora de Aránzazu (Gigante)
+* Nuestra Señora del Carmen (Inspección Potrerillos, Gigante)
+*San José de Rioloro (Inspección de Rioloro , Gigante)[[Archivo:Templo San Calixto de Timaná - Huila.jpg|alt=Templo San Calixto de Timaná - Huila. (Parroquia más antigua de la Diócesis de Garzón).|miniaturadeimagen|223x223px|Templo San Calixto de Timaná - Huila. (Parroquia más antigua de la Diócesis de Garzón).]]
+* San José de Zuluaga (Inspección de [[Zuluaga]], Garzón)
+* Santa Rosa de Lima (El Pital)
+* Nuestra Señora de las Mercedes (Agrado)
+
+; Vicaría de San Andrés
+* San Calixto (Timaná)
+* Santísima Trinidad (Inspección Naranjal, Timaná)
+* Nuestra Señora del Perpetuo Socorro (San Adolfo, Acevedo)
+* El Señor de la Divina Misericordia (Acevedo)
+* San Francisco Javier (Acevedo)
+* Nuestra Señora de Guadalupe (Guadalupe)
+* San Antonio de Padua (Inspección de [[San Antonio del Pescado]], Garzón)
+* San Antonio de Padua (Tarqui)
+* Nuestra Señora del Perpetuo Socorro (Inspección [[Maito (Huila)|Maito]], Tarqui)
+* Nuestra Señora de Fatima (Inspección Quinturo, Tarqui)
+* Divino Niño (Vergel, Tarqui)
+* Inmaculado Corazón de María (Rica Brisa, Tarqui)
+* San Emígdio (Elías)
+*San Roque (Altamira)[[Archivo:Parroquia San Agustín, San Agustín - Huila.jpg|alt=Parroquia San Agustín, San Agustín - Huila.|miniaturadeimagen|248x248px|Parroquia San Agustín, San Agustín - Huila.]]
+* San Lorenzo (Suaza)
+*Nuestra Señora de Aránzazu (Inspección de Gallardo, Suaza)
+
+; Vicaría de San Agustín
+* San Agustín (San Agustín)
+* Nuestra Señora de Lourdes (San Agustín)
+* Nuestra Señora de las Lajas (Alto del Obispo, San Agustín)
+* Nuestra Señora de Fátima (Inspección de Obando, San Agustín)
+* Nuestra Señora de las Mercedes (Saladoblanco)
+* Sagrado Corazón (Inspección Salto de Bordones, Isnos)
+* San José de Isnos (Isnos)
+* San José (Oporapa)
+
+; Vicaría de San Mateo
+* San Sebastián (La Plata)
+* Inmaculada Concepción (Inspección Santa Leticia, La Plata)
+* María Auxiliadora (La Plata)
+* Nuestra Señora de Monserrate (Inspección Monserrate, La Plata)
+* Nuestra Señora del Carmen (Inspección Villalosada, La Plata)
+* Nuestra Señora del Carmen (Inspección de Belén, La Plata)
+* San Rafael (La Plata)
+* Divino Niño (La Plata)
+* Socorro-San Andrés (Inspección San Andrés, La Plata)
+* Nuestra Señora de las Mercedes (Nátaga)
+* Nuestra Señora del Rosario (Tesalia)
+* San Isidro (La Argentina)
+* Santa Rosa de Lima (Paicol)
+* San Roque (Inspección de Pacarní, Tesalia)
+
+; Vicaría de San Juan
+* San Antonio de Padua (Pitalito)
+* Espíritu Santo (Pitalito)
+* Medalla Milagrosa (Inspección de La Laguna, Pitalito)
+* Nuestra Señora de Valvanera (Pitalito)
+* Nuestra Señora de Aránzazu (Palestina)
+* Nuestra Señora del Carmen (Inspección de Bruselas, Pitalito)
+* Nuestra Señora del Carmen (Inspección de Guacacallo, Pitalito)
+* Sagrado corazón (Pitalito)
+* Divino Niño (Pitalito)
+* Santa Marta (Pitalito)
+* Señor de los Milagros (Pitalito)
+* San Juan Pablo II (Pitalito)
+* Señor de la Divina Misericordia (Pitalito)
+
+== Historia ==
+La diócesis de Garzón fue erigida el 20 de mayo de 1900 mediante el decreto ''Quum legitimae'' de la [[Congregación Consistorial]], obteniendo el territorio de la [[diócesis del Tolima]] (que abarcaba la región conocida como [[Tolima Grande]]), que simultáneamente fue suprimida. Originalmente fue sufragánea de la [[arquidiócesis de Popayán]].<ref>(en latín) [https://archive.org/stream/analectaecclesia09romeuoft#page/445/mode/1up Decreto ''Quum legitimae''], en ''Analecta ecclesiastica'', IX, 1901, pp.&nbsp;445-447.</ref>
+
+En el año 1905 fue creado el departamento del Huila, con los mismos límites de la diócesis de Garzón.
+
+En octubre de 1909 se realizó la inauguración del edificio del [[Seminario Conciliar María Inmaculada]] en Garzón. En agosto de 1943 comenzó la construcción del nuevo Seminario de Garzón. En 1944 empezó a ser centro para la formación sacerdotal. Hacia 1954 se llevó a cabo la demolición del viejo edificio del seminario.
+
+El 25 de febrero de 1964, mediante la [[bula]] ''De Ecclesiarum prosperitate'' del [[papa]] [[Pablo VI]], la iglesia de la Inmaculada Concepción de [[Neiva]] fue elevada al rango de concatedral de la diócesis, que a la vez tomó el nombre de la diócesis de Garzón-Neiva.<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf Bula ''De Ecclesiarum prosperitate''], AAS 57 (1965), pp. 145-146.</ref>
+
+El 9 de febrero de 1967 se produjo un fuerte sismo que destruyó buena parte de los templos del Huila, los cuales fueron reconstruidos.
+
+El 24 de julio de 1972, mediante la bula ''Ad aptius tutiusque'' del papa Pablo VI, la diócesis cedió una porción de su territorio para la erección de la [[diócesis de Neiva]] y al mismo tiempo la diócesis asumió su nombre actual.<ref>(en latín) [https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720724_neivensis.html Bula ''Ad aptius tutiusque''], AAS 64 (1972), pp. 660-662.</ref>
+
+El 14 de diciembre de 1974 pasó a formar parte de la provincia eclesiástica de Ibagué.
+
+El 20 de mayo de 2000 se realizó la celebración del centenario de la diócesis contando con la presencia del presidente [[Andrés Pastrana Arango]].
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 488&nbsp;365 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12 | '''Diócesis de Garzón'''
+|- align="right"
+| 1950 || 239&nbsp;800 || 240&nbsp;000 || 99.9 || 67 || 17 || 84 || 2854 ||  || 27 || 137 || 50
+|- align="center"
+!colspan=12 | '''Diócesis de Garzón-Neiva'''
+|- align="right"
+| 1966 || 379&nbsp;420 || 380&nbsp;000 || 99.8 || 70 || 20 || 90 || 4215 ||  || 28 || 218 || 50
+|- align="right"
+| 1970 || 462&nbsp;500 || 474&nbsp;320 || 97.5 || 68 ||  || 68 || 6801 ||  ||  ||  || 52
+|- align="center"
+!colspan=12 | '''Diócesis de Garzón'''
+|- align="right"
+| 1976 || 231&nbsp;900 || 232&nbsp;042 || 99.9 || 39 || 10 || 49 || 4732 ||  || 10 || 116 || 27
+|- align="right"
+| 1980 || 285&nbsp;750 || 285&nbsp;880 || 100.0 || 36 || 17 || 53 || 5391 ||  || 20 || 117 || 27
+|- align="right"
+| 1990 || 412&nbsp;000 || 421&nbsp;000 || 97.9 || 50 || 12 || 62 || 6645 ||  || 14 || 118 || 34
+|- align="right"
+| 1999 || 514&nbsp;000 || 530&nbsp;000 || 97.0 || 55 || 15 || 70 || 7342 ||  || 30 || 155 || 41
+|- align="right"
+| 2000 || 447&nbsp;000 || 461&nbsp;000 || 97.0 || 65 || 15 || 80 || 5587 ||  || 31 || 155 || 44
+|- align="right"
+| 2001 || 447&nbsp;000 || 461&nbsp;000 || 97.0 || 75 || 15 || 90 || 4966 ||  || 36 || 155 || 48
+|- align="right"
+| 2002 || 447&nbsp;000 || 461&nbsp;000 || 97.0 || 66 || 15 || 81 || 5518 ||  || 36 || 155 || 49
+|- align="right"
+| 2003 || 475&nbsp;000 || 490&nbsp;000 || 96.9 || 85 || 15 || 100 || 4750 ||  || 34 || 155 || 51
+|- align="right"
+| 2004 || 475&nbsp;000 || 490&nbsp;000 || 96.9 || 81 || 10 || 91 || 5219 ||  || 30 || 155 || 51
+|- align="right"
+| 2006 || 488&nbsp;000 || 508&nbsp;000 || 96.1 || 106 || 10 || 116 || 4206 ||  || 29 || 155 || 51
+|- align="right"
+| 2008 || 504&nbsp;000 || 524&nbsp;000 || 96.2 || 130 || 118|| 12 || 3877 ||  || 29 || 158 || 57
+|- align="right"
+| 2013 || 528&nbsp;000 || 548&nbsp;000 || 96.4 || 109 || 102 || 7 || 4844 ||  || 29 || 124 || 62
+|- align="right"
+| 2016 || 546&nbsp;129 || 566&nbsp;356 || 96.4 || 112 || 105 || 7 || 4876 ||  || 21 || 89 || 62
+|- align="right"
+| 2019 || 479&nbsp;885 || 536&nbsp;407 || 89.5 || 112 || 112 ||  || 4284 ||  || 19 || 114 || 62
+|- align="right"
+| 2021 || 488&nbsp;365 || 537&nbsp;693 || 90.8 || 145 || 137 || 8 || 3368 ||  || 26 || 120 || 64
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dgarz.html |título=''Diocese of Garzón''|fechaacceso=19 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=4 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Esteban Rojas Tovar]] † (20 de mayo de '''1900'''-21 de julio de '''1922''' renunció<ref group="nota">Nombrado [[obispo titular]] de [[Diócesis de Modra|Modra]].</ref>)
+* [[José Ignacio López Umaña]] † (10 de abril de '''1924'''-15 de marzo de '''1942''' nombrado arzobispo coadjutor de [[Arquidiócesis de Cartagena de Indias|Cartagena]])
+* [[Gerardo Martínez Madrigal]] † (23 de junio de '''1942'''-29 de febrero de '''1964''' renunció<ref group="nota">Nombrado obispo titular de [[Diócesis de Dibon|Dibon]].</ref>)
+* [[José de Jesús Pimiento Rodríguez]] † (29 de febrero de '''1964'''-22 de mayo de '''1975''' nombrado arzobispo de [[Arquidiócesis de Manizales|Manizales]])
+* [[Octavio Betancourt Arango]] † (10 de noviembre de '''1975'''-26 de abril de '''1977''' renunció)
+* Ramón Mantilla Duarte, [[Congregación del Santísimo Redentor|C.SS.R.]] † (26 de abril de '''1977'''-25 de octubre de '''1985''' nombrado obispo de [[Diócesis de Ipiales|Ipiales]])
+* [[Libardo Ramírez Gómez]] (18 de octubre de '''1986'''-15 de marzo de '''2003''' renunció)
+* [[Rigoberto Corredor Bermúdez]] (19 de diciembre de '''2003'''-15 de julio de '''2011''' nombrado obispo de [[Diócesis de Pereira|Pereira]])
+* [[Fabio Duque Jaramillo]], [[Orden de Frailes Menores|O.F.M.]] † (11 de junio de '''2012'''-9 de febrero de '''2022''' falleció)
+** ''Sede vacante (desde 2022)''
+** [[Miguel Fernando González Mariño]], desde el 21 de febrero de '''2022''' (administrador apostólico)
+* [[Jaime Alberto Cabrera Arcos]] (28 de enero de '''2025'''actual-'''''' )
+
+== Véase también ==
+* [[Anexo:Diócesis latinas en Colombia|Lista de Diócesis latinas en Colombia]]
+* [[Catedral San Miguel Arcángel]]
+* [[Seminario Conciliar María Inmaculada]]
+* [[Monasterio del Ave María de las Hermanas Clarisas]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* (en inglés) ''Garzon'', en ''[[Enciclopedia Católica|Catholic Encyclopedia]]'', Nueva York, Encyclopedia Press, 1913.
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/garz0.htm Ficha de la diócesis] en [https://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-garz%C3%B3n Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+* (en inglés) [http://www.katolsk.no/organisasjon/verden/chronology/colombia Cronología] de las diócesis colombianas
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Garzón| ]]

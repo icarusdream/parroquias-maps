@@ -1,0 +1,286 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Ocaña
+|tipo                    = diócesis
+|latín                   = Ocanien(sis)
+|escudo                  = Escudo de la Diócesis de Ocaña.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral Santa Ana Ocaña Colombia 26-10-2015.jpg
+|pie imagen              = Catedral de Santa Ana
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|26|10|1962}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Quoniam arcana''
+|sufragánea              = [[arquidiócesis de Nueva Pamplona]]
+|patrón                  = [[Nuestra Señora de las Gracias de Torcoroma]]
+|catedral                = [[Catedral de Santa Ana (Ocaña)|Santa Ana]]
+|sede                    = [[Ocaña (Colombia)|Ocaña]]
+|región tipo             = Departamento
+|región                  = {{COL|NSA}}<br/>{{COL|CES}}
+|país                    = {{COL}}
+|curia                   = Curia Episcopal, Carrera 11 N. 11-14, Ocaña
+|concatedral             = 
+|ordinario               = [[Orlando Olave Villanoba]]
+|auxiliar                = 
+|emérito                 = [[Jorge Enrique Lozano Zafra]]
+|vicario                 = Pbro. Miguel Eduardo Duran Sanchez
+|parroquias              = 47
+|población total         = 805&nbsp;140
+|población año           = 2021
+|fieles                  = 579&nbsp;230
+|porcentaje fieles       = 71.9
+|sacerdotes              = 92
+|área                    = 18&nbsp;000 km²
+|mapa                    = Mapa Diocesis de Ocaña.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://diocesisocana.com.co/ www.diocesisocana.com.co]
+}}
+
+La '''diócesis de Ocaña''' ({{lang-la|Dioecesis Ocaniensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Nueva Pamplona]]. Desde el 28 de septiembre de 2024 su [[obispo]] es [[Orlando Olave Villanoba]], cuando tomo posesión canónica.
+
+== Territorio y organización ==
+[[Archivo:Iglesia Santuario.JPG|thumb|miniatura|derecha|Santuario de Nuestra Señora de las Gracias de Torcoroma, en la vereda Agua de la Virgen]]
+
+La diócesis tiene 18&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en:
+* el [[Norte de Santander|departamento de Norte de Santander]], comprendiendo los [[Municipios de Colombia|municipios]] de [[Ábrego (Norte de Santander)|Ábrego]], [[Hacarí]], [[La Playa (Norte de Santander)|La Playa de Belén]], [[Ocaña (Colombia)|Ocaña]], [[San Calixto (Norte de Santander)|San Calixto]], parte de los municipios de [[Convención (Norte de Santander)|Convención]], [[El Carmen (Norte de Santander)|El Carmen]] y [[Teorama]]; y los corregimientos de La Pedregosa y Pueblo Nuevo del municipio de [[La Esperanza (Norte de Santander)|La Esperanza]].
+* en el [[Cesar|departamento de Cesar]] los municipios de [[Aguachica]], [[Gamarra (Cesar)|Gamarra]], [[González (Cesar)|González]], [[La Gloria (Cesar)|La Gloria]], [[Pailitas]], [[Pelaya]], [[Río de Oro (Cesar)|Río de Oro]], [[San Alberto (Cesar)|San Alberto]], [[San Martín (Cesar)|San Martín]] y [[Tamalameque]].
+
+[[Archivo:Fachada (Capilla de la Torcoroma).jpg|thumb|miniatura|derecha|Capilla de la Torcoroma, en Ocaña]]
+
+La sede de la diócesis se encuentra en la ciudad de [[Ocaña (Colombia)|Ocaña]], en donde se halla la [[Catedral de Santa Ana (Ocaña)|Catedral de Santa Ana]], la parroquia santuario de Jesús Cautivo y la [[Capilla de la Torcoroma]].<ref>{{Cita web|url=http://academiaocana.blogspot.com/2008/06/otra-vez-la-baslica.html|título=ACADEMIA DE HISTORIA DE OCAÑA: ¡OTRA VEZ LA BASÍLICA!|fechaacceso=2022-10-26|apellido=Ocaña|nombre=Academia De Historia De|fecha=2008-06-12|sitioweb=ACADEMIA DE HISTORIA DE OCAÑA}}</ref> En la vereda Agua de la Virgen se halla el [[Santuario del Agua de la Virgen|Santuario de Nuestra Señora de las Gracias de Torcoroma]].
+
+En 2021 en la diócesis existían 46 [[Parroquia (religión)|parroquias]] (incluyendo 1 cuasiparroquia y 2 santuarios) agrupadas en 7 vicarías: Central Santa Ana, Inmaculada Concepción, Nuestra Señora de la Esperanza, San José de Convención, San José de Tunumá, San Martín y Santísima Trinidad.
+
+{| class="wikitable"
+|+Diócesis de Ocaña
+!/
+!Vicaría
+!Jurisdicción
+!Parroquias
+|-
+|1
+|Vicaría Central Santa Ana
+|[[Archivo:Flag_of_Ocaña_(Norte_de_Santander).svg|25x25px]] [[Ocaña (Norte de Santander)]]
+[[Archivo:Flag_of_Ocaña_(Norte_de_Santander).svg|25x25px]] Corregimiento de Buenavista, Ocaña (Norte de Santander)
+
+[[Archivo:Flag_of_Ocaña_(Norte_de_Santander).svg|25x25px]] Corregimiento de Aguas Claras, Ocaña (Norte de Santander)
+|12
+|-
+|2
+|Vicaría Inmaculada Concepción
+|[[Archivo:Flag_of_Aguachica_(Cesar).svg|25x25px]] [[Aguachica|Aguachica (Cesar)]]
+[[Archivo:Flag_of_Gamarra_(Cesar).svg|25x25px]] [[Gamarra (Cesar)]]
+|8
+|-
+|3
+|Vicaría Nuestra Señora del Rosario
+|[[Archivo:Flag_of_El_Carmen_(Norte_de_Santander).svg|25x25px]] [[El Carmen (Norte de Santander)]]
+[[Archivo:Flag_of_El_Carmen_(Norte_de_Santander).svg|25x25px]] Corregimiento Guamalito, El Carmen (Norte de Santander)
+
+[[Archivo:Flag_of_Ocaña_(Norte_de_Santander).svg|25x25px]] Corregimiento de Otaré, Ocaña (Norte de Santander)
+
+[[Archivo:Flag_of_González_(Cesar).svg|25x25px]] [[González (Cesar)]]
+
+[[Archivo:Flag_of_Río_de_Oro_(Cesar).svg|25x25px]] [[Río de Oro (Cesar)]]
+|5
+|-
+|4
+|Vicaría San José de Convención
+|[[Archivo:Flag_of_Convención_(Norte_de_Santander).svg|25x25px]] [[Convención (Norte de Santander)]]
+[[Archivo:Flag_of_Convención_(Norte_de_Santander).svg|25x25px]] Corregimiento de Cartagenita, Convención (Norte de Santander)
+
+[[Archivo:Flag_of_Teorama_(Norte_de_Santander).svg|25x25px]] [[Teorama|Teorama (Norte de Santander)]]
+
+[[Archivo:Flag_of_Teorama_(Norte_de_Santander).svg|25x25px]] [[Teorama|Corregimiento de San Pablo, Teorama (Norte de Santander)]]
+
+[[Archivo:Flag_of_San_Calixto_(Norte_de_Santander).svg|25x25px]] [[San Calixto (Norte de Santander)]]
+|6
+|-
+|5
+|Vicaría San José de Tunumá
+|[[Archivo:Flag_of_Tamalameque_(Cesar).svg|25x25px]] [[Tamalameque|Tamalameque (Cesar)]]
+[[Archivo:Flag_of_Pailitas_(Cesar).svg|25x25px]] [[Pailitas|Pailitas (Cesar)]]
+
+[[Archivo:Flag_of_Pelaya_(Cesar).svg|25x25px]] [[Pelaya|Pelaya (Cesar)]]
+
+[[Archivo:Flag_of_La_Gloria_(Cesar).svg|25x25px]] [[La Gloria (Cesar)]]
+
+[[Archivo:Flag_of_La_Gloria_(Cesar).svg|25x25px]]Corregimiento de [[Ayacucho (Cesar)|Ayacucho]], La Gloria (Cesar)
+|5
+|-
+|6
+|Vicaría San Martín
+|[[Archivo:Flag_of_San_Martin_(Cesar).svg|25x25px]] [[San Martín (Cesar)]]
+[[Archivo:Flag_of_San_Alberto_(Cesar).svg|25x25px]] [[San Alberto (Cesar)]]
+
+[[Archivo:Flag_of_La_Esperanza_(Norte_de_Santander).svg|25x25px]] Corregimiento La Pedregosa, La Esperanza (Norte de Santander)
+
+[[Archivo:Flag_of_La_Esperanza_(Norte_de_Santander).svg|25x25px]] Corregimiento Pueblo Nuevo, La Esperanza (Norte de Santander)
+|5
+|-
+|7
+|Vicaría Santísima Trinidad
+|[[Archivo:Flag_of_Hacarí_(Norte_de_Santander).svg|25x25px]] [[Hacarí|Hacarí (Norte de Santander)]]
+[[Archivo:Flag_of_La_Playa_de_Belén_(Norte_de_Santander).svg|25x25px]] [[La Playa de Belén|La Playa de Belén (Norte de Santander)]]
+
+[[Archivo:Flag_of_La_Playa_de_Belén_(Norte_de_Santander).svg|25x25px]]  Corregimiento Aspasica, La Playa de Belén (Norte de Santander)
+
+[[Archivo:Flag_of_La_Playa_de_Belén_(Norte_de_Santander).svg|25x25px]]  Corregimiento La Vega de San Antonio, La Playa de Belén (Norte de Santander)
+
+[[Archivo:Flag_of_Abrego_(Norte_de_Santander).svg|25x25px]] [[Ábrego (Norte de Santander)]]
+|5
+|}
+
+La diócesis de Ocaña se encuentra al occidente de Norte de Santander y al sur de Cesar.
+{{Ubicación geográfica
+| Centro = <br />[[Archivo:Escudo de la Diócesis de Ocaña.svg|25px]] '''Diócesis de Ocaña'''
+| Norte = <br />[[Archivo:Escudo de la Diócesis de El Banco.svg|25px]] [[Diócesis de El Banco]]<br />[[Archivo:Escudo de la Diócesis de Tibú.svg|25px]] [[Diócesis de Tibú]]
+| Noreste = <br />[[Archivo:Escudo de la Diócesis de Tibú.svg|25px]] [[Diócesis de Tibú]]
+| Noroeste = <br />[[Archivo:Escudo de la Diócesis de Magangué.svg|25px]] [[Diócesis de Magangué]]
+| Este = <br />[[Archivo:Escudo de la Diócesis de Tibú.svg|25px]] [[Diócesis de Tibú]]
+| Sureste = <br />[[Archivo:Escudo de la Diócesis de Cúcuta.svg|25px]] [[Diócesis de Cúcuta]]
+| Sur = <br />[[Archivo:Escudo de la Arquidiócesis de Bucaramanga.svg|25px]] [[Arquidiócesis de Bucaramanga]]<br />[[Archivo:Escudo Arquidiócesis de Nueva Pamplona.svg|25px]] [[Arquidiócesis de Nueva Pamplona]]
+| Suroeste = <br />[[Archivo:Escudo de la Diócesis de Barrancabermeja.svg|25px]] [[Diócesis de Barrancabermeja]]
+| Oeste = <br />[[Archivo:Escudo de la Diócesis de Magangué.svg|25px]] [[Diócesis de Magangué]]
+}}
+
+== Historia ==
+=== Erección de la diócesis ===
+Tras las intensas gestiones por parte de ocañeros y amigos de la ciudad para convertirla en capital diocesana, el 26 de octubre de 1962 mediante la [[bula]] ''Quoniam arcana'' del [[papa]] [[Juan XXIII]] fue erigida la diócesis de Ocaña, desmembrando territorio de la parte sur [[diócesis de Santa Marta]] y de la parte norte del vicariato apostólico de Barrancabermeja (hoy [[diócesis de Barrancabermeja]]), y elevando al rango de catedral a la iglesia de Parroquia de Santa Ana, obteniendo el apodo como la ''Hija Primogénita del Concilio Vaticano II'', por ser la primera Diócesis creada después de quince dias la inauguración del Concilio Vaticano II. <ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Quoniam arcana''], AAS 55 (1963), p.&nbsp;925.</ref>La noticia fue recibida el mismo 26 de octubre con jubilo y toques de campanas de la recién elevada Catedral. 
+
+{{Cita|latin
+|col2=espa
+}}
+Fue designado como primer obispo [[Rafael Sarmiento Peralta]], sacerdote del clero de la [[Arquidiócesis de Bucaramanga|Diócesis de Bucaramanga]].
+
+Sarmiento Peralta, quien se posesionó el 12 de febrero de 1963. Durante su gobierno se constituyó la diócesis, se construyó la casa de Retiros de Villa María, fueron creadas las parroquias de Guamalito, Monte Carmelo en Convención y de Nuestra Señora de Fátima en Ocaña, esta última regentada por los padres montfortianos.
+
+El 18 de noviembre de 1963, con la [[carta apostólica]] ''Sanctissimae Virginis'', el papa Pablo VI proclamó a la Santísima Virgen María, conocida en español con el nombre de Virgen de las Gracias de Torcoroma, como [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf Carta apostólica ''Sanctissimae Virginis''], AAS 56 (1964), pp. 512-513.</ref>
+
+Sarmiento Peralta gobernó hasta el 24 de julio de 1972 cuando fue nombrado obispo de [[Diócesis de Neiva|Neiva]]. El 24 de julio de 1972 se nombró como nuevo obispo a Ignacio Gómez Aristizábal, quien llegó a Ocaña el 19 de octubre del mismo año y tomó posesión el 20 de octubre. Durante el episcopado de Ignacio José Gómez Aristizábal se estableció el [[seminario]] mayor diocesano en las antiguas instalaciones de Villa María y el seminario menor Juan Pablo II en San Calixto. También se inauguraron dos estaciones de radio diocesanas: Radio Catatumbo y la voz de Aguachica, la Cooperativa Integral de Servicios Campesinos "Coopservir LTDA" (hoy Crediservir), así como las siguientes parroquias: San Pablo, San Alberto Magno, Pueblo Nuevo, San Rafael, María Madre de la Iglesia, San Vicente de Paúl, Inmaculada Concepción, Sagrado Corazón de Jesús y la cuasiparroquia de San Antonio.
+
+Gómez Aristizábal gobernó hasta el 10 de octubre de 1992 cuando fue nombrado arzobispo de Santa Fe de Antioquia. Quedó como administrador diocesano José Estanislao Salazar Mora, hasta el 5 de agosto de 1993, cuando llegó como nuevo obispo de Ocaña Jorge Enrique Lozano Zafra, quien había sido nombrado el 28 de junio de 1993.
+
+Lozano Zafra gobernó hasta el 15 de mayo de 2014. Quedó como administrador diocesano Luis Madrid Merlano, [[Arquidiócesis de Nueva Pamplona|arzobispo de Nueva Pamplona]], hasta el 14 de agosto de 2014 cuando llegó como nuevo obispo de Ocaña Gabriel Ángel Villa Vahos, quien había sido nombrado el 15 de mayo de 2014 y ordenado el 26 de julio de 2014 en [[Santa Rosa de Osos]].
+
+Si bien ha habido solicitudes para segregar parte del territorio y erigir una diócesis con sede en Aguachica, estos no se han visto materializados.<ref>{{Cita web|url=https://elpilon.com.co/aguachica-busca-en-el-vaticano-la-aprobacion-de-una-diocesis/|título=Aguachica busca en el Vaticano la aprobación de una Diócesis|fechaacceso=2022-10-24|apellido=admin|fecha=2010-08-06|sitioweb=El Pilón {{!}} Noticias de Valledupar, El Vallenato y el Caribe Colombiano|idioma=en}}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 579&nbsp;230 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 260&nbsp;000 || 267&nbsp;000 || 97.4 || 48 || 41 || 7 || 5416 || || 5 || 37 || 27
+|- align="right"
+| 1970 || 273&nbsp;000 || 285&nbsp;000 || 95.8 || 58 || 40 || 18 || 4706 || || 18 || 61 || 32
+|- align="right"
+| 1976 || 318&nbsp;250 || 335&nbsp;000 || 95.0 || 45 || 27 || 18 || 7072 || || 18 || 79 || 36
+|- align="right"
+| 1980 || 341&nbsp;800 || 359&nbsp;800 || 95.0 || 41 || 38 || 3 || 8336 || 7 || 3 || 76 || 36
+|- align="right"
+| 1990 || 380&nbsp;000 || 400&nbsp;000 || 95.0 || 41 || 41 || || 9268 || 40 || || 64 || 39
+|- align="right"
+| 1999 || 303&nbsp;399 || 364&nbsp;672 || 83.2 || 55 || 50 || 5 || 5516 || 8 || 33 || 63 || 36
+|- align="right"
+| 2000 || 329&nbsp;100 || 390&nbsp;200 || 84.3 || 64 || 59 || 5 || 5142 || 8 || 39 || 30 || 36
+|- align="right"
+| 2001 || 352&nbsp;137 || 417&nbsp;514 || 84.3 || 71 || 64 || 7 || 4959 || 8 || 41 || 56 || 41
+|- align="right"
+| 2003 || 403&nbsp;000 || 478&nbsp;000 || 84.3 || 70 || 67 || 3 || 5757 || 8 || 21 || 67 || 44
+|- align="right"
+| 2004 || 352&nbsp;137 || 417&nbsp;514 || 84.3 || 67 || 63 || 4 || 5255 || 9 || 5 || 65 || 44
+|- align="right"
+| 2013 || 427&nbsp;000 || 627&nbsp;000 || 68.1 || 72 || 68 || 4 || 5930 || 4 || 6 || 60 || 46
+|- align="right"
+| 2016 || 531&nbsp;089 || 740&nbsp;827 || 71.7 || 90 || 86 || 4 || 5900 || 4 || 4 || 67 || 47
+|- align="right"
+| 2019 || 558&nbsp;635 || 776&nbsp;160 || 72.0 || 88 || 83 || 5 || 6348 || 6 || 5 || 65 || 46
+|- align="right"
+| 2021 || 579&nbsp;230 || 805&nbsp;140 || 71.9 || 92 || 87 || 5 || 6295 || 6 || 5 || 65 || 46
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/docan.html |título=''Diocese of Ocaña''|fechaacceso=11 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=28 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+{| class="wikitable" style="text-align:center; font-size:90%; width:90%"
+! rowspan="2" |Nombre del titular
+! rowspan="2" |Nombrado
+<small>(papa)</small>
+! colspan="2" |Período
+! rowspan="2" |Fin del cargo
+<small>(razón)</small>
+|-
+!Posesionado 
+!Fin
+|-
+|'''[[Rafael Sarmiento Peralta]]'''
+|26 de octubre de 1962
+<small>([[Juan XXIII]])</small>
+|{{fecha|12|2|1963|}}
+|{{fecha|24|7|1972}} <br />({{edad en años y días|12|2|1963|24|7|1972}})
+|''Nombrado [[Diócesis de Neiva|Obispo de Neiva]]''
+|- 
+|'''[[Ignacio Gómez Aristizábal]]'''
+|24 de julio de 1972
+<small>([[Pablo VI]])</small>
+|20 de octubre de 1972
+|10 de octubre de 1992<br />({{edad en años y días|20|10|1972|10|10|1992}})
+|''Nombrado [[Arquidiócesis de Santa Fe de Antioquia|Arzobispo de Santa Fe de Antioquia]]''
+|-
+|-style= background:#ccc;"
+|colspan=5; align="center"|[[Sede vacante]] <br />({{edad en años y días|10|10|1992|28|7|1993}})<br />{{small|Periodo sin nombramiento de obispo titular por parte de la Santa Sede, queda de administrador apostólico Mons. José Estanislao Salazar Mora, sacerdote diocesano}}
+|-
+|'''[[Jorge Enrique Lozano Zafra]]'''
+|28 de julio de 1993
+<small>([[Juan Pablo II]])</small>
+|6 de agosto de 1993
+|15 de mayo de 2014<br />({{edad en años y días|6|8|1993|15|5|2014}})
+|''Retirado''
+|-
+|'''[[Gabriel Ángel Villa Vahos]]'''
+|15 de mayo de 2014
+<small>([[Francisco (papa)|Francisco]])</small>
+|15 de agosto de 2014
+|11 de febrero de 2020<br />({{edad en años y días|15|8|2014|11|2|2020}})
+|''Nombrado [[Arquidiócesis de Tunja|Arzobispo de Tunja]]''
+|-
+|-style= background:#ccc;"
+|colspan=5; align="center"|[[Sede vacante]] <br />({{edad en años y días|11|2|2020|21|4|2021}})<br />{{small|Periodo sin nombramiento de obispo titular por parte de la Santa Sede, queda de administrador apostólico Mons. [[Luis Gabriel Ramírez Díaz]], obispo de El Banco}}
+|-
+|'''[[Luis Gabriel Ramírez Díaz]]'''
+|27 de febrero de 2021
+<small>([[Francisco (papa)|Francisco]])</small>
+|21 de abril de 2021
+|8 de enero de 2023<br />({{edad en años y días|21|4|2021|8|1|2023}})
+|''Falleció''
+|-
+|-style= background:#ccc;"
+|colspan=5; align="center"|[[Sede vacante]] <br />({{edad en años y días|8|1|2023|28|9|2024}})<br />{{small|Periodo sin obispo titular por el fallecimiento de Mons. Luis Gabriel Ramírez Díaz, queda de administrador Mons.[[Jorge Alberto Ossa Soto]] arzobispo de Nueva Pamplona}}
+|-
+|'''[[Orlando Olave Villanoba]]'''
+|11 de julio de 2024
+<small>([[Francisco (papa)|Francisco]])</small>
+|28 de septiembre de 2024
+|<br />({{edad en años y días|28|9|2024}})
+|''Actualmente en el cargo''
+|-
+|}
+
+== Véase también ==
+* [[Arquidiócesis de Nueva Pamplona]]
+* [[Anexo:Diócesis latinas en Colombia|Diócesis latinas de Colombia]]
+* [[Iglesia católica en Colombia|Iglesia Católica en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/ocan0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-oca%C3%B1a Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Ocaña| ]]

@@ -1,0 +1,140 @@
+{{Ficha de circunscripción eclesiástica
+| nombre = Diócesis de Pereira
+| tipo = diócesis
+| latín = Pereirana
+| escudo = Escudo de la Diócesis de Pereira.svg
+| pie escudo = Escudo de la diócesis
+| imagen = Catedral de Pereira.jpg
+| pie imagen = Catedral de Nuestra Señora de la Pobreza
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|17|12|1952}}
+| erección tipo = diócesis
+| bulaPontificia = ''Leguntur saepissime''
+| sufragánea = [[arquidiócesis de Manizales]]
+| patrón = Nuestra Señora de la Pobreza
+| catedral = [[Catedral de Nuestra Señora de la Pobreza (Pereira)|de Nuestra Señora de la Pobreza]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#gib |título=Cathedrals in Colombia |idioma=inglés |fechaacceso=21 de noviembre de 2008  |editorial=Giga-Catholic Information }}</ref><ref>{{Cita web |url=http://www.risaralda.com.co/pereira/catedral/catedral02.php |título=La Catedral de Nuestra Señora de la Pobreza de Pereira |fechaacceso=21 de noviembre de 2008 |idioma=español |editorial=Portal Turístico de Risaralda |urlarchivo=https://web.archive.org/web/20081121183152/http://www.risaralda.com.co/pereira/catedral/catedral02.php |fechaarchivo=21 de noviembre de 2008 }}</ref>
+| sede = [[Pereira]]
+| región tipo = Departamento
+| región = [[Risaralda]]
+| país = {{COL}}
+| curia = Curia Episcopal, Cl. 20 #7-40, Pereira, Risaralda
+| concatedral = 
+| ordinario = [[Nelson Jair Cardona Ramírez]]
+| auxiliar = 
+| emérito = <li>[[Tulio Duque Gutiérrez]], [[Sociedad del Divino Salvador|S.D.S.]]<li>[[Rigoberto Corredor Bermúdez]]
+| vicario = Pbro. Jhon Dalffer Salazar González
+| administrador apostólico = 
+| parroquias = 113
+| población total = 1&nbsp;156&nbsp;556
+| población año = 2021
+| fieles = 924&nbsp;572
+| porcentaje fieles = 79-9
+| sacerdotes = 181
+| área = 6126 km²
+| mapa = Mapa Diocesis de Pereira.svg
+| pie mapa = Localización y extensión de la diócesis
+| sitio web = [http://www.diocesisdepereira.org.co/ www.diocesisdepereira.org.co]
+}}
+
+La '''diócesis de Pereira''' ({{lang-la|Dioecesis Pereirana}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Manizales]]. Desde el 4 de octubre de 2024 su [[obispo]] diocesano es monseñor [[Nelson Jair Cardona Ramírez]].
+
+== Territorio y organización ==
+La diócesis tiene 8040 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 21 municipios en 2 departamentos:<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/pereira_diocesis_700.gif |título=Mapa de la Diócesis de Pereira |fechaacceso=21 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111121142206/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/pereira_diocesis_700.gif |fechaarchivo=21 de noviembre de 2011 }}</ref>
+* [[Risaralda|departamento de Risaralda]]: [[Apía]], [[Balboa (Risaralda)|Balboa]], [[Belén de Umbría]], [[Dosquebradas]], [[Guática]], [[La Celia]], [[La Virginia]], [[Marsella (Colombia)|Marsella]], [[Mistrató]], [[Pereira]], [[Pueblo Rico]], [[Quinchía]] y [[Santuario (Risaralda)|Santuario]];
+* [[Caldas|departamento de Caldas]]: [[Anserma]], [[Belalcázar (Caldas)|Belalcázar]], [[Marmato]], [[Riosucio (Caldas)|Riosucio]], [[Risaralda (Caldas)|Risaralda]], [[San José (Colombia)|San José]], [[Supía]] y [[Viterbo (Caldas)|Viterbo]].<ref>{{Cita web|url=https://diocesisdepereira.org.co/municipios-de-caldas/|título=Municipios de Caldas|fechaacceso=5 de octubre de 2024}}</ref>
+
+El territorio de la diócesis limita con la [[diócesis de Jericó]] por el nordeste, con la arquidiócesis de Manizales por el este, con la [[diócesis de Armenia]] por el sur, con la [[Diócesis de Cartago (Colombia)|diócesis de Cartago]] por el suroeste, con la [[diócesis de Istmina-Tadó]] por el oeste y con la [[diócesis de Quibdó]] por el noroeste.<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Pereira]], en donde se halla la [[Catedral de Nuestra Señora de la Pobreza (Pereira)|Catedral de Nuestra Señora de la Pobreza]].
+
+En 2021 en la diócesis existían 111 [[Parroquia (religión)|parroquias]] agrupadas en 8 vicarías.
+
+== Historia ==
+La diócesis fue erigida el 17 de diciembre de 1952 mediante la [[bula]] ''Leguntur saepissime'' del [[papa]] [[Pío XII]], derivando el territorio de la [[prefectura apostólica del Chocó]] (a la vez suprimida) y de la diócesis de Manizales (hoy arquidiócesis).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Leguntur saepissime''], AAS 45 (1953), p.&nbsp;323.</ref> Originalmente fue sufragánea de la [[arquidiócesis de Medellín]]. Como primer obispo de la diócesis fue nombrado Baltasar Álvarez Restrepo, hasta ese entonces obispo auxiliar de la diócesis de Manizales.
+
+El 24 de octubre de 1953, con la [[carta apostólica]] ''Quod novissima'', el papa Pío XII proclamó a la Santísima Virgen María Inmaculada [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf Carta apostólica ''Quod novissima''], AAS 47 (1955), pp. 144-145.</ref>
+
+El 10 de mayo de 1954 la diócesis de Pereira pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Manizales.
+
+En junio de 1971 el papa [[Pablo VI]] nombró a Darío Castrillón Hoyos como obispo coadjutor de Pereira.
+
+El 1 de julio de 1976 asumió el gobierno de la diócesis Darío Castrillón Hoyos, cuando la [[Santa Sede]] aceptó la renuncia de Álvarez Restrepo por límite de edad. Bajo su gobierno renació el Seminario Menor San José. En febrero de l977 se reabrió el seminario menor para los niños y jóvenes de la diócesis. A la luz del [[Concilio Vaticano II]], la diócesis de Pereira fue la primera en Colombia que impulsó y ordenó el primer [[diácono]] permanente.
+
+El 6 de agosto de 1984, el presbiterio de Pereira recibió la noticia del nombramiento de Hernán Giraldo Jaramillo como obispo auxiliar de la diócesis.
+
+Son enviados dos sacerdotes de la diócesis a [[Maputo]], [[Mozambique]], en el continente africano. Nació con ellos la Misión ''Ad Gentes'' en noviembre de 1985.
+
+Con ocasión de la visita del papa [[Juan Pablo II]] a Colombia en 1986, se presentó la oportunidad de pasar por Pereira y por esto se organizó una multitudinaria presencia en el aeropuerto Matecaña, el 5 de julio de 1986.
+
+El 1 de marzo de 1988 fue nombrado el presbiterio Rigoberto Corredor Bermúdez como el segundo obispo auxiliar de la diócesis.
+
+El 8 de febrero de 1993 se fundó el Colegio Monseñor Baltasar Álvarez Restrepo, por iniciativa de Pbro. Aníbal Hurtado Hurtado.
+
+El 16 de diciembre de 1992 Castrillón Hoyos fue nombrado arzobispo de [[Arquidiócesis de Bucaramanga|Bucaramanga]]. El 20 de noviembre de 1993 fue nombrado como tercer obispo de Pereira Fabio Suescún Mutis, quien tomó posesión el 11 de febrero de 1994. Se inició el Prodine en la diócesis en la parroquia de la Santa Cruz a cargo del presbítero Alberto Bermúdez. El obispo conoció el método llamado Sistema Integral de Nueva Evangelización (SINE), lo vio práctico y lo asumió como plan diocesano.
+
+El 25 de julio de 2001 se nombró como cuarto obispo de la diócesis a Tulio Duque Gutiérrez, hasta el momento obispo diocesano de la [[diócesis de Apartadó]]. Tomó posesión de 21 de septiembre. Para facilitar el proceso de reconstrucción de la Catedral, la cual resultó seriamente afectada por el terremoto de 1999, el nuevo obispo creó la Fundación Pro Reconstrucción, compuesta por eclesiásticos y laicos técnicos.
+
+El 15 de julio de 2011 la Santa Sede aceptó renuncia de Tulio Duque Gutiérrez por cumplir su edad de retiro. En esa misma fecha se nombró como quinto obispo a Rigoberto Corredor Bermúdez, hasta ese momento obispo de [[Diócesis de Garzón|Garzón]], tomó posesión el primero de octubre de 2011.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 924&nbsp;572 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 600&nbsp;000 || 603&nbsp;000 || 99.5 || 134 || 95 || 39 || 4477 ||  || 39 || 525 || 48
+|- align="right"
+| 1970 || 650&nbsp;000 || 650&nbsp;000 || 100.0 || 113 || 98 || 15 || 5752 ||  || 16 || 15 || 51
+|- align="right"
+| 1976 || 622&nbsp;458 || 638&nbsp;129 || 97.5 || 120 || 98 || 22 || 5187 ||  || 29 || 175 || 52
+|- align="right"
+| 1977 || 688&nbsp;300 || 693&nbsp;420 || 99.3 || 124 || 96 || 28 || 5550 || 2 || 41 || 321 || 52
+|- align="right"
+| 1990 || 803&nbsp;000 || 830&nbsp;000 || 96.7 || 183 || 160 || 23 || 4387 || 13 || 34 || 353 || 76
+|- align="right"
+| 1999 || 873&nbsp;287 || 1&nbsp;034&nbsp;930 || 84.4 || 191 || 163 || 28 || 4572 || 14 || 62 || 264 || 91
+|- align="right"
+| 2000 || 893&nbsp;421 || 1&nbsp;053&nbsp;930 || 84.8 || 182 || 154 || 28 || 4908 || 14 || 71 || 271 || 93
+|- align="right"
+| 2001 || 902&nbsp;149 || 1&nbsp;072&nbsp;513 || 84.1 || 186 || 165 || 21 || 4850 || 15 || 61 || 307 || 93
+|- align="right"
+| 2002 || 1&nbsp;050&nbsp;000 || 1&nbsp;100&nbsp;000 || 95.5 || 202 || 176 || 26 || 5198 || 17 || 75 || 312 || 93
+|- align="right"
+| 2003 || 1&nbsp;060&nbsp;000 || 1&nbsp;106&nbsp;000 || 95.8 || 188 || 159 || 29 || 5638 || 22 || 72 || 298 || 94
+|- align="right"
+| 2004 || 900&nbsp;000 || 1&nbsp;200&nbsp;000 || 75.0 || 216 || 188 || 28 || 4166 || 23 || 64 || 312 || 100
+|- align="right"
+| 2013 || 1&nbsp;041&nbsp;000 || 1&nbsp;380&nbsp;000 || 75.4 || 210 || 180 || 30 || 4957 || 36 || 40 || 226 || 101
+|- align="right"
+| 2016 || 847&nbsp;608 || 1&nbsp;059&nbsp;511 || 80.0 || 179 || 155 || 24 || 4735 || 34 || 58 || 133 || 107
+|- align="right"
+| 2019 || 915&nbsp;284 || 1&nbsp;144&nbsp;057 || 80.0 || 183 || 158 || 25 || 5001 || 31 || 60 || 129 || 110
+|- align="right"
+| 2021 || 924&nbsp;572 || 1&nbsp;156&nbsp;556 || 79.9 || 181 || 156 || 25 || 5108 || 38 || 67 || 210 || 111
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dpere.html |título=''Diocese of Pereira''|fechaacceso=28 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=4 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Baltasar Álvarez Restrepo]] † (18 de diciembre de '''1952'''-1 de julio de '''1976''' retirado)
+* [[Darío Castrillón Hoyos]] † (1 de julio de '''1976''' por sucesión-16 de diciembre de '''1992''' nombrado arzobispo de [[Arquidiócesis de Bucaramanga|Bucaramanga]])
+* [[Fabio Suescún Mutis]] (20 de noviembre de '''1993'''-19 de enero de '''2001''' nombrado [[Obispado castrense de Colombia|ordinario militar de Colombia]])
+* [[Tulio Duque Gutiérrez]], [[Sociedad del Divino Salvador|S.D.S.]] (25 de julio de '''2001'''-15 de julio de '''2011''' retirado)
+* [[Rigoberto Corredor Bermúdez]] (15 de julio de '''2011'''-4 de octubre de '''2024''' retirado)
+* [[Nelson Jair Cardona Ramírez]], desde el 4 de octubre de '''2024'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/pere0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-pereira Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Pereira| ]]

@@ -1,0 +1,305 @@
+{{Ficha de circunscripción eclesiástica
+| nombre                  = Diócesis de Palmira
+| tipo                    = diócesis
+| latín                   = Dioecesis Palmirana
+| escudo                  = Escudo de la Diócesis de Palmira.svg
+| pie escudo              = Escudo de la diócesis
+| imagen                  = Catedral palmira.jpg
+| pie imagen              = [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)|Catedral de Nuestra Señora del Rosario del Palmar]]
+| iglesia                 = [[Iglesia católica|católica]]
+| iglesia sui iuris       = [[Iglesia latina|latina]]
+| rito                    = [[Rito romano|romano]]
+| erección                = {{fecha|17|12|1952}}
+| erección tipo           = diócesis
+| bulaPontificia          = ''Romanorum partes''
+| sufragánea              = [[Arquidiócesis de Cali]]
+| catedral                = [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)|Nuestra Señora del Rosario del Palmar]]
+| sede                    = [[Palmira (Colombia)|Palmira]]
+| región tipo             = Departamento
+| región                  = [[Valle del Cauca]]
+| país                    = {{COL}}
+| curia                   = Calle 30 n.º 29-79, [[Palmira (Colombia)|Palmira]]
+| ordinario               = [[Rodrigo Gallego Trujillo]]
+| emérito                 = [[Edgar de Jesús García Gil]]
+| parroquias              = 49
+| población total         = 885&nbsp;600
+| población año           = 2021
+| fieles                  = 795&nbsp;000
+| porcentaje fieles       = 89.8
+| sacerdotes              = 86
+| área                    = 4976 km²
+| mapa                    = Mapa Diocesis de Palmira.svg
+| pie mapa                = Localización y extensión de la diócesis
+| sitio web               = [https://www.diocesispalmira.org/ www.diocesispalmira.org]
+}}
+
+La '''diócesis de Palmira''' ({{lang-la|Dioecesis Palmirana}}) es una [[circunscripción eclesiástica católica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] de [[rito romano]], perteneciente a la [[Iglesia latina]], [[diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Cali]]. Su sede episcopal se encuentra en la ciudad de [[Palmira (Colombia)|Palmira]], en el departamento del [[Valle del Cauca]], donde se halla la [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)|Catedral de Nuestra Señora del Rosario del Palmar]].
+
+Fue erigida el 17 de diciembre de 1952 por el papa [[Pío XII]] mediante la bula ''Romanorum partes'', con territorios desmembrados de la entonces diócesis de Cali y de la [[arquidiócesis de Popayán]]. Desde el 31 de mayo de 2024 su obispo es [[Rodrigo Gallego Trujillo]], nombrado por el papa [[Francisco (papa)|Francisco]] tras la aceptación de la renuncia de [[Edgar de Jesús García Gil]].<ref name="Vaticano2024">{{Cita web
+|url=https://press.vatican.va/content/salastampa/es/bollettino/pubblico/2024/05/31/310524b.html
+|título=Renuncias y nombramientos
+|fecha=31 de mayo de 2024
+|fechaacceso=9 de mayo de 2026
+|editorial=Oficina de Prensa de la Santa Sede
+|idioma=es
+}}</ref>
+
+== Territorio ==
+
+La diócesis tiene una superficie de 4976 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en varios municipios del departamento del [[Valle del Cauca]]. Comprende los municipios de [[Candelaria (Valle del Cauca)|Candelaria]], [[El Cerrito (Valle del Cauca)|El Cerrito]], [[Florida (Valle del Cauca)|Florida]], [[Ginebra (Valle del Cauca)|Ginebra]], [[Palmira (Valle del Cauca)|Palmira]] y [[Pradera (Valle del Cauca)|Pradera]], situados en la zona oriental del valle geográfico del [[río Cauca]]; así como [[Calima (Valle del Cauca)|Darién]], [[Restrepo (Valle del Cauca)|Restrepo]], [[Vijes]] y [[Yotoco]].<ref name="CH">{{Cita web
+|url=https://www.catholic-hierarchy.org/diocese/dplmr.html
+|título=Diocese of Palmira
+|fechaacceso=9 de mayo de 2026
+|apellido=Cheney
+|nombre=David M.
+|sitioweb=Catholic-Hierarchy.org
+|idioma=en
+|cita=Datos estadísticos tomados del Anuario Pontificio.
+}}</ref><ref name="CEC">{{Cita web
+|url=https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-palmira
+|título=Diócesis de Palmira
+|fechaacceso=9 de mayo de 2026
+|editorial=Conferencia Episcopal de Colombia
+|idioma=es
+}}</ref>
+
+La sede de la diócesis está en [[Palmira (Colombia)|Palmira]], ciudad donde se encuentra la curia diocesana y la [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)|Catedral de Nuestra Señora del Rosario del Palmar]], templo principal de la circunscripción.<ref>{{Cita web
+|url=https://gcatholic.org/churches/data/cathCO.htm
+|título=Cathedrals in Colombia
+|fechaacceso=9 de mayo de 2026
+|sitioweb=GCatholic.org
+|idioma=en
+}}</ref>
+
+== Organización pastoral ==
+
+La diócesis está organizada en parroquias agrupadas en vicarías foráneas. Según los datos del ''[[Anuario Pontificio]]'' recogidos por ''Catholic-Hierarchy'', en 2021 contaba con 49 parroquias, atendidas por 86 sacerdotes.<ref name="CH" /> La diócesis indica además que su acción pastoral se desarrolla en diez municipios del departamento del Valle del Cauca.<ref name="CEC" />
+
+Entre sus vicarías foráneas se encuentran Nuestra Señora del Rosario del Palmar, Cristo Resucitado, La Santísima Trinidad, Nuestra Señora de la Candelaria, Nuestra Señora de Chiquinquirá y San Juan María Vianney.
+
+=== Vicaría de Nuestra Señora del Rosario del Palmar ===
+
+* Nuestra Señora del Rosario del Palmar, en [[Palmira (Colombia)|Palmira]].
+* San Vicente de Paúl, en Palmira.
+* Nuestra Señora de Lourdes, en Palmira.
+* Espíritu Santo, en Palmira.
+* Nuestra Señora de la Asunción, en Palmira.
+* La Inmaculada Concepción, en el corregimiento de Guanabanal, Palmira.
+* San Isidro Labrador, en el corregimiento de El Bolo, Palmira.
+
+=== Vicaría de Cristo Resucitado ===
+
+* Santa Teresita, en Palmira.
+* Cristo Resucitado, en Palmira.
+* San Judas Tadeo, en Palmira.
+* Nuestra Señora de las Mercedes, en Palmira.
+* San Miguel Arcángel, en Palmira.
+* Corpus Christi, en el corregimiento de Potrerillo, Palmira.
+* Nuestra Señora del Carmen, en el corregimiento de Rozo, Palmira.
+* Santa Laura Montoya, en Palmira.
+* Cristo Sacerdote, en Palmira.
+* Nuestra Señora de la Anunciación, en Palmira.
+
+=== Vicaría de la Santísima Trinidad ===
+
+* San Juan Pablo II, en Palmira.
+* La Milagrosa, en Palmira.
+* San Pedro y San Pablo, en Palmira.
+* María Auxiliadora, en Palmira.
+* Nuestra Señora de Fátima, en Palmira.
+* San Cayetano, en Palmira.
+* Santísima Trinidad, en Palmira.
+* Sagrada Familia, en Palmira.
+* María Auxiliadora, en el corregimiento de La Buitrera, Palmira.
+* Santa Rita de Casia, en Palmira.
+
+=== Vicaría de Nuestra Señora de la Candelaria ===
+
+* San Antonio de Padua, en [[Florida (Valle del Cauca)|Florida]].
+* Nuestra Señora de la Candelaria, en [[Candelaria (Valle del Cauca)|Candelaria]].
+* La Inmaculada Concepción, en [[Pradera (Valle del Cauca)|Pradera]].
+* Nuestra Señora de las Lajas, en Florida.
+* Señor de los Milagros, en Florida.
+* La Santa Cruz, en Pradera.
+* San Antonio de Padua, en el corregimiento de San Antonio de los Caballeros, Florida.
+* Santa Ana, en el corregimiento de El Cabuyal, Candelaria.
+* La Inmaculada Concepción, en el corregimiento de Villagorgona, Candelaria.
+* Nuestra Señora del Carmen, en el corregimiento de El Carmelo, Candelaria.
+* San José, en el corregimiento de Poblado Campestre, Candelaria.
+* Cristo Rey y Nuestra Señora de los Dolores, en los sectores de Juanchito y Ciudad del Campo, entre Candelaria y Palmira.
+
+=== Vicaría de Nuestra Señora de Chiquinquirá ===
+
+* Nuestra Señora de Chiquinquirá, en [[El Cerrito (Valle del Cauca)|El Cerrito]].
+* Nuestra Señora del Rosario, en [[Ginebra (Valle del Cauca)|Ginebra]].
+* Sagrado Corazón de Jesús, en los corregimientos de Amaime y El Placer, entre Palmira y El Cerrito.
+* Señor de la Divina Misericordia, en El Cerrito.
+* Nuestra Señora del Perpetuo Socorro, en El Cerrito.
+* San Pedro Apóstol, en el corregimiento de Santa Elena, El Cerrito.
+* San Andrés Apóstol, en el corregimiento de Costa Rica, Ginebra.
+* Nuestra Señora del Rosario, en El Cerrito.
+* Nuestra Señora de Fátima, en el corregimiento de Tenerife, El Cerrito.
+
+=== Vicaría de San Juan María Vianney ===
+
+* Nuestra Señora del Rosario, en [[Vijes]].
+* La Inmaculada Concepción, en [[Yotoco]].
+* Nuestra Señora del Carmen, en [[Restrepo (Valle del Cauca)|Restrepo]].
+* Nuestra Señora del Perpetuo Socorro, en [[Calima (Valle del Cauca)|Calima El Darién]].
+
+== Historia ==
+
+=== Antecedentes ===
+
+El territorio que actualmente forma parte de la diócesis de Palmira perteneció inicialmente a jurisdicciones eclesiásticas más antiguas del suroccidente colombiano, especialmente a la [[arquidiócesis de Popayán]] y, posteriormente, a la jurisdicción de Cali. Durante la primera mitad del siglo XX, el crecimiento demográfico y urbano de Palmira y de los municipios del centro y oriente del [[Valle del Cauca]] impulsó la necesidad de una organización eclesiástica propia.
+
+Palmira, por su ubicación en el valle geográfico del [[río Cauca]], su desarrollo agrícola y su importancia como centro urbano regional, fue escogida como sede de la nueva diócesis.
+
+=== Erección de la diócesis ===
+
+La diócesis fue erigida el 17 de diciembre de 1952 mediante la bula ''Romanorum partes'' del papa [[Pío XII]]. La nueva circunscripción recibió territorio de la entonces diócesis de Cali —posteriormente elevada a arquidiócesis— y de la [[arquidiócesis de Popayán]].<ref>{{Cita web
+|url=https://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf
+|título=Bula ''Romanorum partes''
+|fecha=1953
+|fechaacceso=9 de mayo de 2026
+|editorial=Acta Apostolicae Sedis
+|idioma=la
+}}</ref>
+
+El primer obispo fue [[Jesús Antonio Castro Becerra]], nombrado el 18 de diciembre de 1952. Tomó posesión de la diócesis el 5 de marzo de 1953 y dirigió la organización inicial de la nueva jurisdicción eclesiástica.
+
+En sus primeros años, la diócesis dependió como sufragánea de la [[arquidiócesis de Popayán]], hasta que el 20 de junio de 1964 pasó a integrar la provincia eclesiástica de la [[arquidiócesis de Cali]], creada como nueva sede metropolitana del Valle del Cauca.
+
+=== Reorganización territorial de 1966 ===
+
+El 29 de junio de 1966, durante el pontificado de [[Pablo VI]], la diócesis de Palmira cedió una parte de su territorio para la erección de la [[diócesis de Buga]], mediante la bula ''Apostolico muneri''. En el mismo proceso se realizaron ajustes territoriales con la arquidiócesis de Cali.<ref>{{Cita web
+|url=https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19660629_buguensis.html
+|título=Constitutio apostolica ''Apostolico muneri''
+|fecha=29 de junio de 1966
+|fechaacceso=9 de mayo de 2026
+|autor=Pablo VI
+|editorial=Santa Sede
+|idioma=la
+}}</ref>
+
+Esta reorganización permitió delimitar con mayor precisión las jurisdicciones eclesiásticas del centro y sur del Valle del Cauca, dejando a Palmira como sede de una diócesis centrada en los municipios del oriente y centro del departamento.
+
+=== Gobierno de Jesús Antonio Castro Becerra ===
+
+[[Jesús Antonio Castro Becerra]] fue el primer obispo de Palmira y gobernó la diócesis durante más de tres décadas, desde 1952 hasta 1983. Durante su episcopado se consolidaron la curia diocesana, la red parroquial y las estructuras pastorales básicas de la nueva diócesis.
+
+El 20 de agosto de 1983 se retiró del gobierno pastoral al alcanzar la edad canónica. Fue sucedido por [[José Mario Escobar Serna]], quien se desempeñaba como obispo coadjutor de Palmira con derecho a sucesión.
+
+=== Gobierno de José Mario Escobar Serna ===
+
+José Mario Escobar Serna asumió el gobierno de la diócesis el 20 de agosto de 1983. Su episcopado coincidió con una etapa de crecimiento urbano y social en Palmira y los municipios cercanos, lo que implicó nuevos retos pastorales para la Iglesia local.
+
+Durante su gobierno se fortaleció la estructura parroquial y se continuó el trabajo pastoral en sectores urbanos, rurales y corregimentales del territorio diocesano. Renunció al gobierno pastoral el 13 de octubre de 2000.
+
+=== Obispos del siglo XXI ===
+
+El 9 de abril de 2001, [[Juan Pablo II]] nombró obispo de Palmira a [[Orlando Antonio Corrales García]]. Gobernó la diócesis hasta el 12 de enero de 2007, cuando fue nombrado arzobispo de la [[arquidiócesis de Santa Fe de Antioquia]].
+
+El 2 de febrero de 2007 fue nombrado obispo de Palmira [[Abraham Escudero Montoya]], quien ejerció el cargo hasta su fallecimiento, ocurrido el 6 de noviembre de 2009.
+
+El 24 de mayo de 2010, el papa [[Benedicto XVI]] nombró a [[Edgar de Jesús García Gil]] como obispo de Palmira. Gobernó la diócesis hasta el 31 de mayo de 2024, fecha en que el papa [[Francisco (papa)|Francisco]] aceptó su renuncia al gobierno pastoral.<ref name="Vaticano2024" />
+
+Ese mismo día fue nombrado obispo de Palmira [[Rodrigo Gallego Trujillo]], sacerdote del clero de la [[diócesis de Buga]], hasta entonces vicario general y párroco de la catedral de esa diócesis.<ref name="Vaticano2024" /> Gallego fue ordenado obispo el 10 de agosto de 2024 y tomó posesión canónica de la diócesis el 17 de agosto del mismo año.<ref name="CEC" />
+
+== Catedral ==
+
+La iglesia catedral de la diócesis es la [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)|Catedral de Nuestra Señora del Rosario del Palmar]], ubicada en el centro histórico de [[Palmira (Colombia)|Palmira]]. Es el principal templo de la diócesis y sede de la cátedra del obispo.
+
+La advocación de Nuestra Señora del Rosario del Palmar está vinculada a la tradición religiosa de Palmira y a la historia eclesiástica local. En la catedral se celebran las principales ceremonias litúrgicas diocesanas, entre ellas ordenaciones sacerdotales, celebraciones episcopales, actos de posesión y solemnidades patronales.
+
+== Obispos ==
+
+=== Episcopologio ===
+
+* [[Jesús Antonio Castro Becerra]] †, 18 de diciembre de 1952-20 de agosto de 1983, retirado.
+* [[José Mario Escobar Serna]] †, 20 de agosto de 1983-13 de octubre de 2000, renunció.
+* [[Orlando Antonio Corrales García]], 9 de abril de 2001-12 de enero de 2007, nombrado arzobispo de [[arquidiócesis de Santa Fe de Antioquia|Santa Fe de Antioquia]].
+* [[Abraham Escudero Montoya]] †, 2 de febrero de 2007-6 de noviembre de 2009, falleció.
+* [[Edgar de Jesús García Gil]], 24 de mayo de 2010-31 de mayo de 2024, retirado.
+* [[Rodrigo Gallego Trujillo]], desde el 31 de mayo de 2024.
+
+=== Obispo actual ===
+
+[[Rodrigo Gallego Trujillo]] fue nombrado obispo de Palmira el 31 de mayo de 2024 por el papa [[Francisco (papa)|Francisco]]. Antes de su nombramiento se desempeñaba como vicario general y párroco de la catedral de la [[diócesis de Buga]].<ref name="Vaticano2024" /> Tomó posesión canónica de la sede el 17 de agosto de 2024.<ref name="CEC" />
+
+== Estadísticas ==
+
+Según el ''[[Anuario Pontificio]]'' de 2022, recogido por ''Catholic-Hierarchy'', la diócesis tenía a fines de 2021 un total de 795&nbsp;000 fieles bautizados sobre una población de 885&nbsp;600 habitantes, lo que representaba el 89.8&nbsp;% de la población total. Contaba además con 86 sacerdotes, 13 religiosos, 201 religiosas, 6 diáconos permanentes y 49 parroquias.<ref name="CH" />
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 520&nbsp;000 || 531&nbsp;000 || 97.9 || 118 || 72 || 46 || 4406 ||  || 75 || 326 || 37
+|- align="right"
+| 1970 || 285&nbsp;000 || ? || ? || 55 || 40 || 15 || 5181 ||  || 37 || 244 || 27
+|- align="right"
+| 1976 || 310&nbsp;000 || 325&nbsp;000 || 95.4 || 54 || 46 || 8 || 5740 ||  || 27 || 137 || 30
+|- align="right"
+| 1980 || 327&nbsp;000 || 368&nbsp;000 || 88.9 || 53 || 43 || 10 || 6169 ||  || 29 || 122 || 29
+|- align="right"
+| 1990 || 584&nbsp;000 || 651&nbsp;000 || 89.7 || 54 || 46 || 8 || 10&nbsp;814 ||  || 13 || 221 || 39
+|- align="right"
+| 1999 || 920&nbsp;000 || 976&nbsp;000 || 94.3 || 59 || 50 || 9 || 15&nbsp;593 ||  || 12 || 215 || 39
+|- align="right"
+| 2000 || 600&nbsp;000 || 650&nbsp;000 || 92.3 || 57 || 48 || 9 || 10&nbsp;526 || 1 || 15 || 216 || 39
+|- align="right"
+| 2001 || 600&nbsp;000 || 650&nbsp;000 || 92.3 || 66 || 57 || 9 || 9090 || 1 || 15 || 217 || 41
+|- align="right"
+| 2002 || 600&nbsp;000 || 650&nbsp;000 || 92.3 || 68 || 56 || 12 || 8823 ||  || 18 || 216 || 41
+|- align="right"
+| 2003 || 600&nbsp;000 || 650&nbsp;000 || 92.3 || 62 || 50 || 12 || 9677 ||  || 18 || 217 || 43
+|- align="right"
+| 2004 || 600&nbsp;000 || 700&nbsp;000 || 85.7 || 62 || 50 || 12 || 9677 ||  || 18 || 217 || 43
+|- align="right"
+| 2013 || 713&nbsp;000 || 790&nbsp;000 || 90.3 || 83 || 74 || 9 || 8590 || 1 || 16 || 210 || 47
+|- align="right"
+| 2016 || 737&nbsp;275 || 817&nbsp;171 || 90.2 || 80 || 73 || 7 || 9215 ||  || 17 || 204 || 48
+|- align="right"
+| 2019 || 762&nbsp;200 || 848&nbsp;500 || 89.8 || 82 || 75 || 7 || 9295 ||  || 19 || 192 || 49
+|- align="right"
+| 2021 || 795&nbsp;000 || 885&nbsp;600 || 89.8 || 86 || 78 || 8 || 9244 || 6 || 13 || 201 || 49
+|- align="right"
+| colspan="12" | <small>'''Fuente''': ''Catholic-Hierarchy'', con datos tomados del ''[[Anuario Pontificio]]''.<ref name="CH" /></small>
+|}
+
+== Instituciones y vida pastoral ==
+
+La diócesis desarrolla su actividad pastoral mediante parroquias, comunidades religiosas, movimientos laicales, instituciones educativas y organismos de servicio eclesial. Su curia se encuentra en Palmira y coordina la administración pastoral, sacramental y canónica de la jurisdicción.
+
+Entre las áreas de acción pastoral de la diócesis se encuentran la catequesis, la pastoral familiar, la pastoral juvenil, la formación sacerdotal, la pastoral social, la animación bíblica, la vida consagrada y la evangelización en comunidades urbanas y rurales.
+
+La diócesis también participa en la vida eclesial nacional a través de la [[Conferencia Episcopal de Colombia]] y forma parte de la provincia eclesiástica de Cali, junto con otras circunscripciones del suroccidente colombiano.
+
+== Véase también ==
+
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Arquidiócesis de Cali]]
+* [[Diócesis de Buga]]
+* [[Catedral de Nuestra Señora del Rosario del Palmar (Palmira)]]
+* [[Anexo:Diócesis latinas en Colombia|Diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+
+* [https://www.diocesispalmira.org/ Sitio web oficial de la diócesis de Palmira]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-palmira Ficha de la diócesis de Palmira] en la [[Conferencia Episcopal de Colombia]]
+* [https://www.catholic-hierarchy.org/diocese/dplmr.html Ficha de la diócesis de Palmira] en ''Catholic-Hierarchy''
+* [https://gcatholic.org/dioceses/diocese/palm6.htm Ficha de la diócesis de Palmira] en ''GCatholic''
+
+{{Control de autoridades}}
+
+[[Categoría:Diócesis de Palmira| ]]
+[[Categoría:Diócesis católicas de Colombia]]
+[[Categoría:Circunscripciones eclesiásticas católicas de Colombia]]
+[[Categoría:Provincia eclesiástica de Cali]]
+[[Categoría:Organizaciones religiosas fundadas en 1952]]
+[[Categoría:Colombia en 1952]]
+[[Categoría:Religión en Valle del Cauca]]
+[[Categoría:Palmira (Colombia)]]
