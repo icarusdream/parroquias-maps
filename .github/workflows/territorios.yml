@@ -17,16 +17,23 @@ jobs:
           for linea in open("territorios/paginas.txt", encoding="utf-8"):
               if "|" not in linea: continue
               codigo, titulo = linea.strip().split("|", 1)
+              previo = out / f"{codigo}.txt"
+              if previo.exists() and not previo.read_text(encoding="utf-8").startswith("ERROR"):
+                  continue
               url = "https://es.wikipedia.org/w/api.php?" + urllib.parse.urlencode({
                   "action": "parse", "page": titulo, "prop": "wikitext", "redirects": 1, "format": "json"})
-              try:
-                  d = json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30))
-                  texto = d.get("parse", {}).get("wikitext", {}).get("*", "") or ("ERROR: " + json.dumps(d.get("error", {}))[:300])
-              except Exception as e:
-                  texto = f"ERROR: {e}"
+              texto = "ERROR: sin intento"
+              for intento in range(5):
+                  try:
+                      d = json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30))
+                      texto = d.get("parse", {}).get("wikitext", {}).get("*", "") or ("ERROR: " + json.dumps(d.get("error", {}))[:300])
+                      break
+                  except Exception as e:
+                      texto = f"ERROR: {e}"
+                      time.sleep(10 * (intento + 1))
               (out / f"{codigo}.txt").write_text(texto, encoding="utf-8")
               print(codigo, titulo, len(texto))
-              time.sleep(1)
+              time.sleep(6)
           PY
       - name: Guardar en el repositorio
         run: |
