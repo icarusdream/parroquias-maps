@@ -1,0 +1,136 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Granada
+|tipo                    = diócesis
+|latín                   = Granadien(sis) in Columbia
+|escudo                  = Escudo de la Diócesis de Granada en Colombia.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Granada-meta eglise.jpg
+|pie imagen              = Catedral de Nuestra Señora del Carmen
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|16|1|1964}}
+|erección tipo           = prefectura apostólica del Ariari
+|bulaPontificia          = ''Laetamur admodum''
+|elevación vicariato     = {{fecha|3|10|1987}}
+|elevación diócesis      = {{fecha|29|10|1999}}
+|sufragánea              = [[arquidiócesis de Villavicencio]]
+|patrón                  =
+|catedral                = [[Catedral de Nuestra Señora del Carmen (Granada)|de Nuestra Señora del Carmen]]<ref>{{Cita web |url=https://www.gcatholic.org/churches/data/cathCO.htm#gxn |título=Cathedrals in Colombia |fechaacceso=24 de noviembre de 2008  |editorial=Giga-Catholic Information |idioma=inglés }}</ref>
+|sede                    = [[Granada (Meta)|Granada]]
+|región tipo             = Departamento
+|región                  = [[Meta (Colombia)|Meta]]
+|país                    = {{COL}}
+|curia                   = Carrera 13 N. 23-71, Granada
+|concatedral             =
+|ordinario               = [[Jorge Enrique Malpica Bejarano]]
+|auxiliar                =
+|emérito                 = [[José Figueroa Gómez]]<ref name="obispo">{{Cita web |url=http://www.catholic-hierarchy.org/bishop/bfiggo.html |título=Bishop José Figueroa Gómez |fechaacceso=24 de noviembre de 2008  |idioma=inglés |editorial=Catholic-Hierarchy }}</ref>
+|vicario                 =
+|administrador diocesano =
+|parroquias              = 27
+|población total         = 286&nbsp;650
+|población año           = 2021
+|fieles                  = 217&nbsp;450
+|porcentaje fieles       = 75.9
+|sacerdotes              = 56
+|área                    = 35&nbsp;000 km²
+|mapa                    = Mapa Diocesis de Granada (Colombia).svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.dgc.org.co www.dgc.org.co]
+}}
+
+La '''diócesis de Granada''' o '''de Granada en Colombia''' ({{lang-la|Dioecesis Granadiensis in Columbia}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Villavicencio]]. Desde el 31 de mayo de 2025 su [[obispo]] es [[Jorge Enrique Malpica Bejarano]].<ref>{{Cita web|url=https://www.noticiascaracol.com/colombia/primer-nombramiento-del-papa-leon-xiv-para-la-iglesia-catolica-en-colombia-nunca-uno-pide-esto-rg10|título=Primer nombramiento del papa León XIV para la Iglesia católica en Colombia: "Nunca uno pide esto"|fechaacceso=2025-05-31|apellido=Rojas|nombre=Camilo|fecha=2025-05-31|sitioweb=Noticias Caracol|idioma=es}}</ref>
+
+== Territorio y organización ==
+La diócesis tiene 35&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 13 municipios del [[Meta (Colombia)|departamento del Meta]]: [[El Dorado (Meta)|El Dorado]], [[El Castillo (Meta)|El Castillo]], [[Fuente de Oro]], [[Granada (Meta)|Granada]], [[La Macarena (Meta)|La Macarena]], [[La Uribe]], [[Lejanías]], [[Mesetas (Meta)|Mesetas]], [[Puerto Concordia]], [[Puerto Lleras]], [[Puerto Rico (Meta)|Puerto Rico]], [[San Juan de Arama]] y [[Vista Hermosa (Meta)|Vistahermosa]]; del municipio de La Macarena se excluye la parte occidental de su territorio, que pertenece a la [[diócesis de San Vicente del Caguán]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/granada_diocesis_700.gif |título=Mapa de la Diócesis de Granada |fechaacceso=24 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20150528074618/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/granada_diocesis_700.gif |fechaarchivo=28 de mayo de 2015 }}</ref>
+ 
+La diócesis limita con la [[arquidiócesis de Bogotá]] al norte, la arquidiócesis de Villavicencio al este, la [[diócesis de San José del Guaviare]] al sureste, la [[diócesis de San Vicente del Caguán]] al suroeste, y al oeste, con la [[diócesis de Neiva]].<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Granada (Meta)|Granada]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Granada)|Catedral de Nuestra Señora del Carmen]].
+
+En 2021 en la diócesis existían 27 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicariatos: Waldino Castillo, San Juan Pablo II, San José, San Pedro Apóstol y Santa Teresita.
+
+== Historia ==
+La prefectura apostólica de Ariari fue erigida el 16 de enero de 1964 mediante la [[bula]] ''Laetamur admodum'' del [[papa]] [[Pablo VI]], obteniendo el territorio del vicariato apostólico de Villavicencio (hoy arquidiócesis).<ref>(en latín) [https://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19640116_villavicentiensis-ariariensis_lt.html Bula ''Laetamur admodum''], AAS 56 (1964), pp.&nbsp;729-730.</ref>
+
+El 3 de octubre de 1987 la prefectura apostólica fue elevada al rango de vicariato apostólico mediante la bula ''Ad universas orbis'' del papa [[Juan Pablo II]].<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19871003_ariariensis_lt.html Bula ''Ad universas orbis''], AAS 80 (1988), pp.&nbsp;353-354.</ref>
+
+El 29 de octubre de 1999, mediante la bula ''Cum Vicariatus'' del papa Juan Pablo II, el vicariato apostólico fue elevado a diócesis y tomó su nombre actual.<ref>(en latín) [https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19991029_cum-vicariatus_lt.html Bula ''Cum Vicariatus''], AAS 92 (2000), pp.&nbsp;231-232.</ref>
+
+Originalmente sufragánea de la [[arquidiócesis de Bogotá]], el 3 de julio de 2004 la diócesis pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Villavicencio.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 217&nbsp;450 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 55&nbsp;000 || 63&nbsp;000 || 87.3 || 10 ||  || 10 || 5500 ||  || 3 || 4 || 7
+|- align="right"
+| 1968 || 69&nbsp;700 || 95&nbsp;000 || 73.4 || 12 ||  || 12 || 5808 ||  || 18 || 8 || 8
+|- align="right"
+| 1976 || 110&nbsp;000 || 120&nbsp;000 || 91.7 || 22 ||  || 22 || 5000 ||  || 28 || 24 || 14
+|- align="right"
+| 1980 || 120&nbsp;500 || 135&nbsp;000 || 89.3 || 27 || 1 || 26 || 4462 ||  || 30 || 33 || 15
+|- align="right"
+| 1990 || 208&nbsp;000 || 230&nbsp;000 || 90.4 || 25 || 8 || 17 || 8320 ||  || 21 || 36 || 16
+|- align="right"
+| 1999 || 192&nbsp;000 || 207&nbsp;000 || 92.8 || 25 || 14 || 11 || 7680 ||  || 15 || 29 || 18
+|- align="right"
+| 2000 || 188&nbsp;000 || 202&nbsp;760 || 92.7 || 25 || 13 || 12 || 7520 ||  || 16 || 32 || 18
+|- align="right"
+| 2001 || 193&nbsp;250 || 202&nbsp;920 || 95.2 || 28 || 15 || 13 || 6901 ||  || 17 || 30 || 18
+|- align="right"
+| 2002 || 194&nbsp;300 || 210&nbsp;000 || 92.5 || 29 || 15 || 14 || 6700 ||  || 19 || 30 || 18
+|- align="right"
+| 2003 || 150&nbsp;000 || 172&nbsp;000 || 87.2 || 27 || 14 || 13 || 5555 ||  || 19 || 30 || 19
+|- align="right"
+| 2004 || 150&nbsp;000 || 200&nbsp;000 || 75.0 || 31 || 19 || 12 || 4838 ||  || 18 || 30 || 18
+|- align="right"
+| 2006 || 151&nbsp;931 || 205&nbsp;151 || 74.1 || 31 || 21 || 10 || 4901 ||  || 11 || 31 || 18
+|- align="right"
+| 2013 || 188&nbsp;000 || 232&nbsp;100 || 81.0 || 37 || 31 || 6 || 5081 ||  || 6 || 26 || 21
+|- align="right"
+| 2016 || 185&nbsp;636 || 238&nbsp;607 || 77.8 || 39 || 36 || 3 || 4759 ||  || 4 || 26 || 23
+|- align="right"
+| 2019 || 211&nbsp;180 || 278&nbsp;160 || 75.9 || 50 || 45 || 5 || 4223 ||  || 6 || 16 || 26
+|- align="right"
+| 2021 || 217&nbsp;450 || 286&nbsp;650 || 75.9 || 56 || 48 || 8 || 3883 ||  || 8 || 23 || 27
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dgrec.html |título=''Diocese of Granada en Colombia''|fechaacceso=10 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=23 de junio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+En 2015 se ordenaron siete nuevos sacerdotes, mientras que la cifra descendió a uno en 2016. En el curso 2016-2017 contaba con treinta seminaristas: quince en el Seminario Mayor Diocesano y quince en el [[Seminario Redemptoris Mater]].<ref>{{Cita web |url=http://www.conferenciaepiscopal.es/wp-content/uploads/2017/03/Seminaristas-Mayores-2016-2017.pdf |título=Copia archivada |fechaacceso=2 de junio de 2017 |urlarchivo=https://web.archive.org/web/20170720232532/http://www.conferenciaepiscopal.es/wp-content/uploads/2017/03/Seminaristas-Mayores-2016-2017.pdf |fechaarchivo=20 de julio de 2017 }}</ref>
+
+== Episcopologio ==
+; Prefectos apostólicos del Ariari
+* [[Jesús María Coronado Caro]], [[Pía Sociedad de San Francisco de Sales|S.D.B.]] † (16 de enero de '''1964'''-10 de febrero de '''1973''' nombrado obispo de [[Diócesis de Girardot|Girardot]])
+* [[Héctor Jaramillo Duque]], S.D.B. † (14 de septiembre de '''1973'''-3 de agosto de '''1981''' nombrado obispo de [[Diócesis de Sincelejo|Sincelejo]])
+* [[Luís Carlos Riveros Lavado]], S.D.B. † (5 de marzo de '''1982'''-27 de septiembre de '''1986''' falleció)
+
+; Vicario apostólico de Ariari
+* [[Héctor Julio López Hurtado]], S.D.B. (15 de diciembre de '''1987'''-29 de octubre de '''1999''' nombrado obispo ordinario de Granada)
+
+; Obispos de Granada
+* [[Héctor Julio López Hurtado]], S.D.B. (29 de octubre de '''1999'''-15 de junio de '''2001''' nombrado obispo de [[Diócesis de Girardot|Girardot]])
+* [[José Figueroa Gómez]], (8 de agosto de '''2002'''-31 de mayo de '''2025''' retirado)
+* [[Jorge Enrique Malpica Bejarano]], desde el 31 de mayo de '''2025'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/gran1.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-granada Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Granada (Meta)]]
+[[Categoría:Diócesis de Colombia|Granada]]
+[[Categoría:Religión en Meta]]
+[[Categoría:Provincia eclesiástica de Villavicencio|Granada]]
+[[Categoría:Diócesis creadas por Pablo VI|Granada]]

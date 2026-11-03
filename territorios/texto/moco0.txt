@@ -1,0 +1,263 @@
+{{Ficha de circunscripción eclesiástica
+| nombre = Diócesis de Mocoa-Sibundoy
+| tipo = diócesis
+| latín = Mocoën(sis)-Sibundoyen(sis)
+| escudo = Escudo de la Diócesis de Mocoa-Sibundoy.svg
+| pie escudo = Escudo de la diócesis
+| imagen = Concatedral San Miguel Arcangel Mocoa.jpg
+| pie imagen = Concatedral de San Miguel Arcángel, en Mocoa.
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|20|12|1904}}
+| erección tipo = prefectura apostólica del Caquetá
+| decreto de erección = ''Cum perplures''
+| elevación vicariato = {{fecha|31|5|1930}}
+| elevación diócesis = {{fecha|29|10|1999}}
+| sufragánea = [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]]
+| patrón = 
+| catedral = [[Catedral de San Alfonso María de Ligorio (Sibundoy)|de San Alfonso María de Ligorio]]
+| sede = [[Sibundoy]]
+| región tipo = Departamento
+| región = [[Putumayo (Colombia)|Putumayo]]
+| país = {{COL}}
+| curia = Calle 7 N. 7, 05 Barrio Centro, Mocoa; Calle 19 N. 15-22, Sibundoy
+| concatedral = [[Concatedral de San Miguel Arcángel (Mocoa)|de San Miguel Arcángel]] (en [[Mocoa]])
+| ordinario = [[Sede vacante]]
+| auxiliar = 
+| emérito = [[Fabio de Jesús Morales Grisales]], [[Congregación del Santísimo Redentor|C.SS.R.]]
+| vicario = 
+| administrador apostólico = 
+| parroquias = 39
+| población total = 371&nbsp;327
+| población año = 2021
+| fieles = 291&nbsp;123
+| porcentaje fieles = 78.4
+| sacerdotes = 68
+| área = 24&nbsp;885 km²
+| mapa = Mapa Diocesis de Mocoa - Sibundoy.svg
+| pie mapa = Localización y extensión de la diócesis
+| sitio web = [https://www.diocmocoasibundoy.org/ www.diocmocoasibundoy.org]
+}}
+
+La '''diócesis de Mocoa-Sibundoy''' ({{lang-la|Dioecesis Mocoënsis-Sibundoyensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]]. Hasta el 10 de abril de 2025 su [[obispo]] fue [[Luis Albeiro Maldonado Monsalve]] nombrado obispo de [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]].
+
+== Territorio y organización ==
+
+La diócesis tiene 24&nbsp;885 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 15 municipios de 3 departamentos:
+* [[Putumayo (Colombia)|departamento de Putumayo]]: [[Colón (Putumayo)|Colón]], [[La Hormiga]], [[Mocoa]], [[Orito (Putumayo)|Orito]], [[Puerto Asís]], [[Puerto Caicedo]], [[Puerto Guzmán]], [[San Francisco (Putumayo)|San Francisco]], [[San Miguel (Putumayo)|San Miguel]], [[Santiago (Putumayo)|Santiago]], [[Sibundoy]] y [[Villagarzón]];
+* [[Cauca (Colombia)|departamento de Cauca]]: [[Piamonte (Cauca)|Piamonte]] y el centro poblado de [[San Juan de Villalobos]] en el municipio de [[Santa Rosa (Cauca)|Santa Rosa]];
+* [[Nariño (Colombia)|departamento de Nariño]]: el centro poblado [[El Empalme (Colombia)|El Empalme]] en el municipio de [[Ipiales]].<ref>Del la lista de parroquias del [http://www.diocmocoasibundoy.org/nuestras-parroquias sitio web] {{Wayback|url=http://www.diocmocoasibundoy.org/nuestras-parroquias |date=20190218141809 }} de la diócesis.</ref><ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/mocoa_sibundoy_diocesis_700.gif |título=Mapa de la Diócesis de Mocoa-Sibundoy |fechaacceso=17 de diciembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20141220065441/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/mocoa_sibundoy_diocesis_700.gif |fechaarchivo=20 de diciembre de 2014 }}</ref>
+
+Limita con la [[diócesis de Garzón]] al norte, la [[arquidiócesis de Popayán]] al noroeste, la [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]] al este, el [[vicariato apostólico de Puerto Leguízamo-Solano]] al sureste, la [[diócesis de Ipiales]] al suroeste, la [[diócesis de Pasto]] al oeste y el [[vicariato apostólico de San Miguel de Sucumbíos]] de la República del [[Ecuador]] al sur.<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Sibundoy]], en donde se halla la [[Catedral de San Alfonso María de Ligorio (Sibundoy)|Catedral de San Alfonso María de Ligorio]]. En [[Mocoa]] se halla la [[Concatedral de San Miguel Arcángel (Mocoa)|Concatedral de San Miguel Arcángel]].
+
+En 2021 en la diócesis existían 39 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicarías: Guadalupe, Perpetuo Socorro, San Mateo, Doce Apósteles y Santísima Trinidad.
+
+{|class="wikitable"  style="font-size:90%;width:98.5%;line-height:130%"
+|-style="background: #DDDDDD;" align=center
+| '''Vicaría''' || '''Parroquias''' || '''Ubicación''' 
+|-
+|! rowspan="10" |'''1 Guadalupe'''<br> || 1 Catedral de San Miguel Arcángel || Mocoa 
+|-
+| 2 Inmaculada Concepción || Mocoa
+|-
+| 3 Jesús Eucaristía || Mocoa 
+|-
+| 4 Divino Niño Jesús || El Pepino - Mocoa 
+|-
+| 5 Nuestra Señora de Valvanera || [[San Juan de Villalobos]], Santa Rosa
+|-
+| 6 Nuestra Señora del Rosario de Fátima || Villagarzón 
+|-
+| 7 Santa Lucía || [[Puerto Limón (Putumayo)|Puerto Limón]], Mocoa 
+|-
+| 8 Nuestra Señora de Las Lajas || Puerto Umbría, Villagarzón
+|-
+| 9 Centro Misional Yunguillo || Yunguillo, Mocoa
+|-
+| 10 Centro Misional Madre Caridad || La Castellana, Villagarzón
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|-
+|! rowspan="7" |'''2 Perpetuo Socorro'''<br> || 1 Iglesia Catedral San Alfonso María de Ligorio || Sibundoy
+|-
+| 2 San Antonio de Padua || Colón
+|-
+| 3 Santiago Apóstol || Santiago 
+|-
+| 4 San Francisco de Asís || San Francisco 
+|-
+| 5 Nuestra Señora del Rosario de Las Lajas || Sibundoy
+|-
+| 6 San Andrés || San Andrés, Santiago
+|-
+| 7 San Pedro || San Pedro, Colón 
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|-
+|! rowspan="9" |'''3 San Mateo'''<br> || 1 Nuestra Señora del Carmen || Puerto Caicedo
+|-
+| 2 María Auxiliadora || El Cedral, Puerto Caicedo
+|-
+| 3 Cristo Rey || Santa Ana, Puerto Asís 
+|-
+| 4 Nuestra Señora de Guadalupe || Puerto Asís 
+|-
+| 5 Señor de Los Milagros || Puerto Asís
+|-
+| 6 Nuestra Señora del Monte Carmelo || La Carmelita, Puerto Asís
+|-
+| 7 San Francisco de Asís || Puerto Asís 
+|-
+| 8 Divino Niño || Puerto Asís
+|-
+| 9 Nuestra Señora de La Paz || Piñuña Blanco, Puerto Asís
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|-
+|! rowspan="11" |'''4 Doce Apóstoles'''<br> || 1 Santísima Trinidad || Orito
+|-
+| 2 San Martín de Porres || Orito
+|-
+| 3 Virgen de La Merced || Siberia, Orito 
+|-
+| 4 Divina Misericordia || El Empalme, Ipiales
+|-
+| 5 Espíritu Santo || El Placer, Valle del Guamuez
+|-
+| 6 Cristo Redentor || El Tigre, Valle del Guamuez
+|-
+| 7 Nuestra Señora del Perpetuo Socorro || La Hormiga, Valle del Guamuez 
+|-
+| 8 Sagrado Corazón de Jesús || La Hormiga, Valle del Guamuez
+|-
+| 9 San José Esposo de la Virgen || La Dorada, San Miguel
+|-
+| 10 San Miguel Arcángel || Puerto Colón, San Miguel
+|-
+| 11 Centro Misional San Juan Bautista || Jordán Guisía, Valle del Guamuez
+|-
+|- style="background: #F0F0F0;"
+| || ||
+|-
+|-
+|! rowspan="9" |'''5 Santísima Trinidad'''<br> || 1 Inmaculada Concepción || Puerto Guzmán
+|-
+| 2 Inmaculada Concepción de María Santísima || Piamonte
+|-
+| 3 Santa María de los Ángeles || [[Mayoyoque]], Puerto Guzmán 
+|-
+| 4 Visitación de La Virgen || Gallinazo, Puerto Guzmán
+|-
+| 5 Sagrada Familia || José María, Puerto Guzmán
+|-
+| 6 Madre del Buen Pastor || Miraflor, Piamonte
+|-
+| 7 Centro Misional Santa Lucía || Puerto Guzmán
+|-
+| 8 Centro Misional Juan Pablo II || El Cedro, Puerto Guzmán 
+|-
+| 9 Centro Misional El Jauno || El Jauno, Puerto Guzmán
+|}
+
+== Historia ==
+La prefectura apostólica del Caquetá fue erigida el 20 de diciembre de 1904 mediante el decreto ''Cum perplures'' de la [[Congregación de Propaganda Fide]], obteniendo el territorio de la [[diócesis de Pasto]]. La nueva prefectura comprendía un inmenso territorio formado por los territorios de los actuales departamentos de [[Caquetá]], [[Putumayo (Colombia)|Putumayo]] y [[Amazonas (Colombia)|Amazonas]].<ref>(en latín) [https://archive.org/stream/analectaecclesia13romeuoft#page/107/mode/1up Decreto ''Cum perplures''], en «Analecta ecclesiastica», XIII, 1905, pp. 107-108.</ref><ref name ="GCaqueta">{{Cita web |url=http://www.gcatholic.org/dioceses/former/caqu0.htm |título=Apostolic Vicariate of Caquetá |fechaacceso=29 de octubre de 2012 |idioma=inglés |editorial=Catholic-Hierarchy |fechaarchivo=16 de marzo de 2013 |urlarchivo=https://web.archive.org/web/20130316104009/http://www.gcatholic.org/dioceses/former/caqu0.htm |deadurl=yes }}</ref>
+
+El 31 de mayo de 1930 la prefectura apostólica fue elevada al rango de vicariato apostólico con el [[Breve apostólico|breve]] ''Decessores Nostros'' del [[papa]] [[Pío XI]]. El vicario apostólico no tenía sede fija, residiendo no sólo en Sibundoy, sino también en Mocoa, [[Florencia (Caquetá)|Florencia]] y [[Leticia (Colombia)|Leticia]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-23-1931-ocr.pdf Breve ''Decessores Nostros''], AAS 23 (1931), p.&nbsp;42.</ref><ref name ="GCaqueta"/>
+
+El 8 de febrero de 1951, mediante la [[bula]] ''Quo efficacius'' del papa [[Pío XII]], el vicariato apostólico del Caquetá cedió porciones de su territorio para la erección del vicariato apostólico de Florencia (hoy arquidiócesis) y la prefectura apostólica de Leticia (hoy [[vicariato apostólico de Leticia]]) y al mismo tiempo cambió su nombre por el de vicariato apostólico de Sibundoy.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-43-1951-ocr.pdf Bula ''Quo efficacius''], AAS 43 (1951), p.&nbsp;356.</ref>
+
+Mediante la bula ''Cunctis in orbe'' el 23 de septiembre de 1964 cedió una porción de su territorio para la erección de la [[diócesis de Ipiales]] y una porción menor para la diócesis de Pasto.<ref>(en latín) [http://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19640923_ipialensis_lt.html Bula ''Cunctis in orbe''], AAS 57 (1965), p. 436.</ref>
+
+En 1968 los [[Orden de los Hermanos Menores Capuchinos|capuchinos]], que habían iniciado la misión del Caquetá, dieron paso a los misioneros [[Congregación del Santísimo Redentor|redentoristas]].
+
+El 29 de octubre de 1999, como consecuencia de la bula ''Catholica fides'' del papa [[Juan Pablo II]], el vicariato apostólico fue elevado a diócesis y asumió su nombre actual, con la elevación simultánea de la iglesia de San Miguel Arcángel de Mocoa al rango de concatedral de la diócesis.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19991029_catholica-fides_lt.html Bula ''Catholica fides''], AAS 92 (2000), pp. 230-231.</ref>
+
+El 13 de julio de 2019 la diócesis, hasta entonces sufragánea de la [[arquidiócesis de Popayán]], pasó a formar parte de la provincia eclesiástica de Florencia.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 291&nbsp;123 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1966 || 54&nbsp;700 || 55&nbsp;000 || 99.5 || 16 || 2 || 14 || 3418 ||  || 7 || 60 || 10
+|- align="right"
+| 1970 || 72&nbsp;015 || 72&nbsp;015 || 100.0 || 20 || 2 || 18 || 3600 ||  || 18 || 47 || 
+|- align="right"
+| 1976 || 84&nbsp;005 || 87&nbsp;355 || 96.2 || 19 ||  || 19 || 4421 ||  || 32 || 69 || 11
+|- align="right"
+| 1980 || 121&nbsp;000 || 124&nbsp;000 || 97.6 || 20 || 4 || 16 || 6050 ||  || 27 || 77 || 11
+|- align="right"
+| 1990 || 124&nbsp;000 || 127&nbsp;000 || 97.6 || 19 || 4 || 15 || 6526 || 1 || 24 || 92 || 14
+|- align="right"
+| 1999 || 171&nbsp;500 || 182&nbsp;500 || 94.0 || 33 || 24 || 9 || 5196 || 1 || 19 || 82 || 19
+|- align="right"
+| 2000 || 175&nbsp;000 || 185&nbsp;800 || 94.2 || 30 || 21 || 9 || 5833 || 1 || 18 || 86 || 22
+|- align="right"
+| 2001 || 175&nbsp;000 || 185&nbsp;800 || 94.2 || 38 || 29 || 9 || 4605 ||  || 17 || 86 || 22
+|- align="right"
+| 2002 || 172&nbsp;000 || 180&nbsp;000 || 95.6 || 37 || 31 || 6 || 4648 ||  || 17 || 89 || 22
+|- align="right"
+| 2003 || 234&nbsp;000 || 264&nbsp;359 || 88.5 || 37 || 34 || 3 || 6324 ||  || 12 || 87 || 23
+|- align="right"
+| 2004 || 255&nbsp;000 || 290&nbsp;200 || 87.9 || 29 || 25 || 4 || 8793 ||  || 13 || 87 || 23
+|- align="right"
+| 2013 || 295&nbsp;600 || 335&nbsp;000 || 88.2 || 71 || 67 || 4 || 4163 || 4 || 21 || 77 || 37
+|- align="right"
+| 2016 || 357&nbsp;000 || 397&nbsp;000 || 89.9 || 74 || 70 || 4 || 4824 || 6 || 10 || 44 || 40
+|- align="right"
+| 2019 || 287&nbsp;000 || 369&nbsp;332 || 77.7 || 67 || 62 || 5 || 4283 || 6 || 6 || 40 || 40
+|- align="right"
+| 2020 || 283&nbsp;835 || 373&nbsp;300 || 76.0 || 67 || 62 || 5 || 4236 || 6 || 7 || 40 || 39
+|- align="right"
+| 2021 || 291&nbsp;123 || 371&nbsp;327 || 78.4 || 68 || 63 || 5 || 4281 || 6 || 7 || 40 || 39
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dmosi.html |título=''Diocese of Mocoa-Sibundoy''|fechaacceso=13 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=27 de julio de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Prefecto apostólico de Caquetá ===
+* P. Fedele da Montclar, [[Orden de los Hermanos Menores Capuchinos|O.F.M.Cap.]] † ('''1905'''-'''1930''' falleció)
+
+=== Vicarios apostólicos de Caquetá/Sibundoy ===
+* Miguel Monconill y Viladot, O.F.M.Cap. † (30 de junio de '''1930'''-26 de febrero de '''1946''' falleció)
+* Camilo Plácido Crous y Salichs, O.F.M.Cap. † (10 de abril de '''1947'''-16 de enero de '''1971''' retirado)
+* Ramón Mantilla Duarte, [[Congregación del Santísimo Redentor|C.SS.R.]] † (16 de enero de '''1971'''-26 de abril de '''1977''' nombrado obispo de [[Diócesis de Garzón|Garzón]])
+* Rafael Arcadio Bernal Supelano, C.SS.R. † (27 de febrero de '''1978'''-29 de marzo de '''1990''' nombrado obispo de [[Diócesis de Arauca|Arauca]])
+* Fabio de Jesús Morales Grisales, C.SS.R. (15 de abril de '''1991'''-29 de octubre de '''1999''' nombrado obispo diocesano)
+
+=== Obispos de Mocoa-Sibundoy ===
+* Fabio de Jesús Morales Grisales, C.SS.R. (29 de octubre de '''1999'''-18 de octubre de '''2003''' retirado)
+* [[Luis Alberto Parra Mora]] † (18 de octubre de '''2003'''-1 de diciembre de '''2014''' retirado)<ref group='nota'>Desde el 1 de diciembre de 2014 al 15 de diciembre de 2015, día de la toma de posesión de Luis Albeiro Maldonado Monsalve, fue administrador apostólico [[Iván Antonio Marín López]], arzobispo de [[Arquidiócesis de Popayán|Popayán]].</ref>
+* [[Luis Albeiro Maldonado Monsalve]] (15 de octubre de '''2015 -''' 10 de abril de '''2025''' nombrado obispo de [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]])
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/moco0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-mocoa-sibundoy Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Mocoa-Sibundoy]]
+[[Categoría:Sibundoy]]
+[[Categoría:Religión en Mocoa]]
+[[Categoría:Provincia eclesiástica de Florencia (Colombia)|Mocoa-Sibundoy]]
+[[Categoría:Organizaciones religiosas fundadas en 1999]]
+[[Categoría:Diócesis creadas por Pío X|Mocoa-Sibundoy]]

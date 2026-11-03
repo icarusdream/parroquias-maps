@@ -1,0 +1,145 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Istmina-Tadó
+|tipo                    = diócesis
+|latín                   = Istminana-Taduana
+|escudo                  = Escudo de la Diócesis de Istmina - Tadó.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = no
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|14|11|1952}}
+|erección tipo           = vicariato apostólico de Istmina
+|bulaPontificia          = ''Cum Usu Quotidiano''
+|elevación diócesis      = {{fecha|30|4|1990}}
+|sufragánea              = [[arquidiócesis de Santa Fe de Antioquia]]
+|patrón                  =
+|catedral                = [[Catedral de San Pablo (Istmina)|de San Pablo]]
+|sede                    = [[Istmina]]
+|región tipo             = Departamento
+|región                  = [[Chocó]]
+|país                    = {{COL}}
+|curia                   = Despacho Episcopal, Calle 8a, N. 20A-01 Istmina
+|concatedral             = [[Concatedral de San José (Tadó)|de San José]] (en [[Tadó]])
+|ordinario               = [[Mario de Jesús Álvarez Gómez]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador diocesano =
+|parroquias              = 63
+|población total         = 270&nbsp;000
+|población año           = 2021
+|fieles                  = 251&nbsp;000
+|porcentaje fieles       = 93.0
+|sacerdotes              = 63
+|área                    = 22&nbsp;240 km²
+|mapa                    = Mapa Diocesis de Istmina-Tado.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://www.diocesisistminatado.org/ www.diocesisistminatado.org]
+}}
+
+La '''diócesis de Istmina-Tadó''' ({{lang-la|Dioecesis Istminana-Taduana}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Santa Fe de Antioquia]]. Desde el 3 de febrero de 2018 su [[obispo]] es [[Mario de Jesús Álvarez Gómez]].<ref name="obispo">{{cita web|título=Bishop Mario de Jesús Álvarez Gómez|url=http://www.catholic-hierarchy.org/bishop/balvgom.html|idioma=inglés|sitioweb=catholic-hierarchy.org}}</ref>
+
+== Territorio y organización ==
+La diócesis tiene 22&nbsp;240 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 18 municipios del [[Chocó|departamento del Chocó]]: [[Alto Baudó]], [[Bahía Solano (Colombia)|Bahía Solano]], [[Bajo Baudó]], [[Cértegui]], [[Condoto]], [[Cantón de San Pablo (Chocó)|Cantón de San Pablo]], [[El Litoral del San Juan]], [[Istmina]], [[Juradó]], [[Medio Baudó]], [[Litoral del San Juan|Medio San Juan]], [[Nóvita]], [[Nuquí]], [[Río Iró]], [[San José del Palmar]], [[Sipí]], [[Tadó]] y [[Unión Panamericana]].<ref name="mapa">{{cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/itsmina_tado_diocesis_700.gif |título=Mapa de la Diócesis de Istmina-Tadó |fechaacceso=20 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+Su territorio limita con [[Panamá]] al extremo noroeste, al norte con la [[diócesis de Apartadó]] y la [[diócesis de Quibdó]], al oriente con la [[diócesis de Pereira]], al sureste con la [[Diócesis de Cartago (Colombia)|diócesis de Cartago]] y la [[diócesis de Buga]], al sur con la [[diócesis de Palmira]] y la [[diócesis de Buenaventura]], y al occidente con el [[océano Pacífico]].<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Istmina]], en donde se halla la [[Catedral de San Pablo (Istmina)|Catedral de San Pablo]]. En [[Tadó]] se encuentra la [[Concatedral de San José (Tadó)|Concatedral de San José]].
+
+En 2021 en la diócesis existían 63 [[Parroquia (religión)|parroquias]] agrupadas en 
+* Zona episcopal territorial San Francisco Javier, conformada por 3 vicarías foráneas con 21 parroquias;
+* Zona episcopal territorial San Francisco Solano (6 parroquias)
+* Zona episcopal territorial San Pedro Claver (7 parroquias), en el litoral Pacífico del departamento del Chocó;
+* Zona episcopal territorial Santa Laura Montoya Upegui (8 parroquias), cuenca del río Baudó;
+* Zona episcopal territorial Santa Teresita del Niño Jesús, conformada por 3 vicarías foráneas con 42 parroquias: vicaría foránea Monseñor Gustavo Posada Peláez (11 parroquias), Monseñor Alonso Llano Ruiz (15 parroquias) y Beato Jesús Emilio Jaramillo Monsalve (16 parroquias). 
+
+== Historia ==
+=== Vicariato apostólico ===
+La [[prefectura apostólica del Chocó]] fue erigida en 1908 y fue administrada por los [[Misioneros Hijos del Inmaculado Corazón de María|misioneros claretianos]], con Juan Gil como su primer prefecto apostólico, que llegó un año después. Sin embargo, la prefectura apostólica fue suprimida y fueron erigidos dos vicariatos apostólicos el 14 de noviembre de 1952, mediante [[bula]] ''Cum Usu Quotidiano'' del [[papa]] [[Pío XII]]: vicariato apostólico de Quibdó, en donde permanecieron los claretianos y vicariato apostólico de Istmina, administrado por los [[Misioneros Javerianos de Yarumal]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-45-1953-ocr.pdf Bula ''Cum usu cotidiano''], AAS 45 (1953), p.&nbsp;217.</ref> Este último es el precursor de la actual diócesis, con Gustavo Posada Peláez como vicario apostólico. Se posesionó el 12 de junio de 1953.<ref name="cec">{{cita web |url=http://www.cec.org.co/?apc=ba1;002;;-&x=5289 |título=Diócesis de Istmina-Tadó |fechaacceso=20 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+=== Diócesis ===
+El 30 de abril de 1990, como consecuencia de la bula ''Quamvis nonnullis'' del papa [[Juan Pablo II]], el vicariato apostólico fue elevado a diócesis y tomó su nombre actual.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19900430_istminana-taduana_lt.html Bula ''Quamvis nonnullis''], AAS 82 (1990), pp.&nbsp;935-936.</ref> La iglesia de San Pablo de Istmina pasó a ser la [[catedral]], y la iglesia de San José en Tadó [[concatedral]]. Gustavo Posada Peláez pasó a ser obispo diocesano, quien se posesionó en Istmina el 18 de agosto de 1990 y un día después en Tadó. Al cumplir 75 años, el papa aceptó su renuncia y el 5 de mayo de 1993 Alonso Llano Ruiz fue elegido como su sucesor, que fue ordenado obispo en [[Rionegro (Antioquia)|Rionegro]] el 29 de mayo, tomó posesión el 19 de junio en Istmina y en Tadó al día siguiente.<ref name="cec" />
+
+Llano Ruiz, obispo de la diócesis de Istmina-Tadó presentó renuncia a su cargo. El 5 de junio de 2010 fue aceptada su dimisión por el papa [[Benedicto XVI]], y se nombró a Julio Hernando García Peláez, hasta entonces [[obispo auxiliar]] de [[Arquidiócesis de Cali|Cali]], como nuevo obispo de Istmina-Tadó, que se posesionó el 24 de julio siguiente. 
+
+Los días 2, 3 y 4 de mayo de 2013 celebró el XX Encuentro de Pastoral Afrocolombiana con el lema ''Los jóvenes afro en la Pastoral de la Iglesia'', con la participación de 14 delegaciones de todo el país. La <ref>[http://www.pastoralafrocali.blogspot.com/2013/05/xx-encuentro-nacional-de-pastoral-afro.html XX Encuentro de Pastoral Afrocolombiana]</ref> primera jornada recordó el recorrido desde el último encuentro en [[Barranquilla]] y se reflexionó sobre el papel de la mujer en la parábola del hijo pródigo. La segunda jornada <ref>[http://www.pastoralafrocali.blogspot.com/2013/05/xx-encuentro-nacional-de-pastoral-afro_3.html XX Encuentro de Pastoral Afrocolombiana, segunda jornada]</ref> abrió el espacio para que los jóvenes con los procesos más avanzados mostraran su trabajo pastoral. La parte formativa tuvo lugar en la tercera jornada<ref>[http://www.pastoralafrocali.blogspot.com/2013/05/iii-parte-formacion-investigacion.html XX Encuentro de Pastoral Afrocolombiana, tercera jornada]</ref> con la exposición de Miguel Demetrio Moya y la presentación del santuario del Divino Ecce Homo de Raspadura (cerca de Istmina) por el p. Ernesto Zapata, como preludio a la visita de las delegaciones y su participación en la eucaristía y la procesión.<ref>[http://www.pastoralafrocali.blogspot.com/2013/05 Pastoral Afrocolombiana de la Arquidiócesis de Cali]. Consultado el 3 y el 13 de mayo de 2013.</ref>
+
+El 15 de junio de 2017, el papa [[Francisco (papa)|Francisco]] nombró a Julio Hernando García Peláez obispo de [[Diócesis de Garagoa|Garagoa]] y designá a Orlando Antonio Corrales García, arzobispo de Santafé de Antioquia, como administrador apostólico. El 3 de febrero del año 2018, el mismo papa designó como cuarto obispo de Istmina-Tadó, al presbítero Mario de Jesús Álvarez Gómez, hasta entonces director nacional de Obras Misionales Pontificias de Colombia. El 3 de marzo siguiente, en la Catedral San Pablo Apóstol de Istmina fue ordenado obispo y tomó posesión de la diócesis. Al día siguiente, 4 de marzo, tomó posesión en la Concatedral de San José en Tadó.
+
+El 21 de octubre de 2021 la diócesis fue organizada pastoralmente de la siguiente manera: 63 parroquias, 6 vicarías foráneas y 2 zonas episcopales territoriales. Ese mismo día, se asumió plenamente, en todos sus componentes, el Plan de Acción Pastoral ''LA CHAMPA MISIONERA'', Global y Misionero, 2020-2035.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 251&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="center"
+!colspan=12 | '''Vicariato apostólico de Istmina'''
+|- align="right"
+| 1966 || 147&nbsp;000 || 152&nbsp;500 || 96.4 || 24 || 4 || 20 || 6125 ||  || 26 || 91 || 14
+|- align="right"
+| 1968 || 138&nbsp;000 || 147&nbsp;000 || 93.9 || 27 || 7 || 20 || 5111 ||  || 25 || 97 || 16
+|- align="right"
+| 1976 || 170&nbsp;000 || 186&nbsp;000 || 91.4 || 23 || 23 ||  || 7391 ||  ||  || 129 || 15
+|- align="right"
+| 1980 || 197&nbsp;880 || 213&nbsp;580 || 92.6 || 27 || 27 ||  || 7328 ||  ||  || 126 || 20
+|- align="center"
+!colspan=12 | '''Diócesis de Istmina-Tadó'''
+|- align="right"
+| 1990 || 233&nbsp;000 || 252&nbsp;000 || 92.5 || 53 || 51 || 2 || 4396 ||  || 3 || 128 || 34
+|- align="right"
+| 1999 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 60 || 57 || 3 || 2916 ||  || 6 || 102 || 36
+|- align="right"
+| 2000 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 59 || 56 || 3 || 2966 ||  || 6 || 102 || 36
+|- align="right"
+| 2001 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 60 || 57 || 3 || 2916 ||  || 6 || 102 || 36
+|- align="right"
+| 2002 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 59 || 56 || 3 || 2966 ||  || 7 || 102 || 37
+|- align="right"
+| 2003 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 62 || 59 || 3 || 2822 ||  || 9 || 102 || 38
+|- align="right"
+| 2004 || 175&nbsp;000 || 200&nbsp;000 || 87.5 || 61 || 58 || 3 || 2868 ||  || 10 || 101 || 38
+|- align="right"
+| 2006 || 181&nbsp;000 || 206&nbsp;000 || 87.9 || 63 || 60 || 3 || 2873 ||  || 12 || 98 || 38
+|- align="right"
+| 2013 || 210&nbsp;200 || 225&nbsp;200 || 93.3 || 77 || 73 || 4 || 2729 ||  || 8 || 75 || 54
+|- align="right"
+| 2016 || 205&nbsp;080 || 215&nbsp;915 || 95.0 || 80 || 76 || 4 || 2563 || 3 || 13 || 47 || 63
+|- align="right"
+| 2019 || 209&nbsp;000 || 222&nbsp;400 || 94.0 || 101 || 99 || 2 || 2069 || 3 || 8 || 22 || 63
+|- align="right"
+| 2021 || 251&nbsp;000 || 270&nbsp;000 || 93.0 || 63 || 60 || 3 || 3984 || 3 || 7 || 46 || 63
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dista.html |título=''Diocese of Istmina-Tadó''|fechaacceso=1 de diciembre de 2024 |apellido=Cheney |nombre=David |fecha=6 de octubre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Vicario apostólico de Istmina ===
+* [[Gustavo Posada Peláez]], [[Misioneros Javerianos de Yarumal|M.X.Y.]] † (24 de marzo de '''1953'''-30 de abril de '''1990''' nombrado obispo diocesano)
+
+=== Obispos de Istmina-Tadó ===
+* [[Gustavo Posada Peláez]], [[Misioneros Javerianos de Yarumal|M.X.Y.]] † (30 de abril de '''1990'''-5 de mayo de '''1993''' retirado)
+* [[Alonso Llano Ruiz]] † (5 de mayo de '''1993'''-5 de junio de '''2010''' retirado)<ref>[http://www.cec.org.co/index.php?option=com_content&view=article&id=352:monsenor-alonso-llano-ruiz-obispo-emerito-de-istmina-tado&catid=35&Itemid=331 Alonso Llano Ruiz]</ref>
+* [[Julio Hernando García Peláez]] (5 de junio de '''2010'''-15 de junio de '''2017''' nombrado obispo de [[Diócesis de Garagoa|Garagoa]])<ref>[http://www.cec.org.co/index.php?option=com_content&view=article&id=202:istmina-tado&catid=33:obispos&Itemid=329 Julio Hernando García Peláez]</ref>
+* [[Mario de Jesús Álvarez Gómez]], desde el 3 de febrero de '''2018'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/istm0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-istmina-tad%C3%B3 Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Istmina]]
+[[Categoría:Tadó]]
+[[Categoría:Diócesis de Colombia|Istmina-Tado]]
+[[Categoría:Religión en Chocó]]
+[[Categoría:Provincia eclesiástica de Santa Fe de Antioquia|Istmina-Tado]]
+[[Categoría:Diócesis creadas por Pío XII|Istmina-Tado]]

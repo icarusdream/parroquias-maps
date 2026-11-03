@@ -1,0 +1,112 @@
+{{Ficha de circunscripción eclesiástica
+| nombre = Vicariato apostólico de Puerto Leguízamo-Solano
+| tipo = vicariato
+| latín = Portus Leguizamen(sis)-Solanen(sis)
+| escudo = 
+| pie escudo = 
+| imagen = no
+| pie imagen = 
+| iglesia = [[Iglesia católica|católica]]
+| iglesia sui iuris = [[Iglesia latina|latina]]
+| rito = [[Rito romano|romano]]
+| erección = {{fecha|21|3|2013}}
+| erección tipo = vicariato apostólico
+| bulaPontificia = ''Caritas Domini''
+| sufragánea = [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]]
+| patrón = 
+| catedral = [[Catedral de Nuestra Señora del Carmen (Puerto Leguízamo)|de Nuestra Señora del Carmen]]<ref name="Gcatholic">{{Cita web |url=http://www.gcatholic.org/dioceses/diocese/legu0.htm |título=Vicariate Apostolic of Puerto Leguízamo-Solano |fechaacceso=22 de febrero de 2013  |idioma=inglés |editorial=Giga-Catholic}}</ref>
+| sede = [[Puerto Leguízamo]]-[[Solano]]
+| región tipo = Departamento
+| región = [[Putumayo (Colombia)|Putumayo]] y [[Caquetá]]
+| país = {{COL}}
+| curia = Calle 3 N. 3-00, Puerto Leguízamo
+| concatedral = Nuestra Señora de las Mercedes, Solano
+| ordinario = [[Joaquín Humberto Pinzón Güiza]], [[Misioneros de la Consolata|I.M.C.]]
+| auxiliar = 
+| emérito = 
+| vicario = 
+| administrador apostólico = 
+| parroquias = 8
+| población total = 63&nbsp;500
+| población año = 2022
+| fieles = 51&nbsp;600
+| porcentaje fieles = 81.3
+| sacerdotes = 15
+| área = 56&nbsp;000 km²
+| mapa = Mapa Vicariato de Puerto Leguizamo - Solano.svg
+| pie mapa = Localización y extensión del vicariato apostólico
+| sitio web = [https://www.vicariatoleguizamosolano.org.co/ www.vicariatoleguizamosolano.org.co]
+}}
+
+El '''vicariato apostólico de Puerto Leguízamo-Solano''' ({{lang-la|Vicariatus Apostolicus Portus Leguizamensis-Solanensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]] en los departamentos de [[Putumayo (Colombia)|Putumayo]] y [[Caquetá]]. Se trata de un [[vicariato apostólico]] [[Iglesia latina|latino]], [[Circunscripción inmediatamente sujeta a la Santa Sede|inmediatamente sujeto a la Santa Sede]] (agregado a la provincia eclesiástica de [[Arquidiócesis de Florencia (Colombia)|Florencia]]).<ref>[https://www.cec.org.co/jurisdicciones/vicariatos/vicariato-apost%C3%B3lico-de-puerto-legu%C3%ADzamo-%E2%80%93-solano Sitio web] de la CEC</ref> Desde el 21 de febrero de 2013 su [[ordinario (clérigo)|vicario apostólico]] es el [[obispo]] [[Joaquín Humberto Pinzón Güiza]], de los [[Misioneros de la Consolata]].<ref group="nota">[[Obispo titular]] de [[Diócesis de Ottocium|Ottocium]].</ref> 
+
+== Territorio y organización ==
+El vicariato apostólico tiene 58&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en: el municipio de [[Puerto Leguízamo]] en el [[Putumayo (Colombia)|departamento de Putumayo]]; el municipio de [[Solano (Caquetá)|Solano]] en el [[Caquetá|departamento de Caquetá]]; y el [[Áreas no municipalizadas de Colombia|área no municipalizada]] de [[Puerto Alegría (Colombia)|Puerto Alegría]] en el [[Amazonas (Colombia)|departamento de Amazonas]].
+
+Su territorio limita al norte con el [[vicariato apostólico de San Vicente del Caguán]], al oeste con la [[arquidiócesis de Florencia]] y la [[diócesis de Mocoa-Sibundoy]], al sur con la República del [[Perú]] y el [[vicariato apostólico de Leticia]], y al este con la [[diócesis de San José del Guaviare]] y el [[vicariato apostólico de Mitú]].
+
+La sede del vicariato apostólico se encuentra en la ciudad de [[Puerto Leguízamo]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Puerto Leguízamo)|Catedral de Nuestra Señora del Carmen]].
+
+En 2022 en el vicariato apostólico existían 8 [[Parroquia (religión)|parroquias]]:
+* Divino Niño, en Puerto Leguízamo;
+* Nuestra Señora de Fátima, en [[Puerto Ospina]] (Puerto Leguízamo);
+* Nuestra Señora de las Mercedes, en Solano;
+* Nuestra Señora del Carmen, en Puerto Leguízamo;
+* Sagrado Corazón de Jesús, en La Tagua (Puerto Leguízamo);
+* Puerto Alegría, en Puerto Alegría.
+
+== Historia ==
+=== Antecedentes ===
+En 1896 el territorio que comprende a los actuales departamentos del Caquetá, Putumayo y Amazonas fue confiado al cuidado pastoral de los misioneros [[Orden de los Hermanos Menores Capuchinos|capuchinos]].
+
+En 1951 fue erigido el [[Arquidiócesis de Florencia (Colombia)|vicariato apostólico Florencia]], abarcando como jurisdicción todo el Caquetá y la zona de [[Puerto Leguízamo]] en el Putumayo. La nueva circunscripción fue encomendada a los [[Misioneros de la Consolata]].
+
+El 9 de diciembre de 1985, el [[papa]] [[Juan Pablo II]] erigió el vicariato apostólico de San Vicente-Puerto Leguízamo, con territorio desmembrado del vicariato apostólico de Florencia, que fue elevado a diócesis en esa misma fecha.<ref name="vic">{{Cita web |url=http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9408 |título=Vicariatos Apostólicos de San Vicente - Puerto Leguízamo |fechaacceso=15 de marzo de 2011 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |fechaarchivo=28 de diciembre de 2010 |urlarchivo=https://web.archive.org/web/20101228000940/http://www.cec.org.co/index.shtml?apc=ba1;005;;-&x=9408 |deadurl=yes }}</ref>
+
+=== Vicariato apostólico ===
+El vicariato apostólico fue erigido el 21 de febrero de 2013 mediante la [[bula]] ''Caritas Domini'' del papa [[Benedicto XVI]], obteniendo el territorio de los vicariatos apostólicos de San Vicente-Puerto Leguízamo (hoy [[diócesis de San Vicente del Caguán]]) y [[Vicariato apostólico de Leticia|Leticia]].<ref>(en latín) [https://www.vatican.va/content/benedict-xvi/la/apost_constitutions/documents/hf_ben-xvi_apc_20130221_portus-leguizamensis-solanensis.html Bula ''Caritas Domini''], AAS 105 (2013), pp.&nbsp;251-252.</ref><ref group='nota'>Esta información está contenida en el anuncio de la creación del vicariato apostólico publicado en el Boletín Diario en línea de la Santa Sede. La bula de erección incluida en el ''[[Acta Apostolicae Sedis]]'' omite la referencia al vicariato apostólico de Leticia.</ref>
+
+Joaquín Humberto Pinzón Güiza, superior regional de los padres de la Consolata en Colombia y [[Ecuador]], fue nombrado primer vicario apostólico de Puerto Leguízamo-Solano y [[obispo titular]] de Ottocium.
+
+El 20 de abril de 2013, en la [[Catedral primada de Colombia|catedral primada]] en [[Bogotá]], Pinzón Güiza recibió la ordenación episcopal de manos del arzobispo de [[Arquidiócesis de Tunja|Tunja]] [[Luis Augusto Castro Quiroga]], como consagrante principal, y del [[cardenal]] [[Rubén Salazar Gómez]], arzobispo de [[Arquidiócesis de Bogotá|Bogotá]] y de [[Francisco Javier Múnera Correa]], vicario apostólico de San Vicente-Puerto Leguízamo. 
+
+El 4 de mayo de 2013, en la Catedral de Nuestra Señora del Carmen de Puerto Leguízamo, Pinzón Guiza tomó posesión canónica del nuevo vicariato apostólico.<ref name="pos">{{Cita web |url=http://www.consolata.org/slideshow-home/14397-posesion-canonica-de-mons-joaquin-pinzon-en-el-vicariato-apostolico-de-pto-leguizamo-solano |título=Posesión canónica de mons. Loaquín Pinzón en el Vicariato Apostólico de pto. Leguizamo-Solano |fechaacceso=9 de mayo de 2013 |idioma=español |editorial=Missionari della Consolata }}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 el vicariato apostólico tenía a fines de 2022 un total de 51&nbsp;600 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+| 2013 || 36&nbsp;000 || 46&nbsp;000 || 78.2 || 7|| - || 7  || 5142 || 1 || 7 || 8 || 6
+|- align="right"
+| 2014 || 49&nbsp;000 || 59&nbsp;000 || 83.1 || 12 || 1 || 11  || 4083 ||  || 13 || 7 || 10
+|- align="right"
+| 2017 || 48&nbsp;540 || 58&nbsp;660 || 82.7 || 13 || 1 || 12 || 3733 ||  || 15 || 12 || 5
+|- align="right"
+| 2020 || 48&nbsp;638 || 58&nbsp;600 || 83.0 || 13 || 2 || 11 || 3741 ||  || 11 || 11 || 7
+|- align="right"
+| 2022 || 51&nbsp;600 || 63&nbsp;500 || 81.3 || 15 || 4 || 11 || 3440 ||  || 11 || 15 || 8
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dplso.html |título=''Vicariate Apostolic of Puerto Leguízamo-Solano'' |fechaacceso=10 de noviembre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024|sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Joaquín Humberto Pinzón Güiza]], [[Misioneros de la Consolata|I.M.C.]], desde el 21 de febrero de '''2013'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/legu0.htm Ficha del vicariato apostólico] en [http://www.gcatholic.org/ www.gcatholic.org]
+* {{cita web|url=http://press.vatican.va/content/salastampa/it/bollettino/pubblico/2013/02/21/0112/00287.html#EREZIONE%20DEL%20VICARIATO%20APOSTOLICO%20DI%20PUERTO%20LEGU%C3%8DZAMO-SOLANO%20%28COLOMBIA%29%20E%20NOMINA%20DEL%20PRIMO%20VICARIO%20APOSTOLICO|título=Erección del vicariato apostólico en press.vatican.va}}
+
+{{Control de autoridades}}
+[[Categoría:Vicariatos apostólicos de Colombia|Puerto Leguizamo-Solano]]
+[[Categoría:Diócesis creadas por Benedicto XVI|Puerto Leguizamo-Solano]]

@@ -1,0 +1,188 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Cartago
+|tipo                    = diócesis
+|latín                   = Carthaden(sis) in Columbia
+|escudo                  = Escudo de la Diócesis de Cartago.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral3ctgo.jpg
+|pie imagen              = Catedral de Nuestra Señora del Carmen
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|16|3|1962}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Ecclesiarum omnium''
+|sufragánea              = [[arquidiócesis de Cali]]
+|patrón                  = Nuestra Señora de la Paz
+|catedral                = [[Catedral de Nuestra Señora del Carmen (Cartago)|de Nuestra Señora del Carmen]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#dsm |título=Cathedrals in Colombia |idioma=inglés |fechaacceso=20 de noviembre de 2008  |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Cartago (Valle del Cauca)|Cartago]]
+|región tipo             = departamento
+|región                  = [[Valle del Cauca]]
+|país                    = {{COL}}
+|curia                   = Residencia Episcopal, Carrera 5, N. 13-87, Cartago
+|concatedral             =
+|ordinario               = [[César Alcides Balbín Tamayo]]
+|auxiliar                =
+|emérito                 = [[José Alejandro Castaño Arbeláez]], [[Orden de Agustinos Recoletos|O.A.R.]]
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 54
+|población total         = 438&nbsp;128
+|población año           = 2021
+|fieles                  = 428&nbsp;805
+|porcentaje fieles       = 97.9
+|sacerdotes              = 100
+|área                    = 4500 km²
+|mapa                    = Mapa Diocesis de Cartago.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesisdecartago.org www.diocesisdecartago.org]
+}}
+
+La '''diócesis de Cartago''' ({{lang-la|Dioecesis Carthadensis in Columbia}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Cali]]. Desde el 18 de octubre de 2021 su [[obispo]] es [[César Alcides Balbín Tamayo]].
+
+== Territorio y organización ==
+La diócesis tiene 4500 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 16 municipios del [[Valle del Cauca|departamento de Valle del Cauca]]: [[Alcalá (Valle del Cauca)|Alcalá]], [[Ansermanuevo]], [[Argelia (Valle del Cauca)|Argelia]], [[Zarzal (Valle del Cauca)|Zarzal]], [[Bolívar (Valle del Cauca)|Bolívar]], [[Cartago (Valle del Cauca)|Cartago]], [[El Águila]], [[El Cairo (Valle del Cauca)|El Cairo]], [[El Dovio]], [[La Unión (Valle del Cauca)|La Unión]], [[La Victoria (Valle del Cauca)|La Victoria]], [[Obando (Valle del Cauca)|Obando]], [[Roldanillo]], [[Toro (Valle del Cauca)|Toro]], [[Ulloa (Valle del Cauca)|Ulloa]] y [[Versalles (Valle del Cauca)|Versalles]]; al igual que algunos de sus respectivos [[corregimiento]]s.<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/cartago_diocesis_700.gif |título=Mapa de la Diócesis de Cartago |fechaacceso=20 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20150619204228/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/cartago_diocesis_700.gif |fechaarchivo=19 de junio de 2015 }}</ref>
+
+Su territorio limita al nordeste con la [[diócesis de Pereira]], al sureste con la [[diócesis de Armenia]], al sur con la [[diócesis de Buga]], y al noroeste con la [[diócesis de Istmina-Tadó]].<ref name="mapa" />
+
+La sede de la diócesis se encuentra en la ciudad de [[Cartago (Valle del Cauca)|Cartago]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Cartago)|Catedral de Nuestra Señora del Carmen]].
+
+En 2021 en la diócesis existían 54 [[Parroquia (religión)|parroquias]] agrupadas en 5 vicarías foráneas: San Mateo, San Marcos, San Lucas, San Juan y San Luis Bertrán.<ref>{{Cita web |url=http://www.diocesisdecartago.org/parroquias.shtml?apc=b---;1;-;-;&x=3054 |título=Vicarías foráneas |idioma=español |fechaacceso=21 de octubre de 2012  |editorial=Diócesis de Cartago }}</ref>
+
+; Vicaría de San Mateo
+* La Inmaculada Concepción. Municipio del Águila, centro
+* Nuestra Señora de las Mercedes. Corregimiento de Albán del municipio de El Cairo
+* Nuestra Señora del Carmen. Municipio de Argelia
+* Nuestra Señora del Carmen. Municipio de El Cairo
+* Nuestra Señora del Carmen. Corregimiento de El Villar del municipio de Ansermanuevo
+* Nuestra Señora del Carmen. Corregimiento de La María (El Águila) y Corregimiento de El Vergel (Ansermanuevo)
+* Nuestra Señora del Carmen. Corregimiento de El Balsal del municipio de Versalles
+* Santa Ana. Municipio de Ansermanuevo
+* San José. Corregimiento de Villanueva del municipio de El Águila.
+; Vicaría de San Marcos
+* La Sagrada Eucaristía. Corregimientos de Higuerón, Morelia y Candelaria, Zona Rural del Municipio de Roldanillo
+* La Santísima Trinidad. Municipio de Roldanillo, urbana
+* Nuestra Señora de las Mercedes. Municipio de Zarzal, urbana
+* Nuestra Señora del Carmen. Municipio de Zarzal, urbana
+* Nuestra Señora del Carmen. Municipio de El Dovio, urbana
+* Nuestra Señora del Carmen. Corregimiento de Primavera y Corregimiento La Tulia, zona rural ambos del Municipio de Bolívar
+* San Antonio de Padua. Corregimiento Naranjal y Corregimiento de Betania zona rural del Municipio de Bolívar
+* San Sebastián. Municipio de Roldanillo, urbana
+* Santa Ana del Pescador. Municipio Bolívar, urbana
+* Santa Bárbara. Corregimiento La Paila zona Rural del Municipio Zarzal
+* Santuario del Divino Ecce-Homo Corregimiento Ricaurte zona Rural del Municipio de Bolívar
+* El Misericordioso. Municipio de Roldanillo, Urbana.
+* Divino Niño. Municipio  de Zarzal, Urbana
+* Nuestra Señora de la Medalla Milagrosa de Roldanillo, zona urbana
+; Vicaría de San Lucas
+* El Divino Niño. Cartago
+* Nuestra Señora del Perpetúo Socorro. Municipio Alcalá
+* Santa Bárbara. Corregimiento Zaragoza del municipio Cartago
+* San Agustín. Cartago
+* San Jerónimo. Cartago
+* San José. Municipio Ulloa
+* San José Obrero. Cartago
+* San Nicolás. Cartago
+* San Vicente de Paúl. Cartago
+* Nuestra Señora de Fátima. Cartago
+; Vicaría de San Juan
+* El Espíritu Santo. Cartago
+* La Epifanía del Señor. Cartago
+* La Sagrada Familia. Cartago
+* La Santísima Eucaristía. Cartago
+* Los Doce Apóstoles. Cartago
+* Nuestra Señora de la Pobreza. Cartago
+* Nuestra Señora del Perpetuo Socorro. Cartago
+* San Gabriel Arcángel. Cartago
+* San Joaquín y Santa Ana. Cartago
+* San Jorge. Cartago
+* San Pablo Apóstol. Cartago
+* San Juan Pablo II. Cartago
+; Vicaría de San Luis Beltrán
+* La Inmaculada Concepción. Municipio de Versalles
+* Nuestra Señora de la Consolación. Municipio de Toro, urbana
+* Nuestra Señora de la Paz. Corregimiento de Miravalles del municipio de La Victoria
+* Nuestra Señora del Carmen. Corregimiento de Holguín del municipio de La Victoria
+* Nuestra Señora del Perpetuo Socorro. Municipio de La Unión, urbana
+* San Francisco de Asís. Corregimiento de San Francisco del municipio de Toro
+* San José. Municipio de La Victoria, urbana
+* San José. Municipio de La Unión, urbana
+* San José. Municipio de Obando, urbana
+* San Pedro Apóstol. Municipio de La Unión, urbana
+
+== Historia ==
+La diócesis fue erigida el 16 de marzo de 1962 mediante la [[bula]] ''Ecclesiarum omnium'' del [[papa]] [[Juan XXIII]], obteniendo el territorio de la diócesis de Cali (hoy arquidiócesis).<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Ecclesiarum omnium''], AAS 55 (1963), p.&nbsp;81.</ref> El 26 de abril de 1962 Juan XXIII nombró como primer obispo de la diócesis a [[José Gabriel Calderón Contreras|José Gabriel Calderón]], quien se desempeñaba en ese momento como obispo auxiliar de la [[arquidiócesis de Bogotá]]. La bula de erección fue solemnemente promulgada por el [[cardenal]] [[José Paupini]] entonces nuncio apostólico en Colombia, el 26 de junio de 1962. El mismo día tomó posesión como primer obispo Calderón.
+
+Originalmente sufragánea de la [[arquidiócesis de Popayán]], el 20 de junio de 1964 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Cali.
+
+El 15 de mayo de 1972, con la [[carta apostólica]] ''Cum de beata Maria'', el papa [[Pablo VI]] confirmó a la Santísima Virgen María, conocida con el nombre de Nuestra Señora de la Paz, como [[Santo patrón|patrona]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-64-1972-ocr.pdf Carta apostólica ''Cum de beata Maria''], AAS 64 (1972), pp. 475-476.</ref>
+
+A Calderón lo sucedió [[Luis Madrid Merlano]], quien fue nombrado el 19 de abril de 1995. El 30 de marzo de 2010 Madrid fue nombrado como arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]] de la cual tomó posesión el 22 de mayo del mismo año. Fue nombrado administrador apostólico de la diócesis [[Alberto Giraldo Jaramillo]], arzobispo emérito de [[Arquidiócesis de Medellín|Medellín]], hasta el mes de noviembre de 2010, pues el 27 de ese mes tomó posesión canónica de la catedral como tercer obispo de la diócesis de Cartago, [[José Alejandro Castaño Arbeláez]], quien fue nombrado el 21 de octubre de 2010. A José Alejandro Castaño se le aceptó la renuncia el 31 de octubre de 2020; nombrando a José Roberto Ospina Leongomez hasta entonces obispo de [[Diócesis de Buga|Buga]], como administrador apostólico de la diócesis hasta la llegada de un nuevo obispo. El 18 de octubre de 2021 el papa [[Francisco (papa)|Francisco]] nombró como nuevo obispo de Cartago a César Alcides Balbín Tamayo; hasta entonces obispo de [[Diócesis de Caldas|Caldas]], quien tomó posesión el 9 de diciembre de 2021.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 428&nbsp;805 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1965 || 378&nbsp;000 || 380&nbsp;000 || 99.5 || 64 || 55 || 9 || 5906 ||  || 9 || 165 || 30
+|- align="right"
+| 1970 || 380&nbsp;000 || 400&nbsp;000 || 95.0 || 51 || 45 || 6 || 7450 ||  || 6 ||  || 30
+|- align="right"
+| 1976 || 472&nbsp;000 || 495&nbsp;000 || 95.4 || 45 || 40 || 5 || 10&nbsp;488 ||  || 5 || 165 || 34
+|- align="right"
+| 1980 || 524&nbsp;000 || 565&nbsp;000 || 92.7 || 42 || 37 || 5 || 12&nbsp;476 ||  || 6 || 160 || 37
+|- align="right"
+| 1990 || 630&nbsp;000 || 670&nbsp;000 || 94.0 || 50 || 48 || 2 || 12&nbsp;600 ||  || 3 || 171 || 42
+|- align="right"
+| 1999 || 585&nbsp;500 || 590&nbsp;000 || 99.2 || 65 || 61 || 4 || 9007 ||  || 5 || 152 || 46
+|- align="right"
+| 2000 || 556&nbsp;225 || 560&nbsp;500 || 99.2 || 67 || 60 || 7 || 8301 ||  || 9 || 152 || 46
+|- align="right"
+| 2001 || 551&nbsp;000 || 555&nbsp;000 || 99.3 || 68 || 60 || 8 || 8102 ||  || 10 || 149 || 46
+|- align="right"
+| 2002 || 540&nbsp;000 || 544&nbsp;250 || 99.2 || 73 || 62 || 11 || 7397 ||  || 14 || 143 || 46
+|- align="right"
+| 2003 || 538&nbsp;000 || 543&nbsp;000 || 99.1 || 75 || 64 || 11 || 7173 ||  || 14 || 140 || 46
+|- align="right"
+| 2004 || 515&nbsp;000 || 523&nbsp;000 || 98.5 || 79 || 69 || 10 || 6518 ||  || 17 || 167 || 46
+|- align="right"
+| 2006 || 518&nbsp;000 || 521&nbsp;000 || 99.4 || 80 || 65 || 15 || 6475 ||  || 20 || 163 || 46
+|- align="right"
+| 2013 || 493&nbsp;000 || 505&nbsp;000 || 97.6 || 97 || 80 || 17 || 5082 || 10 || 24 || 182 || 54
+|- align="right"
+| 2016 || 407&nbsp;640 || 414&nbsp;186 || 98.4 || 95 || 79 || 16 || 4290 || 10 || 23 || 183 || 56
+|- align="right"
+| 2019 || 412&nbsp;654 || 417&nbsp;436 || 98.9 || 101 || 83 || 18 || 4085 || 24 || 24 || 153 || 59
+|- align="right"
+| 2021 || 428&nbsp;805 || 438&nbsp;128 || 97.9 || 100 || 83 || 17 || 4288 || 29 || 23 || 128 || 54
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dcarg.html |título=''Diocese of Cartago''|fechaacceso=5 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=7 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[José Gabriel Calderón Contreras]] † (26 de abril de '''1962'''-19 de abril de '''1995''' retirado)
+* [[Luis Madrid Merlano]] (19 de abril de '''1995'''-30 de marzo de '''2010''' nombrado arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]])
+* [[José Alejandro Castaño Arbeláez]], [[Orden de Agustinos Recoletos|O.A.R.]] (21 de octubre de '''2010'''-31 de octubre de '''2020''' retirado)<ref group='nota'>Desde el 31 de octubre de 2020 al 9 de diciembre de 2021, día de la toma de posesión de César Alcides Balbín Tamayo, fue administrador apostólico José Roberto Ospina Leongómez, obispo de [[Diócesis de Buga|Buga]].</ref>
+* [[César Alcides Balbín Tamayo]], desde el 18 de octubre de '''2021'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/cart2.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-cartago Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Cartago]]
+[[Categoría:Cartago (Valle del Cauca)]]
+[[Categoría:Religión en Valle del Cauca]]
+[[Categoría:Provincia eclesiástica de Cali|Cartago]]
+[[Categoría:Diócesis creadas por Juan XXIII|Cartago]]
