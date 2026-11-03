@@ -1,0 +1,29 @@
+name: Google Maps parroquias
+on:
+  workflow_dispatch:
+    inputs:
+      consultas:
+        description: "Archivo de consultas (una por línea, con #!#ID)"
+        default: "consultas/prueba_bogota_20.txt"
+jobs:
+  maps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar en Google Maps
+        run: |
+          mkdir -p out
+          docker run -v "$PWD/${{ inputs.consultas }}:/queries.txt:ro" -v "$PWD/out:/out" \
+            gosom/google-maps-scraper -input /queries.txt -results /out/results.csv \
+            -depth 1 -lang es -c 4 -exit-on-inactivity 3m
+          echo "Filas obtenidas: $(($(wc -l < out/results.csv) - 1))"
+      - name: Cifrar resultados (no quedan legibles en el repositorio público)
+        env:
+          CLAVE: ${{ secrets.CLAVE_RESULTADOS }}
+        run: gpg --batch --yes --pinentry-mode loopback --passphrase "$CLAVE" -c -o resultados.csv.gpg out/results.csv
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resultados
+          path: resultados.csv.gpg
+          retention-days: 7

@@ -1,0 +1,303 @@
+Parroquia Jesús y María, Bogotá, Colombia #!#BOG-001
+Parroquia La Anunciación de Nuestra Señora, Bogotá, Colombia #!#BOG-002
+Parroquia San Benito Abad, Bogotá, Colombia #!#BOG-003
+Parroquia San Victorino - La Capuchina, Bogotá, Colombia #!#BOG-004
+Basílica Menor Inmaculada Concepción, Cáqueza, Colombia #!#BOG-005
+Basílica menor Nuestra Señora de Chiquinquirá, Bogotá, Colombia #!#BOG-006
+Parroquia Beato Guillermo José Chaminade, Bogotá, Colombia #!#BOG-007
+Parroquia Beato Mariano de Jesús, Bogotá, Colombia #!#BOG-008
+Parroquia Beato Miguel Rua, Bogotá, Colombia #!#BOG-009
+Capilla Nuestra Señora del Pilar, Bogotá, Colombia #!#BOG-010
+Catedral Primada de Colombia, Bogotá, Colombia #!#BOG-011
+Parroquia Corpus Christi, Bogotá, Colombia #!#BOG-012
+Parroquia Cristo de la Paz, Bogotá, Colombia #!#BOG-013
+Parroquia Cristo Maestro, Bogotá, Colombia #!#BOG-014
+Parroquia Cristo Misionero, Bogotá, Colombia #!#BOG-015
+Parroquia Cristo Resucitado, Bogotá, Colombia #!#BOG-016
+Parroquia Cristo Rey, Bogotá, Colombia #!#BOG-017
+Parroquia Cristo Salvador, Bogotá, Colombia #!#BOG-018
+Parroquia De La Veracruz - Panteón Nacional, Bogotá, Colombia #!#BOG-019
+Parroquia De San Cipriano, Bogotá, Colombia #!#BOG-020
+Parroquia Dei Verbum, Bogotá, Colombia #!#BOG-021
+Parroquia del Inmaculado Corazón de María, Bogotá, Colombia #!#BOG-022
+Parroquia El Buen Pastor, Bogotá, Colombia #!#BOG-023
+Parroquia El Divino Rostro, Bogotá, Colombia #!#BOG-024
+Parroquia El Divino Salvador, Bogotá, Colombia #!#BOG-025
+Parroquia El Espíritu Santo, Bogotá, Colombia #!#BOG-026
+Parroquia El Niño Jesús - 20 de julio, Bogotá, Colombia #!#BOG-027
+Parroquia El Sagrado Corazón de Jesús - Voto Nacional, Bogotá, Colombia #!#BOG-028
+Parroquia El Señor de la Columna, Bogotá, Colombia #!#BOG-029
+Parroquia El Señor de las Bienaventuranzas, Bogotá, Colombia #!#BOG-030
+Parroquia El Señor del Monte de Galilea, Bogotá, Colombia #!#BOG-031
+Hospital San José, Bogotá, Colombia #!#BOG-032
+Iglesia de la Candelaria, Bogotá, Colombia #!#BOG-033
+Iglesia de San Francisco, Bogotá, Colombia #!#BOG-034
+Iglesia de San Ignacio, Bogotá, Colombia #!#BOG-035
+Iglesia la Tercera, Bogotá, Colombia #!#BOG-036
+Iglesia Monasterio La Concepción, Bogotá, Colombia #!#BOG-037
+Parroquia Inmaculada Concepción El Chicó, Bogotá, Colombia #!#BOG-038
+Parroquia Jesucristo de Betania, Bogotá, Colombia #!#BOG-039
+Parroquia Jesucristo Liberador, Bogotá, Colombia #!#BOG-040
+Parroquia Jesucristo Luz del Mundo, Bogotá, Colombia #!#BOG-041
+Parroquia Jesucristo Nuestra Pascua, Bogotá, Colombia #!#BOG-042
+Parroquia Jesucristo Obrero, Bogotá, Colombia #!#BOG-043
+Parroquia Jesucristo Puerta de la Fe, Bogotá, Colombia #!#BOG-044
+Parroquia Jesucristo Redentor, Bogotá, Colombia #!#BOG-045
+Parroquia Jesús Misericordioso, Bogotá, Colombia #!#BOG-046
+Parroquia Jesús Nazareno, Bogotá, Colombia #!#BOG-047
+Parroquia La Ascensión del Señor, Bogotá, Colombia #!#BOG-048
+Parroquia La Asunción de Nuestra Señora, Bogotá, Colombia #!#BOG-049
+Parroquia La Divina Providencia, Bogotá, Colombia #!#BOG-050
+Parroquia La Epifanía, Bogotá, Colombia #!#BOG-051
+Parroquia La Exaltación de la Santa Cruz, Bogotá, Colombia #!#BOG-052
+Parroquia La Inmaculada Concepción, Fómeque, Colombia #!#BOG-053
+Parroquia La Natividad de Nuestra Señora, Bogotá, Colombia #!#BOG-054
+Parroquia La Porciúncula, Bogotá, Colombia #!#BOG-055
+Parroquia La Presentación de Nuestra Señora, Bogotá, Colombia #!#BOG-056
+Parroquia La Resurrección, Bogotá, Colombia #!#BOG-057
+Parroquia La Sagrada Eucaristía, Bogotá, Colombia #!#BOG-058
+Parroquia La Sagrada Familia, Bogotá, Colombia #!#BOG-059
+Parroquia La Sagrada Pasión, Bogotá, Colombia #!#BOG-060
+Parroquia La Santa Cruz, Bogotá, Colombia #!#BOG-061
+Parroquia La Transfiguración, Bogotá, Colombia #!#BOG-062
+Parroquia La Visitación de Nuestra Señora, Bogotá, Colombia #!#BOG-063
+Parroquia Los Doce Apóstoles, Bogotá, Colombia #!#BOG-064
+Parroquia Los Santos Reyes, Bogotá, Colombia #!#BOG-065
+Parroquia Madre de la Misericordia - Puente Quetame, Quetame, Colombia #!#BOG-066
+Parroquia Madre de los Creyentes, Bogotá, Colombia #!#BOG-067
+Parroquia Madre del Divino Amor, Bogotá, Colombia #!#BOG-068
+Parroquia Madre del Salvador, Bogotá, Colombia #!#BOG-069
+Parroquia Madre Laura, Bogotá, Colombia #!#BOG-070
+Parroquia Madre Teresa de Calcuta, Bogotá, Colombia #!#BOG-071
+Parroquia María Auxiliadora, Bogotá, Colombia #!#BOG-072
+Parroquia María Auxilio de los Cristianos, Bogotá, Colombia #!#BOG-073
+Parroquia María Madre de Dios, Bogotá, Colombia #!#BOG-074
+Parroquia María Madre de la Iglesia - Pasquilla, Bogotá, Colombia #!#BOG-075
+Parroquia María Reina, Bogotá, Colombia #!#BOG-076
+Parroquia María Reina de los Apóstoles, Bogotá, Colombia #!#BOG-077
+Parroquia María, Estrella de la Evangelización, Bogotá, Colombia #!#BOG-078
+Parroquia María, Madre de la Divina Misericordia, Bogotá, Colombia #!#BOG-079
+Parroquia Niño Jesús de Praga Cantalejo, Bogotá, Colombia #!#BOG-080
+Parroquia Nuestra Señora de Torcoroma, Bogotá, Colombia #!#BOG-081
+Parroquia Nuestra Señora de Altagracia, Bogotá, Colombia #!#BOG-082
+Parroquia Nuestra Señora de Aparecida, Bogotá, Colombia #!#BOG-083
+Parroquia Nuestra Señora de Begoña - Quiba Baja, Bogotá, Colombia #!#BOG-084
+Parroquia Nuestra Señora de Belén, Bogotá, Colombia #!#BOG-085
+Parroquia Nuestra Señora de Belén, Ubaque, Colombia #!#BOG-086
+Parroquia Nuestra Señora de Chiquinquirá, Quetame, Colombia #!#BOG-087
+Parroquia Nuestra Señora de Egipto, Bogotá, Colombia #!#BOG-088
+Parroquia Nuestra Señora de Guadalupe, Bogotá, Colombia #!#BOG-089
+Parroquia Nuestra Señora de la Candelaria, Bogotá, Colombia #!#BOG-090
+Parroquia Nuestra Señora de la Concepción, Une, Colombia #!#BOG-091
+Parroquia Nuestra Señora de la Consolata, Bogotá, Colombia #!#BOG-092
+Parroquia Nuestra Señora de la Paz, Bogotá, Colombia #!#BOG-093
+Parroquia Nuestra Señora de la Peña, Bogotá, Colombia #!#BOG-094
+Parroquia Nuestra Señora de la Sabiduría, Bogotá, Colombia #!#BOG-095
+Parroquia Nuestra Señora de la Salud, Bogotá, Colombia #!#BOG-096
+Parroquia Nuestra Señora de la Valvanera, Bogotá, Colombia #!#BOG-097
+Parroquia Nuestra Señora de Las Aguas, Bogotá, Colombia #!#BOG-098
+Parroquia Nuestra Señora de las Angustias, Bogotá, Colombia #!#BOG-099
+Parroquia Nuestra Señora de las Lajas, Bogotá, Colombia #!#BOG-100
+Parroquia Nuestra Señora de las Mercedes, Bogotá, Colombia #!#BOG-101
+Parroquia Nuestra Señora de las Nieves, Bogotá, Colombia #!#BOG-102
+Parroquia Nuestra Señora de los Alpes, Bogotá, Colombia #!#BOG-103
+Parroquia Nuestra Señora de los Dolores, Bogotá, Colombia #!#BOG-104
+Parroquia Nuestra Señora de Lourdes, Bogotá, Colombia #!#BOG-105
+Parroquia Nuestra Señora de Mongüí, Bogotá, Colombia #!#BOG-106
+Parroquia Nuestra Señora de Nazaret, Bogotá, Colombia #!#BOG-107
+Parroquia Nuestra Señora del Buen Consejo, Bogotá, Colombia #!#BOG-108
+Parroquia Nuestra Señora del Campo, Bogotá, Colombia #!#BOG-109
+Parroquia Nuestra Señora del Carmen, Bogotá, Colombia #!#BOG-110
+Parroquia Nuestra Señora del Carmen, Guayabetal, Colombia #!#BOG-111
+Parroquia Nuestra Señora del Carmen, Gutiérrez, Colombia #!#BOG-112
+Parroquia Nuestra Señora del Carmen - Las Cruces, Bogotá, Colombia #!#BOG-113
+Parroquia Nuestra Señora del Carmen - Santa Teresita, Bogotá, Colombia #!#BOG-114
+Parroquia Nuestra Señora del Consuelo, Bogotá, Colombia #!#BOG-115
+Parroquia Nuestra Señora del Lucero, Bogotá, Colombia #!#BOG-116
+Parroquia Nuestra Señora del Monte Carmelo, Bogotá, Colombia #!#BOG-117
+Parroquia Nuestra Señora del Perpetuo Socorro, Bogotá, Colombia #!#BOG-118
+Parroquia Nuestra Señora del Pilar, Bogotá, Colombia #!#BOG-119
+Parroquia Nuestra Señora del Portal, Bogotá, Colombia #!#BOG-120
+Parroquia Nuestra Señora del Rosario, La Calera, Colombia #!#BOG-121
+Parroquia Nuestra Señora del Rosario de Fátima, Bogotá, Colombia #!#BOG-122
+Parroquia Nuestra Señora del Rosario, Chipaque, Colombia #!#BOG-123
+Parroquia Nuestra Señora del Sagrado Corazón, Bogotá, Colombia #!#BOG-124
+Parroquia Nuestra Señora del Santísimo Sacramento, Bogotá, Colombia #!#BOG-125
+Parroquia Beato Luis Variara, Bogotá, Colombia #!#BOG-126
+Parroquia San Francisco de Paula, Bogotá, Colombia #!#BOG-127
+Parroquia San Juan XXIII, Bogotá, Colombia #!#BOG-128
+Parroquia San Judas Tadeo, Bogotá, Colombia #!#BOG-129
+Parroquia San Marcos, Bogotá, Colombia #!#BOG-130
+Parroquia San Miguel, Bogotá, Colombia #!#BOG-131
+Parroquia Santa María de la Alhambra, Bogotá, Colombia #!#BOG-132
+Parroquia Santa Mariana de Jesús, Bogotá, Colombia #!#BOG-133
+Parroquia Santa Silvia, Bogotá, Colombia #!#BOG-134
+Parroquia Sagrados Corazones de Jesús y María, Bogotá, Colombia #!#BOG-135
+Parroquia San Agustín de Hipona, Bogotá, Colombia #!#BOG-136
+Parroquia San Alberto Hurtado, Bogotá, Colombia #!#BOG-137
+Parroquia San Alberto Magno, Bogotá, Colombia #!#BOG-138
+Parroquia San Alfonso María de Ligorio, Bogotá, Colombia #!#BOG-139
+Parroquia San Alonso Rodríguez, Bogotá, Colombia #!#BOG-140
+Parroquia San Ambrosio, Bogotá, Colombia #!#BOG-141
+Parroquia San Andrés Apóstol, Bogotá, Colombia #!#BOG-142
+Parroquia San Antonio, Fosca, Colombia #!#BOG-143
+Parroquia San Antonio de Padua, Bogotá, Colombia #!#BOG-144
+Parroquia San Atanasio, Bogotá, Colombia #!#BOG-145
+Parroquia San Bartolomé Apóstol, Bogotá, Colombia #!#BOG-146
+Parroquia San Basilio, Bogotá, Colombia #!#BOG-147
+Parroquia San Bernabé Apóstol, Bogotá, Colombia #!#BOG-148
+Parroquia San Bernardo Abad, Bogotá, Colombia #!#BOG-149
+Parroquia San Blas, Bogotá, Colombia #!#BOG-150
+Parroquia San Buenaventura, Bogotá, Colombia #!#BOG-151
+Parroquia San Calixto Caravario, Bogotá, Colombia #!#BOG-152
+Parroquia San Camilo de Lelis, Bogotá, Colombia #!#BOG-153
+Parroquia San Carlos de Foucauld, Bogotá, Colombia #!#BOG-154
+Parroquia San Clemente Mártir, Bogotá, Colombia #!#BOG-155
+Parroquia San Cristóbal, Bogotá, Colombia #!#BOG-156
+Parroquia San Damián de Molokai, Bogotá, Colombia #!#BOG-157
+Parroquia San Diego, Bogotá, Colombia #!#BOG-158
+Parroquia San Dionisio, Bogotá, Colombia #!#BOG-159
+Parroquia San Esteban Protomártir, Bogotá, Colombia #!#BOG-160
+Parroquia San Felipe Apóstol, Bogotá, Colombia #!#BOG-161
+Parroquia San Fernando Rey, Bogotá, Colombia #!#BOG-162
+Parroquia San Francisco de Asís - Ciudad Bolívar, Bogotá, Colombia #!#BOG-163
+Parroquia San Francisco de Sales, Bogotá, Colombia #!#BOG-164
+Parroquia San Gabriel Arcángel, Bogotá, Colombia #!#BOG-165
+Parroquia San Gerardo Mayela, Bogotá, Colombia #!#BOG-166
+Parroquia San Gregorio Magno, Bogotá, Colombia #!#BOG-167
+Parroquia San Ignacio de Loyola, Bogotá, Colombia #!#BOG-168
+Parroquia San Ireneo, Bogotá, Colombia #!#BOG-169
+Parroquia San Isidoro de Sevilla, Bogotá, Colombia #!#BOG-170
+Parroquia San Isidro, Bogotá, Colombia #!#BOG-171
+Parroquia San Javier, Bogotá, Colombia #!#BOG-172
+Parroquia San Jerónimo, Bogotá, Colombia #!#BOG-173
+Parroquia San Jerónimo Emiliani, Bogotá, Colombia #!#BOG-174
+Parroquia San Jorge, Bogotá, Colombia #!#BOG-175
+Parroquia San José Allamano, Bogotá, Colombia #!#BOG-176
+Parroquia San José Cafasso, Bogotá, Colombia #!#BOG-177
+Parroquia San José de Calasanz, Bogotá, Colombia #!#BOG-178
+Parroquia San José Gabriel Brochero, Bogotá, Colombia #!#BOG-179
+Parroquia San José Obrero, Bogotá, Colombia #!#BOG-180
+Parroquia San Josemaría Escrivá de Balaguer, Bogotá, Colombia #!#BOG-181
+Parroquia San Juan Bautista de La Salle, Bogotá, Colombia #!#BOG-182
+Parroquia San Juan Bosco, Bogotá, Colombia #!#BOG-183
+Parroquia San Juan Crisóstomo, Bogotá, Colombia #!#BOG-184
+Parroquia San Juan Damasceno, Bogotá, Colombia #!#BOG-185
+Parroquia San Juan de Ávila, Bogotá, Colombia #!#BOG-186
+Parroquia San Juan de Dios, Bogotá, Colombia #!#BOG-187
+Parroquia San Juan de Usme, Bogotá, Colombia #!#BOG-188
+Parroquia San Juan Diego Norte, Bogotá, Colombia #!#BOG-189
+Parroquia San Juan Evangelista, Bogotá, Colombia #!#BOG-190
+Parroquia San Juan María Vianney, Bogotá, Colombia #!#BOG-191
+Parroquia San Juan Neumann, Bogotá, Colombia #!#BOG-192
+Parroquia San Juan Pablo II, Bogotá, Colombia #!#BOG-193
+Parroquia San León Magno, Bogotá, Colombia #!#BOG-194
+Parroquia San Lucas, Bogotá, Colombia #!#BOG-195
+Parroquia San Luis Beltrán, Bogotá, Colombia #!#BOG-196
+Parroquia San Luis de Tolosa, Bogotá, Colombia #!#BOG-197
+Parroquia San Luis Gonzaga, Bogotá, Colombia #!#BOG-198
+Parroquia San Luis Versiglia, Mártir, Bogotá, Colombia #!#BOG-199
+Parroquia San Manuel Morales, Bogotá, Colombia #!#BOG-200
+Parroquia San Marcelino Champagnat, Bogotá, Colombia #!#BOG-201
+Parroquia San Mario, Bogotá, Colombia #!#BOG-202
+Parroquia San Martín de la Caridad, Bogotá, Colombia #!#BOG-203
+Parroquia San Martín de Porres, Bogotá, Colombia #!#BOG-204
+Parroquia San Martín de Tours, Bogotá, Colombia #!#BOG-205
+Parroquia San Mateo, Bogotá, Colombia #!#BOG-206
+Parroquia San Maximiliano Kolbe, Bogotá, Colombia #!#BOG-207
+Parroquia San Miguel, Choachí, Colombia #!#BOG-208
+Parroquia San Miguel Arcángel, Bogotá, Colombia #!#BOG-209
+Parroquia San Nicolás, Bogotá, Colombia #!#BOG-210
+Parroquia San Norberto, Bogotá, Colombia #!#BOG-211
+Parroquia San Pablo, Bogotá, Colombia #!#BOG-212
+Parroquia San Pablo VI, Bogotá, Colombia #!#BOG-213
+Parroquia San Pascual Bailón, Bogotá, Colombia #!#BOG-214
+Parroquia San Pedro Apóstol, Bogotá, Colombia #!#BOG-215
+Parroquia San Pedro Claver, Bogotá, Colombia #!#BOG-216
+Parroquia San Pedro de Alcántara, Bogotá, Colombia #!#BOG-217
+Parroquia San Pedro de Usme, Bogotá, Colombia #!#BOG-218
+Parroquia San Pedro Fabro, Bogotá, Colombia #!#BOG-219
+Parroquia San Pedro Julián Eymard, Bogotá, Colombia #!#BOG-220
+Parroquia San Pedro Nolasco, Bogotá, Colombia #!#BOG-221
+Parroquia San Pedro Poveda, Bogotá, Colombia #!#BOG-222
+Parroquia San Pío de Pietrelcina, Bogotá, Colombia #!#BOG-223
+Parroquia San Policarpo, Bogotá, Colombia #!#BOG-224
+Parroquia San Rafael Arcángel, Bogotá, Colombia #!#BOG-225
+Parroquia San Raimundo, Bogotá, Colombia #!#BOG-226
+Parroquia San Ramón Nonato, Bogotá, Colombia #!#BOG-227
+Parroquia San Ricardo Pampuri, Bogotá, Colombia #!#BOG-228
+Parroquia San Roque, Bogotá, Colombia #!#BOG-229
+Parroquia San Sebastián, Bogotá, Colombia #!#BOG-230
+Parroquia San Tarsicio, Bogotá, Colombia #!#BOG-231
+Parroquia San Valentín de Berriochoa, Bogotá, Colombia #!#BOG-232
+Parroquia San Viator, Bogotá, Colombia #!#BOG-233
+Parroquia San Vicente de Paúl, Bogotá, Colombia #!#BOG-234
+Parroquia San Vicente Ferrer, Bogotá, Colombia #!#BOG-235
+Parroquia San Wenceslao, Bogotá, Colombia #!#BOG-236
+Parroquia Santa Águeda, Bogotá, Colombia #!#BOG-237
+Parroquia Santa Amelia, Bogotá, Colombia #!#BOG-238
+Parroquia Santa Ana, Bogotá, Colombia #!#BOG-239
+Parroquia Santa Bárbara - Centro, Bogotá, Colombia #!#BOG-240
+Parroquia Santa Bárbara de Usaquén, Bogotá, Colombia #!#BOG-241
+Parroquia Santa Beatriz, Bogotá, Colombia #!#BOG-242
+Parroquia Santa Bibiana, Bogotá, Colombia #!#BOG-243
+Parroquia Santa Catalina Labouré, Bogotá, Colombia #!#BOG-244
+Parroquia Santa Cecilia, Bogotá, Colombia #!#BOG-245
+Parroquia Santa Cecilia Romana, Bogotá, Colombia #!#BOG-246
+Parroquia Santa Clara, Bogotá, Colombia #!#BOG-247
+Parroquia Santa Edith Stein, Bogotá, Colombia #!#BOG-248
+Parroquia Santa Francisca Romana, Bogotá, Colombia #!#BOG-249
+Parroquia Santa Gema Galgani, Bogotá, Colombia #!#BOG-250
+Parroquia Santa Helena, Bogotá, Colombia #!#BOG-251
+Parroquia Santa Inés, Bogotá, Colombia #!#BOG-252
+Parroquia Santa Inés de Guaymaral, Bogotá, Colombia #!#BOG-253
+Parroquia Santa Isabel de Hungría, Bogotá, Colombia #!#BOG-254
+Parroquia Santa Joaquina de Vedruna, Bogotá, Colombia #!#BOG-255
+Parroquia Santa Lucía, Bogotá, Colombia #!#BOG-256
+Parroquia Santa Luisa de Marillac, Bogotá, Colombia #!#BOG-257
+Parroquia Santa Magdalena Sofía Barat, Bogotá, Colombia #!#BOG-258
+Parroquia Santa Margarita Reina, Bogotá, Colombia #!#BOG-259
+Parroquia Santa María de Caná, Bogotá, Colombia #!#BOG-260
+Parroquia Santa María de Jerusalén, Bogotá, Colombia #!#BOG-261
+Parroquia Santa María de la Esperanza, Bogotá, Colombia #!#BOG-262
+Parroquia Santa María de la Libertad, Bogotá, Colombia #!#BOG-263
+Parroquia Santa María de la Luz, Bogotá, Colombia #!#BOG-264
+Parroquia Santa María de Pentecostés, Bogotá, Colombia #!#BOG-265
+Parroquia Santa María del Camino, Bogotá, Colombia #!#BOG-266
+Parroquia Santa María del Cedro, Bogotá, Colombia #!#BOG-267
+Parroquia Santa María del Cenáculo, Bogotá, Colombia #!#BOG-268
+Parroquia Santa María del Monte, Bogotá, Colombia #!#BOG-269
+Parroquia Santa María del Prado, Bogotá, Colombia #!#BOG-270
+Parroquia Santa María Goretti, Bogotá, Colombia #!#BOG-271
+Parroquia Santa María la Antigua, Bogotá, Colombia #!#BOG-272
+Parroquia Santa María Madre de Jesús, Bogotá, Colombia #!#BOG-273
+Parroquia Santa María Magdalena, Bogotá, Colombia #!#BOG-274
+Parroquia Santa María Mazzarello, Bogotá, Colombia #!#BOG-275
+Parroquia Santa María Micaela, Bogotá, Colombia #!#BOG-276
+Parroquia Santa María Soledad Torres Acosta, Bogotá, Colombia #!#BOG-277
+Parroquia Santa Marta, Bogotá, Colombia #!#BOG-278
+Parroquia Santa Matilde, Bogotá, Colombia #!#BOG-279
+Parroquia Santa Mónica, Bogotá, Colombia #!#BOG-280
+Parroquia Santa Rafaela María del Sagrado Corazón, Bogotá, Colombia #!#BOG-281
+Parroquia Santa Rita de Cassia, Bogotá, Colombia #!#BOG-282
+Parroquia Santa Rosa de Lima (Alquería), Bogotá, Colombia #!#BOG-283
+Parroquia Santa Teresa de Ávila, Bogotá, Colombia #!#BOG-284
+Parroquia Santa Teresa de los Andes, Bogotá, Colombia #!#BOG-285
+Parroquia Santa Teresita del Niño Jesús, Bogotá, Colombia #!#BOG-286
+Parroquia Santísima Trinidad, Bogotá, Colombia #!#BOG-287
+Parroquia Santísimo Redentor, Bogotá, Colombia #!#BOG-288
+Parroquia Santo Cura de Ars, Bogotá, Colombia #!#BOG-289
+Parroquia Santo Domingo de Guzmán, Bogotá, Colombia #!#BOG-290
+Parroquia Santo Domingo Savio, Bogotá, Colombia #!#BOG-291
+Parroquia Santo Tomás Apóstol, Bogotá, Colombia #!#BOG-292
+Parroquia Santo Tomás Becket, Bogotá, Colombia #!#BOG-293
+Parroquia Santo Tomás de Aquino, Bogotá, Colombia #!#BOG-294
+Parroquia Santo Toribio de Mogrovejo, Bogotá, Colombia #!#BOG-295
+Parroquia Santos Ángeles Custodios, Bogotá, Colombia #!#BOG-296
+Parroquia Santos Cosme y Damián, Bogotá, Colombia #!#BOG-297
+Parroquia Santos Joaquín y Ana, Bogotá, Colombia #!#BOG-298
+Parroquia Santos Timoteo y Tito, Bogotá, Colombia #!#BOG-299
+Santuario de la Peña y Guadalupe, Bogotá, Colombia #!#BOG-300
+Santuario Monserrate, Bogotá, Colombia #!#BOG-301
+Templo San Agustín, Bogotá, Colombia #!#BOG-302
+Parroquia Virgen de la Medalla Milagrosa, Bogotá, Colombia #!#BOG-303
