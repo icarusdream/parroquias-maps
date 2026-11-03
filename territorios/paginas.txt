@@ -1,0 +1,49 @@
+mede0|Arquidiócesis de Medellín
+gira1|Diócesis de Girardota
+jeri0|Diócesis de Jericó
+sons1|Diócesis de Sonsón–Rionegro
+cali0|Arquidiócesis de Cali
+buen1|Diócesis de Buenaventura
+buga0|Diócesis de Buga
+cart2|Diócesis de Cartago
+palm6|Diócesis de Palmira
+maga0|Diócesis de Magangué
+sinc0|Diócesis de Sincelejo
+buca0|Arquidiócesis de Bucaramanga
+vele0|Diócesis de Vélez
+tunj0|Arquidiócesis de Tunja
+chiq0|Diócesis de Chiquinquirá
+gara0|Diócesis de Garagoa
+arme0|Diócesis de Armenia
+pere0|Diócesis de Pereira
+ibag0|Arquidiócesis de Ibagué
+espi0|Diócesis de Espinal
+garz0|Diócesis de Garzón
+npam0|Arquidiócesis de Nueva Pamplona
+arau0|Diócesis de Arauca
+ocan0|Diócesis de Ocaña
+vill3|Arquidiócesis de Villavicencio
+gran1|Diócesis de Granada
+popa0|Arquidiócesis de Popayán
+ipia0|Diócesis de Ipiales
+tuma0|Diócesis de Tumaco
+zfed0|Arquidiócesis de Santa Fe de Antioquia
+apar1|Diócesis de Apartadó
+istm0|Diócesis de Istmina–Tadó
+quib0|Diócesis de Quibdó
+zros4|Diócesis de Santa Rosa de Osos
+flor1|Arquidiócesis de Florencia
+moco0|Diócesis de Mocoa–Sibundoy
+zvic1|Diócesis de San Vicente del Caguán
+colo3|Obispado Castrense de Colombia
+colo4|Exarcado Apostólico Maronita de Colombia
+guap0|Vicariato Apostólico de Guapi
+inir0|Vicariato Apostólico de Inírida
+leti0|Vicariato Apostólico de Leticia
+mitu0|Vicariato Apostólico de Mitú
+puer7|Vicariato Apostólico de Puerto Carreño
+puer6|Vicariato Apostólico de Puerto Gaitán
+legu0|Vicariato Apostólico de Puerto Leguízamo–Solano
+zand3|Vicariato Apostólico de San Andrés y Providencia
+tier0|Vicariato Apostólico de Tierradentro
+trin1|Vicariato Apostólico de Trinidad

@@ -1,0 +1,35 @@
+name: Territorios diocesanos (Wikipedia)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  territorios:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar texto de cada página (API de Wikipedia)
+        run: |
+          python3 - <<'PY'
+          import json, time, urllib.parse, urllib.request, pathlib
+          UA = {"User-Agent": "parroquias-maps/1.0 (GitHub Actions; directorio de parroquias)"}
+          out = pathlib.Path("territorios/texto"); out.mkdir(parents=True, exist_ok=True)
+          for linea in open("territorios/paginas.txt", encoding="utf-8"):
+              if "|" not in linea: continue
+              codigo, titulo = linea.strip().split("|", 1)
+              url = "https://es.wikipedia.org/w/api.php?" + urllib.parse.urlencode({
+                  "action": "parse", "page": titulo, "prop": "wikitext", "redirects": 1, "format": "json"})
+              try:
+                  d = json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30))
+                  texto = d.get("parse", {}).get("wikitext", {}).get("*", "") or ("ERROR: " + json.dumps(d.get("error", {}))[:300])
+              except Exception as e:
+                  texto = f"ERROR: {e}"
+              (out / f"{codigo}.txt").write_text(texto, encoding="utf-8")
+              print(codigo, titulo, len(texto))
+              time.sleep(1)
+          PY
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add territorios && git commit -m "Texto de territorios diocesanos" && git push
