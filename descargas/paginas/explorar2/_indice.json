@@ -1,0 +1,87 @@
+{
+"bc15b493cf93": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100&page=1&_fields=id,link,title,modified,vicarias,arciprestazgos",
+"estado": 200,
+"bytes": 20559
+},
+"7d4849602424": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100&page=2&_fields=id,link,title,modified,vicarias,arciprestazgos",
+"estado": 200,
+"bytes": 20627
+},
+"974ad917fdc2": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100&page=3&_fields=id,link,title,modified,vicarias,arciprestazgos",
+"estado": 200,
+"bytes": 20754
+},
+"d36c650eb5ce": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100&page=4&_fields=id,link,title,modified,vicarias,arciprestazgos",
+"estado": 200,
+"bytes": 8487
+},
+"44b7e3e7f58c": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100&page=5&_fields=id,link,title,modified,vicarias,arciprestazgos",
+"estado": 400,
+"bytes": 0
+},
+"1e57da057122": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/vicarias?per_page=100",
+"estado": 200,
+"bytes": 2484
+},
+"71a0828f91f9": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/arciprestazgos?per_page=100",
+"estado": 200,
+"bytes": 14897
+},
+"e71cc072fc58": {
+"url": "https://arqmedellin.co/parroquias/beato-federico-ozanam/",
+"estado": 200,
+"bytes": 125301
+},
+"fc0d0f75e6a7": {
+"url": "https://arquicali.org/new/index.php/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 13407
+},
+"cd95e5398420": {
+"url": "https://arquicali.org/new/index.php/wp-json/wp/v2/pages?search=parroquia&per_page=50&_fields=id,link,title",
+"estado": 200,
+"bytes": 581
+},
+"aa8e5cd0f254": {
+"url": "https://arquicali.org/new/index.php/wp-json/wp/v2/search?search=parroquias&per_page=50",
+"estado": 200,
+"bytes": 32551
+},
+"2cbe73b1b6d0": {
+"url": "https://arquicali.org/new/index.php/servicios/",
+"estado": 200,
+"bytes": 445211
+},
+"ba1357cc4709": {
+"url": "https://arquicali.org/new/index.php/tramites-y-servicios/",
+"estado": 200,
+"bytes": 450750
+},
+"0b082449e860": {
+"url": "https://arquicali.org/new/index.php/sobre-nosotros/",
+"estado": 200,
+"bytes": 490449
+},
+"27750ff699f3": {
+"url": "https://arquicali.org/new/index.php/contacto/",
+"estado": 200,
+"bytes": 445760
+},
+"427af053ea47": {
+"url": "https://sites.google.com/arquicali.org/vicariaparalaevangelizacion/inicio",
+"estado": 200,
+"bytes": 261335
+},
+"42b1ee450ce8": {
+"url": "https://arquicali.org/sirac/",
+"estado": 200,
+"bytes": 3624
+}
+}
