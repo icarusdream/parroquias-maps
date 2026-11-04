@@ -1,0 +1,66 @@
+name: Descargar páginas públicas (directorios diocesanos)
+on:
+  workflow_dispatch:
+    inputs:
+      lista:
+        description: "Archivo en descargas/listas/ con una URL por línea"
+        required: true
+permissions:
+  contents: write
+jobs:
+  descargar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar (con pausa entre páginas, respetando robots.txt)
+        env:
+          LISTA: ${{ inputs.lista }}
+        run: |
+          python3 - <<'PY'
+          import os, time, hashlib, json, pathlib, urllib.request, urllib.robotparser, urllib.parse
+          UA = "parroquias-directorio/1.0 (GitHub Actions; lectura de directorio publico)"
+          lista = os.environ["LISTA"]
+          out = pathlib.Path("descargas/paginas") / lista.replace(".txt", ""); out.mkdir(parents=True, exist_ok=True)
+          idx_path = out / "_indice.json"
+          idx = json.loads(idx_path.read_text()) if idx_path.exists() else {}
+          robots = {}
+          def permitido(u):
+              p = urllib.parse.urlparse(u); base = f"{p.scheme}://{p.netloc}"
+              if base not in robots:
+                  rp = urllib.robotparser.RobotFileParser(base + "/robots.txt")
+                  try: rp.read()
+                  except Exception: rp = None
+                  robots[base] = rp
+              rp = robots[base]
+              return True if rp is None else rp.can_fetch(UA, u)
+          urls = [l.strip() for l in open(f"descargas/listas/{lista}", encoding="utf-8") if l.strip().startswith("http")]
+          for u in urls:
+              h = hashlib.md5(u.encode()).hexdigest()[:12]
+              if h in idx and idx[h].get("estado") == 200: continue
+              if not permitido(u):
+                  idx[h] = {"url": u, "estado": "robots"}; continue
+              estado, cuerpo = None, b""
+              for intento in range(3):
+                  try:
+                      r = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=40)
+                      estado, cuerpo = r.status, r.read(); break
+                  except urllib.error.HTTPError as e:
+                      estado = e.code
+                      if e.code in (403, 404, 410): break
+                      time.sleep(8 * (intento + 1))
+                  except Exception as e:
+                      estado = str(e)[:80]; time.sleep(8 * (intento + 1))
+              (out / f"{h}.html").write_bytes(cuerpo)
+              idx[h] = {"url": u, "estado": estado, "bytes": len(cuerpo)}
+              print(estado, len(cuerpo), u)
+              time.sleep(1.5)
+          idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=0))
+          PY
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add descargas
+          git commit -m "Descarga ${{ inputs.lista }}" || exit 0
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase; sleep 5; done

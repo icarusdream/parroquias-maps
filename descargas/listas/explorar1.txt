@@ -1,0 +1,14 @@
+https://arqmedellin.co/parroquias/
+https://arqmedellin.co/wp-json/
+https://arqmedellin.co/wp-json/wp/v2/types
+https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100
+https://arqmedellin.co/wp-sitemap.xml
+https://arquicali.org/
+https://arquicali.org/site/
+https://arquicali.org/new/
+https://arquicali.org/estructura-arquidiocesana/
+https://arquicali.org/parroquias/
+https://arquicali.org/wp-json/wp/v2/types
+https://arquicali.org/sitemap_index.xml
+https://arquicali.org/wp-sitemap.xml
+https://arquicali.org/robots.txt
