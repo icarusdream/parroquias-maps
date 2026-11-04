@@ -39,4 +39,5 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add territorios && git commit -m "Texto de territorios diocesanos" && git push
+          git add territorios && git commit -m "Texto de territorios diocesanos" || exit 0
+          for i in 1 2 3 4 5; do git push && break; git pull --rebase; sleep 5; done
