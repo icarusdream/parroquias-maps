@@ -47,3 +47,9 @@ legu0|Vicariato apostólico de Puerto Leguízamo-Solano
 zand3|Vicariato Apostólico de San Andrés y Providencia
 tier0|Vicariato Apostólico de Tierradentro
 trin1|Vicariato Apostólico de Trinidad
+mont7|Diócesis de Montería
+neiv0|Diócesis de Neiva
+barr4|Diócesis de Barrancabermeja
+liba0|Diócesis de Líbano-Honda
+mont4|Diócesis de Montelíbano
+elba0|Diócesis de El Banco
