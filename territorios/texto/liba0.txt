@@ -1,0 +1,121 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Líbano-Honda
+|tipo                    = diócesis
+|latín                   = Libana-Hondana
+|escudo                  = Escudo Diócesis de Líbano-Honda.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = {{Montaje fotográfico  
+          | margen tabla = 0 auto 
+          | posición = centre
+   | foto1a = Catedral de Líbano - Fachada principal 1.jpg{{!}} Catedral de Nuestra Señora del Carmen (Líbano)
+   | foto2a = Catedral de Nuestra Señora del Rosario - 1- Honda.jpg{{!}}Concatedral de Nuestra Señora del Rosario (Honda)
+   | espaciado = 2
+   | borde = 0
+   | tamaño = 300
+   | pie_montaje = Catedral de Nuestra Señora del Carmen en [[Líbano (Colombia)|Líbano]] y Concatedral de Nuestra Señora del Rosario en [[Honda (Tolima)|Honda]].
+   }}
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|8|7|1989}}
+|erección tipo           = diócesis
+|decreto de erección     = ''Ita iam hosce''
+|sufragánea              = [[arquidiócesis de Ibagué]]
+|patrón                  = 
+|catedral                = [[Catedral de Nuestra Señora del Carmen (Líbano)|de Nuestra Señora del Carmen]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/southamerica/4893.htm 
+|título=Cathedral of Our Lady of Carmel of Líbano |fechaacceso=21 de marzo de 2011  |idioma=inglés |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Líbano (Colombia)|Líbano]]
+|región tipo             = Departamento
+|región                  = [[Tolima]]
+|país                    = {{COL}}
+|curia                   = Casa Episcopal, Calle 6 N. 14-25, Líbano
+|concatedral             = 
+|ordinario               = [[José Luis Henao Cadavid]]
+|auxiliar                = 
+|emérito                 = 
+|vicario                 = 
+|administrador apostólico = 
+|parroquias              = 30
+|población total         = 281&nbsp;570
+|población año           = 2021
+|fieles                  = 488&nbsp;365
+|porcentaje fieles       = 88.3
+|sacerdotes              = 51
+|área                    = 3477 km²
+|mapa                    = Mapa Diocesis de Libano-Honda.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://web.archive.org/web/http://www.diocesisdelibanohonda.org/ www.diocesisdelibanohonda.org]
+}}
+
+La '''diócesis de Líbano-Honda''' ({{lang-la|Dioecesis Libana-Hondana}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Ibagué]]. Desde el 17 de octubre de 2015 su [[obispo]] es [[José Luis Henao Cadavid]].
+
+== Territorio y organización ==
+
+La diócesis tiene 3477 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 13 municipios del [[Tolima|departamento de Tolima]]: [[Fresno (Tolima)|Fresno]], [[Mariquita (Tolima)|Mariquita]], [[Palocabildo]], [[Casabianca (Tolima)|Casabianca]], [[Herveo]], [[Villahermosa (Tolima)|Villahermosa]], [[Líbano (Tolima)|Líbano]], [[Murillo (Tolima)|Murillo]], [[Lérida (Tolima)|Lérida]], [[Armero]], [[Ambalema]], [[Honda (Tolima)|Honda]].<ref name="c">{{Cita web|url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/libano_honde_diocesis_700.gif|título=Diócesis de Líbano-Honda|fechaacceso=21 de marzo de 2011|idioma=español|editorial=[[Conferencia Episcopal de Colombia]]|urlarchivo=https://web.archive.org/web/20111121142203/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/libano_honde_diocesis_700.gif|fechaarchivo=21 de noviembre de 2011}}</ref>
+
+Su territorio limita al norte con la [[diócesis de La Dorada-Guaduas]], al oeste con la [[arquidiócesis de Manizales]], al sur con la [[arquidiócesis de Ibagué]] y al este con la [[diócesis de Girardot]] y la [[diócesis de La Dorada-Guaduas]].<ref name="c"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[Líbano (Colombia)|Líbano]], en donde se halla la [[Catedral de Nuestra Señora del Carmen (Líbano)|Catedral de Nuestra Señora del Carmen]]. En [[Honda (Tolima)|Honda]] se halla la [[Concatedral de Nuestra Señora del Rosario (Honda)|Concatedral de Nuestra Señora del Rosario]].
+
+En 2021 en la diócesis existían 30 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+La diócesis fue erigida el 8 de julio de 1989 mediante la [[bula]] ''Ita iam hosce'' del [[papa]] [[Juan Pablo II]], obteniendo el territorio de la arquidiócesis de Ibagué.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19890708_libana-hondana_lt.html Bula ''Ita iam hosce''], AAS 81 (1989), pp. 1188-1190.</ref> Se nombró como primer obispo a José Luis Serna Alzate, quien tomó posesión el 7 de octubre de 1989. Gobernó hasta 12 de julio de 2002 cuando se le aceptó la renuncia por enfermedad, y se nombró como [[administrador apostólico]] a Oscar Aníbal Salazar Gómez, quien administró hasta el 25 de marzo de 2003.
+
+Entonces asumió como segundo obispo Rafael Arcadio Bernal Supelano, quien antes de un año también renunció por enfermedad, el 19 de marzo de 2004. Se hizo cargo como administrador apostólico Flavio Calle Zapata, arzobispo de Ibagué.
+
+El 12 de febrero de 2005 asumió como tercer obispo de la diócesis José Miguel Gómez Rodríguez.
+
+El 6 de octubre de 2015 la [[Corte Suprema de Justicia de Colombia]], en una sentencia calificada de «histórica», [[Responsabilidad civil|condenó civilmente]] por [[pederastia]] a la diócesis. El fallo, primero de este tipo contra la Iglesia católica en el país, se refería a los abusos sexuales a dos hermanos de 7 y 8 años perpetrados en 2007 por un clérigo de una de sus iglesias y obligaba a indemnizar con 800 millones de pesos (unos 245{{esd}}000 euros) a las víctimas, a quienes la diócesis «hasta el último momento ha negado el derecho al resarcimiento de su [[dignidad]] e [[Integridad personal#Concepto jurídico|integridad personal]] y [[Integridad moral#Concepto jurídico|moral]], muy a pesar de la contundencia y gravedad del perjuicio ocasionado, y contrario a las [[Doctrina social de la Iglesia|enseñanzas y valores]] que pregona esa organización religiosa», según el alto tribunal.<ref>{{Cita web|url=https://www.rtve.es/noticias/20151008/colombia-dicta-su-primera-condena-civil-contra-iglesia-pederastia/1235182.shtml|título=Una sentencia por pederastia, primera condena civil en Colombia contra la Iglesia|fecha=8 de octubre de 2015|sitioweb=RTVE.es}}</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 248&nbsp;596 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1990 || 180&nbsp;000 || 200&nbsp;384 || 89.8 || 30 || 29 || 1 || 6000 ||  || 1 || 116 || 25
+|- align="right"
+| 1999 || 180&nbsp;000 || 200&nbsp;000 || 90.0 || 40 || 39 || 1 || 4500 ||  || 1 || 75 || 30
+|- align="right"
+| 2000 || 230&nbsp;000 || 250&nbsp;000 || 92.0 || 43 || 42 || 1 || 5348 ||  || 1 || 75 || 30
+|- align="right"
+| 2001 || 230&nbsp;000 || 250&nbsp;000 || 92.0 || 44 || 43 || 1 || 5227 ||  || 1 || 75 || 30
+|- align="right"
+| 2002 || 280&nbsp;000 || 300&nbsp;000 || 93.3 || 43 || 42 || 1 || 6511 ||  || 5 || 75 || 30
+|- align="right"
+| 2003 || 290&nbsp;000 || 310&nbsp;000 || 93.5 || 42 || 41 || 1 || 6904 ||  || 5 || 75 || 30
+|- align="right"
+| 2004 || 250&nbsp;000 || 300&nbsp;000 || 83.3 || 44 || 40 || 4 || 5681 ||  || 6 || 79 || 29
+|- align="right"
+| 2013 || 238&nbsp;710 || 257&nbsp;049 || 92.9 || 48 || 42 || 6 || 4973 ||  || 10 || 73 || 30
+|- align="right"
+| 2016 || 240&nbsp;500 || 272&nbsp;770 || 88.2 || 53 || 46 || 7 || 4537 ||  || 11 || 73 || 30
+|- align="right"
+| 2019 || 245&nbsp;483 || 278&nbsp;048 || 88.3 || 60 || 56 || 4 || 4091 ||  || 8 || 70 || 30
+|- align="right"
+| 2021 || 248&nbsp;596 || 281&nbsp;570 || 88.3 || 51 || 49 || 2 || 4874 ||  || 4 || 68 || 30
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dliho.html |título=''Diocese of Líbano-Honda''|fechaacceso=19 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[José Luis Serna Alzate]], [[Misioneros de la Consolata|I.M.C.]] † (8 de julio de '''1989'''-12 de julio de '''2002''' renunció)
+* [[Rafael Arcadio Bernal Supelano]], [[Congregación del Santísimo Redentor|C.SS.R.]] † (10 de enero de '''2003'''-28 de febrero de '''2004''' renunció)
+* [[José Miguel Gómez Rodríguez]] (22 de noviembre de '''2004'''-23 de febrero de '''2015''' nombrado obispo de [[Diócesis de Facatativá|Facatativá]])
+* [[José Luis Henao Cadavid]], desde el 17 de octubre de '''2015'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+* [[Casos de abuso sexual infantil cometidos por miembros de la Iglesia católica]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/liba0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-l%C3%ADbano-honda Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Líbano-Honda| ]]

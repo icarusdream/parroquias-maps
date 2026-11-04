@@ -1,0 +1,124 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Montería
+|tipo                    = diócesis
+|latín                   = Monterien(sis)
+|escudo                  = Escudo de la Diócesis de Montería.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Catedral San Jerónimo de Montería en la celebración de los 240 años de la ciudad. .jpg
+|pie imagen              = Catedral de San Jerónimo
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|20|11|1954}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Quoniam Christus''
+|sufragánea              = [[arquidiócesis de Cartagena de Indias]]
+|patrón                  = 
+|catedral                = [[Catedral de San Jerónimo (Montería)|de San Jerónimo]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/southamerica/3846.htm 
+|título=Cathedral of St. Jerome |idioma=inglés |fechaacceso=21 de marzo de 2011 |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Montería]]
+|región tipo             = Departamento
+|región                  = [[Córdoba (Colombia)|Córdoba]]
+|país                    = {{COL}}
+|curia                   = Obispado, Calle 27 N. 4-42, Montería
+|concatedral             = 
+|ordinario               = [[Rubén Darío Jaramillo Montoya]]
+|auxiliar                = 
+|emérito                 = 
+|vicario                 = 
+|administrador apostólico = 
+|parroquias              = 79
+|población total         = 1&nbsp;479&nbsp;380
+|población año           = 2021
+|fieles                  = 1&nbsp;406&nbsp;220
+|porcentaje fieles       = 95.1
+|sacerdotes              = 109
+|área                    = 14&nbsp;500 km²
+|mapa                    = Mapa Diocesis de Monteria.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesismonteria.org/ www.diocesismonteria.org]
+}}
+
+La '''diócesis de Montería''' ({{lang-la|Dioecesis Monteriensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Cartagena de Indias]]. Desde el 14 de febrero de 2026 su obispo es monseñor '''[[Rubén Darío Jaramillo Montoya]]'''. 
+
+== Territorio y organización ==
+La diócesis tiene 14&nbsp;500 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 23 municipios del [[Córdoba (Colombia)|departamento de Córdoba]]: [[Canalete]], [[Cereté]], [[Chimá]], [[Chinú]], [[Ciénaga de Oro]], [[Cotorra (Colombia)|Cotorra]], [[Los Córdobas]], [[Momil]], [[Moñitos]], [[Montería]], [[Planeta Rica]], [[Pueblo Nuevo (Colombia)|Pueblo Nuevo]], [[Puerto Escondido (Colombia)|Puerto Escondido]], [[Purísima]], [[Sahagún (Colombia)|Sahagún]], [[San Andrés de Sotavento]], [[San Antero]], [[San Bernardo del Viento]], [[San Carlos (Córdoba)|San Carlos]], [[San Pelayo (Colombia)|San Pelayo]], [[Santa Cruz de Lorica]], [[Tuchín]] y [[Valencia (Colombia)|Valencia]].
+
+La sede de la diócesis se encuentra en la ciudad de [[Montería]], en donde se halla la [[Catedral de San Jerónimo (Montería)|Catedral de San Jerónimo]].
+
+En 2021 en la diócesis existían 79 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+Después de la creación del departamento de Córdoba (18 de junio de 1952), varios ciudadanos comenzaron a realizar las gestiones para obtener de la [[Santa Sede]] la erección de la diócesis de Montería. Para ello enviaron carta al arzobispo de [[Arquidiócesis de Bogotá|Bogotá]], [[cardenal]] [[Crisanto Luque Sánchez]], y al [[nuncio apostólico]] Pablo Bertoli. El arzobispo de Cartagena, [[José Ignacio López Umaña]], se convirtió en el vocero principal e impulsor del proyecto.
+
+La diócesis fue erigida el 20 de noviembre de 1954 mediante la [[bula]] ''Quoniam Christus'' del [[papa]] [[Pío XII]], obteniendo el territorio de la arquidiócesis de Cartagena y del [[vicariato apostólico de San Jorge]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-47-1955-ocr.pdf Bula ''Quoniam Christus''], AAS 47 (1955), p.&nbsp;136.</ref>
+
+El 25 de abril de 1969 cedió una porción de su territorio para la erección de la prelatura territorial del Alto Sinú (hoy [[diócesis de Montelíbano]]) mediante la bula ''Ex quo Deo'' del papa [[Pablo VI]].<ref>(en latín) [http://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19690425_monteriensis_lt.html Bula ''Ex quo Deo''], AAS 61 (1969), pp.&nbsp;701-702.</ref>
+
+El 27 de octubre de 2012 el papa [[Benedicto XVI]] nombró como obispo de la diócesis de Montería al sacerdote Ramón Alberto Rolón Güepsa,<ref name='CH'></ref> quien hasta ese momento se desempeñaba como rector del seminario mayor Santo Tomás de Aquino de la [[arquidiócesis de Nueva Pamplona]].
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 1&nbsp;406&nbsp;220 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1965 || 436&nbsp;000 || 438&nbsp;070 || 99.5 || 43 || 38 || 5 || 10&nbsp;139 ||  || 16 || 185 || 24
+|- align="right"
+| 1968 || 468&nbsp;350 || 493&nbsp;000 || 95.0 || 48 || 43 || 5 || 9757 ||  || 14 || 225 || 31
+|- align="right"
+| 1976 || 760&nbsp;000 || 770&nbsp;000 || 98.7 || 44 || 38 || 6 || 17&nbsp;272 ||  || 12 || 255 || 31
+|- align="right"
+| 1980 || 789&nbsp;000 || 820&nbsp;500 || 96.2 || 41 || 32 || 9 || 19&nbsp;243 ||  || 18 || 230 || 32
+|- align="right"
+| 1990 || 950&nbsp;000 || 980&nbsp;000 || 96.9 || 50 || 45 || 5 || 19&nbsp;000 ||  || 17 || 264 || 45
+|- align="right"
+| 1999 || 1&nbsp;048&nbsp;000 || 1&nbsp;076&nbsp;476 || 97.4 || 65 || 53 || 12 || 16&nbsp;123 ||  || 15 || 200 || 67
+|- align="right"
+| 2000 || 1&nbsp;200&nbsp;000 || 1&nbsp;350&nbsp;000 || 88.9 || 74 || 58 || 16 || 16&nbsp;216 ||  || 19 || 200 || 71
+|- align="right"
+| 2001 || 1&nbsp;200&nbsp;000 || 1&nbsp;350&nbsp;000 || 88.9 || 67 || 51 || 16 || 17&nbsp;910 ||  || 22 || 200 || 73
+|- align="right"
+| 2002 || 1&nbsp;250&nbsp;000 || 1&nbsp;450&nbsp;000 || 86.2 || 80 || 64 || 16 || 15&nbsp;625 ||  || 25 || 45 || 74
+|- align="right"
+| 2003 || 1&nbsp;300&nbsp;000 || 1&nbsp;500&nbsp;000 || 86.7 || 70 || 64 || 6 || 18&nbsp;571 ||  || 12 || 110 || 74
+|- align="right"
+| 2004 || 1&nbsp;310&nbsp;000 || 1&nbsp;510&nbsp;000 || 86.8 || 68 || 64 || 4 || 19&nbsp;264 ||  || 8 || 110 || 74
+|- align="right"
+| 2013 || 1&nbsp;601&nbsp;000 || 1&nbsp;685&nbsp;000 || 95.0 || 113 || 109 || 4 || 14&nbsp;168 ||  || 27 || 177 || 80
+|- align="right"
+| 2016 || 1&nbsp;656&nbsp;592 || 1&nbsp;742&nbsp;557 || 95.1 || 113 || 106 || 7 || 14&nbsp;660 ||  || 30 || 60 || 80
+|- align="right"
+| 2019 || 1&nbsp;365&nbsp;300 || 1&nbsp;436&nbsp;259 || 95.1 || 113 || 106 || 7 || 12&nbsp;082 ||  || 7 || 69 || 79
+|- align="right"
+| 2021 || 1&nbsp;406&nbsp;220 || 1&nbsp;479&nbsp;380 || 95.1 || 109 || 102 || 7 || 12&nbsp;901 ||  || 7 || 69 || 79
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dmoco.html |título=''Diocese of Montería''|fechaacceso=8 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=21 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Rubén Isaza Restrepo]] † (4 de noviembre de '''1956'''-2 de noviembre de '''1959''' nombrado obispo de [[Arquidiócesis de Ibagué|Ibagué]])
+* [[José de Jesús Pimiento Rodríguez]] † (30 de diciembre de '''1959'''-29 de febrero de '''1964''' nombrado obispo de [[Diócesis de Garzón|Garzón-Neiva]])
+* [[Miguel Antonio Medina Medina]] † (23 de marzo de '''1964'''-20 de mayo de '''1972''' falleció)
+* [[Samuel Silverio Buitrago Trujillo]], [[Congregación de la Misión|C.M.]] † (18 de diciembre de '''1972'''-11 de octubre de '''1976''' nombrado arzobispo de [[Arquidiócesis de Popayán|Popayán]])
+* [[Carlos José Ruiseco Vieira]] (28 de marzo de '''1977'''-23 de septiembre de '''1983''' nombrado arzobispo de [[Arquidiócesis de Cartagena de Indias|Cartagena]])
+* Ramón Darío Molina Jaramillo, [[Orden de Frailes Menores|O.F.M.]] † (23 de marzo de '''1984'''-19 de enero de '''2001''' nombrado obispo de [[Diócesis de Neiva|Neiva]])
+* [[Julio César Vidal Ortiz]] (31 de octubre de '''2001'''-16 de julio de '''2011''' nombrado obispo de [[Diócesis de Cúcuta|Cúcuta]])
+* [[Ramón Alberto Rolón Güepsa]] (27 de octubre de '''2012''' - 6 de junio de '''2025''', nombrado [[Diócesis de Chiquinquirá|obispo de Chiquinquirá]])
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/mont7.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-monter%C3%Ada Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+== Referencias ==
+{{listaref}}
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Monteria]]
+[[Categoría:Provincia eclesiástica de Cartagena|Monteria]]
+[[Categoría:Diócesis creadas por Pío XII|Monteria]]
+[[Categoría:Montería]]

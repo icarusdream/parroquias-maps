@@ -1,0 +1,133 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Montelíbano
+|tipo                    = diócesis
+|latín                   = Monslibanen(sis)
+|escudo                  = Escudo de la Diócesis de Montelíbano.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  =
+|pie imagen              =
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|25|4|1969}}
+|erección tipo           = prelatura territorial del Alto Sinú
+|bulaPontificia          = ''Ex quo Deo''
+|elevación diócesis      = {{fecha|29|12|1998}}
+|sufragánea              = [[arquidiócesis de Cartagena de Indias]]
+|patrón                  =
+|catedral                = [[Catedral de la Santa Cruz (Montelíbano)|de la Santa Cruz]]
+|sede                    = [[Montelíbano]]
+|región tipo             = Departamento
+|región                  = [[Córdoba (Colombia)|Córdoba]]
+|país                    = {{COL}}
+|curia                   = Curia Diocesana, Calle 17 N. 6-39, Montelíbano
+|concatedral             =
+|ordinario               = [[Farly Yovany Gil Betancur]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 20
+|población total         = 328&nbsp;924
+|población año           = 2021
+|fieles                  = 262&nbsp;750
+|porcentaje fieles       = 79.9
+|sacerdotes              = 34
+|área                    = 12&nbsp;152 km²
+|mapa                    = Mapa Diocesis de Montelibano.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocesisdemontelibano.org/ www.diocesisdemontelibano.org]
+}}
+
+La '''diócesis de Montelíbano''' ({{lang-la|Dioecesis Monslibanensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Cartagena de Indias]]. Desde el 4 de marzo de 2020 su [[obispo]] es [[Farly Yovany Gil Betancur]].
+
+== Territorio y organización ==
+[[Archivo:ErmitaSantaCruz.jpg|thumb|miniatura|derecha|Ermita de la Santa Cruz, primer templo católico de Montelíbano]]
+
+La diócesis tiene 12&nbsp;152 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 7 municipios del [[Córdoba (Colombia)|departamento de Córdoba]]: [[Ayapel]], [[Buenavista (Córdoba)|Buenavista]], [[La Apartada]], [[Montelíbano]], [[Puerto Libertador]], [[San José de Uré]] y [[Tierralta]].
+
+La sede de la diócesis se encuentra en la ciudad de [[Montelíbano]], en donde se halla la [[Catedral de la Santa Cruz (Montelíbano)|Catedral de la Santa Cruz]].
+
+En 2021 en la diócesis existían 20 [[Parroquia (religión)|parroquias]] agrupadas en 4 vicarías: Nuestra Señora del Carmen, San Juan María Vianney, San Jerónimo y San Pedro Claver.
+
+== Historia ==
+=== Antecedentes ===
+Parte del territorio de la actual diócesis de Montelíbano formó parte de la [[prefectura apostólica]] del Sinú, erigida el 12 de junio de 1924 por medio de la [[bula]] ''Christi Domini'' del [[papa]] [[Pío XI]], con territorio desmembrado de la [[arquidiócesis de Cartagena]].
+
+El 10 de marzo de 1950 la prefectura apostólica fue elevada a [[vicariato apostólico de San Jorge]] por el papa [[Pío XII]].
+
+El 25 de abril de 1969 con tres bulas distintas el vicariato apostólico de San Jorge fue suprimido y su territorio desmembrado en tres nuevas circunscripciones eclesiásticas: la [[diócesis de Sincelejo]], la [[diócesis de Magangué]] y la prelatura territorial del Alto Sinú.
+
+=== Prelatura territorial y diócesis ===
+La prelatura territorial del Alto Sinú fue erigida el 25 de abril de 1969 mediante la bula ''Ex quo Deo'' del papa Pablo VI, derivando el territorio del vicariato apostólico de San Jorge y de la [[diócesis de Montería]].<ref>(en latín) [http://www.vatican.va/holy_father/paul_vi/apost_constitutions/documents/hf_p-vi_apc_19690425_monteriensis_lt.html Bula ''Ex quo Deo''], AAS 61 (1969), pp.&nbsp;701-702.</ref>
+
+El 29 de diciembre de 1998, mediante la bula ''Ministerium totius'' del papa [[Juan Pablo II]], la prelatura territorial del Alto Sinú fue elevada al rango de diócesis con su denominación actual.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19981229_monslibanen_lt.html Bula ''Ministerium totius''], AAS 91 (1999), pp.&nbsp;330-331.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 262&nbsp;750 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 97&nbsp;921 || 97&nbsp;995 || 99.9 || 17 || 17 ||  || 5760 ||  ||  || 50 || 9
+|- align="right"
+| 1966 || 280&nbsp;000 || 295&nbsp;000 || 94.9 || 46 || 11 || 35 || 6086 ||  ||  || 114 || 27
+|- align="right"
+| 1976 || 132&nbsp;000 || 135&nbsp;000 || 97.8 || 13 || 4 || 9 || 10&nbsp;153 ||  || 13 || 24 || 7
+|- align="right"
+| 1980 || 140&nbsp;000 || 141&nbsp;800 || 98.7 || 11 || 4 || 7 || 12&nbsp;727 ||  || 11 || 27 || 8
+|- align="right"
+| 1987 || 217&nbsp;000 || 222&nbsp;000 || 97.7 || 16 || 8 || 8 || 13&nbsp;562 ||  || 9 || 37 || 10
+|- align="right"
+| 1999 || 205&nbsp;806 || 272&nbsp;000 || 75.7 || 27 || 23 || 4 || 7622 ||  || 4 || 47 || 15
+|- align="right"
+| 2000 || 205&nbsp;806 || 272&nbsp;000 || 75.7 || 29 || 25 || 4 || 7096 ||  || 4 || 47 || 15
+|- align="right"
+| 2001 || 206&nbsp;700 || 273&nbsp;000 || 75.7 || 31 || 27 || 4 || 6667 ||  || 4 || 47 || 15
+|- align="right"
+| 2002 || 207&nbsp;000 || 276&nbsp;000 || 75.0 || 29 || 25 || 4 || 7137 ||  || 4 || 47 || 15
+|- align="right"
+| 2003 || 205&nbsp;000 || 274&nbsp;000 || 74.8 || 28 || 24 || 4 || 7321 ||  || 4 || 46 || 16
+|- align="right"
+| 2004 || 225&nbsp;000 || 243&nbsp;000 || 92.6 || 26 || 23 || 3 || 8653 ||  || 3 || 59 || 16
+|- align="right"
+| 2013 || 289&nbsp;000 || 311&nbsp;000 || 92.9 || 31 || 29 || 2 || 9322 ||  || 2 || 19 || 19
+|- align="right"
+| 2016 || 298&nbsp;000 || 327&nbsp;924 || 90.9 || 37 || 35 || 2 || 8054 ||  || 2 || 22 || 19
+|- align="right"
+| 2019 || 264&nbsp;800 || 331&nbsp;500 || 79.9 || 36 || 34 || 2 || 7355 ||  || 2 || 20 || 25
+|- align="right"
+| 2021 || 262&nbsp;750 || 328&nbsp;924 || 79.9 || 34 || 34 ||  || 7727 ||  || 3 || 20 || 20
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dmonl.html |título=''Diocese of Montelibano''|fechaacceso=8 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=26 de agosto de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+Están presentes las comunidades masculinas de los claretianos. Entre las comunidades femeninas figuran: Hermanitas de la Anunciación, [[Lauritas]], [[Hijas de Cristo Rey]], Terciarias Capuchinas, [[Carmelitas de la Caridad de Vedruna|Carmelitas Vedrunas]], Misioneras Catequistas, [[Siervas del Santísimo y de la Caridad]] y las [[Hijas de María Auxiliadora]] (salesianas).
+
+== Episcopologio ==
+=== Prelados del Alto Sinú ===
+* [[Alfonso Sánchez Peña]], [[Misioneros Hijos del Inmaculado Corazón de María|C.M.F.]] † (28 de julio de '''1969'''-16 de febrero de '''1989''' retirado)
+* [[Flavio Calle Zapata]] (16 de febrero de '''1989'''-16 de febrero de '''1993''' nombrado obispo de [[Diócesis de Sonsón-Rionegro|Sonsón-Rionegro]])
+* [[Julio César Vidal Ortiz]] (16 de diciembre de '''1993'''-29 de diciembre de '''1998''' nombrado obispo diocesano)
+
+=== Obispos de Montelíbano ===
+* [[Julio César Vidal Ortiz]] (29 de diciembre de '''1998'''-31 de octubre de '''2001''' nombrado obispo de [[Diócesis de Montería|Montería]])
+* [[Edgar de Jesús García Gil]] (28 de octubre de '''2002'''-24 de mayo de '''2010''' nombrado obispo de [[Diócesis de Palmira|Palmira]])
+* [[Luis José Rueda Aparicio]] (2 de febrero de '''2012'''-19 de mayo de '''2018''' nombrado arzobispo de [[Arquidiócesis de Popayán|Popayán]])
+** [[Ramón Alberto Rolón Güepsa]] (7 de julio de '''2018'''-4 de marzo de '''2020''') (administrador apostólico)
+* [[Farly Yovany Gil Betancur]], desde el 4 de marzo de '''2020'''
+
+== Véase también ==
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/mont4.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-montel%C3%ADbano Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|Montelibano]]
+[[Categoría:Provincia eclesiástica de Cartagena|Montelibano]]
+[[Categoría:Diócesis creadas por Pablo VI|Montelibano]]
+[[Categoría:Montelíbano]]

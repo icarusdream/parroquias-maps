@@ -1,0 +1,196 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Neiva
+|tipo                    = diócesis
+|latín                   = Neiven(sis)
+|escudo                  = Escudo de la Diócesis de Neiva.svg
+|pie escudo              = Escudo de la diócesis
+|imagen                  = Capilla de La Inmaculada Concepción.jpg
+|pie imagen              = Catedral de la Inmaculada Concepción
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|24|7|1972}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Ad aptius tutiusque''
+|sufragánea              = [[arquidiócesis de Ibagué]]
+|patrón                  =
+|catedral                = [[Catedral de la Inmaculada Concepción (Neiva)|de la Inmaculada Concepción]]<ref>{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#hcf |título=Cathedrals in Colombia |fechaacceso=4 de agosto de 2010  |idioma=inglés |editorial=Giga-Catholic Information }}</ref>
+|sede                    = [[Neiva]]
+|región tipo             = Departamento
+|región                  = [[Huila]]
+|país                    = {{COL}}
+|curia                   = Calle 8 N. 5-58, Neiva
+|concatedral             =
+|ordinario               = [[Marco Antonio Merchán Ladino]]
+|auxiliar                =
+|emérito                 = [[Froilán Tiberio Casas Ortíz]]
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 65
+|población total         = 539&nbsp;400
+|población año           = 2021
+|fieles                  = 512&nbsp;200
+|porcentaje fieles       = 95.0
+|sacerdotes              = 89
+|área                    = 10&nbsp;523 km²
+|mapa                    = Mapa Diocesis de Neiva.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [https://diocesisdeneiva.org/ www.diocesisdeneiva.org]
+}}
+
+La '''diócesis de Neiva''' ({{lang-la|Dioecesis Neivensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Ibagué]]. Desde el 14 de abril de 2023 su [[obispo]] es [[Marco Antonio Merchán Ladino]].
+
+== Territorio y organización ==
+[[Archivo:Mapa Diocesis de Neiva - Vicarias.svg|thumb|miniatura|derecha|Mapa de las vicarías foráneas de la diócesis de Neiva]]
+
+La diócesis tiene 10&nbsp;523 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 15 municipios del [[Huila|departamento de Huila]]: [[Colombia (Huila)|Colombia]], [[Villavieja (Huila)|Villavieja]], [[Baraya]], [[Tello]], [[Aipe]], [[Neiva]], [[Santa María (Huila)|Santa María]], [[Palermo (Huila)|Palermo]], [[Rivera (Huila)|Rivera]], [[Campoalegre]], [[Algeciras]], [[Hobo]], [[Yaguará]], [[Íquira]] y [[Teruel (Huila)|Teruel]].<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/neiva_diocesis_700.gif |título=Mapa de la Diócesis de Neiva |fechaacceso=4 de agosto de 2010 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111118222439/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/neiva_diocesis_700.gif |fechaarchivo=18 de noviembre de 2011 }}</ref> 
+
+Su territorio limita al norte con la [[arquidiócesis de Bogotá]], la [[diócesis de Girardot]] y la [[diócesis de El Espinal]], al sur con la [[diócesis de Garzón]] y la [[Arquidiócesis de Florencia (Colombia)|arquidiócesis de Florencia]], al este con la [[Diócesis de Granada (Colombia)|diócesis de Granada]] y el [[diócesis de San Vicente del Caguán]] y al oeste con el [[vicariato apostólico de Tierradentro]] y la diócesis de El Espinal.<ref name="mapa"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[Neiva]], en donde se halla la [[Catedral de la Inmaculada Concepción (Neiva)|Catedral de la Inmaculada Concepción]].
+
+En 2021 en la diócesis existían 65 [[Parroquia (religión)|parroquias]] agrupadas en 6 vicarías foráneas: Inmaculada Concepción, San José, Espíritu Santo, Nuestra Señora del Carmen, San Francisco de Asís y Sagrada Familia.
+
+; Vicaría de la Inmaculada Concepción
+* [[Catedral de la Inmaculada Concepción de Neiva|Catedral Inmaculada Concepción]]
+* Cristo Sacerdote
+* Divino Niño del Limonar
+* Jesús Obrero
+* Medalla Milagrosa
+* Nuestra Señora del Carmen
+* Nuestra Señora del Perpetuo Socorro
+* Sagrado Corazón de Jesús
+* San Juan Bosco
+* San Juan Pablo II
+* San Vicente de Paúl<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-la-inmaculada-concepcion |título=Vicaría La Inmaculada Concepción |fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+; Vicaría de San José 
+* Santa Teresa de Calcuta
+* El Señor de la Divina Misericordia
+* Nuestra Señora de Aránzazu
+* Nuestra Señora de Chiquinquirá ([[Vegalarga (Neiva)|Vegalarga]], Neiva)
+* Nuestra Señora de Guadalupe
+* Nuestra Señora de las Mercedes
+* Nuestra Señora Fátima
+* San Antonio de Padua (San Antonio, Neiva)
+* San Francisco de Asís
+* San José
+* San Juan María Vianney
+* Santa Marta<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-de-san-jose |título=Vicaría De San José |fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+; Vicaría del Espíritu Santo 
+* Divino Niño Jesús de Praga (Praga, [[Aipe]])
+* Divino Niño de Galindo
+* El Señor de los Milagros (San Francisco, Neiva)
+* El Señor de los Milagros (Santa Bárbara, [[Palermo (Huila)|Palermo]])
+* Espíritu Santo
+* La Santísima Trinidad
+* Nuestra Señora de los Dolores (Aipe)
+* Nuestra Señora del Rosario
+* San Antonio María Claret
+* San Judas Tadeo
+* Santa Clara Asís
+* Santa María de La Paz<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-del-espiritu-santo |título=Vicaría Del Espíritu Santo |fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+; Vicaría de Nuestra Señora del Carmen 
+* La Santísima Trinidad ([[Tello]])
+* María Auxiliadora ([[Fortalecillas (Neiva)|Fortalecillas]], Neiva)
+* Nuestra Señora de las Mercedes ([[Colombia (Huila)|Colombia]])
+* Nuestra Señora del Carmen ([[Baraya]])
+* Nuestra Señora del Socorro ([[Villavieja (Huila)|Villavieja]])
+* San Andrés (San Andrés, Tello)
+* Santa Ana (Santa Ana, Colombia)<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-ntra-sra-del-carmen |título=Vicaría Nuestra Señora Del Carmen|fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+; Vicaría de San Francisco de Asís
+* Inmaculada Concepción (Palermo)
+* Nuestra Señora de Aránzazu (Rionegro, [[Íquira]])
+* Nuestra Señora de la Candelaria ([[Teruel]])
+* Nuestra Señora del Carmen (Juncal, Palermo)
+* Nuestra Señora del Carmen (Santa María)
+* San Francisco de Asís ([[Íquira]])
+* San Isidro Labrador (Palermo)
+* San Joaquín (San Joaquín, Santa María)
+* San Luis Beltrán ([[San Luis (Neiva)|San Luis]], Neiva)
+* Santa Ana ([[Yaguará]])
+* Santa Rosalía (Palermo)<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-san-francisco-de-asis |título=Vicaría San Francisco De Asís|fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+; Vicaría de La Sagrada Familia 
+* Nuestra Señora de la Candelaria ([[Campoalegre]])
+* Nuestra Señora de las Mercedes (Campoalegre)
+* Nuestra Señora del Divino Amor (Campoalegre)
+* Nuestra Señora de Lourdes ([[Algeciras (Huila)|Algeciras]])
+* Nuestra Señora de Caná (Algeciras)
+* Nuestra Señora del Cenáculo (Algeciras)
+* Nuestra Señora del Perpetuo Socorro ([[Rivera (Huila)|Rivera]])
+* Sagrada Familia (Rivera)
+* San Antonio de Padua (La Ulloa, Rivera)
+* San Juan Bautista ([[Hobo]])
+* San Roque ([[El Caguán (Neiva)|El Caguán]], Neiva)
+* Señor de los Milagros (Riverita, Rivera)<ref>{{Cita web |url=http://www.diocesisdeneiva.org/v2012/parroquias/vicaria-la-sagrada-familia |título=Vicaría La Sagrada Familia|fechaacceso=7 de enero de 2015  |idioma=español |editorial=}}</ref>
+
+== Historia ==
+=== Antecedentes ===
+La ciudad de Neiva fue por primera vez sede episcopal de la [[diócesis de Tolima]] (abarcaba la región conocida como [[Tolima Grande]]) del 21 de julio de 1895 al 20 de mayo de 1900. Al ser suprimida esta diócesis se erigió la [[diócesis de Garzón]], de la que también formaba parte Neiva, que durante un período determinado fue sede de la nueva diócesis.
+
+El 25 de febrero de 1964, mediante la [[bula]] ''De Ecclesiarum prosperitate'' del [[papa]] [[Pablo VI]], la iglesia de la Inmaculada Concepción de Neiva fue elevada al rango de [[concatedral]] de la diócesis de Garzón, que al mismo tiempo asumió el nombre de diócesis de Garzón-Neiva: «''el templo dedicado a Dios en Honor de la Bienaventurada Virgen María Inmaculada, existente en la ciudad de Neiva, sea tenido como Iglesia Concatedral, con los derechos, honores, privilegios y obligaciones que corresponden a tales sagrados edificios''».<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf Bula ''De Ecclesiarum prosperitate''], AAS 57 (1965), pp. 145-146.</ref>
+
+=== Diócesis ===
+La diócesis de Neiva fue erigida el 24 de julio de 1972 mediante la bula ''Ad aptius tutiusque'' del papa Pablo VI, tras la división de la diócesis de Garzón-Neiva, de la que también fue originada la diócesis de Garzón.<ref>(en latín) [https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19720724_neivensis.html Bula ''Ad aptius tutiusque''], AAS 64 (1972), pp. 660-662.</ref>
+
+Originalmente sufragánea de la [[arquidiócesis de Popayán]], el 14 de diciembre de 1974 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Ibagué.
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 512&nbsp;200 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1976 || 251&nbsp;500 || 260&nbsp;500 || 96.5 || 27 || 6 || 33 || 7621 ||  || 6 || 78 || 25
+|- align="right"
+| 1980 || 274&nbsp;500 || 287&nbsp;800 || 95.4 || 30 || 14 || 44 || 6238 ||  || 14 || 60 || 27
+|- align="right"
+| 1990 || 369&nbsp;000 || 380&nbsp;522 || 97.0 || 35 || 11 || 46 || 8021 ||  || 18 || 57 || 27
+|- align="right"
+| 1999 || 468&nbsp;000 || 481&nbsp;000 || 97.3 || 50 || 9 || 59 || 7932 ||  || 13 || 57 || 37
+|- align="right"
+| 2000 || 380&nbsp;000 || 400&nbsp;000 || 95.0 || 50 || 9 || 59 || 6440 ||  || 13 || 58 || 37
+|- align="right"
+| 2001 || 380&nbsp;000 || 400&nbsp;000 || 95.0 || 53 || 9 || 62 || 6129 ||  || 13 || 57 || 38
+|- align="right"
+| 2002 || 386&nbsp;000 || 406&nbsp;000 || 95.1 || 52 || 10 || 62 || 6225 ||  || 14 || 53 || 38
+|- align="right"
+| 2003 || 392&nbsp;000 || 412&nbsp;000 || 95.1 || 52 || 14 || 66 || 5939 ||  || 16 || 57 || 48
+|- align="right"
+| 2004 || 409&nbsp;126 || 430&nbsp;000 || 95.1 || 61 || 14 || 75 || 5455 ||  || 14 || 53 || 48
+|- align="right"
+| 2008 || 435&nbsp;000 || 458&nbsp;000 || 95.0 || 77 || 51 || 26 || 5649 ||  || 26 || 57 || 52
+|- align="right"
+| 2013 || 463&nbsp;000 || 487&nbsp;000 || 95.1 || 86 || 64 || 22 || 5383 ||  || 28 || 65 || 60
+|- align="right"
+| 2016 || 478&nbsp;000 || 503&nbsp;000 || 95.0 || 61 || 61 ||  || 7836 || 1 || 5 || 45 || 62
+|- align="right"
+| 2019 || 494&nbsp;000 || 520&nbsp;000 || 95.0 || 89 || 71 || 18 || 5550 ||  || 22 || 32 || 63
+|- align="right"
+| 2021 || 512&nbsp;200 || 539&nbsp;400 || 95.0 || 89 || 74 || 15 || 5755 ||  || 63 || 27 || 65
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dneiv.html |título=''Diocese of Neiva''|fechaacceso=19 de octubre de 2024 |apellido=Cheney |nombre=David |fecha=14 de abril de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+* [[Rafael Sarmiento Peralta]] † (24 de julio de '''1972'''-12 de enero de '''1985''' nombrado arzobispo de [[Arquidiócesis de Nueva Pamplona|Nueva Pamplona]])
+* [[Hernando Rojas Ramírez]] † (1 de julio de '''1985'''-19 de enero de '''2001''' retirado)
+* [[Ramón Darío Molina Jaramillo]], [[Orden de Frailes Menores|O.F.M.]] † (19 de enero de '''2001'''-4 de febrero de '''2012''' retirado)
+* [[Froilán Tiberio Casas Ortíz]] (4 de febrero de '''2012'''-14 de abril de '''2023''' renunció)
+* [[Marco Antonio Merchán Ladino]], desde el 14 de abril de '''2023'''
+
+== Véase también ==
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/neiv0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-neiva Ficha de la diócesis] en el sitio oficial de la Conferencia Episcopal de Colombia
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Neiva| ]]

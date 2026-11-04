@@ -1,0 +1,110 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de El Banco
+|tipo                    = diócesis
+|latín                   = Bancoën(sis)
+|escudo                  =Escudo de la Diócesis de El Banco.svg
+|pie escudo              =
+|imagen                  = Fachada de la catedral.JPG
+|pie imagen              = Catedral de Nuestra Señora de la Candelaria
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|17|1|2006}}
+|erección tipo           = diócesis
+|bulaPontificia          = ''Munus Nostrum''
+|sufragánea              = [[arquidiócesis de Barranquilla]]
+|patrón                  =
+|catedral                = [[Catedral de Nuestra Señora de la Candelaria de El Banco|de Nuestra Señora de la Candelaria]]
+|sede                    = [[El Banco]]
+|región tipo             = departamento
+|región                  = [[Magdalena (Colombia)|Magdalena]]
+|país                    = {{COL}}
+|curia                   = Carrera 9 N. 3-18, El Banco
+|concatedral             =
+|ordinario               = [[Dimas Antonio Acuña Jiménez]]
+|auxiliar                =
+|emérito                 =
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 18
+|población total         = 523&nbsp;985
+|población año           = 2021
+|fieles                  = 353&nbsp;900
+|porcentaje fieles       = 67.5
+|sacerdotes              = 22
+|área                    = 11&nbsp;855 km²
+|mapa                    = Mapa Diocesis de El Banco.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               =
+}}
+
+La '''diócesis de El Banco''' ({{lang-la|Dioecesis Bancoënsis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Barranquilla]]. Desde el 15 de mayo de 2024 su [[obispo]] es [[Dimas Antonio Acuña Jiménez]].
+
+== Territorio y organización ==
+La diócesis tiene 11&nbsp;855 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 15 de municipios en 2 departamentos:
+* [[Departamento de Magdalena]]: [[El Banco]], [[Plato (Magdalena)|Plato]], [[Guamal (Magdalena)|Guamal]], [[San Zenón]], [[Pijiño del Carmen]], [[Santa Ana (Colombia)|Santa Ana]], [[Santa Bárbara de Pinto]], [[San Sebastián de Buenavista]], [[Nueva Granada (Magdalena)|Nueva Granada]], [[Ariguaní]], [[Sabanas de San Ángel]], [[Chivolo]] y [[Tenerife (Colombia)|Tenerife]];
+* [[Departamento de Cesar]]: [[Astrea (Colombia)|Astrea]] y [[Chimichagua]].
+
+La diócesis limita al noroeste con la arquidiócesis de Cartagena, al norte con la [[diócesis de Santa Marta]], al este con la [[diócesis de Valledupar]], al sureste con la [[diócesis de Ocaña]] y al sur con la [[diócesis de Magangué]].<ref name='CH'></ref>
+
+La sede de la diócesis se encuentra en la ciudad de [[El Banco]], en donde se halla la [[Catedral de Nuestra Señora de la Candelaria de El Banco|Catedral de Nuestra Señora de la Candelaria]].
+
+En 2021 en la diócesis existían 18 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+La diócesis fue erigida el 17 de enero de 2006 mediante la [[bula]] ''Munus Nostrum'' del [[papa]] [[Benedicto XVI]] , obteniendo el territorio de las diócesis de [[Diócesis de Santa Marta|Santa Marta]] y [[Diócesis de Valledupar|Valledupar]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/2006/febbraio%202006.pdf Bula ''Munus Nostrum''], AAS 98 (2006), p.&nbsp;108.</ref>
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2022 la diócesis tenía a fines de 2021 un total de 353&nbsp;900 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 2006 || 334&nbsp;000 || 389&nbsp;641 || 85.7 || 18 || 2 || 16 || 18&nbsp;555 ||   || 2 ||  || 11 
+|- align="right"
+| 2008 || 426&nbsp;000 || 458&nbsp;000 || 93.0 || 25 || 7 || 18 || 17&nbsp;040 ||   || 7 || 16 || 14 
+|- align="right"
+| 2011 || 449&nbsp;000 || 484&nbsp;000 || 92.8 || 20 || 16 || 4 || 22&nbsp;450 ||   || 5 || 11 || 18
+|- align="right"
+| 2016 || 472&nbsp;000 || 510&nbsp;000 || 92.5 || 32 || 28 || 4 || 14&nbsp;750 ||   || 4 || 14 || 17
+|- align="right"
+| 2019 || 339&nbsp;300 || 502&nbsp;370 || 67.5 || 21 || 16 ||   || 21&nbsp;206 ||   || 5 || 11 || 19
+|- align="right"
+| 2021 || 353&nbsp;900 || 523&nbsp;985 || 67.5 || 22 || 16 || 6 || 16&nbsp;086 || 24 || 20 || 7 || 18
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/delba.html |título=''Diocese of El Banco''|fechaacceso=22 de septiembre de 2024 |apellido=Cheney |nombre=David |fecha=9 de septiembre de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2022 y precedentes}}</ref>
+|}
+
+=== Vida consagrada ===
+En el territorio diocesano desempeñan su labor carismática los siguientes institutos o sociedades: Congregación de Hermanas Terciarias Capuchinas y [[Orden de Nuestra Señora del Monte Carmelo]].{{harvnp|AP|2017|p=227}} 
+
+== Episcopologio ==
+* [[Jaime Enrique Duque Correa]], [[Misioneros Javerianos de Yarumal|M.X.Y.]] † (17 de enero de '''2006'''-14 de abril de '''2013''' falleció)
+* [[Luis Gabriel Ramírez Díaz]] † (18 de junio de '''2014'''-27 de febrero de '''2021''' nombrado obispo de [[Diócesis de Ocaña|Ocaña]])<ref group='nota'>Fue administrador apostólico desde el 24 de abril de 2013. Después de al transferencia a Ocaña permaneció administrador apostólico hasta el 8 de enero de 2023, día de su deceso.</ref>
+** ''Sede vacante (2021-2024)''<ref group='nota'>Desde el 17 de enero de 2023 al 9 de septiembre de 2024, día de la toma de posesión del obispo Antonio Acuña Jiménez, fue administrador apostólico José Mario Bacci Trespalacios, [[Congregación de Jesús y María|C.I.M.]], obispo de [[Diócesis de Santa Marta|Santa Marta]].</ref>
+* [[Dimas Antonio Acuña Jiménez]], desde el 15 de mayo de '''2024'''
+
+== Véase también ==
+{{Portal|Iglesia católica}}
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Notas ==
+<references group="nota"/>
+
+== Referencias ==
+{{listaref}}
+
+== Bibliografía ==
+* {{cita libro|apellido=AP|título=Annuario Pontificio 2017|año=2017|ubicación=Città del Vaticano|editorial=Libreria Editrice Vaticana}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/elba0.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-el-banco Ficha de la diócesis] en el sitio de la Conferencia Episcopal Colombiana
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Colombia|El Banco]]
+[[Categoría:Provincia eclesiástica de Barranquilla|El Banco]]
+[[Categoría:Diócesis creadas por Benedicto XVI|El Banco]]
+[[Categoría:Organizaciones religiosas fundadas en 2006]]
+[[Categoría:Diócesis creadas en el siglo XXI|El Banco]]

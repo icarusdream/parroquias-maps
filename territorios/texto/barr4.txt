@@ -1,0 +1,162 @@
+{{Ficha de circunscripción eclesiástica
+|nombre                  = Diócesis de Barrancabermeja
+|tipo                    = diócesis
+|latín                   = Barrancabermeien(sis)
+|escudo                  = Escudo de la Diócesis de Barrancabermeja.svg
+|pie escudo              = escudo de la diócesis
+|imagen                  = Catedral de la Inmaculada en Barrancabermeja.jpg
+|pie imagen              = Catedral de la Inmaculada Concepción
+|iglesia                 = [[Iglesia católica|católica]]
+|iglesia sui iuris       = [[Iglesia latina|latina]]
+|rito                    = [[Rito romano|romano]]
+|erección                = {{fecha|2|4|1928}}
+|erección tipo           = prefectura apostólica de Río Magdalena
+|bulaPontificia          = ''Quo intra''
+|elevación diócesis      = {{fecha|14|9|1955}}
+|sufragánea              = [[arquidiócesis de Bucaramanga]]
+|patrón                  = ''san'' [[Pedro Claver]]
+|catedral                = [[Catedral de la Inmaculada Concepción (Barrancabermeja)|de la Inmaculada Concepción]]
+|sede                    = [[Barrancabermeja]]
+|región tipo             = departamento
+|región                  = [[Santander (Colombia)|Santander]]
+|país                    = {{COL}}
+|curia                   = Residencia Episcopal, Carrera 16 N. 48-19, Barrancabermeja
+|concatedral             =
+|ordinario               = [[Ovidio Giraldo Velásquez]]
+|auxiliar                =
+|emérito                 = [[Camilo Fernando Castrellón Pizano]], [[Pía Sociedad de San Francisco de Sales|S.D.B.]]
+|vicario                 =
+|administrador apostólico=
+|parroquias              = 34
+|población total         = 669&nbsp;000
+|población año           = 2022
+|fieles                  = 481&nbsp;000
+|porcentaje fieles       = 71.9
+|sacerdotes              = 71
+|área                    = 15&nbsp;000 km²
+|mapa                    = Mapa Diocesis de Barrancabermeja.svg
+|pie mapa                = Localización y extensión de la diócesis
+|sitio web               = [http://www.diocbarranca.org.co/ www.diocbarranca.org.co]
+}}
+
+La '''diócesis de Barrancabermeja''' ({{lang-la|Dioecesis Barrancabermeiensis}}) es una [[Circunscripción eclesiástica católica|circunscripción eclesiástica]] de la [[Iglesia católica]] en [[Colombia]]. Se trata de una [[diócesis]] [[Iglesia latina|latina]], [[Diócesis sufragánea|sufragánea]] de la [[arquidiócesis de Bucaramanga]]. Desde el 29 de mayo de 2020 su [[obispo]] es [[Ovidio Giraldo Velásquez]].
+
+== Territorio y organización ==
+La diócesis tiene 15&nbsp;000 km² y extiende su jurisdicción sobre los fieles católicos de [[rito latino]] residentes en 13 municipios de dos departamentos:<ref name="mapa">{{Cita web |url=http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/Barrancabermeja_diocesis_700.gif |título=Mapa de la Diócesis de Barrancabermeja |fechaacceso=20 de noviembre de 2008 |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] |urlarchivo=https://web.archive.org/web/20111116125331/http://www.cec.org.co/img_upload/8403bf399a4efc206d6d57a2e1b9cc69/Barrancabermeja_diocesis_700.gif |fechaarchivo=16 de noviembre de 2011 }}</ref>
+* en el [[departamento de Antioquia]]: [[Puerto Berrío]], [[Puerto Nare]] y [[Yondó]];
+* en el [[departamento de Santander]]: [[Barrancabermeja]], [[Betulia (Santander)|Betulia]], [[Bolívar (Santander)|Bolívar]], [[Cimitarra (Colombia)|Cimitarra]], [[El Carmen de Chucurí]], [[Puerto Parra]], [[Puerto Wilches]], [[Sabana de Torres]], [[San Vicente de Chucurí]] y [[Simacota]].
+
+Su territorio limita al noreste con la arquidiócesis de Bucaramanga y la [[diócesis de Ocaña]], al este con la [[diócesis de Socorro y San Gil]], al sur con la [[diócesis de La Dorada-Guaduas]], al norte con la [[diócesis de Ocaña]] y la [[diócesis de Magangué]], al suroeste con la [[diócesis de Sonsón-Rionegro]] y la [[diócesis de Girardota]], al occidente con la [[diócesis de Santa Rosa de Osos]] y al noroeste con la [[Diócesis de Magangué]].<ref name="mapa"/>
+
+La sede de la diócesis se encuentra en la ciudad de [[Barrancabermeja]], en donde se halla la [[Catedral de la Inmaculada Concepción (Barrancabermeja)|Catedral de la Inmaculada Concepción]].<ref>{{Cita web |url=http://www.gcatholic.org/churches/data/cathCO.htm#hcf |título=Cathedrals in Colombia |fechaacceso=20 de noviembre de 2008  |idioma=inglés |editorial=Giga-Catholic Information }}</ref>
+
+En 2022 en la diócesis existían 34 [[Parroquia (religión)|parroquias]].
+
+== Historia ==
+La presencia de la Iglesia católica en el [[Magdalena Medio]] santandereano es reciente, el territorio de la actual diócesis fue evangelizado a partir de finales del {{siglo|XIX||s}} por los [[Compañía de Jesús|jesuitas]], quienes iniciaron la misión del [[río Magdalena]]. Fue el superior de la misión, el padre Efraín Fernández, quien propuso la erección de una prefectura apostólica en 1923 para facilitar la labor misional. Solo hasta comienzos del {{siglo|XX||s}} se estableció allí de manera continua, a la par del proceso de colonización de la región, que hasta entonces, estaba poblada de bosques y de los últimos reductos de los indígenas [[yariguíes]]. El hallazgo de fuentes de petróleo cambio la situación, y provocó, junto con el establecimiento de la empresa petrolera Tropical Oil Company (TROCO), la llegada de miles de inmigrantes trabajadores de distintas partes del país, que se instalaron en Barrancabermeja. La ciudad creció y también los creyentes. En 1923 se creó la primera parroquia católica en Barrancabermeja. 
+
+La prefectura apostólica de Río Magdalena fue erigida el 2 de abril de 1928 con la [[bula]] ''Dominici gregis'' del [[papa]] [[Pío XI]], obteniendo el territorio de la entonces [[arquidiócesis de Nueva Pamplona|diócesis de Nueva Pamplona]], de [[Diócesis de Socorro y San Gil|Socorro y San Gil]] y de [[Diócesis de Santa Marta|Santa Marta]]. La sede de la prefectura era la ciudad de [[Puerto Wilches]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-21-1929-ocr.pdf Bula ''Dominici gregis''], AAS 21 (1929), p.&nbsp;141.</ref>
+
+La prefectura apostólica inició su funcionamiento el 9 de septiembre de 1928 con Carlos Hilario Correa como prefecto, quien renunció cuatro años después, para ser reemplazado por el padre Rafael Toro, quien renunció el 20 de mayo de 1947 por motivos de salud, al igual que su antecesor.<ref name="cec">{{Cita web |url=http://www.cec.org.co/?apc=ba1;002;;-&x=4743 |título=Diócesis de Barrancabermeja |fechaacceso=20 de noviembre de 2008  |idioma=español |editorial=[[Conferencia Episcopal de Colombia]] }}</ref>
+
+El 18 de abril de 1950, como consecuencia de la bula ''Apostolicis sub plumbo'' del papa [[Pío XII]], la prefectura apostólica fue elevada a [[vicariato apostólico]] y tomó el nombre de vicariato apostólico de Barrancabermeja.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-42-1950-ocr.pdf Bula ''Apostolicis sub plumbo''], AAS 42 (1950), p.&nbsp;586.</ref>
+
+El 26 de octubre de 1962 cedió una porción de su territorio para la erección de la [[diócesis de Ocaña]] mediante la bula ''Quoniam arcana'' del papa [[Juan XXIII]].<ref>(en latín) [https://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Quoniam arcana''], AAS 55 (1963), p.&nbsp;925.</ref>
+
+El 27 de octubre de 1962 el vicariato apostólico fue elevado a diócesis mediante la bula ''Divina Christi verba'' del papa Juan XXIII, sufragáneo de la arquidiócesis de Nueva Pamplona. Al mismo tiempo, su territorio se amplió con territorios de las diócesis de Socorro y San Gil, [[Arquidiócesis de Tunja|Tunja]], [[Diócesis de Santa Rosa de Osos|Santa Rosa de Osos]] y [[Diócesis de Sonsón-Rionegro|Sonsón]] y de la [[arquidiócesis de Medellín]].<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-55-1963-ocr.pdf Bula ''Divina Christi verba''], AAS 55 (1963), p.&nbsp;928.</ref>
+
+El 19 de agosto de 1963, mediante la [[carta apostólica]] ''Qui fuit Columbianae terrae'' el papa Pablo VI proclamó a san [[Pedro Claver]] como [[Santo patrón|patrono]] principal de la diócesis.<ref>(en latín) [http://www.vatican.va/archive/aas/documents/AAS-56-1964-ocr.pdf Carta apostólica ''Qui fuit Columbianae terrae''], AAS 56 (1964), p. 295.</ref>
+
+El 14 de diciembre de 1974 pasó a formar parte de la provincia eclesiástica de la arquidiócesis de Bucaramanga.
+
+El 29 de marzo de 1984 cedió una porción de su territorio para la erección de la [[diócesis de La Dorada-Guaduas]] mediante la bula ''Quod iure'' del papa [[Juan Pablo II]].<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19840313_aureatensis-guaduensis_lt.html Bula ''Quod iure''], AAS 76 (1984), pp. 697-699.</ref>
+
+Arango renunció al llegar a la edad canónica de retiro y como su sucesor fue nombrado [[Juan Francisco Sarasti Jaramillo]], posesionado el 3 de marzo de 1984, permaneciendo nueve años en la diócesis, hasta que en 1993, Sarasti fue promovido como [[arzobispo]] de la [[arquidiócesis de Ibagué]], y la diócesis de Barrancabermeja recibió a [[José Figueroa Gómez]] como administrador diocesano. Ese mismo año, el 16 de octubre, [[Jaime Prieto Amaya]] fue nombrado obispo, y tomó posesión dos meses después. Prieto Amaya desempeñó una actividad pastoral notable por su compromiso en favor de los [[derechos humanos]], en un momento en que la diócesis y la región entera vivió uno de sus momentos más grises por la violencia [[paramilitar]] y [[guerrillera]]. 
+
+El 18 de junio de 1988 cedió otra porción de su territorio para la erección de la [[diócesis de Girardota]] mediante la bula ''Qui peculiari'' del papa Juan Pablo II.<ref>(en latín) [http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_girardotanensis_lt.html Bula ''Qui peculiari''], AAS 80 (1988), pp. 1731-1732.</ref>
+
+=== Desarrollo de la pastoral social === 
+La Iglesia diocesana desde sus orígenes ha experimentado unas condiciones particulares. Según los historiadores Plata y Figueroa, "la  pastoral realizada por la Iglesia católica tuvo un acento distinto, lo  que la obligó tempranamente a acercarse al mundo obrero con el objeto de hacer alianzas y a  su vez, crear vínculos con las directivas de La Troco, compuesta por norteamericanos, generalmente de origen protestante. Es así como en los años cuarenta surgieron varios sindicatos de corte católico que buscaron competir con el sindicalismo socialista, al tiempo que se gestionaban recursos con la petrolera para la construcción de iglesias y casas curales. Con todo, la Iglesia Católica logró expandirse, lo que le permitió en los años setenta contar con once parroquias en la ciudad"<ref>Plata, William y Figueroa, Helwar. "[https://revistas.uis.edu.co/index.php/anuariohistoria/article/view/5883 Iglesia, resistencia pacífica y no violencia. La Diócesis de Barrancabermeja, Colombia]" Anuario de Historia Regional y de las Fronteras vol. 22, No. 1 (2017), 144 </ref>
+
+Luego, la elevación al rango de diócesis coincidió con una época de cambios generada por el [[Concilio Vaticano II]] (1962-1965) y la [[II Conferencia General del Episcopado Latinoamericano|II Conferencia del CELAM en Medellín]] (1968); se crea el Secretariado de Pastoral Social y una generación de jóvenes sacerdotes liderada por [[Floresmiro López]], [[Eduardo Díaz Ardila]], [[Nel Beltrán Santamaría]] (hoy obispo) y Gabriel Ojeda, entre otros, desarrolla una pastoral muy comprometida con los pobres y en apoyo de reinvidaciones básicas en temas como: servicios públicos, desarrollo económico, vivienda, salud, familia, mujer y educación. Se crean, en este sentido, [[Comunidades Eclesiales de Base]] y entidades como la [[Organización Femenina Popular]] (OFP) o el Instituto Cristiano de Promoción Campesina (ICPROC) entre muchas otras.  
+
+Por esos años la región experimenta grandes problemas de seguridad y orden público con la lucha entre grupos [[guerrilleros]] de izquierda, las fuerzas armadas oficiales y las organizaciones [[paramilitares]] de derecha. Asesinatos, despojo de tierras y violaciones a los derechos humanos son actos constantes en los años 80 y 90 del {{siglo|XX||s}}. Ante esta situación la Iglesia diocesana desarrolla una pastoral por la paz que procuró acompañar y proteger a las víctimas, generar estrategias de diálogo con los grupos armados (los "[[diálogos pastorales]]") apoyar la creación de organizaciones que protegieran la vida, la paz y procuraran el desarrollo económico sostenible en una región muy desigual. Uno de los programas que la diócesis apoyó en su gestión fue el [[Programa de Desarrollo y Paz]], nacido en 1995 y que se ha convertido en un referente nacional.    
+
+La labor evangelizadora de la diócesis de Barrancabermeja ha estado acompañada de la promoción del desarrollo económico, político y social de sus habitantes y de la construcción de una [[Cultura de la paz]].
+
+== Estadísticas ==
+Según el ''[[Anuario Pontificio]]'' 2023 la diócesis tenía a fines de 2022 un total de 481&nbsp;000 fieles bautizados.
+
+{{Tabla de datos de diócesis}}
+|- align="right"
+| 1950 || 68&nbsp;000 || 68&nbsp;000 || 100.0 || 12 ||  || 12 || 5666 ||  || 21 || 42 || 6
+|- align="right"
+| 1966 || 291&nbsp;000 || 294&nbsp;000 || 99.0 || 47 || 31 || 16 || 6191 ||  || 26 || 130 || 24
+|- align="right"
+| 1970 || 317&nbsp;000 || 321&nbsp;000 || 98.8 || 46 || 34 || 12 || 6891 ||  || 16 || 148 || 27
+|- align="right"
+| 1976 || 360&nbsp;000 || 371&nbsp;000 || 97.0 || 46 || 35 || 11 || 7826 ||  || 13 || 125 || 28
+|- align="right"
+| 1980 || 396&nbsp;000 || 409&nbsp;000 || 96.8 || 43 || 33 || 10 || 9209 ||  || 12 || 108 || 28
+|- align="right"
+| 1990 || 385&nbsp;000 || 444&nbsp;000 || 86.7 || 42 || 31 || 11 || 9166 ||  || 12 || 119 || 27
+|- align="right"
+| 1999 || 410&nbsp;000 || 525&nbsp;000 || 78.1 || 55 || 41 || 14 || 7454 ||  || 16 || 95 || 28
+|- align="right"
+| 2000 || 380&nbsp;000 || 520&nbsp;000 || 73.1 || 57 || 44 || 13 || 6666 || 1 || 13 || 91 || 28
+|- align="right"
+| 2001 || 390&nbsp;000 || 530&nbsp;000 || 73.6 || 62 || 48 || 14 || 6290 || 1 || 14 || 86 || 30
+|- align="right"
+| 2002 || 380&nbsp;000 || 530&nbsp;000 || 71.7 || 57 || 43 || 14 || 6666 || 1 || 14 || 85 || 30
+|- align="right"
+| 2003 || 350&nbsp;000 || 530&nbsp;000 || 66.0 || 57 || 47 || 10 || 6140 ||  || 10 || 82 || 33
+|- align="right"
+| 2004 || 320&nbsp;000 || 540&nbsp;000 || 59.3 || 60 || 50 || 10 || 5333 ||  || 10 || 80 || 33
+|- align="right"
+| 2006 || 386&nbsp;000 || 539&nbsp;000 || 71.6 || 65 || 53 || 12 || 5938 || 1 || 15 || 47 || 34
+|- align="right"
+| 2012 || 420&nbsp;000 || 584&nbsp;000 || 71.9 || 66 || 56 || 10 || 6363 || 1 || 10 || 39 || 34
+|- align="right"
+| 2015 || 435&nbsp;000 || 605&nbsp;000 || 71.9 || 70 || 56 || 14 || 6214 || 1 || 15 || 28 || 34
+|- align="right"
+| 2018 || 449&nbsp;875 || 625&nbsp;690 || 71.9 || 82 || 70 || 12 || 5486 ||  || 12 || 26 || 29
+|- align="right"
+| 2020 || 465&nbsp;500 || 647&nbsp;400 || 71.9 || 78 || 67 || 11 || 5967 ||  || 11 || 14 || 34
+|- align="right"
+| 2022 || 481&nbsp;000 || 669&nbsp;000 || 71.9 || 71 || 67 || 4 || 6774 ||  || 4 || 8 || 34
+|- align="right"
+|colspan=12 |<small>'''Fuente''': ''Catholic-Hierarchy'', que a su vez toma los datos del ''[[Anuario Pontificio]]''.<ref name='CH'>{{cita web |url=https://www.catholic-hierarchy.org/diocese/dbrnc.html |título=''Diocese of Barrancabermeja''|fechaacceso=29 de septiembre de 2024 |apellido=Cheney |nombre=David |fecha=31 de agosto de 2024 |sitioweb=[https://www.catholic-hierarchy.org Catholic-Hierarchy] |ubicación=Kansas City |idioma=inglés |cita=Datos tomados del ''[[Anuario Pontificio]]'' de 2023 y precedentes}}</ref>
+|}
+
+== Episcopologio ==
+=== Prefectos apostólicos del Río Magdalena === 
+* [[Carlos Hilario Currea]], [[Compañía de Jesús|S.I.]] † (8 de enero de '''1929'''-'''1932''' renunció)
+* [[Rafael Toro]], S.I. † (20 de febrero de '''1932'''-20 de mayo de '''1947''' renunció)
+* [[Bernardo Arango Henao]], S.I. † (28 de noviembre de '''1947'''-18 de abril de '''1950''' nombrado vicario apostólico)
+
+=== Vicario apostólico de Barrancabermeja ===
+* [[Bernardo Arango Henao]], S.I. † (18 de abril de '''1950'''-27 de octubre de '''1962''' nombrado obispo diocesano)
+
+=== Obispos diocesanos de Barrancabermeja ===
+* [[Bernardo Arango Henao]], S.I. † (27 de octubre de '''1962'''-23 de diciembre de '''1983''' retirado)
+* [[Juan Francisco Sarasti Jaramillo]], [[Congregación de Jesús y María|C.I.M.]] † (23 de diciembre de '''1983'''-25 de marzo de '''1993''' nombrado arzobispo de [[Arquidiócesis de Ibagué|Ibagué]])
+* [[Jaime Prieto Amaya]] † (11 de noviembre de '''1993'''-1 de diciembre de '''2008''' nombrado obispo de [[Diócesis de Cúcuta|Cúcuta]])
+* [[Camilo Fernando Castrellón Pizano]], [[Pía Sociedad de San Francisco de Sales|S.D.B.]] (2 de diciembre de '''2009'''-29 de mayo de '''2020''' retirado)
+* [[Ovidio Giraldo Velásquez]], desde el 29 de mayo de '''2020'''
+
+== Véase también ==
+* [[Iglesia católica en Colombia]]
+* [[Conferencia Episcopal de Colombia]]
+* [[Anexo:Diócesis latinas en Colombia|Lista de diócesis latinas en Colombia]]
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+* (en inglés) [https://gcatholic.org/dioceses/diocese/barr4.htm Ficha de la diócesis] en [http://www.gcatholic.org/ www.gcatholic.org]
+* [https://www.cec.org.co/jurisdicciones/di%C3%B3cesis/di%C3%B3cesis-de-barrancabermeja Ficha de la diócesis] en el sitio de la Conferencia Episcopal de Colombia
+* [https://icproc.org.co/ Sitio del Instituto Cristiano de Promoción Campesina]
+* [https://www.pdpmm.org.co/ Sitio del Programa de Desarrollo y Paz del Magdalena Medio]
+
+{{Control de autoridades}}
+[[Categoría:Diócesis de Barrancabermeja| ]]
