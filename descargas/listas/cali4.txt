@@ -1,0 +1,5 @@
+POST https://sirac.co/buscadorparroquias.php parroquias=norte
+POST https://sirac.co/buscadorparroquias.php parroquias=sur
+POST https://sirac.co/buscadorparroquias.php parroquias=centro
+POST https://sirac.co/buscadorparroquias.php parroquias=oriente
+POST https://sirac.co/buscadorparroquias.php parroquias=zona
