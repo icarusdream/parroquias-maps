@@ -1,0 +1,26 @@
+{
+"5871519e1518": {
+"url": "https://sirac.co/buscarparroquia",
+"estado": 200,
+"bytes": 2719
+},
+"31ef43875e62": {
+"url": "https://sirac.co/robots.txt",
+"estado": 404,
+"bytes": 0
+},
+"722c0e35af30": {
+"url": "https://www.google.com/maps/d/kml?mid=1pd_9zm_RVfR3kYt4sRpiarIaRs_hvabk&forcekml=1",
+"estado": "robots"
+},
+"12150be9856b": {
+"url": "https://web.archive.org/web/2019id_/https://arquicali.org/directorio/parroquias?start=0",
+"estado": 200,
+"bytes": 62036
+},
+"2314a0a7fd82": {
+"url": "https://web.archive.org/web/2019id_/https://arquicali.org/directorio/parroquias?start=188",
+"estado": 200,
+"bytes": 57714
+}
+}
