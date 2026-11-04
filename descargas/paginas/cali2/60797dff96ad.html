@@ -1,0 +1,22 @@
+$(obtener_registros("**"));
+
+function obtener_registros(parroquias) {
+  $.ajax({
+    url: "buscadorparroquias.php",
+    type: "POST",
+    dataType: "html",
+    data: { parroquias: parroquias },
+  })
+  .done(function (resultado) {
+    $("#tabla_resultadop").html(resultado);
+  });
+}
+
+$(document).on("keyup", "#busquedap", function () {
+  var valorBusqueda = $(this).val();
+  if (valorBusqueda != "") {
+    obtener_registros(valorBusqueda);
+  } else {
+    obtener_registros("**");
+  }
+});
