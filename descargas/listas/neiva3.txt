@@ -1,0 +1,12 @@
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/0
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/1
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/2
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/3
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/4
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/5
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/6
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/7
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/8
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/9
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/10
+https://diocesisdeneiva.org/api/api/churches/get/church_name/asc/11
