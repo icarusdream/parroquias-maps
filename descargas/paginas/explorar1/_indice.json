@@ -1,0 +1,72 @@
+{
+"69b85342a434": {
+"url": "https://arqmedellin.co/parroquias/",
+"estado": 200,
+"bytes": 213234
+},
+"c0788a9a8557": {
+"url": "https://arqmedellin.co/wp-json/",
+"estado": 200,
+"bytes": 587664
+},
+"8909dedffe7a": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 11632
+},
+"92716f8a7ebf": {
+"url": "https://arqmedellin.co/wp-json/wp/v2/parroquias?per_page=100",
+"estado": 200,
+"bytes": 146369
+},
+"dbb3e1ea9196": {
+"url": "https://arqmedellin.co/wp-sitemap.xml",
+"estado": 200,
+"bytes": 769
+},
+"de571cc4681f": {
+"url": "https://arquicali.org/",
+"estado": 200,
+"bytes": 522112
+},
+"f82dcb825c27": {
+"url": "https://arquicali.org/site/",
+"estado": 403,
+"bytes": 0
+},
+"2a417595dd03": {
+"url": "https://arquicali.org/new/",
+"estado": 200,
+"bytes": 522112
+},
+"47441597edfb": {
+"url": "https://arquicali.org/estructura-arquidiocesana/",
+"estado": 500,
+"bytes": 0
+},
+"8356dff313c5": {
+"url": "https://arquicali.org/parroquias/",
+"estado": 500,
+"bytes": 0
+},
+"42b9ca6cbe20": {
+"url": "https://arquicali.org/wp-json/wp/v2/types",
+"estado": 500,
+"bytes": 0
+},
+"c2bd8b320cce": {
+"url": "https://arquicali.org/sitemap_index.xml",
+"estado": 500,
+"bytes": 0
+},
+"fe3ce875f56c": {
+"url": "https://arquicali.org/wp-sitemap.xml",
+"estado": 500,
+"bytes": 0
+},
+"4745db411c27": {
+"url": "https://arquicali.org/robots.txt",
+"estado": 200,
+"bytes": 906
+}
+}
