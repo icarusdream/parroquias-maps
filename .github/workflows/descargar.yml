@@ -34,16 +34,23 @@ jobs:
                   robots[base] = rp
               rp = robots[base]
               return True if rp is None else rp.can_fetch(UA, u)
-          urls = [l.strip() for l in open(f"descargas/listas/{lista}", encoding="utf-8") if l.strip().startswith("http")]
-          for u in urls:
-              h = hashlib.md5(u.encode()).hexdigest()[:12]
+          lineas = [l.strip() for l in open(f"descargas/listas/{lista}", encoding="utf-8") if l.strip()]
+          for linea in lineas:
+              cuerpo_post = None
+              if linea.startswith("POST "):
+                  _, u, cuerpo_post = linea.split(" ", 2); cuerpo_post = cuerpo_post.encode()
+              elif linea.startswith("http"):
+                  u = linea
+              else:
+                  continue
+              h = hashlib.md5(linea.encode()).hexdigest()[:12]
               if h in idx and idx[h].get("estado") == 200: continue
               if not permitido(u):
                   idx[h] = {"url": u, "estado": "robots"}; continue
               estado, cuerpo = None, b""
               for intento in range(3):
                   try:
-                      r = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=40)
+                      r = urllib.request.urlopen(urllib.request.Request(u, data=cuerpo_post, headers={"User-Agent": UA, **({"Content-Type": "application/x-www-form-urlencoded", "X-Requested-With": "XMLHttpRequest"} if cuerpo_post else {})}), timeout=40)
                       estado, cuerpo = r.status, r.read(); break
                   except urllib.error.HTTPError as e:
                       estado = e.code
