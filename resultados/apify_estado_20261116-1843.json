@@ -1,0 +1,8 @@
+{
+ "fecha": "2026-11-16 18:43 UTC",
+ "paso": "sin_saldo",
+ "usado_usd": 24.543143341089962,
+ "limite_usd": 25,
+ "disponible_usd": 0.46,
+ "mensaje": "Queda menos de US$1 este mes"
+}
