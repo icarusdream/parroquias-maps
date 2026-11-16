@@ -1,0 +1,35 @@
+name: Apify piloto (Facebook de parroquias)
+on:
+  workflow_dispatch:
+    inputs:
+      lista:
+        description: "Lista de parroquias (JSON)"
+        default: "apify/piloto_200.json"
+      tope_usd:
+        description: "Gasto máximo en dólares para esta corrida"
+        default: "3"
+permissions:
+  contents: write
+jobs:
+  piloto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar páginas y leer contactos (Apify)
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python3 apify/piloto.py "${{ inputs.lista }}" "${{ inputs.tope_usd }}" out
+      - name: Guardar estado (sin datos de contacto) y resultados cifrados
+        run: |
+          mkdir -p resultados
+          F=$(date -u +%Y%m%d-%H%M)
+          cp out/estado.json "resultados/apify_estado_$F.json"
+          if [ -f out/piloto.json ]; then
+            gpg --batch --import clave_publica.asc
+            gpg --batch --yes --trust-model always -r 5D751E7574C429C98E111A11F3C4E9F5A9A151C8 -e -o "resultados/$F-apify-piloto.json.gpg" out/piloto.json
+          fi
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add resultados && git commit -m "Apify piloto $F"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep $((i*5)); done
