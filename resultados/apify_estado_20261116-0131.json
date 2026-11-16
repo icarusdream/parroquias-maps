@@ -1,0 +1,15 @@
+{
+ "fecha": "2026-11-16 01:18 UTC",
+ "paso": "terminado",
+ "usado_usd": 20.501967905404353,
+ "limite_usd": 25,
+ "disponible_usd": 4.5,
+ "busqueda_estado": "SUCCEEDED",
+ "busqueda_usd": 0.49505,
+ "busqueda_resultados": 200,
+ "paginas_halladas": 129,
+ "paginas_estado": "SUCCEEDED",
+ "paginas_usd": 0.9512,
+ "paginas_leidas": 117,
+ "usado_despues_usd": 21.953703736666824
+}
