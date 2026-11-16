@@ -1,0 +1,2802 @@
+[
+{
+"jur": "jeri0",
+"id": "JERI-M026",
+"parroquia": "Parroquia El Sagrado Corazón de Jesús",
+"municipio": "La Pintada",
+"departamento": "Antioquia",
+"consulta": "parroquia El Sagrado Corazón de Jesús La Pintada Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M027",
+"parroquia": "Parroquia Sagrado Corazón",
+"municipio": "La Pintada",
+"departamento": "Antioquia",
+"consulta": "parroquia Sagrado Corazón La Pintada Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M032",
+"parroquia": "Parroquia San Pablo de Tarso",
+"municipio": "Tarso",
+"departamento": "Antioquia",
+"consulta": "parroquia San Pablo de Tarso Tarso Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M033",
+"parroquia": "Capilla Santa Ana",
+"municipio": "Támesis",
+"departamento": "Antioquia",
+"consulta": "parroquia Capilla Santa Ana Támesis Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M034",
+"parroquia": "Capilla de San Judas",
+"municipio": "Támesis",
+"departamento": "Antioquia",
+"consulta": "parroquia Capilla de San Judas Támesis Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M035",
+"parroquia": "Iglesia San Antonio de Támesis",
+"municipio": "Támesis",
+"departamento": "Antioquia",
+"consulta": "parroquia San Antonio de Támesis Támesis Antioquia facebook"
+},
+{
+"jur": "jeri0",
+"id": "JERI-M038",
+"parroquia": "Parroquia de Santa Ana",
+"municipio": "Valparaíso",
+"departamento": "Antioquia",
+"consulta": "parroquia de Santa Ana Valparaíso Antioquia facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-005",
+"parroquia": "Espíritu Santo",
+"municipio": "La Dorada",
+"departamento": "Caldas",
+"consulta": "parroquia Espíritu Santo La Dorada Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-007",
+"parroquia": "Nuestra Señora de la Medalla Milagrosa",
+"municipio": "La Dorada",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora de la Medalla Milagrosa La Dorada Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-008",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "La Dorada",
+"departamento": "Caldas",
+"consulta": "parroquia Sagrado Corazón de Jesús La Dorada Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-009",
+"parroquia": "San Judas Tadeo",
+"municipio": "La Dorada",
+"departamento": "Caldas",
+"consulta": "parroquia San Judas Tadeo La Dorada Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-011",
+"parroquia": "Divino Niño",
+"municipio": "Guarinocito",
+"departamento": "Caldas",
+"consulta": "parroquia Divino Niño Guarinocito Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-013",
+"parroquia": "Nuestra Señora de los Dolores",
+"municipio": "Marquetalia",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora de los Dolores Marquetalia Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-014",
+"parroquia": "San Isidro Labrador",
+"municipio": "Montebonito",
+"departamento": "Caldas",
+"consulta": "parroquia San Isidro Labrador Montebonito Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-016",
+"parroquia": "Divino Niño",
+"municipio": "Patevaca",
+"departamento": "Caldas",
+"consulta": "parroquia Divino Niño Patevaca Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-019",
+"parroquia": "María Auxiliadora",
+"municipio": "Pueblo Nuevo",
+"departamento": "Caldas",
+"consulta": "parroquia María Auxiliadora Pueblo Nuevo Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-020",
+"parroquia": "Inmaculado Corazón de María",
+"municipio": "San Daniel",
+"departamento": "Caldas",
+"consulta": "parroquia Inmaculado Corazón de María San Daniel Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-021",
+"parroquia": "San Diego",
+"municipio": "San Diego",
+"departamento": "Caldas",
+"consulta": "parroquia San Diego San Diego Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-023",
+"parroquia": "Divino Niño",
+"municipio": "Terán",
+"departamento": "Caldas",
+"consulta": "parroquia Divino Niño Terán Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-024",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Victoria",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora del Carmen Victoria Caldas facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-025",
+"parroquia": "San Francisco de Asís",
+"municipio": "La Danta",
+"departamento": "Antioquia",
+"consulta": "parroquia San Francisco de Asís La Danta Antioquia facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-026",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Doradal",
+"departamento": "Antioquia",
+"consulta": "parroquia Nuestra Señora del Carmen Doradal Antioquia facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-027",
+"parroquia": "María Auxiliadora",
+"municipio": "Estación Cocorná",
+"departamento": "Antioquia",
+"consulta": "parroquia María Auxiliadora Estación Cocorná Antioquia facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-031",
+"parroquia": "San Miguel Arcángel",
+"municipio": "San Miguel",
+"departamento": "Antioquia",
+"consulta": "parroquia San Miguel Arcángel San Miguel Antioquia facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-032",
+"parroquia": "Divino Niño",
+"municipio": "Marfil-Puerto Romero",
+"departamento": "Boyacá",
+"consulta": "parroquia Divino Niño Marfil-Puerto Romero Boyacá facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-033",
+"parroquia": "Cristo Rey",
+"municipio": "Puerto Boyacá",
+"departamento": "Boyacá",
+"consulta": "parroquia Cristo Rey Puerto Boyacá Boyacá facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-034",
+"parroquia": "San José",
+"municipio": "Puerto Boyacá",
+"departamento": "Boyacá",
+"consulta": "parroquia San José Puerto Boyacá Boyacá facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-036",
+"parroquia": "Sagrada Familia",
+"municipio": "Puerto Serviez",
+"departamento": "Boyacá",
+"consulta": "parroquia Sagrada Familia Puerto Serviez Boyacá facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-038",
+"parroquia": "Santiago Apóstol",
+"municipio": "Caparrapí",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Santiago Apóstol Caparrapí Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-041",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "El Dindal",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Sagrado Corazón de Jesús El Dindal Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-043",
+"parroquia": "Nuestra Señora de Fátima",
+"municipio": "Guaduas",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Nuestra Señora de Fátima Guaduas Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-044",
+"parroquia": "San José",
+"municipio": "Guaduas",
+"departamento": "Cundinamarca",
+"consulta": "parroquia San José Guaduas Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-045",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "Guaduero",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Sagrado Corazón de Jesús Guaduero Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-047",
+"parroquia": "San Antonio de Padua",
+"municipio": "La Paz",
+"departamento": "Cundinamarca",
+"consulta": "parroquia San Antonio de Padua La Paz Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-049",
+"parroquia": "Santísima Trinidad",
+"municipio": "Puerto Salgar",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Santísima Trinidad Puerto Salgar Cundinamarca facebook"
+},
+{
+"jur": "lado0",
+"id": "LADO-051",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Yacopí",
+"departamento": "Cundinamarca",
+"consulta": "parroquia Nuestra Señora del Carmen Yacopí Cundinamarca facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M001",
+"parroquia": "Capilla San José",
+"municipio": "Puerto Leguízamo",
+"departamento": "Putumayo",
+"consulta": "parroquia Capilla San José Puerto Leguízamo Putumayo facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M003",
+"parroquia": "Iglesia Divino Niño",
+"municipio": "Puerto Leguízamo",
+"departamento": "Putumayo",
+"consulta": "parroquia Divino Niño Puerto Leguízamo Putumayo facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M004",
+"parroquia": "Parroquia Nuestra Señora Consolata",
+"municipio": "Puerto Leguízamo",
+"departamento": "Putumayo",
+"consulta": "parroquia Nuestra Señora Consolata Puerto Leguízamo Putumayo facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M005",
+"parroquia": "Concatedral Nuestra Señora de las Mercedes",
+"municipio": "Solano",
+"departamento": "Caquetá",
+"consulta": "parroquia Concatedral Nuestra Señora de las Mercedes Solano Caquetá facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M006",
+"parroquia": "IGLESIA CATOLICA EL JARDIN",
+"municipio": "Solano",
+"departamento": "Caquetá",
+"consulta": "parroquia CATOLICA EL JARDIN Solano Caquetá facebook"
+},
+{
+"jur": "legu0",
+"id": "LEGU-M007",
+"parroquia": "Templo Católico",
+"municipio": "Solano",
+"departamento": "Caquetá",
+"consulta": "parroquia Templo Católico Solano Caquetá facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M005",
+"parroquia": "Iglesia Sagrado Corazón de Jesús",
+"municipio": "Leticia",
+"departamento": "Amazonas",
+"consulta": "parroquia Sagrado Corazón de Jesús Leticia Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M006",
+"parroquia": "Iglesia Santuario Divino Niño Jesús",
+"municipio": "Leticia",
+"departamento": "Amazonas",
+"consulta": "parroquia Santuario Divino Niño Jesús Leticia Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M007",
+"parroquia": "Iglesia Catolica⛪️",
+"municipio": "Puerto Arica",
+"departamento": "Amazonas",
+"consulta": "parroquia Catolica⛪️ Puerto Arica Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M008",
+"parroquia": "Iglesia Católica",
+"municipio": "Puerto Nariño",
+"departamento": "Amazonas",
+"consulta": "parroquia Católica Puerto Nariño Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M009",
+"parroquia": "Parroquia puerto Nariño",
+"municipio": "Puerto Nariño",
+"departamento": "Amazonas",
+"consulta": "parroquia puerto Nariño Puerto Nariño Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M010",
+"parroquia": "Iglesia católica",
+"municipio": "Puerto Santander",
+"departamento": "Amazonas",
+"consulta": "parroquia católica Puerto Santander Amazonas facebook"
+},
+{
+"jur": "leti0",
+"id": "LETI-M011",
+"parroquia": "Parroquia Nuestra Señora del Carmen",
+"municipio": "Tarapacá",
+"departamento": "Amazonas",
+"consulta": "parroquia Nuestra Señora del Carmen Tarapacá Amazonas facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M002",
+"parroquia": "Iglesia San Roque",
+"municipio": "Ambalema",
+"departamento": "Tolima",
+"consulta": "parroquia San Roque Ambalema Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M010",
+"parroquia": "Capilla de Santa Lucía",
+"municipio": "Honda",
+"departamento": "Tolima",
+"consulta": "parroquia Capilla de Santa Lucía Honda Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M013",
+"parroquia": "Iglesia de Cristo Misión Arca",
+"municipio": "Honda",
+"departamento": "Tolima",
+"consulta": "parroquia de Cristo Misión Arca Honda Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M019",
+"parroquia": "Capilla nuestra señora del Carmen",
+"municipio": "Lérida",
+"departamento": "Tolima",
+"consulta": "parroquia Capilla nuestra señora del Carmen Lérida Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M031",
+"parroquia": "iglesia pentescostal unida de colombia",
+"municipio": "Murillo",
+"departamento": "Tolima",
+"consulta": "parroquia pentescostal unida de colombia Murillo Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M033",
+"parroquia": "Capilla Del Divino Niño",
+"municipio": "Villahermosa",
+"departamento": "Tolima",
+"consulta": "parroquia Capilla Del Divino Niño Villahermosa Tolima facebook"
+},
+{
+"jur": "liba0",
+"id": "LIBA-M034",
+"parroquia": "Iglesia EL DIOS VIVIENTE",
+"municipio": "Villahermosa",
+"departamento": "Tolima",
+"consulta": "parroquia EL DIOS VIVIENTE Villahermosa Tolima facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M001",
+"parroquia": "IGLESIA CATOLICA VIRGEN DEL CARMEN",
+"municipio": "Achí",
+"departamento": "Bolívar",
+"consulta": "parroquia CATOLICA VIRGEN DEL CARMEN Achí Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M003",
+"parroquia": "Iglesia Nuestra Señora del Rosario",
+"municipio": "Altos del Rosario",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora del Rosario Altos del Rosario Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M004",
+"parroquia": "Iglesia católica",
+"municipio": "Arenal",
+"departamento": "Bolívar",
+"consulta": "parroquia católica Arenal Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M005",
+"parroquia": "Parroquia San José de Arenal",
+"municipio": "Arenal",
+"departamento": "Bolívar",
+"consulta": "parroquia San José de Arenal Arenal Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M007",
+"parroquia": "Iglesia Católica",
+"municipio": "Cantagallo",
+"departamento": "Bolívar",
+"consulta": "parroquia Católica Cantagallo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M008",
+"parroquia": "PARROQUIA DE CANTAGALLO",
+"municipio": "Cantagallo",
+"departamento": "Bolívar",
+"consulta": "parroquia DE CANTAGALLO Cantagallo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M009",
+"parroquia": "Iglesia El Carmen",
+"municipio": "Cicuco",
+"departamento": "Bolívar",
+"consulta": "parroquia El Carmen Cicuco Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M010",
+"parroquia": "Iglesia Monteclaro",
+"municipio": "Cicuco",
+"departamento": "Bolívar",
+"consulta": "parroquia Monteclaro Cicuco Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M011",
+"parroquia": "Iglesia Sinaí",
+"municipio": "Cicuco",
+"departamento": "Bolívar",
+"consulta": "parroquia Sinaí Cicuco Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M012",
+"parroquia": "Parroquia de San Fancisco",
+"municipio": "Cicuco",
+"departamento": "Bolívar",
+"consulta": "parroquia de San Fancisco Cicuco Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M013",
+"parroquia": "IGLESIA CATOLICA DE LOS CORDOBAS",
+"municipio": "Córdoba",
+"departamento": "Bolívar",
+"consulta": "parroquia CATOLICA DE LOS CORDOBAS Córdoba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M015",
+"parroquia": "Parroquia Maria Auxiliadora",
+"municipio": "Córdoba",
+"departamento": "Bolívar",
+"consulta": "parroquia Maria Auxiliadora Córdoba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M017",
+"parroquia": "Iglesia católica",
+"municipio": "El Peñón",
+"departamento": "Bolívar",
+"consulta": "parroquia católica El Peñón Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M018",
+"parroquia": "Parroquia Nuestra Señora De La Visitación",
+"municipio": "El Peñón",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora De La Visitación El Peñón Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M019",
+"parroquia": "Iglesia católica de Juana Sánchez",
+"municipio": "Hatillo de Loba",
+"departamento": "Bolívar",
+"consulta": "parroquia católica de Juana Sánchez Hatillo de Loba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M020",
+"parroquia": "Iglesia de botonal",
+"municipio": "Hatillo de Loba",
+"departamento": "Bolívar",
+"consulta": "parroquia de botonal Hatillo de Loba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M021",
+"parroquia": "Templo Parroquial San Joaquin y Santa Ana",
+"municipio": "Hatillo de Loba",
+"departamento": "Bolívar",
+"consulta": "parroquia Templo Parroquial San Joaquin y Santa Ana Hatillo de Loba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M022",
+"parroquia": "Capilla Jardines de La Candelaria",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Capilla Jardines de La Candelaria Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M023",
+"parroquia": "Capilla de Santa Lucia El Cortijo",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Capilla de Santa Lucia El Cortijo Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M024",
+"parroquia": "Capilla del Asilo de la Candelaria",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Capilla del Asilo de la Candelaria Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M025",
+"parroquia": "Catedral Nuestra Sra De La Candelaria",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Catedral Nuestra Sra De La Candelaria Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M026",
+"parroquia": "Iglesia",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Iglesia Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M027",
+"parroquia": "Iglesia Catolica de Barranca de Yuca",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Catolica de Barranca de Yuca Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M028",
+"parroquia": "Iglesia Catolica de Guazo",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Catolica de Guazo Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M029",
+"parroquia": "Iglesia Catolica de Madrid",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Catolica de Madrid Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M030",
+"parroquia": "Iglesia Católica San José",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Católica San José Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M031",
+"parroquia": "Iglesia Católica San Rafael De Cortina",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Católica San Rafael De Cortina Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M032",
+"parroquia": "Iglesia Católica de Cascajal",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Católica de Cascajal Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M033",
+"parroquia": "Iglesia Gloria De Sion",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Gloria De Sion Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M034",
+"parroquia": "Iglesia Nuestra Señora Del Rosario",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora Del Rosario Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M035",
+"parroquia": "Iglesia de San Jose",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de San Jose Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M036",
+"parroquia": "Iglesia de Tacasaluma",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de Tacasaluma Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M037",
+"parroquia": "Parroquia De San Alberto Magno",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia De San Alberto Magno Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M040",
+"parroquia": "Parroquia Jesus de la Misericordia",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Jesus de la Misericordia Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M041",
+"parroquia": "Parroquia La Divina Providencia",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia La Divina Providencia Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M042",
+"parroquia": "Parroquia Nuestra Señora del Rosario",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora del Rosario Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M043",
+"parroquia": "Parroquia San Lucas",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia San Lucas Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M044",
+"parroquia": "Parroquia de San Mateo",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de San Mateo Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M045",
+"parroquia": "Parroquia de San Pedro y San Pablo",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de San Pedro y San Pablo Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M046",
+"parroquia": "Parroquia de Santa Lucia",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de Santa Lucia Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M047",
+"parroquia": "Parroquia de Santa Rita",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia de Santa Rita Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M048",
+"parroquia": "Parroquia del Buen Pastor - San Martín",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia del Buen Pastor - San Martín Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M049",
+"parroquia": "Parroquia del Santo Cristo",
+"municipio": "Magangué",
+"departamento": "Bolívar",
+"consulta": "parroquia del Santo Cristo Magangué Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M051",
+"parroquia": "Parroquia San Francisco Javier",
+"municipio": "Margarita",
+"departamento": "Bolívar",
+"consulta": "parroquia San Francisco Javier Margarita Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M052",
+"parroquia": "iglesia catolica",
+"municipio": "Margarita",
+"departamento": "Bolívar",
+"consulta": "parroquia catolica Margarita Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M053",
+"parroquia": "IGLESIA CATOLICA-San Francisco de Padua",
+"municipio": "Montecristo",
+"departamento": "Bolívar",
+"consulta": "parroquia CATOLICA-San Francisco de Padua Montecristo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M054",
+"parroquia": "Iglesia Santo Cristo de Montecristo",
+"municipio": "Montecristo",
+"departamento": "Bolívar",
+"consulta": "parroquia Santo Cristo de Montecristo Montecristo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M055",
+"parroquia": "Parroquia el Santo Cristo de Montecristo",
+"municipio": "Montecristo",
+"departamento": "Bolívar",
+"consulta": "parroquia el Santo Cristo de Montecristo Montecristo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M056",
+"parroquia": "Regencia Parroquia San Vicente de Paul",
+"municipio": "Montecristo",
+"departamento": "Bolívar",
+"consulta": "parroquia Regencia Parroquia San Vicente de Paul Montecristo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M057",
+"parroquia": "Iglesia Católica",
+"municipio": "Morales",
+"departamento": "Bolívar",
+"consulta": "parroquia Católica Morales Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M060",
+"parroquia": "Iglesia la palma",
+"municipio": "Morales",
+"departamento": "Bolívar",
+"consulta": "parroquia la palma Morales Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M061",
+"parroquia": "IGLESIA NOROSI",
+"municipio": "Norosí",
+"departamento": "Bolívar",
+"consulta": "parroquia NOROSI Norosí Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M062",
+"parroquia": "IGLESIA CRISTIANA CATÓLICA",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia CRISTIANA CATÓLICA Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M063",
+"parroquia": "Iglesia Catolica",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia Catolica Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M064",
+"parroquia": "Iglesia Inmaculada Concepción",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia Inmaculada Concepción Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M065",
+"parroquia": "Iglesia Pinillos",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia Pinillos Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M066",
+"parroquia": "Iglesia católica Santa Rosa",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia católica Santa Rosa Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M067",
+"parroquia": "Iglesia nuestra señora del amparo",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia nuestra señora del amparo Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M068",
+"parroquia": "Parroquia Nuestra Señora Del Carmen",
+"municipio": "Pinillos",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora Del Carmen Pinillos Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M069",
+"parroquia": "Parroquia San Francisco de Asís",
+"municipio": "Regidor",
+"departamento": "Bolívar",
+"consulta": "parroquia San Francisco de Asís Regidor Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M070",
+"parroquia": "IGLESIA CATÓLICA LOCAL",
+"municipio": "Río Viejo",
+"departamento": "Bolívar",
+"consulta": "parroquia CATÓLICA LOCAL Río Viejo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M071",
+"parroquia": "Parroquia Nuestra Señora De La Candelaria",
+"municipio": "Río Viejo",
+"departamento": "Bolívar",
+"consulta": "parroquia Nuestra Señora De La Candelaria Río Viejo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M072",
+"parroquia": "IGLESIA CATOLICA",
+"municipio": "San Fernando",
+"departamento": "Bolívar",
+"consulta": "parroquia CATOLICA San Fernando Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M073",
+"parroquia": "Iglesia San Fernando Rey",
+"municipio": "San Fernando",
+"departamento": "Bolívar",
+"consulta": "parroquia San Fernando Rey San Fernando Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M074",
+"parroquia": "Parroquia sagrado Corazon de Jesus",
+"municipio": "San Jacinto del Cauca",
+"departamento": "Bolívar",
+"consulta": "parroquia sagrado Corazon de Jesus San Jacinto del Cauca Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M075",
+"parroquia": "Parroquia San Martin De Loba",
+"municipio": "San Martín de Loba",
+"departamento": "Bolívar",
+"consulta": "parroquia San Martin De Loba San Martín de Loba Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M076",
+"parroquia": "Iglesia San Pablo Apostol",
+"municipio": "San Pablo",
+"departamento": "Bolívar",
+"consulta": "parroquia San Pablo Apostol San Pablo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M077",
+"parroquia": "PARROQUIA NUESTRA SEÑORA DE LA CANDELARIA",
+"municipio": "San Pablo",
+"departamento": "Bolívar",
+"consulta": "parroquia NUESTRA SEÑORA DE LA CANDELARIA San Pablo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M078",
+"parroquia": "IGLESIA SAN LUCAS",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia SAN LUCAS Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M079",
+"parroquia": "Iglesia Cristiana casa de Dios",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia Cristiana casa de Dios Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M080",
+"parroquia": "Iglesia San Isidro Labrador",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia San Isidro Labrador Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M081",
+"parroquia": "Iglesia Santa Rosa de Lima",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia Santa Rosa de Lima Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M082",
+"parroquia": "Iglesia catolica",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia catolica Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M083",
+"parroquia": "Iglesia de Buenavista",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia de Buenavista Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M084",
+"parroquia": "Santuario Nuestra Señora del Rosario",
+"municipio": "Santa Rosa del Sur",
+"departamento": "Bolívar",
+"consulta": "parroquia Santuario Nuestra Señora del Rosario Santa Rosa del Sur Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M085",
+"parroquia": "Capilla Virgen de la Original",
+"municipio": "Simití",
+"departamento": "Bolívar",
+"consulta": "parroquia Capilla Virgen de la Original Simití Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M086",
+"parroquia": "Iglesia San Antonio De Padua",
+"municipio": "Simití",
+"departamento": "Bolívar",
+"consulta": "parroquia San Antonio De Padua Simití Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M087",
+"parroquia": "Iglesia católica",
+"municipio": "Simití",
+"departamento": "Bolívar",
+"consulta": "parroquia católica Simití Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M088",
+"parroquia": "Parroquia Simití",
+"municipio": "Simití",
+"departamento": "Bolívar",
+"consulta": "parroquia Simití Simití Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M089",
+"parroquia": "Iglesia",
+"municipio": "Talaigua Nuevo",
+"departamento": "Bolívar",
+"consulta": "parroquia Iglesia Talaigua Nuevo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M091",
+"parroquia": "Iglesia católica",
+"municipio": "Talaigua Nuevo",
+"departamento": "Bolívar",
+"consulta": "parroquia católica Talaigua Nuevo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M092",
+"parroquia": "Iglesia la sagrada familia",
+"municipio": "Talaigua Nuevo",
+"departamento": "Bolívar",
+"consulta": "parroquia la sagrada familia Talaigua Nuevo Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M093",
+"parroquia": "Parroquia",
+"municipio": "Tiquisio",
+"departamento": "Bolívar",
+"consulta": "parroquia Parroquia Tiquisio Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M094",
+"parroquia": "Parroquia De Jesús Eucaristía",
+"municipio": "Tiquisio",
+"departamento": "Bolívar",
+"consulta": "parroquia De Jesús Eucaristía Tiquisio Bolívar facebook"
+},
+{
+"jur": "maga0",
+"id": "MAGA-M095",
+"parroquia": "Parroquia San Sebastian de Zambrano",
+"municipio": "Zambrano",
+"departamento": "Bolívar",
+"consulta": "parroquia San Sebastian de Zambrano Zambrano Bolívar facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-005",
+"parroquia": "San Antonio de Padua",
+"municipio": "El Cerrito",
+"departamento": "Santander",
+"consulta": "parroquia San Antonio de Padua El Cerrito Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-006",
+"parroquia": "Inmaculada Concepción",
+"municipio": "Concepción",
+"departamento": "Santander",
+"consulta": "parroquia Inmaculada Concepción Concepción Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-008",
+"parroquia": "Nuestra Señora del Socorro",
+"municipio": "Guaca",
+"departamento": "Santander",
+"consulta": "parroquia Nuestra Señora del Socorro Guaca Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-010",
+"parroquia": "Sagrado Corazón",
+"municipio": "Málaga",
+"departamento": "Santander",
+"consulta": "parroquia Sagrado Corazón Málaga Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-011",
+"parroquia": "San Antonio",
+"municipio": "Málaga",
+"departamento": "Santander",
+"consulta": "parroquia San Antonio Málaga Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-013",
+"parroquia": "Virgen María Auxiliadora",
+"municipio": "Málaga",
+"departamento": "Santander",
+"consulta": "parroquia Virgen María Auxiliadora Málaga Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-014",
+"parroquia": "San Pedro Apóstol",
+"municipio": "Molagavita",
+"departamento": "Santander",
+"consulta": "parroquia San Pedro Apóstol Molagavita Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-015",
+"parroquia": "San Andrés Apóstol",
+"municipio": "San Andrés",
+"departamento": "Santander",
+"consulta": "parroquia San Andrés Apóstol San Andrés Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-017",
+"parroquia": "San Miguel Arcángel",
+"municipio": "San Miguel",
+"departamento": "Santander",
+"consulta": "parroquia San Miguel Arcángel San Miguel Santander facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-019",
+"parroquia": "San Antonio de Padua",
+"municipio": "Chiscas",
+"departamento": "Boyacá",
+"consulta": "parroquia San Antonio de Padua Chiscas Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-020",
+"parroquia": "San Juan Nepomuceno",
+"municipio": "Covarachía",
+"departamento": "Boyacá",
+"consulta": "parroquia San Juan Nepomuceno Covarachía Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-022",
+"parroquia": "San Ramón Nonato",
+"municipio": "El Espino",
+"departamento": "Boyacá",
+"consulta": "parroquia San Ramón Nonato El Espino Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-025",
+"parroquia": "Nuestra Señora de la Salud",
+"municipio": "Panqueba",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestra Señora de la Salud Panqueba Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-026",
+"parroquia": "San Mateo",
+"municipio": "San Mateo",
+"departamento": "Boyacá",
+"consulta": "parroquia San Mateo San Mateo Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-027",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Soatá",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestra Señora del Carmen Soatá Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-028",
+"parroquia": "San Pablo Apóstol",
+"municipio": "Susacón",
+"departamento": "Boyacá",
+"consulta": "parroquia San Pablo Apóstol Susacón Boyacá facebook"
+},
+{
+"jur": "mala2",
+"id": "MASO-029",
+"parroquia": "Santa Rita",
+"municipio": "Tipacoque",
+"departamento": "Boyacá",
+"consulta": "parroquia Santa Rita Tipacoque Boyacá facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-003",
+"parroquia": "Divino Niño – Chinchiná",
+"municipio": "Chinchiná",
+"departamento": "Caldas",
+"consulta": "parroquia Divino Niño Chinchiná Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-005",
+"parroquia": "El Buen Pastor",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia El Buen Pastor Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-006",
+"parroquia": "El Divino Salvador – Morrogacho",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia El Divino Salvador Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-008",
+"parroquia": "El Señor de Las Misericordias",
+"municipio": "Chinchiná",
+"departamento": "Caldas",
+"consulta": "parroquia El Señor de Las Misericordias Chinchiná Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-010",
+"parroquia": "Jesucristo Sumo y Eterno Sacerdote",
+"municipio": "Villamaría",
+"departamento": "Caldas",
+"consulta": "parroquia Jesucristo Sumo y Eterno Sacerdote Villamaría Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-013",
+"parroquia": "La Divina Misericordia",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia La Divina Misericordia Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-015",
+"parroquia": "La Inmaculada Concepción – Salamina",
+"municipio": "Salamina",
+"departamento": "Caldas",
+"consulta": "parroquia La Inmaculada Concepción Salamina Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-016",
+"parroquia": "La Niña María",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia La Niña María Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-024",
+"parroquia": "Natividad del Señor",
+"municipio": "Santa Rosa de Cabal",
+"departamento": "Risaralda",
+"consulta": "parroquia Natividad del Señor Santa Rosa de Cabal Risaralda facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-025",
+"parroquia": "Niño Jesús de Praga – Estambul",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Niño Jesús de Praga Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-026",
+"parroquia": "Nuestra Señora Chiquinquirá – Aguadas",
+"municipio": "Aguadas",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora Chiquinquirá Aguadas Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-029",
+"parroquia": "Nuestra Señora de Guadalupe – Chinchiná",
+"municipio": "Chinchiná",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora de Guadalupe Chinchiná Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-030",
+"parroquia": "Nuestra Señora de Guadalupe – Las Colinas",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora de Guadalupe Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-032",
+"parroquia": "Nuestra Señora de la Candelaria",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora de la Candelaria Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-043",
+"parroquia": "Nuestra Señora del Carmen (Castilla)",
+"municipio": "Castilla (Corregimiento)",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora del Carmen Castilla (Corregimiento) Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-044",
+"parroquia": "Nuestra Señora del Carmen (Manizales)",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora del Carmen Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-045",
+"parroquia": "Nuestra Señora del Carmen (Samaria)",
+"municipio": "Samaria (Corregimiento)",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora del Carmen Samaria (Corregimiento) Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-052",
+"parroquia": "Nuestra Señora del Sagrado Corazón",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Nuestra Señora del Sagrado Corazón Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-054",
+"parroquia": "Sagrada Familia (Bajo Tablazo)",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Sagrada Familia Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-057",
+"parroquia": "San Agustín de Hipona",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia San Agustín de Hipona Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-058",
+"parroquia": "San Antonio de Padua (Arma)",
+"municipio": "Arma (Corregimiento)",
+"departamento": "Caldas",
+"consulta": "parroquia San Antonio de Padua Arma (Corregimiento) Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-061",
+"parroquia": "San Bartolomé",
+"municipio": "Pácora",
+"departamento": "Caldas",
+"consulta": "parroquia San Bartolomé Pácora Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-064",
+"parroquia": "San Francisco de Asís – Bengala",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia San Francisco de Asís Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-067",
+"parroquia": "San Isidro Labrador – Alto Español – Santa Rosa de Cabal",
+"municipio": "Santa Rosa de Cabal",
+"departamento": "Risaralda",
+"consulta": "parroquia San Isidro Labrador Santa Rosa de Cabal Risaralda facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-069",
+"parroquia": "San Jorge",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia San Jorge Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-073",
+"parroquia": "San Juan Bautista – Neira",
+"municipio": "Neira",
+"departamento": "Caldas",
+"consulta": "parroquia San Juan Bautista Neira Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-075",
+"parroquia": "San Juan Pablo II",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia San Juan Pablo II Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-081",
+"parroquia": "San Vicente de Paúl – Santa Rosa de Cabal",
+"municipio": "Santa Rosa de Cabal",
+"departamento": "Risaralda",
+"consulta": "parroquia San Vicente de Paúl Santa Rosa de Cabal Risaralda facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-084",
+"parroquia": "Santa Catalina Labouré",
+"municipio": "Villamaría",
+"departamento": "Caldas",
+"consulta": "parroquia Santa Catalina Labouré Villamaría Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-085",
+"parroquia": "Santa Laura Montoya Upegui – Kilómetro 41",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Santa Laura Montoya Upegui Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-086",
+"parroquia": "Santa María del Monte Carmelo",
+"municipio": "Santa Rosa de Cabal",
+"departamento": "Risaralda",
+"consulta": "parroquia Santa María del Monte Carmelo Santa Rosa de Cabal Risaralda facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-087",
+"parroquia": "Santa María Madre de Dios",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Santa María Madre de Dios Manizales Caldas facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-090",
+"parroquia": "Santísima Trinidad – Franciscanos Santa Rosa de Cabal",
+"municipio": "Santa Rosa de Cabal",
+"departamento": "Risaralda",
+"consulta": "parroquia Santísima Trinidad Santa Rosa de Cabal Risaralda facebook"
+},
+{
+"jur": "mani1",
+"id": "MAN-091",
+"parroquia": "Santísima Trinidad – La Cabaña",
+"municipio": "Manizales",
+"departamento": "Caldas",
+"consulta": "parroquia Santísima Trinidad Manizales Caldas facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X003",
+"parroquia": "Capilla hato viejo",
+"municipio": "Bello",
+"departamento": "Antioquia",
+"consulta": "parroquia Capilla hato viejo Bello Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X004",
+"parroquia": "Iglesia El Carmelo Montealvernia",
+"municipio": "Bello",
+"departamento": "Antioquia",
+"consulta": "parroquia El Carmelo Montealvernia Bello Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X005",
+"parroquia": "Iglesia San José de Galilea",
+"municipio": "Bello",
+"departamento": "Antioquia",
+"consulta": "parroquia San José de Galilea Bello Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X009",
+"parroquia": "Iglesia María Auxiliadora",
+"municipio": "Copacabana",
+"departamento": "Antioquia",
+"consulta": "parroquia María Auxiliadora Copacabana Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X013",
+"parroquia": "Ermita nuestra señora de las Mercedes",
+"municipio": "Envigado",
+"departamento": "Antioquia",
+"consulta": "parroquia Ermita nuestra señora de las Mercedes Envigado Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X018",
+"parroquia": "Capilla La Inmaculada",
+"municipio": "Itagüí",
+"departamento": "Antioquia",
+"consulta": "parroquia Capilla La Inmaculada Itagüí Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X019",
+"parroquia": "Capilla del barrio la Cruz",
+"municipio": "Itagüí",
+"departamento": "Antioquia",
+"consulta": "parroquia Capilla del barrio la Cruz Itagüí Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X020",
+"parroquia": "Iglesia Miguel Ángel Villegas",
+"municipio": "Itagüí",
+"departamento": "Antioquia",
+"consulta": "parroquia Miguel Ángel Villegas Itagüí Antioquia facebook"
+},
+{
+"jur": "mede0",
+"id": "MEDE-X027",
+"parroquia": "iglesia catolica parque sabaneta",
+"municipio": "Sabaneta",
+"departamento": "Antioquia",
+"consulta": "parroquia catolica parque sabaneta Sabaneta Antioquia facebook"
+},
+{
+"jur": "mitu0",
+"id": "MITU-M002",
+"parroquia": "Catedral de María Inmaculada",
+"municipio": "Mitú",
+"departamento": "Vaupés",
+"consulta": "parroquia Catedral de María Inmaculada Mitú Vaupés facebook"
+},
+{
+"jur": "mitu0",
+"id": "MITU-M003",
+"parroquia": "Cuasiparroquia Santa Laura Montoya",
+"municipio": "Mitú",
+"departamento": "Vaupés",
+"consulta": "parroquia Cuasiparroquia Santa Laura Montoya Mitú Vaupés facebook"
+},
+{
+"jur": "mitu0",
+"id": "MITU-M004",
+"parroquia": "parroquia Santa Luara Montoya Mitu",
+"municipio": "Mitú",
+"departamento": "Vaupés",
+"consulta": "parroquia Santa Luara Montoya Mitu Mitú Vaupés facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M001",
+"parroquia": "Iglesia Colon",
+"municipio": "Colón",
+"departamento": "Putumayo",
+"consulta": "parroquia Colon Colón Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M002",
+"parroquia": "Iglesia Palabra Viva",
+"municipio": "Mocoa",
+"departamento": "Putumayo",
+"consulta": "parroquia Palabra Viva Mocoa Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M005",
+"parroquia": "Iglesia Catolica",
+"municipio": "Orito",
+"departamento": "Putumayo",
+"consulta": "parroquia Catolica Orito Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M008",
+"parroquia": "Iglesia Guadalupe",
+"municipio": "Puerto Asís",
+"departamento": "Putumayo",
+"consulta": "parroquia Guadalupe Puerto Asís Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M009",
+"parroquia": "Iglesia señor De Los Milagros",
+"municipio": "Puerto Asís",
+"departamento": "Putumayo",
+"consulta": "parroquia señor De Los Milagros Puerto Asís Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M011",
+"parroquia": "Iglesia Nuestra Señora del Carmen",
+"municipio": "Puerto Caicedo",
+"departamento": "Putumayo",
+"consulta": "parroquia Nuestra Señora del Carmen Puerto Caicedo Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M013",
+"parroquia": "Iglesia San Francisco, Putumayo",
+"municipio": "San Francisco",
+"departamento": "Putumayo",
+"consulta": "parroquia San Francisco San Francisco Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M015",
+"parroquia": "Iglesia Santiago",
+"municipio": "Santiago",
+"departamento": "Putumayo",
+"consulta": "parroquia Santiago Santiago Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M019",
+"parroquia": "Iglesia San Alfonso Maria De Ligorio",
+"municipio": "Sibundoy",
+"departamento": "Putumayo",
+"consulta": "parroquia San Alfonso Maria De Ligorio Sibundoy Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M020",
+"parroquia": "Iglesia Católica",
+"municipio": "Valle del Guamuez",
+"departamento": "Putumayo",
+"consulta": "parroquia Católica Valle del Guamuez Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M021",
+"parroquia": "Iglesia Sagrado Corazón De Jesús",
+"municipio": "Valle del Guamuez",
+"departamento": "Putumayo",
+"consulta": "parroquia Sagrado Corazón De Jesús Valle del Guamuez Putumayo facebook"
+},
+{
+"jur": "moco0",
+"id": "MOCO-M022",
+"parroquia": "Iglesia católica la esmeralda",
+"municipio": "Valle del Guamuez",
+"departamento": "Putumayo",
+"consulta": "parroquia católica la esmeralda Valle del Guamuez Putumayo facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M001",
+"parroquia": "Iglesia Centro Familiar Cristiano Ayapel AD",
+"municipio": "Ayapel",
+"departamento": "Córdoba",
+"consulta": "parroquia Centro Familiar Cristiano Ayapel AD Ayapel Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M002",
+"parroquia": "Iglesia Maria Auxiliadora",
+"municipio": "Ayapel",
+"departamento": "Córdoba",
+"consulta": "parroquia Maria Auxiliadora Ayapel Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M004",
+"parroquia": "Iglesia Católica",
+"municipio": "Buenavista",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica Buenavista Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M005",
+"parroquia": "Iglesia San Martín de Tours",
+"municipio": "Buenavista",
+"departamento": "Córdoba",
+"consulta": "parroquia San Martín de Tours Buenavista Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M013",
+"parroquia": "Iglesia Catolica",
+"municipio": "Puerto Libertador",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica Puerto Libertador Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M014",
+"parroquia": "Iglesia Católica",
+"municipio": "Puerto Libertador",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica Puerto Libertador Córdoba facebook"
+},
+{
+"jur": "mont4",
+"id": "MONT-M019",
+"parroquia": "Iglesia De Cristo Tierralta",
+"municipio": "Tierralta",
+"departamento": "Córdoba",
+"consulta": "parroquia De Cristo Tierralta Tierralta Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M002",
+"parroquia": "Capilla Santa Lucía de Martínez",
+"municipio": "Cereté",
+"departamento": "Córdoba",
+"consulta": "parroquia Capilla Santa Lucía de Martínez Cereté Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M004",
+"parroquia": "Iglesia la medalla Milagrosa",
+"municipio": "Cereté",
+"departamento": "Córdoba",
+"consulta": "parroquia la medalla Milagrosa Cereté Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M005",
+"parroquia": "Iglesia nuestra señora del Carmen",
+"municipio": "Cereté",
+"departamento": "Córdoba",
+"consulta": "parroquia nuestra señora del Carmen Cereté Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M008",
+"parroquia": "Iglesia san emigdio",
+"municipio": "Chimá",
+"departamento": "Córdoba",
+"consulta": "parroquia san emigdio Chimá Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M010",
+"parroquia": "Iglesia Catolica de Heredia",
+"municipio": "Chinú",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica de Heredia Chinú Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M011",
+"parroquia": "Iglesia San Rafael de Chinú",
+"municipio": "Chinú",
+"departamento": "Córdoba",
+"consulta": "parroquia San Rafael de Chinú Chinú Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M014",
+"parroquia": "Iglesia Catolica",
+"municipio": "Ciénaga de Oro",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica Ciénaga de Oro Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M016",
+"parroquia": "Iglesia católica de Cotorra",
+"municipio": "Cotorra",
+"departamento": "Córdoba",
+"consulta": "parroquia católica de Cotorra Cotorra Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M017",
+"parroquia": "Capilla Divino Niño",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Capilla Divino Niño Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M019",
+"parroquia": "Iglesia Catolica Maria Madre De Dios",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica Maria Madre De Dios Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M020",
+"parroquia": "Iglesia Catolica San Miguel Arcangel",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica San Miguel Arcangel Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M021",
+"parroquia": "Iglesia Católica de los Alpes",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica de los Alpes Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M022",
+"parroquia": "Iglesia María Madre De Dios",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia María Madre De Dios Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M024",
+"parroquia": "Iglesia Sagrado Corazón",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Sagrado Corazón Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M025",
+"parroquia": "Iglesia Sagrado Corazón de Jesús en Lorica (Córdoba)",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia Sagrado Corazón de Jesús en Lorica Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M026",
+"parroquia": "Iglesia San Rafael",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia San Rafael Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M027",
+"parroquia": "Iglesia catolica de candelaria hacienda",
+"municipio": "Lorica",
+"departamento": "Córdoba",
+"consulta": "parroquia catolica de candelaria hacienda Lorica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M031",
+"parroquia": "IGLESIA CATOLICA DE LOS CORDOBAS",
+"municipio": "Los Córdobas",
+"departamento": "Córdoba",
+"consulta": "parroquia CATOLICA DE LOS CORDOBAS Los Córdobas Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M032",
+"parroquia": "Iglesia Católica De Sacana Abajo",
+"municipio": "Momil",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica De Sacana Abajo Momil Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M033",
+"parroquia": "Iglesia Católica Inmaculada Concepción",
+"municipio": "Momil",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica Inmaculada Concepción Momil Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M035",
+"parroquia": "Iglesia Arcangel San Miguel",
+"municipio": "Montería",
+"departamento": "Córdoba",
+"consulta": "parroquia Arcangel San Miguel Montería Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M036",
+"parroquia": "Iglesia Católica \"Nuestra Señora Del Perpetuo Socorro\"",
+"municipio": "Montería",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica \"Nuestra Señora Del Perpetuo Socorro\" Montería Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M037",
+"parroquia": "Iglesia María Madre De La Iglesia",
+"municipio": "Montería",
+"departamento": "Córdoba",
+"consulta": "parroquia María Madre De La Iglesia Montería Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M048",
+"parroquia": "Ermita de la Divina Misericordia",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia Ermita de la Divina Misericordia Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M051",
+"parroquia": "Iglesia Catolica",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M052",
+"parroquia": "Iglesia Catolica de Planetica",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia Catolica de Planetica Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M053",
+"parroquia": "Iglesia Del Divino Salvador",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia Del Divino Salvador Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M055",
+"parroquia": "Iglesia San Isidro",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia San Isidro Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M056",
+"parroquia": "Iglesia San Isidro Labrador",
+"municipio": "Planeta Rica",
+"departamento": "Córdoba",
+"consulta": "parroquia San Isidro Labrador Planeta Rica Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M060",
+"parroquia": "Iglesia católica la señora del Carmen",
+"municipio": "Pueblo Nuevo",
+"departamento": "Córdoba",
+"consulta": "parroquia católica la señora del Carmen Pueblo Nuevo Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M064",
+"parroquia": "Iglesia Católica",
+"municipio": "Sahagún",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica Sahagún Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M069",
+"parroquia": "Iglesia San Andrés Apostol",
+"municipio": "San Andrés de Sotavento",
+"departamento": "Córdoba",
+"consulta": "parroquia San Andrés Apostol San Andrés de Sotavento Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M070",
+"parroquia": "Iglesia catolica",
+"municipio": "San Antero",
+"departamento": "Córdoba",
+"consulta": "parroquia catolica San Antero Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M073",
+"parroquia": "Iglesia San Bernardo Abad",
+"municipio": "San Bernardo del Viento",
+"departamento": "Córdoba",
+"consulta": "parroquia San Bernardo Abad San Bernardo del Viento Córdoba facebook"
+},
+{
+"jur": "mont7",
+"id": "MONT-M077",
+"parroquia": "Iglesia Católica",
+"municipio": "Valencia",
+"departamento": "Córdoba",
+"consulta": "parroquia Católica Valencia Córdoba facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-052",
+"parroquia": "Centro de Evangelización Sagrado Corazón de Jesús - Betania",
+"municipio": "Palermo",
+"departamento": "Huila",
+"consulta": "parroquia Centro de Evangelización Sagrado Corazón de Jesús - Betania Palermo Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X001",
+"parroquia": "Iglesia El Pata",
+"municipio": "Aipe",
+"departamento": "Huila",
+"consulta": "parroquia El Pata Aipe Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X003",
+"parroquia": "Iglesia Campo Alegre",
+"municipio": "Campoalegre",
+"departamento": "Huila",
+"consulta": "parroquia Campo Alegre Campoalegre Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X004",
+"parroquia": "Iglesia Catolica",
+"municipio": "Campoalegre",
+"departamento": "Huila",
+"consulta": "parroquia Catolica Campoalegre Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X007",
+"parroquia": "PARROQUIA CRISTO SACERDOTE",
+"municipio": "Colombia",
+"departamento": "Huila",
+"consulta": "parroquia CRISTO SACERDOTE Colombia Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X009",
+"parroquia": "Parroquia El Señor de los Milagros, San Francisco",
+"municipio": "Colombia",
+"departamento": "Huila",
+"consulta": "parroquia El Señor de los Milagros Colombia Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X010",
+"parroquia": "Parroquia Nuestra señora de Lourdes",
+"municipio": "Colombia",
+"departamento": "Huila",
+"consulta": "parroquia Nuestra señora de Lourdes Colombia Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X013",
+"parroquia": "Parroquia Santa Rosalia",
+"municipio": "Palermo",
+"departamento": "Huila",
+"consulta": "parroquia Santa Rosalia Palermo Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X014",
+"parroquia": "Templo Católico Palermo",
+"municipio": "Palermo",
+"departamento": "Huila",
+"consulta": "parroquia Templo Católico Palermo Palermo Huila facebook"
+},
+{
+"jur": "neiv0",
+"id": "NEIV-X016",
+"parroquia": "Capilla de Santa Barbara",
+"municipio": "Villavieja",
+"departamento": "Huila",
+"consulta": "parroquia Capilla de Santa Barbara Villavieja Huila facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M002",
+"parroquia": "Parroquia Santísima Trinidad de Arboledas",
+"municipio": "Arboledas",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santísima Trinidad de Arboledas Arboledas Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M003",
+"parroquia": "Iglesia Cristo Rey - la Don Juana",
+"municipio": "Bochalema",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Cristo Rey - la Don Juana Bochalema Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M004",
+"parroquia": "Parroquia del Sagrado Corazón de Jesús",
+"municipio": "Bochalema",
+"departamento": "Norte de Santander",
+"consulta": "parroquia del Sagrado Corazón de Jesús Bochalema Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M005",
+"parroquia": "Santuario Nuestra Señora de la Cueva Santa",
+"municipio": "Bochalema",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santuario Nuestra Señora de la Cueva Santa Bochalema Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M006",
+"parroquia": "Capilla Nuestra Señora de Guadalupe",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla Nuestra Señora de Guadalupe Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M007",
+"parroquia": "Capilla de Santa María",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla de Santa María Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M008",
+"parroquia": "Capilla del 4 de Julio",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla del 4 de Julio Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M009",
+"parroquia": "Iglesia Carismática de la Santísima Trinidad de Colombia",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Carismática de la Santísima Trinidad de Colombia Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M010",
+"parroquia": "Iglesia Evangélica Alianza en Chinácota",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Evangélica Alianza en Chinácota Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M011",
+"parroquia": "Templo San Miguel Arcangel",
+"municipio": "Chinácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Templo San Miguel Arcangel Chinácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M012",
+"parroquia": "Capilla Niño Huerfanito",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla Niño Huerfanito Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M013",
+"parroquia": "Iglesia Evangélica ALIANZA",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Evangélica ALIANZA Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M014",
+"parroquia": "Iglesia Reino De Poder Chitaga",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Reino De Poder Chitaga Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M015",
+"parroquia": "Iglesia de Presidente",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia de Presidente Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M016",
+"parroquia": "Iglesia la virgen Del carmen",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia la virgen Del carmen Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M017",
+"parroquia": "Iglesia la virgen Del carmen",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia la virgen Del carmen Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M018",
+"parroquia": "Parroquia San Juan Nepomuceno",
+"municipio": "Chitagá",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Juan Nepomuceno Chitagá Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M019",
+"parroquia": "Iglesia Catolica",
+"municipio": "Cáchira",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Catolica Cáchira Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M020",
+"parroquia": "Iglesia San Agustín",
+"municipio": "Cáchira",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Agustín Cáchira Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M021",
+"parroquia": "Iglesia Cácota",
+"municipio": "Cácota",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Cácota Cácota Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M022",
+"parroquia": "Iglesia",
+"municipio": "Durania",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Iglesia Durania Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M023",
+"parroquia": "Parroquia San Jose De Durania",
+"municipio": "Durania",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Jose De Durania Durania Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M024",
+"parroquia": "Iglesia San Antonio de Padua",
+"municipio": "Herrán",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Antonio de Padua Herrán Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M025",
+"parroquia": "Iglesia La Esperanza",
+"municipio": "La Esperanza",
+"departamento": "Norte de Santander",
+"consulta": "parroquia La Esperanza La Esperanza Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M026",
+"parroquia": "Iglesia Nuestra Señora De Las Angustias",
+"municipio": "Labateca",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Nuestra Señora De Las Angustias Labateca Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M027",
+"parroquia": "Capilla Nuestra Señora De Guadalupe",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla Nuestra Señora De Guadalupe Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M028",
+"parroquia": "Catedral de Pamplona",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Catedral de Pamplona Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M031",
+"parroquia": "Iglesia Divino Niño Jesus",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Divino Niño Jesus Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M033",
+"parroquia": "Iglesia de San José",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia de San José Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M034",
+"parroquia": "Parroquia Divino Salvador",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Divino Salvador Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M035",
+"parroquia": "Parroquia Nuestra Señora Del Carmen",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Nuestra Señora Del Carmen Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M036",
+"parroquia": "Parroquia San Pedro Apostol",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Pedro Apostol Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M037",
+"parroquia": "Parroquia Santa Marta",
+"municipio": "Pamplona",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santa Marta Pamplona Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M039",
+"parroquia": "Parroquia Todos Los Santos",
+"municipio": "Pamplonita",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Todos Los Santos Pamplonita Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M041",
+"parroquia": "Iglesia San Luis Gonzaga",
+"municipio": "Toledo",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Luis Gonzaga Toledo Norte de Santander facebook"
+},
+{
+"jur": "npam0",
+"id": "NPAM-M043",
+"parroquia": "Parroquia san luis gonsaga de Toledo",
+"municipio": "Toledo",
+"departamento": "Norte de Santander",
+"consulta": "parroquia san luis gonsaga de Toledo Toledo Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M001",
+"parroquia": "Iglesia Santa Clara De Asis",
+"municipio": "Aguachica",
+"departamento": "Cesar",
+"consulta": "parroquia Santa Clara De Asis Aguachica Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M002",
+"parroquia": "Iglesia catolica",
+"municipio": "Aguachica",
+"departamento": "Cesar",
+"consulta": "parroquia catolica Aguachica Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M006",
+"parroquia": "Parroquia Maria Auxiliadora",
+"municipio": "Aguachica",
+"departamento": "Cesar",
+"consulta": "parroquia Maria Auxiliadora Aguachica Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M007",
+"parroquia": "Parroquia San Francisco De Asis",
+"municipio": "Aguachica",
+"departamento": "Cesar",
+"consulta": "parroquia San Francisco De Asis Aguachica Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M009",
+"parroquia": "Parroquia Santa Teresita Del Niño Jesus",
+"municipio": "Aguachica",
+"departamento": "Cesar",
+"consulta": "parroquia Santa Teresita Del Niño Jesus Aguachica Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M015",
+"parroquia": "IGLESIA SAN JUAN CRISÓSTOMO",
+"municipio": "González",
+"departamento": "Cesar",
+"consulta": "parroquia SAN JUAN CRISÓSTOMO González Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M016",
+"parroquia": "Templo Catolico Parroquia San Jose",
+"municipio": "La Gloria",
+"departamento": "Cesar",
+"consulta": "parroquia Templo Catolico Parroquia San Jose La Gloria Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M017",
+"parroquia": "Parroquia San José",
+"municipio": "La Playa",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San José La Playa Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M018",
+"parroquia": "Capilla de la Virgen de la Torcoroma",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Capilla de la Virgen de la Torcoroma Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M020",
+"parroquia": "Iglesia Católica",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Católica Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M021",
+"parroquia": "Iglesia Cementerio Central",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Cementerio Central Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M022",
+"parroquia": "Iglesia En Ocaña",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia En Ocaña Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M023",
+"parroquia": "Iglesia Jesús Cautivo",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Jesús Cautivo Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M024",
+"parroquia": "Iglesia La Ermita",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia La Ermita Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M025",
+"parroquia": "Iglesia Santa Rita",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santa Rita Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M026",
+"parroquia": "Iglesia de San Francisco",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia de San Francisco Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M027",
+"parroquia": "Parroquia Cristo Rey",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Cristo Rey Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M028",
+"parroquia": "Parroquia Inmaculada Concepción",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Inmaculada Concepción Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M030",
+"parroquia": "Parroquia Nuestra Señora de Fátima",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Nuestra Señora de Fátima Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M031",
+"parroquia": "Parroquia San Agustín, Ocaña",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Agustín Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M035",
+"parroquia": "Parroquia San Simón Stock",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Simón Stock Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M036",
+"parroquia": "Parroquia Santa Lucia",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santa Lucia Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M037",
+"parroquia": "Santuario Nuestra Señora de las Gracias de Torcoroma",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Santuario Nuestra Señora de las Gracias de Torcoroma Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M038",
+"parroquia": "parroquia juan pablo II",
+"municipio": "Ocaña",
+"departamento": "Norte de Santander",
+"consulta": "parroquia juan pablo II Ocaña Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M040",
+"parroquia": "Iglesia Principal Pailitas",
+"municipio": "Pailitas",
+"departamento": "Cesar",
+"consulta": "parroquia Principal Pailitas Pailitas Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M041",
+"parroquia": "Iglesia San José de Tunumá",
+"municipio": "Pailitas",
+"departamento": "Cesar",
+"consulta": "parroquia San José de Tunumá Pailitas Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M042",
+"parroquia": "iglesia",
+"municipio": "Pailitas",
+"departamento": "Cesar",
+"consulta": "parroquia iglesia Pailitas Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M043",
+"parroquia": "PARROQUIA",
+"municipio": "Pelaya",
+"departamento": "Cesar",
+"consulta": "parroquia PARROQUIA Pelaya Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M044",
+"parroquia": "Iglesia Catolica",
+"municipio": "Río de Oro",
+"departamento": "Cesar",
+"consulta": "parroquia Catolica Río de Oro Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M045",
+"parroquia": "Iglesia Principal",
+"municipio": "San Alberto",
+"departamento": "Cesar",
+"consulta": "parroquia Principal San Alberto Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M047",
+"parroquia": "Parroquia Nuestra Señora Del Rosario",
+"municipio": "San Calixto",
+"departamento": "Norte de Santander",
+"consulta": "parroquia Nuestra Señora Del Rosario San Calixto Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M048",
+"parroquia": "Parroquia San Martin de Tours",
+"municipio": "San Martín",
+"departamento": "Cesar",
+"consulta": "parroquia San Martin de Tours San Martín Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M049",
+"parroquia": "Iglesia",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia Iglesia Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M050",
+"parroquia": "Iglesia Catolica",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia Catolica Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M051",
+"parroquia": "Iglesia De Tamalameque",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia De Tamalameque Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M052",
+"parroquia": "Iglesia María Inmaculada Concepción",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia María Inmaculada Concepción Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M054",
+"parroquia": "Iglesia Santa Rosa",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia Santa Rosa Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M055",
+"parroquia": "Iglesia de pasacorriendo",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia de pasacorriendo Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M056",
+"parroquia": "Parroquia San Martín De Tours",
+"municipio": "Tamalameque",
+"departamento": "Cesar",
+"consulta": "parroquia San Martín De Tours Tamalameque Cesar facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M057",
+"parroquia": "Parroquia San Isidro Labrador",
+"municipio": "Teorama",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Isidro Labrador Teorama Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M058",
+"parroquia": "Parroquia San Pablo apóstol",
+"municipio": "Teorama",
+"departamento": "Norte de Santander",
+"consulta": "parroquia San Pablo apóstol Teorama Norte de Santander facebook"
+},
+{
+"jur": "ocan0",
+"id": "OCAN-M059",
+"parroquia": "CAPILLA DEL SAGRADO CORAZON DE JESUS",
+"municipio": "Ábrego",
+"departamento": "Norte de Santander",
+"consulta": "parroquia CAPILLA DEL SAGRADO CORAZON DE JESUS Ábrego Norte de Santander facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M007",
+"parroquia": "Parroquia el señor de la. Misericordia el Cerrito vaññe",
+"municipio": "El Cerrito",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia el señor de la. Misericordia el Cerrito vaññe El Cerrito Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M014",
+"parroquia": "Iglesia Cristo Resucitado",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Cristo Resucitado Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M023",
+"parroquia": "Iglesia católica",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia católica Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M024",
+"parroquia": "Iglesia de Zamorano",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia de Zamorano Palmira Valle del Cauca facebook"
+}
+]
