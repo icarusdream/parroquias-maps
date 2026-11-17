@@ -1,333 +1,5 @@
 [
 {
-"jur": "jeri0",
-"id": "JERI-M026",
-"parroquia": "Parroquia El Sagrado Corazón de Jesús",
-"municipio": "La Pintada",
-"departamento": "Antioquia",
-"consulta": "parroquia El Sagrado Corazón de Jesús La Pintada Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M027",
-"parroquia": "Parroquia Sagrado Corazón",
-"municipio": "La Pintada",
-"departamento": "Antioquia",
-"consulta": "parroquia Sagrado Corazón La Pintada Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M032",
-"parroquia": "Parroquia San Pablo de Tarso",
-"municipio": "Tarso",
-"departamento": "Antioquia",
-"consulta": "parroquia San Pablo de Tarso Tarso Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M033",
-"parroquia": "Capilla Santa Ana",
-"municipio": "Támesis",
-"departamento": "Antioquia",
-"consulta": "parroquia Capilla Santa Ana Támesis Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M034",
-"parroquia": "Capilla de San Judas",
-"municipio": "Támesis",
-"departamento": "Antioquia",
-"consulta": "parroquia Capilla de San Judas Támesis Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M035",
-"parroquia": "Iglesia San Antonio de Támesis",
-"municipio": "Támesis",
-"departamento": "Antioquia",
-"consulta": "parroquia San Antonio de Támesis Támesis Antioquia facebook"
-},
-{
-"jur": "jeri0",
-"id": "JERI-M038",
-"parroquia": "Parroquia de Santa Ana",
-"municipio": "Valparaíso",
-"departamento": "Antioquia",
-"consulta": "parroquia de Santa Ana Valparaíso Antioquia facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-005",
-"parroquia": "Espíritu Santo",
-"municipio": "La Dorada",
-"departamento": "Caldas",
-"consulta": "parroquia Espíritu Santo La Dorada Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-007",
-"parroquia": "Nuestra Señora de la Medalla Milagrosa",
-"municipio": "La Dorada",
-"departamento": "Caldas",
-"consulta": "parroquia Nuestra Señora de la Medalla Milagrosa La Dorada Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-008",
-"parroquia": "Sagrado Corazón de Jesús",
-"municipio": "La Dorada",
-"departamento": "Caldas",
-"consulta": "parroquia Sagrado Corazón de Jesús La Dorada Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-009",
-"parroquia": "San Judas Tadeo",
-"municipio": "La Dorada",
-"departamento": "Caldas",
-"consulta": "parroquia San Judas Tadeo La Dorada Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-011",
-"parroquia": "Divino Niño",
-"municipio": "Guarinocito",
-"departamento": "Caldas",
-"consulta": "parroquia Divino Niño Guarinocito Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-013",
-"parroquia": "Nuestra Señora de los Dolores",
-"municipio": "Marquetalia",
-"departamento": "Caldas",
-"consulta": "parroquia Nuestra Señora de los Dolores Marquetalia Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-014",
-"parroquia": "San Isidro Labrador",
-"municipio": "Montebonito",
-"departamento": "Caldas",
-"consulta": "parroquia San Isidro Labrador Montebonito Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-016",
-"parroquia": "Divino Niño",
-"municipio": "Patevaca",
-"departamento": "Caldas",
-"consulta": "parroquia Divino Niño Patevaca Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-019",
-"parroquia": "María Auxiliadora",
-"municipio": "Pueblo Nuevo",
-"departamento": "Caldas",
-"consulta": "parroquia María Auxiliadora Pueblo Nuevo Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-020",
-"parroquia": "Inmaculado Corazón de María",
-"municipio": "San Daniel",
-"departamento": "Caldas",
-"consulta": "parroquia Inmaculado Corazón de María San Daniel Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-021",
-"parroquia": "San Diego",
-"municipio": "San Diego",
-"departamento": "Caldas",
-"consulta": "parroquia San Diego San Diego Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-023",
-"parroquia": "Divino Niño",
-"municipio": "Terán",
-"departamento": "Caldas",
-"consulta": "parroquia Divino Niño Terán Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-024",
-"parroquia": "Nuestra Señora del Carmen",
-"municipio": "Victoria",
-"departamento": "Caldas",
-"consulta": "parroquia Nuestra Señora del Carmen Victoria Caldas facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-025",
-"parroquia": "San Francisco de Asís",
-"municipio": "La Danta",
-"departamento": "Antioquia",
-"consulta": "parroquia San Francisco de Asís La Danta Antioquia facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-026",
-"parroquia": "Nuestra Señora del Carmen",
-"municipio": "Doradal",
-"departamento": "Antioquia",
-"consulta": "parroquia Nuestra Señora del Carmen Doradal Antioquia facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-027",
-"parroquia": "María Auxiliadora",
-"municipio": "Estación Cocorná",
-"departamento": "Antioquia",
-"consulta": "parroquia María Auxiliadora Estación Cocorná Antioquia facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-031",
-"parroquia": "San Miguel Arcángel",
-"municipio": "San Miguel",
-"departamento": "Antioquia",
-"consulta": "parroquia San Miguel Arcángel San Miguel Antioquia facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-032",
-"parroquia": "Divino Niño",
-"municipio": "Marfil-Puerto Romero",
-"departamento": "Boyacá",
-"consulta": "parroquia Divino Niño Marfil-Puerto Romero Boyacá facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-033",
-"parroquia": "Cristo Rey",
-"municipio": "Puerto Boyacá",
-"departamento": "Boyacá",
-"consulta": "parroquia Cristo Rey Puerto Boyacá Boyacá facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-034",
-"parroquia": "San José",
-"municipio": "Puerto Boyacá",
-"departamento": "Boyacá",
-"consulta": "parroquia San José Puerto Boyacá Boyacá facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-036",
-"parroquia": "Sagrada Familia",
-"municipio": "Puerto Serviez",
-"departamento": "Boyacá",
-"consulta": "parroquia Sagrada Familia Puerto Serviez Boyacá facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-038",
-"parroquia": "Santiago Apóstol",
-"municipio": "Caparrapí",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Santiago Apóstol Caparrapí Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-041",
-"parroquia": "Sagrado Corazón de Jesús",
-"municipio": "El Dindal",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Sagrado Corazón de Jesús El Dindal Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-043",
-"parroquia": "Nuestra Señora de Fátima",
-"municipio": "Guaduas",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Nuestra Señora de Fátima Guaduas Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-044",
-"parroquia": "San José",
-"municipio": "Guaduas",
-"departamento": "Cundinamarca",
-"consulta": "parroquia San José Guaduas Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-045",
-"parroquia": "Sagrado Corazón de Jesús",
-"municipio": "Guaduero",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Sagrado Corazón de Jesús Guaduero Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-047",
-"parroquia": "San Antonio de Padua",
-"municipio": "La Paz",
-"departamento": "Cundinamarca",
-"consulta": "parroquia San Antonio de Padua La Paz Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-049",
-"parroquia": "Santísima Trinidad",
-"municipio": "Puerto Salgar",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Santísima Trinidad Puerto Salgar Cundinamarca facebook"
-},
-{
-"jur": "lado0",
-"id": "LADO-051",
-"parroquia": "Nuestra Señora del Carmen",
-"municipio": "Yacopí",
-"departamento": "Cundinamarca",
-"consulta": "parroquia Nuestra Señora del Carmen Yacopí Cundinamarca facebook"
-},
-{
-"jur": "legu0",
-"id": "LEGU-M001",
-"parroquia": "Capilla San José",
-"municipio": "Puerto Leguízamo",
-"departamento": "Putumayo",
-"consulta": "parroquia Capilla San José Puerto Leguízamo Putumayo facebook"
-},
-{
-"jur": "legu0",
-"id": "LEGU-M003",
-"parroquia": "Iglesia Divino Niño",
-"municipio": "Puerto Leguízamo",
-"departamento": "Putumayo",
-"consulta": "parroquia Divino Niño Puerto Leguízamo Putumayo facebook"
-},
-{
-"jur": "legu0",
-"id": "LEGU-M004",
-"parroquia": "Parroquia Nuestra Señora Consolata",
-"municipio": "Puerto Leguízamo",
-"departamento": "Putumayo",
-"consulta": "parroquia Nuestra Señora Consolata Puerto Leguízamo Putumayo facebook"
-},
-{
-"jur": "legu0",
-"id": "LEGU-M005",
-"parroquia": "Concatedral Nuestra Señora de las Mercedes",
-"municipio": "Solano",
-"departamento": "Caquetá",
-"consulta": "parroquia Concatedral Nuestra Señora de las Mercedes Solano Caquetá facebook"
-},
-{
-"jur": "legu0",
-"id": "LEGU-M006",
-"parroquia": "IGLESIA CATOLICA EL JARDIN",
-"municipio": "Solano",
-"departamento": "Caquetá",
-"consulta": "parroquia CATOLICA EL JARDIN Solano Caquetá facebook"
-},
-{
 "jur": "legu0",
 "id": "LEGU-M007",
 "parroquia": "Templo Católico",
@@ -2798,5 +2470,333 @@
 "municipio": "Palmira",
 "departamento": "Valle del Cauca",
 "consulta": "parroquia de Zamorano Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M026",
+"parroquia": "Parroquia Nuestra Señora De Lourdes",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Nuestra Señora De Lourdes Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M029",
+"parroquia": "Parroquia San Juan XXIII",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia San Juan XXIII Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M031",
+"parroquia": "Parroquia San Miguel Arcangel",
+"municipio": "Palmira",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia San Miguel Arcangel Palmira Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M033",
+"parroquia": "Capilla La Misericordia",
+"municipio": "Pradera",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Capilla La Misericordia Pradera Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M034",
+"parroquia": "Capilla Ntra Sra de Guadalupe",
+"municipio": "Pradera",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Capilla Ntra Sra de Guadalupe Pradera Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M037",
+"parroquia": "Iglesia Mision CAVIVA Pradera",
+"municipio": "Pradera",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Mision CAVIVA Pradera Pradera Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M038",
+"parroquia": "Iglesia cruzada cristiana",
+"municipio": "Pradera",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia cruzada cristiana Pradera Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M039",
+"parroquia": "Parroquia Inmaculada Concepción Pradera",
+"municipio": "Pradera",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Inmaculada Concepción Pradera Pradera Valle del Cauca facebook"
+},
+{
+"jur": "palm6",
+"id": "PALM-M040",
+"parroquia": "Capilla Nuestra Señora De Fátima",
+"municipio": "Vijes",
+"departamento": "Valle del Cauca",
+"consulta": "parroquia Capilla Nuestra Señora De Fátima Vijes Valle del Cauca facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-002",
+"parroquia": "Nuestra Señora de Belén",
+"municipio": "Belén",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora de Belén Belén Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-003",
+"parroquia": "San Miguel Arcángel",
+"municipio": "Berruecos",
+"departamento": "Nariño",
+"consulta": "parroquia San Miguel Arcángel Berruecos Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-004",
+"parroquia": "San Antonio de Padua",
+"municipio": "Briceño",
+"departamento": "Nariño",
+"consulta": "parroquia San Antonio de Padua Briceño Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-006",
+"parroquia": "Cristo Redentor",
+"municipio": "Buesaquillo",
+"departamento": "Nariño",
+"consulta": "parroquia Cristo Redentor Buesaquillo Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-010",
+"parroquia": "Nuestra Señora del Tránsito",
+"municipio": "Consacá",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Tránsito Consacá Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-012",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "El Carmen",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Carmen El Carmen Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-014",
+"parroquia": "Nuestra Señora del Rosario",
+"municipio": "El Peñol",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Rosario El Peñol Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-016",
+"parroquia": "Nuestra Señora del Rosario",
+"municipio": "El Rosario",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Rosario El Rosario Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-017",
+"parroquia": "Nuestra Señora de las Mercedes",
+"municipio": "El Tablón de Gómez",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora de las Mercedes El Tablón de Gómez Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-018",
+"parroquia": "Jesús Nazareno",
+"municipio": "El Tambo",
+"departamento": "Nariño",
+"consulta": "parroquia Jesús Nazareno El Tambo Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-019",
+"parroquia": "San Bartolomé",
+"municipio": "La Florida",
+"departamento": "Nariño",
+"consulta": "parroquia San Bartolomé La Florida Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-020",
+"parroquia": "Inmaculada Concepción",
+"municipio": "Funes",
+"departamento": "Nariño",
+"consulta": "parroquia Inmaculada Concepción Funes Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-022",
+"parroquia": "San Pedro Apóstol",
+"municipio": "Genoy",
+"departamento": "Nariño",
+"consulta": "parroquia San Pedro Apóstol Genoy Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-023",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "Ingenio",
+"departamento": "Nariño",
+"consulta": "parroquia Sagrado Corazón de Jesús Ingenio Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-024",
+"parroquia": "San Pedro Apóstol",
+"municipio": "La Laguna",
+"departamento": "Nariño",
+"consulta": "parroquia San Pedro Apóstol La Laguna Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-025",
+"parroquia": "San José",
+"municipio": "Las Mesas",
+"departamento": "Nariño",
+"consulta": "parroquia San José Las Mesas Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-026",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "Leiva",
+"departamento": "Nariño",
+"consulta": "parroquia Sagrado Corazón de Jesús Leiva Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-027",
+"parroquia": "Nuestra Señora Perpetuo Socorro",
+"municipio": "Madrigal",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora Perpetuo Socorro Madrigal Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-028",
+"parroquia": "San José",
+"municipio": "Matituy",
+"departamento": "Nariño",
+"consulta": "parroquia San José Matituy Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-029",
+"parroquia": "San Francisco de Asís",
+"municipio": "Nariño",
+"departamento": "Nariño",
+"consulta": "parroquia San Francisco de Asís Nariño Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-032",
+"parroquia": "Corpus Christi",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Corpus Christi Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-035",
+"parroquia": "Espíritu Santo",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Espíritu Santo Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-036",
+"parroquia": "Inmaculada Concepción",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Inmaculada Concepción Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-037",
+"parroquia": "Jesús Nazareno",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Jesús Nazareno Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-038",
+"parroquia": "María Auxiliadora",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia María Auxiliadora Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-041",
+"parroquia": "Nuestra Señora de Fátima",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora de Fátima Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-043",
+"parroquia": "Nuestra Señora de la Paz",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora de la Paz Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-044",
+"parroquia": "Nuestra Señora de las Lajas",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora de las Lajas Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-045",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Carmen Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-046",
+"parroquia": "Nuestra Señora del Pilar",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Pilar Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-047",
+"parroquia": "Nuestra Señora del Rosario",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia Nuestra Señora del Rosario Pasto Nariño facebook"
+},
+{
+"jur": "past0",
+"id": "PAS-052",
+"parroquia": "San Andrés",
+"municipio": "Pasto",
+"departamento": "Nariño",
+"consulta": "parroquia San Andrés Pasto Nariño facebook"
 }
 ]

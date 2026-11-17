@@ -1,333 +1,5 @@
 [
 {
-"jur": "palm6",
-"id": "PALM-M026",
-"parroquia": "Parroquia Nuestra Señora De Lourdes",
-"municipio": "Palmira",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Nuestra Señora De Lourdes Palmira Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M029",
-"parroquia": "Parroquia San Juan XXIII",
-"municipio": "Palmira",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia San Juan XXIII Palmira Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M031",
-"parroquia": "Parroquia San Miguel Arcangel",
-"municipio": "Palmira",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia San Miguel Arcangel Palmira Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M033",
-"parroquia": "Capilla La Misericordia",
-"municipio": "Pradera",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Capilla La Misericordia Pradera Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M034",
-"parroquia": "Capilla Ntra Sra de Guadalupe",
-"municipio": "Pradera",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Capilla Ntra Sra de Guadalupe Pradera Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M037",
-"parroquia": "Iglesia Mision CAVIVA Pradera",
-"municipio": "Pradera",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Mision CAVIVA Pradera Pradera Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M038",
-"parroquia": "Iglesia cruzada cristiana",
-"municipio": "Pradera",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia cruzada cristiana Pradera Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M039",
-"parroquia": "Parroquia Inmaculada Concepción Pradera",
-"municipio": "Pradera",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Inmaculada Concepción Pradera Pradera Valle del Cauca facebook"
-},
-{
-"jur": "palm6",
-"id": "PALM-M040",
-"parroquia": "Capilla Nuestra Señora De Fátima",
-"municipio": "Vijes",
-"departamento": "Valle del Cauca",
-"consulta": "parroquia Capilla Nuestra Señora De Fátima Vijes Valle del Cauca facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-002",
-"parroquia": "Nuestra Señora de Belén",
-"municipio": "Belén",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora de Belén Belén Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-003",
-"parroquia": "San Miguel Arcángel",
-"municipio": "Berruecos",
-"departamento": "Nariño",
-"consulta": "parroquia San Miguel Arcángel Berruecos Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-004",
-"parroquia": "San Antonio de Padua",
-"municipio": "Briceño",
-"departamento": "Nariño",
-"consulta": "parroquia San Antonio de Padua Briceño Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-006",
-"parroquia": "Cristo Redentor",
-"municipio": "Buesaquillo",
-"departamento": "Nariño",
-"consulta": "parroquia Cristo Redentor Buesaquillo Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-010",
-"parroquia": "Nuestra Señora del Tránsito",
-"municipio": "Consacá",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Tránsito Consacá Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-012",
-"parroquia": "Nuestra Señora del Carmen",
-"municipio": "El Carmen",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Carmen El Carmen Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-014",
-"parroquia": "Nuestra Señora del Rosario",
-"municipio": "El Peñol",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Rosario El Peñol Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-016",
-"parroquia": "Nuestra Señora del Rosario",
-"municipio": "El Rosario",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Rosario El Rosario Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-017",
-"parroquia": "Nuestra Señora de las Mercedes",
-"municipio": "El Tablón de Gómez",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora de las Mercedes El Tablón de Gómez Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-018",
-"parroquia": "Jesús Nazareno",
-"municipio": "El Tambo",
-"departamento": "Nariño",
-"consulta": "parroquia Jesús Nazareno El Tambo Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-019",
-"parroquia": "San Bartolomé",
-"municipio": "La Florida",
-"departamento": "Nariño",
-"consulta": "parroquia San Bartolomé La Florida Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-020",
-"parroquia": "Inmaculada Concepción",
-"municipio": "Funes",
-"departamento": "Nariño",
-"consulta": "parroquia Inmaculada Concepción Funes Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-022",
-"parroquia": "San Pedro Apóstol",
-"municipio": "Genoy",
-"departamento": "Nariño",
-"consulta": "parroquia San Pedro Apóstol Genoy Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-023",
-"parroquia": "Sagrado Corazón de Jesús",
-"municipio": "Ingenio",
-"departamento": "Nariño",
-"consulta": "parroquia Sagrado Corazón de Jesús Ingenio Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-024",
-"parroquia": "San Pedro Apóstol",
-"municipio": "La Laguna",
-"departamento": "Nariño",
-"consulta": "parroquia San Pedro Apóstol La Laguna Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-025",
-"parroquia": "San José",
-"municipio": "Las Mesas",
-"departamento": "Nariño",
-"consulta": "parroquia San José Las Mesas Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-026",
-"parroquia": "Sagrado Corazón de Jesús",
-"municipio": "Leiva",
-"departamento": "Nariño",
-"consulta": "parroquia Sagrado Corazón de Jesús Leiva Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-027",
-"parroquia": "Nuestra Señora Perpetuo Socorro",
-"municipio": "Madrigal",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora Perpetuo Socorro Madrigal Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-028",
-"parroquia": "San José",
-"municipio": "Matituy",
-"departamento": "Nariño",
-"consulta": "parroquia San José Matituy Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-029",
-"parroquia": "San Francisco de Asís",
-"municipio": "Nariño",
-"departamento": "Nariño",
-"consulta": "parroquia San Francisco de Asís Nariño Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-032",
-"parroquia": "Corpus Christi",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Corpus Christi Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-035",
-"parroquia": "Espíritu Santo",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Espíritu Santo Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-036",
-"parroquia": "Inmaculada Concepción",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Inmaculada Concepción Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-037",
-"parroquia": "Jesús Nazareno",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Jesús Nazareno Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-038",
-"parroquia": "María Auxiliadora",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia María Auxiliadora Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-041",
-"parroquia": "Nuestra Señora de Fátima",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora de Fátima Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-043",
-"parroquia": "Nuestra Señora de la Paz",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora de la Paz Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-044",
-"parroquia": "Nuestra Señora de las Lajas",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora de las Lajas Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-045",
-"parroquia": "Nuestra Señora del Carmen",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Carmen Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-046",
-"parroquia": "Nuestra Señora del Pilar",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Pilar Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-047",
-"parroquia": "Nuestra Señora del Rosario",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia Nuestra Señora del Rosario Pasto Nariño facebook"
-},
-{
-"jur": "past0",
-"id": "PAS-052",
-"parroquia": "San Andrés",
-"municipio": "Pasto",
-"departamento": "Nariño",
-"consulta": "parroquia San Andrés Pasto Nariño facebook"
-},
-{
 "jur": "past0",
 "id": "PAS-063",
 "parroquia": "Santa Rosa de Lima",
@@ -2798,5 +2470,333 @@
 "municipio": "Barbacoas",
 "departamento": "Nariño",
 "consulta": "parroquia Principal Barbacoas Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M003",
+"parroquia": "Iglesia Católica",
+"municipio": "El Charco",
+"departamento": "Nariño",
+"consulta": "parroquia Católica El Charco Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M004",
+"parroquia": "PARROQUIA SEÑOR DEL MAR",
+"municipio": "Francisco Pizarro",
+"departamento": "Nariño",
+"consulta": "parroquia SEÑOR DEL MAR Francisco Pizarro Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M005",
+"parroquia": "Iglesia San Rafael Arcangel",
+"municipio": "La Tola",
+"departamento": "Nariño",
+"consulta": "parroquia San Rafael Arcangel La Tola Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M006",
+"parroquia": "iglesia cruzada cristiana",
+"municipio": "Magüí",
+"departamento": "Nariño",
+"consulta": "parroquia cruzada cristiana Magüí Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M008",
+"parroquia": "Parroquia María Auxiliadora",
+"municipio": "Mosquera",
+"departamento": "Nariño",
+"consulta": "parroquia María Auxiliadora Mosquera Nariño facebook"
+},
+{
+"jur": "tuma0",
+"id": "TUMA-M014",
+"parroquia": "Parroquia San José Obrero",
+"municipio": "Roberto Payán",
+"departamento": "Nariño",
+"consulta": "parroquia San José Obrero Roberto Payán Nariño facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M001",
+"parroquia": "Iglesia Católica",
+"municipio": "Aquitania",
+"departamento": "Boyacá",
+"consulta": "parroquia Católica Aquitania Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M004",
+"parroquia": "Capilla Ricaya Sur - Chivatá",
+"municipio": "Chivatá",
+"departamento": "Boyacá",
+"consulta": "parroquia Capilla Ricaya Sur - Chivatá Chivatá Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M006",
+"parroquia": "TEMPLO DOCTRINERO NUESTRA SEÑORA DEL ROSARIO",
+"municipio": "Chivatá",
+"departamento": "Boyacá",
+"consulta": "parroquia TEMPLO DOCTRINERO NUESTRA SEÑORA DEL ROSARIO Chivatá Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M007",
+"parroquia": "Parroquia San Isidro Labrador - Chíquiza",
+"municipio": "Chíquiza",
+"departamento": "Boyacá",
+"consulta": "parroquia San Isidro Labrador - Chíquiza Chíquiza Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M008",
+"parroquia": "Parroquia San Pedro de Iguaque",
+"municipio": "Chíquiza",
+"departamento": "Boyacá",
+"consulta": "parroquia San Pedro de Iguaque Chíquiza Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M009",
+"parroquia": "Parroquia María Inmaculada - Ciénega",
+"municipio": "Ciénega",
+"departamento": "Boyacá",
+"consulta": "parroquia María Inmaculada - Ciénega Ciénega Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M012",
+"parroquia": "Parroquia De Santa Bárbara Combita, Boyacá, Colombia",
+"municipio": "Cómbita",
+"departamento": "Boyacá",
+"consulta": "parroquia De Santa Bárbara Combita Cómbita Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M014",
+"parroquia": "Basilica Menor de Nuestra Señora de las Nieves - Firavitoba",
+"municipio": "Firavitoba",
+"departamento": "Boyacá",
+"consulta": "parroquia Basilica Menor de Nuestra Señora de las Nieves - Firavitoba Firavitoba Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M016",
+"parroquia": "Iglesia principal, Iza",
+"municipio": "Iza",
+"departamento": "Boyacá",
+"consulta": "parroquia principal Iza Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M020",
+"parroquia": "Parroquia Inmaculada Concepción - Oicatá",
+"municipio": "Oicatá",
+"departamento": "Boyacá",
+"consulta": "parroquia Inmaculada Concepción - Oicatá Oicatá Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M024",
+"parroquia": "Parroquia Nuestra Señora del Milagro paipa",
+"municipio": "Paipa",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestra Señora del Milagro paipa Paipa Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M029",
+"parroquia": "Iglesia Cristiana Gozo Eterno - Siachoque Centro",
+"municipio": "Siachoque",
+"departamento": "Boyacá",
+"consulta": "parroquia Cristiana Gozo Eterno - Siachoque Centro Siachoque Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M031",
+"parroquia": "iglesia",
+"municipio": "Siachoque",
+"departamento": "Boyacá",
+"consulta": "parroquia iglesia Siachoque Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M032",
+"parroquia": "Parroquia Santa Bárbara - Sora",
+"municipio": "Sora",
+"departamento": "Boyacá",
+"consulta": "parroquia Santa Bárbara - Sora Sora Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M033",
+"parroquia": "Parroquia Nuestro Señor De La Columna",
+"municipio": "Soracá",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestro Señor De La Columna Soracá Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M038",
+"parroquia": "Capilla Barrio La María",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Capilla Barrio La María Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M040",
+"parroquia": "Capilla Santa María De Guadalupe",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Capilla Santa María De Guadalupe Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M042",
+"parroquia": "Centro Parroquial Nuestra Señora De Los Ángeles",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Centro Parroquial Nuestra Señora De Los Ángeles Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M044",
+"parroquia": "Ermita de San Lázaro",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Ermita de San Lázaro Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M047",
+"parroquia": "Parroquia Jesús Sacramentado (Cooservicios)",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Jesús Sacramentado Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M048",
+"parroquia": "Parroquia Jesús de la Divina Misericordia",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Jesús de la Divina Misericordia Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M050",
+"parroquia": "Parroquia Maria Inmaculada",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Maria Inmaculada Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M051",
+"parroquia": "Parroquia Nuestra Señora De Lourdes",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestra Señora De Lourdes Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M055",
+"parroquia": "Parroquia Sagrada Familia",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Sagrada Familia Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M059",
+"parroquia": "Parroquia San José",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia San José Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M061",
+"parroquia": "Parroquia San Juan Pablo II",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia San Juan Pablo II Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M066",
+"parroquia": "Parroquia Santisima Trinidad - Ciudad Jardín",
+"municipio": "Tunja",
+"departamento": "Boyacá",
+"consulta": "parroquia Santisima Trinidad - Ciudad Jardín Tunja Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M074",
+"parroquia": "Santuario a la Virgen del Rosario",
+"municipio": "Turmequé",
+"departamento": "Boyacá",
+"consulta": "parroquia Santuario a la Virgen del Rosario Turmequé Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M076",
+"parroquia": "Parroquia San Antonio de Padua - Ventaquemada",
+"municipio": "Ventaquemada",
+"departamento": "Boyacá",
+"consulta": "parroquia San Antonio de Padua - Ventaquemada Ventaquemada Boyacá facebook"
+},
+{
+"jur": "tunj0",
+"id": "TUNJ-M077",
+"parroquia": "Parroquia Nuestra Señora Del Rosario - Viracachá",
+"municipio": "Viracachá",
+"departamento": "Boyacá",
+"consulta": "parroquia Nuestra Señora Del Rosario - Viracachá Viracachá Boyacá facebook"
+},
+{
+"jur": "vall2",
+"id": "VAL-002",
+"parroquia": "Espíritu Santo",
+"municipio": "Valledupar",
+"departamento": "Cesar",
+"consulta": "parroquia Espíritu Santo Valledupar Cesar facebook"
+},
+{
+"jur": "vall2",
+"id": "VAL-004",
+"parroquia": "La Anunciación",
+"municipio": "Valledupar",
+"departamento": "Cesar",
+"consulta": "parroquia La Anunciación Valledupar Cesar facebook"
+},
+{
+"jur": "vall2",
+"id": "VAL-008",
+"parroquia": "Nuestra Señora del Carmen",
+"municipio": "Valledupar",
+"departamento": "Cesar",
+"consulta": "parroquia Nuestra Señora del Carmen Valledupar Cesar facebook"
+},
+{
+"jur": "vall2",
+"id": "VAL-009",
+"parroquia": "Sagrado Corazón de Jesús",
+"municipio": "Valledupar",
+"departamento": "Cesar",
+"consulta": "parroquia Sagrado Corazón de Jesús Valledupar Cesar facebook"
+},
+{
+"jur": "vall2",
+"id": "VAL-010",
+"parroquia": "San Isidro Labrador de Atánquez",
+"municipio": "Valledupar",
+"departamento": "Cesar",
+"consulta": "parroquia San Isidro Labrador de Atánquez Valledupar Cesar facebook"
 }
 ]
