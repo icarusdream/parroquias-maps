@@ -1,0 +1,37 @@
+{
+"33ca15605430": {
+"url": "https://diocesisdevalledupar.org/parroquias-diocesis/",
+"estado": 200,
+"bytes": 350117
+},
+"5c285c6a2db3": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-centro-oriental/",
+"estado": 404,
+"bytes": 0
+},
+"fb633015437b": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-centro-occidental/",
+"estado": 200,
+"bytes": 468442
+},
+"a9602d54dac9": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-centro-sur/",
+"estado": 200,
+"bytes": 440755
+},
+"5efde4c9deb3": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-norte/",
+"estado": 200,
+"bytes": 405354
+},
+"fa2c7e499070": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-oriental/",
+"estado": 200,
+"bytes": 419775
+},
+"0e73dc6bdbd9": {
+"url": "https://diocesisdevalledupar.org/parroquias-zona-sur-occidental/",
+"estado": 200,
+"bytes": 409328
+}
+}
