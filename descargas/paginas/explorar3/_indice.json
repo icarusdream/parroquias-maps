@@ -1,0 +1,415 @@
+{
+"70d574a88383": {
+"url": "https://arquidiocesisdepopayan.org/",
+"estado": 200,
+"bytes": 193170
+},
+"d17c3703f46c": {
+"url": "https://arquidiocesisdepopayan.org/parroquias/",
+"estado": 200,
+"bytes": 115884
+},
+"2b8c3cf66db7": {
+"url": "https://arquidiocesisdepopayan.org/directorio/",
+"estado": 200,
+"bytes": 199440
+},
+"7155b3e7fdd3": {
+"url": "https://arquidiocesisdepopayan.org/directorio-parroquial/",
+"estado": 404,
+"bytes": 0
+},
+"28227a21920c": {
+"url": "https://arquidiocesisdepopayan.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 8496
+},
+"174ea8fe3109": {
+"url": "https://arquidiocesisdepopayan.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 715
+},
+"3b440517766a": {
+"url": "https://arquidiocesisdepopayan.org/sitemap_index.xml",
+"estado": 404,
+"bytes": 0
+},
+"bcb95697bf04": {
+"url": "https://arquicartagena.org/",
+"estado": 200,
+"bytes": 387048
+},
+"953712829e8c": {
+"url": "https://arquicartagena.org/parroquias/",
+"estado": 200,
+"bytes": 224799
+},
+"d9b926626359": {
+"url": "https://arquicartagena.org/directorio/",
+"estado": 200,
+"bytes": 176812
+},
+"53115bfd5c26": {
+"url": "https://arquicartagena.org/directorio-parroquial/",
+"estado": 404,
+"bytes": 0
+},
+"5c9ba864c36a": {
+"url": "https://arquicartagena.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 53133
+},
+"78fc51b1a62d": {
+"url": "https://arquicartagena.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 3094
+},
+"a4a0de9fd49c": {
+"url": "https://arquicartagena.org/sitemap_index.xml",
+"estado": 200,
+"bytes": 3094
+},
+"aeb830696b20": {
+"url": "https://arquidiocesisbaq.org/",
+"estado": 200,
+"bytes": 992835
+},
+"6337b1d96b7e": {
+"url": "https://arquidiocesisbaq.org/parroquias/",
+"estado": 404,
+"bytes": 0
+},
+"3fd4584e3430": {
+"url": "https://arquidiocesisbaq.org/directorio/",
+"estado": 200,
+"bytes": 909434
+},
+"e3490f3bd679": {
+"url": "https://arquidiocesisbaq.org/directorio-parroquial/",
+"estado": 200,
+"bytes": 909434
+},
+"8cb6aa0ce424": {
+"url": "https://arquidiocesisbaq.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 7331
+},
+"c9529a91d1d5": {
+"url": "https://arquidiocesisbaq.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 562
+},
+"f8b0c49087c3": {
+"url": "https://arquidiocesisbaq.org/sitemap_index.xml",
+"estado": 404,
+"bytes": 0
+},
+"a3fd0e235df6": {
+"url": "https://arquibaq.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"da9e1e28293e": {
+"url": "https://arquibaq.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"638a365033d0": {
+"url": "https://arquibaq.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"0804d0caf498": {
+"url": "https://arquibaq.org/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"10cdce057872": {
+"url": "https://arquibaq.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"6fb886cf5b64": {
+"url": "https://arquibaq.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"776de1038c90": {
+"url": "https://arquibaq.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"50c129cf3ff0": {
+"url": "https://arquidiocesisdebarranquilla.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"566de722ea31": {
+"url": "https://arquidiocesisdebarranquilla.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"eac790d35510": {
+"url": "https://arquidiocesisdebarranquilla.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"6f3306ea3103": {
+"url": "https://arquidiocesisdebarranquilla.org/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"213e9d84ce81": {
+"url": "https://arquidiocesisdebarranquilla.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ec2b1479628c": {
+"url": "https://arquidiocesisdebarranquilla.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a63a4e2e4f23": {
+"url": "https://arquidiocesisdebarranquilla.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"4e869c5767c8": {
+"url": "https://arquidiocesisdebarranquilla.org.co/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"c1d3df2a2322": {
+"url": "https://arquidiocesisdebarranquilla.org.co/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"7b0847b28afb": {
+"url": "https://arquidiocesisdebarranquilla.org.co/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"dab7473e2ee4": {
+"url": "https://arquidiocesisdebarranquilla.org.co/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1935eb15964d": {
+"url": "https://arquidiocesisdebarranquilla.org.co/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"2338fb997e40": {
+"url": "https://arquidiocesisdebarranquilla.org.co/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"9ec12b51f6a9": {
+"url": "https://arquidiocesisdebarranquilla.org.co/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1c6642fe9406": {
+"url": "https://arquidiocesisdevillavicencio.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"6410f019efd3": {
+"url": "https://arquidiocesisdevillavicencio.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a057350cb217": {
+"url": "https://arquidiocesisdevillavicencio.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a0f2d0fbbda6": {
+"url": "https://arquidiocesisdevillavicencio.org/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"16d738ee1294": {
+"url": "https://arquidiocesisdevillavicencio.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f432e11003ac": {
+"url": "https://arquidiocesisdevillavicencio.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"7422f20a6ee5": {
+"url": "https://arquidiocesisdevillavicencio.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"dd9211ad326f": {
+"url": "https://arquivillavicencio.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"4a607065497e": {
+"url": "https://arquivillavicencio.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ca7f4648b8b3": {
+"url": "https://arquivillavicencio.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"7ab0e355b47c": {
+"url": "https://arquivillavicencio.org/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f7fb865aea5a": {
+"url": "https://arquivillavicencio.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a672a409052a": {
+"url": "https://arquivillavicencio.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"e05d8fe9d0c8": {
+"url": "https://arquivillavicencio.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"212783d469e9": {
+"url": "https://arquidiocesisvillavicencio.org/",
+"estado": 200,
+"bytes": 69627
+},
+"bf4bb8f51d51": {
+"url": "https://arquidiocesisvillavicencio.org/parroquias/",
+"estado": 404,
+"bytes": 0
+},
+"00f64e02be64": {
+"url": "https://arquidiocesisvillavicencio.org/directorio/",
+"estado": 404,
+"bytes": 0
+},
+"35c82016be7a": {
+"url": "https://arquidiocesisvillavicencio.org/directorio-parroquial/",
+"estado": 404,
+"bytes": 0
+},
+"c48ac6ab5614": {
+"url": "https://arquidiocesisvillavicencio.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 5971
+},
+"b6c376f40d58": {
+"url": "https://arquidiocesisvillavicencio.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 612
+},
+"509d97627270": {
+"url": "https://arquidiocesisvillavicencio.org/sitemap_index.xml",
+"estado": 404,
+"bytes": 0
+},
+"a6db67163b8f": {
+"url": "https://diocesisdemagangue.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a19ac119e889": {
+"url": "https://diocesisdemagangue.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"288116bad402": {
+"url": "https://diocesisdemagangue.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"9197265173a4": {
+"url": "https://diocesisdemagangue.org/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f27ee5fbbeda": {
+"url": "https://diocesisdemagangue.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8b5c6f50b351": {
+"url": "https://diocesisdemagangue.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"4458cbc6ed18": {
+"url": "https://diocesisdemagangue.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"88aed66eabc9": {
+"url": "https://diocesismagangue.org/",
+"estado": "robots"
+},
+"47afb84a4de3": {
+"url": "https://diocesismagangue.org/parroquias/",
+"estado": "robots"
+},
+"a5ea5391bba2": {
+"url": "https://diocesismagangue.org/directorio/",
+"estado": "robots"
+},
+"92332152ef71": {
+"url": "https://diocesismagangue.org/directorio-parroquial/",
+"estado": "robots"
+},
+"981ad78cf544": {
+"url": "https://diocesismagangue.org/wp-json/wp/v2/types",
+"estado": "robots"
+},
+"c203796d80b0": {
+"url": "https://diocesismagangue.org/wp-sitemap.xml",
+"estado": "robots"
+},
+"7055b31c1500": {
+"url": "https://diocesismagangue.org/sitemap_index.xml",
+"estado": "robots"
+},
+"acbeb11e34f9": {
+"url": "https://diocesisdemagangue.com/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8f95da6686dc": {
+"url": "https://diocesisdemagangue.com/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"2a0111f606ce": {
+"url": "https://diocesisdemagangue.com/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"4da707e7b4be": {
+"url": "https://diocesisdemagangue.com/directorio-parroquial/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"3bb677e16df8": {
+"url": "https://diocesisdemagangue.com/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8acad698973a": {
+"url": "https://diocesisdemagangue.com/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"03bf164c1240": {
+"url": "https://diocesisdemagangue.com/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+}
+}
