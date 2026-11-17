@@ -1,0 +1,536 @@
+{
+"d78de81aabe7": {
+"url": "https://diocesisdesantarosadeosos.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d8a2423da359": {
+"url": "https://diocesisdesantarosadeosos.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"7b7316a0e4ce": {
+"url": "https://diocesisdesantarosadeosos.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"b18a1beac753": {
+"url": "https://diocesisdesantarosadeosos.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8b62ea8cb6c5": {
+"url": "https://diocesisdesantarosadeosos.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"01d752b21946": {
+"url": "https://diocesisdesantarosadeosos.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"3b7740c19333": {
+"url": "https://diocesissantarosadeosos.org/",
+"estado": 200,
+"bytes": 210775
+},
+"a23f176387d3": {
+"url": "https://diocesissantarosadeosos.org/parroquias/",
+"estado": 404,
+"bytes": 0
+},
+"570c84fd2969": {
+"url": "https://diocesissantarosadeosos.org/directorio/",
+"estado": 200,
+"bytes": 103227
+},
+"74f9ca36221b": {
+"url": "https://diocesissantarosadeosos.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 16639
+},
+"c61fb8b2211c": {
+"url": "https://diocesissantarosadeosos.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 866
+},
+"8bbafa3671ef": {
+"url": "https://diocesissantarosadeosos.org/sitemap_index.xml",
+"estado": 200,
+"bytes": 866
+},
+"ab4e9c3acc28": {
+"url": "https://diocesisdevalledupar.org/",
+"estado": 200,
+"bytes": 484950
+},
+"74f72f186039": {
+"url": "https://diocesisdevalledupar.org/parroquias/",
+"estado": 200,
+"bytes": 350117
+},
+"ed4014078069": {
+"url": "https://diocesisdevalledupar.org/directorio/",
+"estado": 404,
+"bytes": 0
+},
+"027edef7a432": {
+"url": "https://diocesisdevalledupar.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 12623
+},
+"82c48769090a": {
+"url": "https://diocesisdevalledupar.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 977
+},
+"dbebc3747b61": {
+"url": "https://diocesisdevalledupar.org/sitemap_index.xml",
+"estado": 404,
+"bytes": 0
+},
+"319baae11ebf": {
+"url": "https://diocesisdeipiales.org/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"e0a1919f8658": {
+"url": "https://diocesisdeipiales.org/parroquias/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"63ab8d73cded": {
+"url": "https://diocesisdeipiales.org/directorio/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"2a80236639de": {
+"url": "https://diocesisdeipiales.org/wp-json/wp/v2/types",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"c544fb0bf9fd": {
+"url": "https://diocesisdeipiales.org/wp-sitemap.xml",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"9839b4b12fd2": {
+"url": "https://diocesisdeipiales.org/sitemap_index.xml",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"0a28125a98d6": {
+"url": "https://diocesisdesincelejo.org/",
+"estado": 200,
+"bytes": 85249
+},
+"eab59d64c042": {
+"url": "https://diocesisdesincelejo.org/parroquias/",
+"estado": 404,
+"bytes": 0
+},
+"9181488488b2": {
+"url": "https://diocesisdesincelejo.org/directorio/",
+"estado": 404,
+"bytes": 0
+},
+"97019d91d350": {
+"url": "https://diocesisdesincelejo.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 5817
+},
+"1bc8ef46fcc8": {
+"url": "https://diocesisdesincelejo.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 591
+},
+"778fdbb5713d": {
+"url": "https://diocesisdesincelejo.org/sitemap_index.xml",
+"estado": 404,
+"bytes": 0
+},
+"573411bc4b9e": {
+"url": "https://diocesisdeocana.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f173a13a94e3": {
+"url": "https://diocesisdeocana.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"e2235888c1da": {
+"url": "https://diocesisdeocana.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"e4cc6dc7a6e5": {
+"url": "https://diocesisdeocana.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"60fd1c040c7e": {
+"url": "https://diocesisdeocana.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"35881c6022ef": {
+"url": "https://diocesisdeocana.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8ef0708b3a72": {
+"url": "https://diocesisdepasto.org/",
+"estado": "robots"
+},
+"cf219f771ec9": {
+"url": "https://diocesisdepasto.org/parroquias/",
+"estado": "robots"
+},
+"31345f616ad4": {
+"url": "https://diocesisdepasto.org/directorio/",
+"estado": "robots"
+},
+"7eba6cf90148": {
+"url": "https://diocesisdepasto.org/wp-json/wp/v2/types",
+"estado": "robots"
+},
+"5f33548af669": {
+"url": "https://diocesisdepasto.org/wp-sitemap.xml",
+"estado": "robots"
+},
+"834fa8488b37": {
+"url": "https://diocesisdepasto.org/sitemap_index.xml",
+"estado": "robots"
+},
+"cd33a70b3968": {
+"url": "https://arquidiocesisdebucaramanga.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"9568a1e4f7e0": {
+"url": "https://arquidiocesisdebucaramanga.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"39eed5b33507": {
+"url": "https://arquidiocesisdebucaramanga.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"de9e430a74d7": {
+"url": "https://arquidiocesisdebucaramanga.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"adc85baca151": {
+"url": "https://arquidiocesisdebucaramanga.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1214214c20b6": {
+"url": "https://arquidiocesisdebucaramanga.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f22e3c664723": {
+"url": "https://arquibucaramanga.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ecd0719064db": {
+"url": "https://arquibucaramanga.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ebb2c7d17e66": {
+"url": "https://arquibucaramanga.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"aea25db00e06": {
+"url": "https://arquibucaramanga.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"28443b8dc335": {
+"url": "https://arquibucaramanga.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"53c696501f50": {
+"url": "https://arquibucaramanga.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1a884f452a8b": {
+"url": "https://arquidiocesisdenuevapamplona.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"926378f8aa2d": {
+"url": "https://arquidiocesisdenuevapamplona.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d7532e47697e": {
+"url": "https://arquidiocesisdenuevapamplona.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"31175d3a8f29": {
+"url": "https://arquidiocesisdenuevapamplona.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"51e66d9ea752": {
+"url": "https://arquidiocesisdenuevapamplona.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"4b4cfdce2ab2": {
+"url": "https://arquidiocesisdenuevapamplona.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"8fca54589ecc": {
+"url": "https://arquipamplona.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d4038687fb8c": {
+"url": "https://arquipamplona.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"f7ab8e052acd": {
+"url": "https://arquipamplona.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"eaac289afeaa": {
+"url": "https://arquipamplona.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d80a78c1de8e": {
+"url": "https://arquipamplona.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"64597ca36a2a": {
+"url": "https://arquipamplona.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"56c5aec7ea82": {
+"url": "https://diocesisdecucuta.org/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"0f4e32acc22c": {
+"url": "https://diocesisdecucuta.org/parroquias/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"acf5976fc83b": {
+"url": "https://diocesisdecucuta.org/directorio/",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"96088709aa5f": {
+"url": "https://diocesisdecucuta.org/wp-json/wp/v2/types",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"9c9a4f6ceeb1": {
+"url": "https://diocesisdecucuta.org/wp-sitemap.xml",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"3cbadde34493": {
+"url": "https://diocesisdecucuta.org/sitemap_index.xml",
+"estado": "<urlopen error timed out>",
+"bytes": 0
+},
+"1f6e16318612": {
+"url": "https://diocesisduitamasogamoso.org/",
+"estado": 200,
+"bytes": 415556
+},
+"73329dd69214": {
+"url": "https://diocesisduitamasogamoso.org/parroquias/",
+"estado": 200,
+"bytes": 233201
+},
+"b54af918fb1a": {
+"url": "https://diocesisduitamasogamoso.org/directorio/",
+"estado": 404,
+"bytes": 0
+},
+"af3f613b2b0b": {
+"url": "https://diocesisduitamasogamoso.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 20015
+},
+"0ce7373c8ea3": {
+"url": "https://diocesisduitamasogamoso.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 980
+},
+"1082127ab437": {
+"url": "https://diocesisduitamasogamoso.org/sitemap_index.xml",
+"estado": 200,
+"bytes": 980
+},
+"73d3d53fa9df": {
+"url": "https://arquidiocesisdemanizales.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"34697fa66e8a": {
+"url": "https://arquidiocesisdemanizales.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d51c0e9e289c": {
+"url": "https://arquidiocesisdemanizales.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"aaba4a091139": {
+"url": "https://arquidiocesisdemanizales.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"cb8356f50c12": {
+"url": "https://arquidiocesisdemanizales.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ff617de09722": {
+"url": "https://arquidiocesisdemanizales.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1c4c40c13970": {
+"url": "https://arquimanizales.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"a6bb14b7c6f4": {
+"url": "https://arquimanizales.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"83b0d0630874": {
+"url": "https://arquimanizales.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"c63a5f85fa0e": {
+"url": "https://arquimanizales.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"d6d6eab50e9b": {
+"url": "https://arquimanizales.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"055dfd3777ca": {
+"url": "https://arquimanizales.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"ed4496d0d875": {
+"url": "https://diocesisdegarzon.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"593da95973d0": {
+"url": "https://diocesisdegarzon.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"0210df922207": {
+"url": "https://diocesisdegarzon.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"e0f6672c95a1": {
+"url": "https://diocesisdegarzon.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"c0a1776c4faf": {
+"url": "https://diocesisdegarzon.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"b3f9218e1613": {
+"url": "https://diocesisdegarzon.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"1a6e4b217b23": {
+"url": "https://diocesisdeapartado.org/",
+"estado": 200,
+"bytes": 155973
+},
+"18d3136d6af4": {
+"url": "https://diocesisdeapartado.org/parroquias/",
+"estado": 404,
+"bytes": 0
+},
+"6a34b5b20bae": {
+"url": "https://diocesisdeapartado.org/directorio/",
+"estado": 404,
+"bytes": 0
+},
+"ecf428701df5": {
+"url": "https://diocesisdeapartado.org/wp-json/wp/v2/types",
+"estado": 200,
+"bytes": 28674
+},
+"8cea5d297847": {
+"url": "https://diocesisdeapartado.org/wp-sitemap.xml",
+"estado": 200,
+"bytes": 1093
+},
+"d4a55860d98c": {
+"url": "https://diocesisdeapartado.org/sitemap_index.xml",
+"estado": 200,
+"bytes": 1093
+},
+"ce78b0ceee7e": {
+"url": "https://diocesisdepereira.org/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"558170f82ad3": {
+"url": "https://diocesisdepereira.org/parroquias/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"5c2c185dbaff": {
+"url": "https://diocesisdepereira.org/directorio/",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"27777c43a8d1": {
+"url": "https://diocesisdepereira.org/wp-json/wp/v2/types",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"6f3f6bb6c925": {
+"url": "https://diocesisdepereira.org/wp-sitemap.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+},
+"6e850de92337": {
+"url": "https://diocesisdepereira.org/sitemap_index.xml",
+"estado": "<urlopen error [Errno -2] Name or service not known>",
+"bytes": 0
+}
+}
