@@ -56,9 +56,14 @@ if disponible < 1.0:
 presupuesto = min(tope, disponible - 0.3)
 lista = json.load(open(lista_path))
 
+# Modo relectura: si cada entrada ya trae "fb", no se busca en Google
+SOLO_LEER = all(x.get("fb") for x in lista)
 # 1) Buscar la página de Facebook de cada parroquia en Google
 consultas = [x["consulta"] for x in lista]
-st, costo1, res = correr("apify~google-search-scraper", {
+if SOLO_LEER:
+    st, costo1, res = "OMITIDA", 0, []
+else:
+  st, costo1, res = correr("apify~google-search-scraper", {
     "queries": "\n".join(consultas), "resultsPerPage": 10, "maxPagesPerQuery": 1,
     "countryCode": "co", "languageCode": "es", "mobileResults": False, "saveHtml": False,
 }, presupuesto * 0.35)
@@ -97,6 +102,9 @@ for x in lista:
         if (tn & tt) and (tm & tt or not tm):
             hallados[x["id"] + "|" + x["jur"]] = {"fb": u, "titulo": o.get("title", ""), "fragmento": o.get("description", "")}
             break
+if SOLO_LEER:
+    for x in lista:
+        hallados[x["id"] + "|" + x["jur"]] = {"fb": x["fb"], "titulo": x.get("titulo", ""), "fragmento": ""}
 estado.update(paginas_halladas=len(hallados)); guardar_estado()
 
 # 2) Leer la información pública de esas páginas
